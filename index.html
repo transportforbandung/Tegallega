@@ -98,7 +98,7 @@
                 id: stop.properties.id,
                 type: 'stop',
                 coord: stop.geometry.coordinates,
-                routes: stop.properties.routes
+                routes: stop.properties.route_ref
             }));
 
             // Build graph edges
@@ -108,7 +108,7 @@
                 
                 // Find stops served by this route
                 const routeStops = transportData.stops.features.filter(stop => 
-                    stop.properties.routes.includes(route.properties.id)
+                    stop.properties.route_ref.includes(route.properties.id)
                 );
 
                 // Snap stops to route and sort them
