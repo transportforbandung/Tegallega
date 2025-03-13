@@ -4,7 +4,7 @@ const { mkdirp } = require('mkdirp');
 const axios = require('axios');
 
 // Load route-index.geojson
-const routeIndexPath = path.join(__dirname, 'data', 'route-index.geojson');
+const routeIndexPath = path.join(__dirname, '..', 'data', 'route-index.geojson');
 const routeData = JSON.parse(fs.readFileSync(routeIndexPath, 'utf-8'));
 
 // Collect all unique routes by relation_id
@@ -76,7 +76,7 @@ function processNodes(elements) {
 
 // Main processing function
 async function processRoute(route) {
-  const dir = path.join(__dirname, 'data', route.relationId);
+  const dir = path.join(__dirname, '..', 'data', route.relationId);
   await mkdirp(dir);
 
   try {
