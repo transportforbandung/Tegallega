@@ -5,7 +5,26 @@ const axios = require('axios');
 
 // Load route-index.geojson
 const routeIndexPath = path.join(__dirname, '..', 'data', 'route-index.geojson');
-const routeData = JSON.parse(fs.readFileSync(routeIndexPath, 'utf-8'));
+
+// Validate if the file exists and is readable
+if (!fs.existsSync(routeIndexPath)) {
+  console.error(`Error: File not found at ${routeIndexPath}`);
+  process.exit(1);
+}
+
+let routeData;
+try {
+  routeData = JSON.parse(fs.readFileSync(routeIndexPath, 'utf-8'));
+} catch (error) {
+  console.error(`Error: Failed to parse route-index.geojson.`, error.message);
+  process.exit(1);
+}
+
+// Validate if the routes array exists
+if (!routeData.routes || !Array.isArray(routeData.routes)) {
+  console.error(`Error: Invalid route-index.geojson format. Expected a "routes" array.`);
+  process.exit(1);
+}
 
 // Collect all unique routes by relation_id
 const routes = routeData.routes.map(route => ({
@@ -22,6 +41,7 @@ async function overpassQuery(query, retries = 3, delay = 2000) {
   const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
   for (let i = 0; i < retries; i++) {
     try {
+      console.log(`Executing Overpass query (attempt ${i + 1}/${retries}): ${query}`);
       await new Promise(resolve => setTimeout(resolve, delay));
       const response = await axios.get(url, { timeout: 10000 });
       return response.data.elements;
