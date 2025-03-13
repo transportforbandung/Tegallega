@@ -1,0 +1,1402 @@
+{
+  "routes": [
+    {
+      "relation_id": "17077466",
+      "display_type": "ways_with_points",
+      "route_color": "#2D398B",
+      "route_name": "Commuter Line Bandung Raya: Padalarang → Cicalengka"
+    },
+    {
+      "relation_id": "17077467",
+      "display_type": "ways_with_points",
+      "route_color": "#2D398B",
+      "route_name": "Commuter Line Bandung Raya: Cicalengka → Padalarang"
+    },
+    {
+      "relation_id": "4626672",
+      "display_type": "ways_with_points",
+      "route_color": "#2D398B",
+      "route_name": "Commuter Line Bandung Raya: Cicalengka → Purwakarta"
+    },
+    {
+      "relation_id": "15534571",
+      "display_type": "ways_with_points",
+      "route_color": "#1C75BC",
+      "route_name": "Commuter Line Garut: Purwakarta → Garut"
+    },
+    {
+      "relation_id": "17545520",
+      "display_type": "ways_with_points",
+      "route_color": "#1C75BC",
+      "route_name": "Commuter Line Garut: Garut → Purwakarta"
+    },
+    {
+      "relation_id": "14365267",
+      "display_type": "ways_with_points",
+      "route_color": "#00A64F",
+      "route_name": "Koridor 1: Leuwipanjang → Soreang"
+    },
+    {
+      "relation_id": "18765871",
+      "display_type": "ways_with_points",
+      "route_color": "#00A64F",
+      "route_name": "Koridor 1: Soreang → Leuwipanjang"
+    },
+    {
+      "relation_id": "18766205",
+      "display_type": "ways_with_points",
+      "route_color": "#ED1C24",
+      "route_name": "Koridor 2: Kota Baru Parahyangan → Alun-alun Bandung"
+    },
+    {
+      "relation_id": "18766206",
+      "display_type": "ways_with_points",
+      "route_color": "#ED1C24",
+      "route_name": "Koridor 2: Alun-Alun Bandung → Kota Baru Parahyangan"
+    },
+    {
+      "relation_id": "18766208",
+      "display_type": "ways_with_points",
+      "route_color": "#562B63",
+      "route_name": "Koridor 3: Baleendah → BEC"
+    },
+    {
+      "relation_id": "18766207",
+      "display_type": "ways_with_points",
+      "route_color": "#562B63",
+      "route_name": "Koridor 3: BEC → Baleendah"
+    },
+    {
+      "relation_id": "14298213",
+      "display_type": "ways_with_points",
+      "route_color": "#2E3192",
+      "route_name": "Koridor 4: Leuwipanjang → Dago"
+    },
+    {
+      "relation_id": "18770906",
+      "display_type": "ways_with_points",
+      "route_color": "#2E3192",
+      "route_name": "Koridor 4: Dago → Leuwipanjang"
+    },
+    {
+      "relation_id": "15660998",
+      "display_type": "ways_with_points",
+      "route_color": "#EC008C",
+      "route_name": "Koridor 5: Dipatiukur → Jatinangor"
+    },
+    {
+      "relation_id": "14364569",
+      "display_type": "ways_with_points",
+      "route_color": "#EC008C",
+      "route_name": "Koridor 5: Jatinangor → Dipatiukur"
+    },
+    {
+      "relation_id": "18771078",
+      "display_type": "ways_with_points",
+      "route_color": "#F04B23",
+      "route_name": "Koridor 6: Leuwipanjang → Majalaya"
+    },
+    {
+      "relation_id": "18771079",
+      "display_type": "ways_with_points",
+      "route_color": "#F04B23",
+      "route_name": "Koridor 6: Majalaya → Leuwipanjang"
+    },
+    {
+      "relation_id": "18768805",
+      "display_type": "ways",
+      "route_color": "#EF2A33",
+      "route_name": "Koridor 1: Cibiru → Cibeureum"
+    },
+    {
+      "relation_id": "18768804",
+      "display_type": "ways",
+      "route_color": "#EF2A33",
+      "route_name": "Koridor 1: Cibeureum → Cibiru"
+    },
+    {
+      "relation_id": "15520324",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "Koridor 2: Cicaheum → Cibeureum"
+    },
+    {
+      "relation_id": "17329177",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "Koridor 2: Cibeureum → Cicaheum"
+    },
+    {
+      "relation_id": "17564612",
+      "display_type": "ways_with_points",
+      "route_color": "#734D29",
+      "route_name": "Koridor 3: Cicaheum → Sarijadi"
+    },
+    {
+      "relation_id": "17564831",
+      "display_type": "ways_with_points",
+      "route_color": "#734D29",
+      "route_name": "Koridor 3: Sarijadi → Cicaheum"
+    },
+    {
+      "relation_id": "17770945",
+      "display_type": "ways",
+      "route_color": "#F7941D",
+      "route_name": "Koridor 4: Leuwipanjang → Flyover Antapani"
+    },
+    {
+      "relation_id": "15555901",
+      "display_type": "ways",
+      "route_color": "#F7941D",
+      "route_name": "Koridor 4: Flyover Antapani → Leuwipanjang"
+    },
+    {
+      "relation_id": "17350725",
+      "display_type": "ways",
+      "route_color": "#00A14B",
+      "route_name": "Koridor 5: Stasiun Hall → Antapani"
+    },
+    {
+      "relation_id": "15555900",
+      "display_type": "ways",
+      "route_color": "#00A14B",
+      "route_name": "Koridor 5: Antapani → Stasiun Hall"
+    },
+    {
+      "relation_id": "17772446",
+      "display_type": "ways",
+      "route_color": "#662D91",
+      "route_name": "Feeder 1: Stasiun Hall → Gunung Batu"
+    },
+    {
+      "relation_id": "17772447",
+      "display_type": "ways",
+      "route_color": "#662D91",
+      "route_name": "Feeder 1: Gunung Batu → Stasiun Hall"
+    },
+    {
+      "relation_id": "17771075",
+      "display_type": "ways",
+      "route_color": "#3499CC",
+      "route_name": "Feeder 2: Cibeureum → Mall Summarecon Bandung"
+    },
+    {
+      "relation_id": "17772429",
+      "display_type": "ways",
+      "route_color": "#3499CC",
+      "route_name": "Feeder 2: Mall Summarecon Bandung → Cibeureum"
+    },
+    {
+      "relation_id": "17771220",
+      "display_type": "ways",
+      "route_color": "#85191B",
+      "route_name": "Jalur 2: Leuwipanjang → Ledeng"
+    },
+    {
+      "relation_id": "17771221",
+      "display_type": "ways",
+      "route_color": "#85191B",
+      "route_name": "Jalur 2: Ledeng → Leuwipanjang"
+    },
+    {
+      "relation_id": "17771076",
+      "display_type": "ways",
+      "route_color": "#F288B7",
+      "route_name": "Jalur 6A: Elang → Jatinangor via Tol Padaleunyi"
+    },
+    {
+      "relation_id": "17772430",
+      "display_type": "ways",
+      "route_color": "#F288B7",
+      "route_name": "Jalur 6A: Jatinangor → Elang via Tol Padaleunyi"
+    },
+    {
+      "relation_id": "17565369",
+      "display_type": "ways",
+      "route_color": "#CC3366",
+      "route_name": "Jalur 8: Tanjungsari → Kebon Kalapa"
+    },
+    {
+      "relation_id": "17771073",
+      "display_type": "ways",
+      "route_color": "#CC3366",
+      "route_name": "Jalur 8: Kebon Kalapa → Tanjungsari"
+    },
+    {
+      "relation_id": "17771219",
+      "display_type": "ways",
+      "route_color": "#754C29",
+      "route_name": "Jalur 11: Leuwipanjang → Cibiru"
+    },
+    {
+      "relation_id": "17771223",
+      "display_type": "ways",
+      "route_color": "#754C29",
+      "route_name": "Jalur 11: Cibiru → Leuwipanjang"
+    },
+    {
+      "relation_id": "18771222",
+      "display_type": "ways",
+      "route_color": "#D7DF23",
+      "route_name": "Jalur KBP: Alun-alun Bandung → Kota Baru Parahyangan via Tol Pasteur"
+    },
+    {
+      "relation_id": "18771223",
+      "display_type": "ways",
+      "route_color": "#D7DF23",
+      "route_name": "Jalur KBP: Kota Baru Parahyangan → Alun-alun Bandung via Tol Pasteur"
+    },
+    {
+      "relation_id": "3415464",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "01A: Abdul Muis → Cicaheum via Binong"
+    },
+    {
+      "relation_id": "4635390",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "01A: Cicaheum → Abdul Muis via Binong"
+    },
+    {
+      "relation_id": "4636155",
+      "display_type": "ways",
+      "route_color": "#BE1E2D",
+      "route_name": "01B: Abdul Muis → Cicaheum via Aceh"
+    },
+    {
+      "relation_id": "4635842",
+      "display_type": "ways",
+      "route_color": "#BE1E2D",
+      "route_name": "01B: Cicaheum → Abdul Muis via Aceh"
+    },
+    {
+      "relation_id": "4643111",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "02: Abdul Muis → Dago"
+    },
+    {
+      "relation_id": "4643109",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "02: Dago → Abdul Muis"
+    },
+    {
+      "relation_id": "4308300",
+      "display_type": "ways",
+      "route_color": "#AAB4DC",
+      "route_name": "03: Abdul Muis → Ledeng"
+    },
+    {
+      "relation_id": "4636013",
+      "display_type": "ways",
+      "route_color": "#AAB4DC",
+      "route_name": "03: Ledeng → Abdul Muis"
+    },
+    {
+      "relation_id": "4294191",
+      "display_type": "ways",
+      "route_color": "#F06824",
+      "route_name": "04: Abdul Muis → Elang"
+    },
+    {
+      "relation_id": "4647871",
+      "display_type": "ways",
+      "route_color": "#F06824",
+      "route_name": "04: Elang → Abdul Muis"
+    },
+    {
+      "relation_id": "4291047",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "05: Cicaheum → Ledeng"
+    },
+    {
+      "relation_id": "4637081",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "05: Ledeng → Cicaheum"
+    },
+    {
+      "relation_id": "4291189",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "06: Cicaheum → Ciroyom"
+    },
+    {
+      "relation_id": "4637686",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "06: Ciroyom → Cicaheum"
+    },
+    {
+      "relation_id": "4308485",
+      "display_type": "ways",
+      "route_color": "#5E362F",
+      "route_name": "07: Pusdai → Derwati (Cicaheum → Derwati)"
+    },
+    {
+      "relation_id": "4648328",
+      "display_type": "ways",
+      "route_color": "#5E362F",
+      "route_name": "07: Derwati → Pusdai (Derwati → Cicaheum)"
+    },
+    {
+      "relation_id": "4308486",
+      "display_type": "ways",
+      "route_color": "#7CC245",
+      "route_name": "08: Kiara Artha → Leuwipanjang (Cicaheum → Cibaduyut)"
+    },
+    {
+      "relation_id": "4649692",
+      "display_type": "ways",
+      "route_color": "#7CC245",
+      "route_name": "08: Leuwipanjang → Kiara Artha (Cibaduyut → Cicaheum)"
+    },
+    {
+      "relation_id": "4292372",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "09: Stasiun Hall → Dago"
+    },
+    {
+      "relation_id": "4642250",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "09: Dago → Stasiun Hall"
+    },
+    {
+      "relation_id": "4425938",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "10: Stasiun Hall → Sadang Serang"
+    },
+    {
+      "relation_id": "4642211",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "10: Sadang Serang → Stasiun Hall"
+    },
+    {
+      "relation_id": "4430737",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "11A: Ciumbuleuit → Sederhana"
+    },
+    {
+      "relation_id": "4802256",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "11A: Sederhana → Ciumbuleuit"
+    },
+    {
+      "relation_id": "4802257",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "11B: Ciumbuleuit → Stasiun Hall"
+    },
+    {
+      "relation_id": "4802258",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "11B: Stasiun Hall → Ciumbuleuit"
+    },
+    {
+      "relation_id": "16634809",
+      "display_type": "ways",
+      "route_color": "#7CC245",
+      "route_name": "12: Stasiun Hall → Gedebage"
+    },
+    {
+      "relation_id": "4433069",
+      "display_type": "ways",
+      "route_color": "#7CC245",
+      "route_name": "12: Gedebage → Stasiun Hall"
+    },
+    {
+      "relation_id": "4420962",
+      "display_type": "ways",
+      "route_color": "#27AAE1",
+      "route_name": "13: Stasiun Hall → Sarijadi"
+    },
+    {
+      "relation_id": "4650417",
+      "display_type": "ways",
+      "route_color": "#27AAE1",
+      "route_name": "13: Sarijadi → Stasiun Hall"
+    },
+    {
+      "relation_id": "4420961",
+      "display_type": "ways",
+      "route_color": "#27AAE1",
+      "route_name": "14: Stasiun Hall → Gunung Batu"
+    },
+    {
+      "relation_id": "4649813",
+      "display_type": "ways",
+      "route_color": "#27AAE1",
+      "route_name": "14: Gunung Batu → Stasiun Hall"
+    },
+    {
+      "relation_id": "4432470",
+      "display_type": "ways",
+      "route_color": "#1C75BC",
+      "route_name": "15: Margahayu Raya → Ledeng"
+    },
+    {
+      "relation_id": "4642502",
+      "display_type": "ways",
+      "route_color": "#1C75BC",
+      "route_name": "15: Ledeng → Margahayu Raya"
+    },
+    {
+      "relation_id": "4634057",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "16: Riung Bandung → Dago"
+    },
+    {
+      "relation_id": "4284600",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "16: Dago → Riung Bandung"
+    },
+    {
+      "relation_id": "4648025",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "17: Pasar Induk Caringin → Dago"
+    },
+    {
+      "relation_id": "4423238",
+      "display_type": "ways",
+      "route_color": "#F15A29",
+      "route_name": "17: Dago → Pasar Induk Caringin"
+    },
+    {
+      "relation_id": "4422442",
+      "display_type": "ways",
+      "route_color": "#F7941D",
+      "route_name": "18: Panghegar Permai → Dipatiukur"
+    },
+    {
+      "relation_id": "16644061",
+      "display_type": "ways",
+      "route_color": "#F7941D",
+      "route_name": "18: Dipatiukur → Panghegar Permai"
+    },
+    {
+      "relation_id": "16644123",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "19: Ciroyom → Sarijadi"
+    },
+    {
+      "relation_id": "16644124",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "19: Sarijadi → Ciroyom"
+    },
+    {
+      "relation_id": "4650909",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "20: Ciroyom → Bumi Asri"
+    },
+    {
+      "relation_id": "4650925",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "20: Bumi Asri → Ciroyom"
+    },
+    {
+      "relation_id": "16644187",
+      "display_type": "ways",
+      "route_color": "#F7941D",
+      "route_name": "21: Ciroyom → Cikudapateuh"
+    },
+    {
+      "relation_id": "16644335",
+      "display_type": "ways",
+      "route_color": "#F7941D",
+      "route_name": "21: Cikudapateuh → Ciroyom"
+    },
+    {
+      "relation_id": "4652571",
+      "display_type": "ways",
+      "route_color": "#2B3990",
+      "route_name": "22: Kalapa → Buah Batu"
+    },
+    {
+      "relation_id": "4652619",
+      "display_type": "ways",
+      "route_color": "#2B3990",
+      "route_name": "22: Buah Batu → Kalapa"
+    },
+    {
+      "relation_id": "4652511",
+      "display_type": "ways",
+      "route_color": "#2B3990",
+      "route_name": "22: Kalapa → Sukajadi"
+    },
+    {
+      "relation_id": "4652460",
+      "display_type": "ways",
+      "route_color": "#2B3990",
+      "route_name": "22: Sukajadi → Kalapa"
+    },
+    {
+      "relation_id": "4425899",
+      "display_type": "ways",
+      "route_color": "#186635",
+      "route_name": "23: Sederhana → Cijerah"
+    },
+    {
+      "relation_id": "4645553",
+      "display_type": "ways",
+      "route_color": "#186635",
+      "route_name": "23: Cijerah → Sederhana"
+    },
+    {
+      "relation_id": "4321908",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "24: Sederhana → Cimindi"
+    },
+    {
+      "relation_id": "4649915",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "24: Cimindi → Sederhana"
+    },
+    {
+      "relation_id": "16645492",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "25: Ciwastra → Ujungberung"
+    },
+    {
+      "relation_id": "16645493",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "25: Ujungberung → Ciwastra"
+    },
+    {
+      "relation_id": "4294474",
+      "display_type": "ways",
+      "route_color": "#662365",
+      "route_name": "26: Cisitu → Tegallega"
+    },
+    {
+      "relation_id": "16646484",
+      "display_type": "ways",
+      "route_color": "#662365",
+      "route_name": "26: Tegallega → Cisitu"
+    },
+    {
+      "relation_id": "4425956",
+      "display_type": "ways",
+      "route_color": "#939598",
+      "route_name": "27: Cijerah → Ciwastra → Derwati"
+    },
+    {
+      "relation_id": "16646697",
+      "display_type": "ways",
+      "route_color": "#939598",
+      "route_name": "27: Derwati → Ciwastra → Cijerah"
+    },
+    {
+      "relation_id": "5517528",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "28: Elang → Gedebage → Ujungberung"
+    },
+    {
+      "relation_id": "16648201",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "28: Ujungberung → Gedebage → Elang"
+    },
+    {
+      "relation_id": "18771773",
+      "display_type": "ways",
+      "route_color": "#EF4136",
+      "route_name": "29: Mengger → Soekarno Hatta (Mengger → Kalapa)"
+    },
+    {
+      "relation_id": "18771772",
+      "display_type": "ways",
+      "route_color": "#EF4136",
+      "route_name": "29: Soekarno Hatta → Mengger (Kalapa → Mengger)"
+    },
+    {
+      "relation_id": "16650514",
+      "display_type": "ways",
+      "route_color": "#BE1E2D",
+      "route_name": "30: Cicadas → Kalapa"
+    },
+    {
+      "relation_id": "16650513",
+      "display_type": "ways",
+      "route_color": "#BE1E2D",
+      "route_name": "30: Kalapa → Cicadas"
+    },
+    {
+      "relation_id": "16648408",
+      "display_type": "ways",
+      "route_color": "#BE1E2D",
+      "route_name": "30: Elang → Kalapa"
+    },
+    {
+      "relation_id": "16650512",
+      "display_type": "ways",
+      "route_color": "#BE1E2D",
+      "route_name": "30: Kalapa → Elang"
+    },
+    {
+      "relation_id": "4639769",
+      "display_type": "ways",
+      "route_color": "#C2B59B",
+      "route_name": "31: Antapani → Ciroyom"
+    },
+    {
+      "relation_id": "4639770",
+      "display_type": "ways",
+      "route_color": "#C2B59B",
+      "route_name": "31: Ciroyom → Antapani"
+    },
+    {
+      "relation_id": "16650576",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "32: Cicadas → Cibiru → Panyileukan"
+    },
+    {
+      "relation_id": "16650577",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "32: Panyileukan → Cicadas"
+    },
+    {
+      "relation_id": "4422550",
+      "display_type": "ways",
+      "route_color": "#EE2A7B",
+      "route_name": "33: Gedebage → Simpang Dago (Bumi Penyileukan → Sekemirung)"
+    },
+    {
+      "relation_id": "4642924",
+      "display_type": "ways",
+      "route_color": "#EE2A7B",
+      "route_name": "33: Simpang Dago → Gedebage (Sekemirung → Bumi Penyileukan)"
+    },
+    {
+      "relation_id": "4646137",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "34: Caringin → Sadang Serang"
+    },
+    {
+      "relation_id": "4294473",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "34: Sadang Serang → Caringin"
+    },
+    {
+      "relation_id": "16677494",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "35: Cibaduyut → Kalapa"
+    },
+    {
+      "relation_id": "5517546",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "35: Kalapa → Cibaduyut"
+    },
+    {
+      "relation_id": "16677558",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "35: Kalapa → Karangsetra"
+    },
+    {
+      "relation_id": "16677557",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "35: Karangsetra → Kalapa"
+    },
+    {
+      "relation_id": "18797951",
+      "display_type": "ways",
+      "route_color": "#EE2A7B",
+      "route_name": "Citeureup → Cimindi via Pemkot"
+    },
+    {
+      "relation_id": "18797950",
+      "display_type": "ways",
+      "route_color": "#EE2A7B",
+      "route_name": "Cimindi → Citeureup via Pemkot"
+    },
+    {
+      "relation_id": "4820221",
+      "display_type": "ways",
+      "route_color": "#800080",
+      "route_name": "Cimahi → Cimindi via Leuwigajah"
+    },
+    {
+      "relation_id": "4820225",
+      "display_type": "ways",
+      "route_color": "#800080",
+      "route_name": "Cimindi → Cimahi via Leuwigajah"
+    },
+    {
+      "relation_id": "5737856",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cimahi → Cibeber via Baros"
+    },
+    {
+      "relation_id": "5737854",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cibeber → Cimahi via Baros"
+    },
+    {
+      "relation_id": "4820363",
+      "display_type": "ways",
+      "route_color": "#ff2700",
+      "route_name": "Cimahi → Cibeber via Contong"
+    },
+    {
+      "relation_id": "4820367",
+      "display_type": "ways",
+      "route_color": "#ff2700",
+      "route_name": "Cibeber → Cimahi via Contong"
+    },
+    {
+      "relation_id": "4807479",
+      "display_type": "ways",
+      "route_color": "#00c0ff",
+      "route_name": "Soreang → Banjaran"
+    },
+    {
+      "relation_id": "4807478",
+      "display_type": "ways",
+      "route_color": "#00c0ff",
+      "route_name": "Banjaran → Soreang"
+    },
+    {
+      "relation_id": "5738880",
+      "display_type": "ways",
+      "route_color": "#67EC23",
+      "route_name": "Cibaduyut → Baleendah"
+    },
+    {
+      "relation_id": "5738875",
+      "display_type": "ways",
+      "route_color": "#67EC23",
+      "route_name": "Baleendah → Cibaduyut"
+    },
+    {
+      "relation_id": "5736615",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "Cibaduyut → Pameungpeuk (Asem)"
+    },
+    {
+      "relation_id": "5736614",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "Pameungpeuk (Asem) → Cibaduyut"
+    },
+    {
+      "relation_id": "5738888",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "Rancamanyar → Baleendah"
+    },
+    {
+      "relation_id": "5738877",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "Baleendah → Rancamanyar"
+    },
+    {
+      "relation_id": "5736616",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Palasari → Sayati"
+    },
+    {
+      "relation_id": "5736617",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Sayati → Palasari"
+    },
+    {
+      "relation_id": "18799372",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Banjaran → Cimaung (Pangalengan)"
+    },
+    {
+      "relation_id": "18799373",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Cimaung (Pangalengan) → Banjaran"
+    },
+    {
+      "relation_id": "18793595",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Banjaran → Arjasari"
+    },
+    {
+      "relation_id": "18793596",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Arjasari → Banjaran"
+    },
+    {
+      "relation_id": "18793591",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Banjaran → Baros"
+    },
+    {
+      "relation_id": "18793592",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Baros → Banjaran"
+    },
+    {
+      "relation_id": "4808695",
+      "display_type": "ways",
+      "route_color": "#0000FF",
+      "route_name": "Cileunyi → Majalaya"
+    },
+    {
+      "relation_id": "4808696",
+      "display_type": "ways",
+      "route_color": "#0000FF",
+      "route_name": "Majalaya → Cileunyi"
+    },
+    {
+      "relation_id": "5736510",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Ciparay → Majalaya"
+    },
+    {
+      "relation_id": "5736512",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Majalaya → Ciparay"
+    },
+    {
+      "relation_id": "18793758",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Ciparay → Pacet → Cibeureum"
+    },
+    {
+      "relation_id": "18793759",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Cibeureum → Pacet → Ciparay"
+    },
+    {
+      "relation_id": "18793793",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Majalaya → Lembur Awi"
+    },
+    {
+      "relation_id": "18793794",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Lembur Awi → Majalaya"
+    },
+    {
+      "relation_id": "18793796",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Majalaya → Ibun"
+    },
+    {
+      "relation_id": "18793797",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Ibun → Majalaya"
+    },
+    {
+      "relation_id": "5736508",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Cicalengka → Majalaya"
+    },
+    {
+      "relation_id": "5736511",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Majalaya → Cicalengka"
+    },
+    {
+      "relation_id": "18793587",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cileunyi → Cicalengka → Nagreg"
+    },
+    {
+      "relation_id": "4626701",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Nagreg → Cicalengka → Cileunyi"
+    },
+    {
+      "relation_id": "18793035",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Padalarang → Cikalong Wetan → Cipeundeuy"
+    },
+    {
+      "relation_id": "18793036",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Cipeundeuy → Cikalong Wetan → Padalarang"
+    },
+    {
+      "relation_id": "5738488",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Padalarang → Rajamandala"
+    },
+    {
+      "relation_id": "5738489",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Rajamandala → Padalarang"
+    },
+    {
+      "relation_id": "5742517",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Padalarang → Gunung Bentang"
+    },
+    {
+      "relation_id": "5742516",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Gunung Bentang → Padalarang"
+    },
+    {
+      "relation_id": "18792719",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Padalarang → Parongpong"
+    },
+    {
+      "relation_id": "4421032",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Parongpong → Padalarang"
+    },
+    {
+      "relation_id": "18400714",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Cisarua → Lembang"
+    },
+    {
+      "relation_id": "4421033",
+      "display_type": "ways",
+      "route_color": "#F7ED38",
+      "route_name": "Lembang → Cisarua"
+    },
+    {
+      "relation_id": "4308299",
+      "display_type": "ways",
+      "route_color": "#863535",
+      "route_name": "Stasiun Hall → Lembang"
+    },
+    {
+      "relation_id": "17556157",
+      "display_type": "ways",
+      "route_color": "#863535",
+      "route_name": "Lembang → Stasiun Hall"
+    },
+    {
+      "relation_id": "17553836",
+      "display_type": "ways",
+      "route_color": "#0e664d",
+      "route_name": "Ciroyom → Lembang"
+    },
+    {
+      "relation_id": "17553837",
+      "display_type": "ways",
+      "route_color": "#0e664d",
+      "route_name": "Lembang → Ciroyom"
+    },
+    {
+      "relation_id": "4818341",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cimahi → Ledeng"
+    },
+    {
+      "relation_id": "4818342",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Ledeng → Cimahi"
+    },
+    {
+      "relation_id": "4818363",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Polban → Gegerkalong Hilir"
+    },
+    {
+      "relation_id": "4818361",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Gegerkalong Hilir → Polban"
+    },
+    {
+      "relation_id": "4818405",
+      "display_type": "ways",
+      "route_color": "#0000FF",
+      "route_name": "Pesantren → Sarijadi"
+    },
+    {
+      "relation_id": "4420980",
+      "display_type": "ways",
+      "route_color": "#0000FF",
+      "route_name": "Sarijadi → Pesantren"
+    },
+    {
+      "relation_id": "4818568",
+      "display_type": "ways",
+      "route_color": "#800080",
+      "route_name": "Cimahi → Parongpong"
+    },
+    {
+      "relation_id": "4818569",
+      "display_type": "ways",
+      "route_color": "#800080",
+      "route_name": "Parongpong → Cimahi"
+    },
+    {
+      "relation_id": "4816517",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Padalarang → Cimahi → Stasiun Hall"
+    },
+    {
+      "relation_id": "18782467",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Stasiun Hall → Cimahi → Padalarang"
+    },
+    {
+      "relation_id": "18782468",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cimahi → Stasiun Hall"
+    },
+    {
+      "relation_id": "18782469",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Stasiun Hall → Cimahi"
+    },
+    {
+      "relation_id": "4817613",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Padalarang → Cimahi → Leuwipanjang"
+    },
+    {
+      "relation_id": "4817598",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Leuwipanjang → Cimahi → Padalarang"
+    },
+    {
+      "relation_id": "4817618",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cimahi → Leuwipanjang"
+    },
+    {
+      "relation_id": "17830973",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Leuwipanjang → Cimahi"
+    },
+    {
+      "relation_id": "5737865",
+      "display_type": "ways",
+      "route_color": "#ff2700",
+      "route_name": "Padalarang → Cimahi"
+    },
+    {
+      "relation_id": "5737857",
+      "display_type": "ways",
+      "route_color": "#ff2700",
+      "route_name": "Cimahi → Padalarang"
+    },
+    {
+      "relation_id": "5737855",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "Cimahi → Cangkorah"
+    },
+    {
+      "relation_id": "5737853",
+      "display_type": "ways",
+      "route_color": "#00AEEF",
+      "route_name": "Cangkorah → Cimahi"
+    },
+    {
+      "relation_id": "5738485",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cimahi → Cililin"
+    },
+    {
+      "relation_id": "5738483",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cililin → Cimahi"
+    },
+    {
+      "relation_id": "5738490",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Soreang → Cililin"
+    },
+    {
+      "relation_id": "5738484",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cililin → Soreang"
+    },
+    {
+      "relation_id": "5737858",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cimahi → Soreang"
+    },
+    {
+      "relation_id": "5737866",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Soreang → Cimahi"
+    },
+    {
+      "relation_id": "5737860",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Cimindi → Cipatik"
+    },
+    {
+      "relation_id": "5737863",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Cipatik → Cimindi"
+    },
+    {
+      "relation_id": "5737861",
+      "display_type": "ways",
+      "route_color": "#009fff",
+      "route_name": "Cimindi → Margaasih via Kebon Kopi"
+    },
+    {
+      "relation_id": "5737864",
+      "display_type": "ways",
+      "route_color": "#009fff",
+      "route_name": "Margaasih → Cimindi via Cibaligo"
+    },
+    {
+      "relation_id": "4425942",
+      "display_type": "ways",
+      "route_color": "#ff0000",
+      "route_name": "Elang → Melong Asih"
+    },
+    {
+      "relation_id": "4645583",
+      "display_type": "ways",
+      "route_color": "#ff0000",
+      "route_name": "Melong Asih → Elang"
+    },
+    {
+      "relation_id": "4807424",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Leuwipanjang → Soreang"
+    },
+    {
+      "relation_id": "4807425",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Soreang → Leuwipanjang"
+    },
+    {
+      "relation_id": "5738886",
+      "display_type": "ways",
+      "route_color": "#803000",
+      "route_name": "Tegallega → Banjaran"
+    },
+    {
+      "relation_id": "5738878",
+      "display_type": "ways",
+      "route_color": "#803000",
+      "route_name": "Banjaran → Tegallega"
+    },
+    {
+      "relation_id": "5738887",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "Tegallega → Ciparay"
+    },
+    {
+      "relation_id": "5738883",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "Ciparay → Tegallega"
+    },
+    {
+      "relation_id": "4648430",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "Buahbatu → GBA"
+    },
+    {
+      "relation_id": "4648431",
+      "display_type": "ways",
+      "route_color": "#006838",
+      "route_name": "GBA → Buahbatu"
+    },
+    {
+      "relation_id": "5736507",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "Buahbatu → Ciparay via Sapan"
+    },
+    {
+      "relation_id": "5736509",
+      "display_type": "ways",
+      "route_color": "#2E3192",
+      "route_name": "Ciparay → Buahbatu via Sapan"
+    },
+    {
+      "relation_id": "5736435",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Gedebage → Majalaya via Sapan"
+    },
+    {
+      "relation_id": "5736436",
+      "display_type": "ways",
+      "route_color": "#FFF200",
+      "route_name": "Majalaya → Gedebage via Sapan"
+    },
+    {
+      "relation_id": "4808667",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Majalaya (Rancaekek Kencana) → Gedebage via Sayang"
+    },
+    {
+      "relation_id": "4808655",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Gedebage → Majalaya (Rancaekek Kencana) via Sayang"
+    },
+    {
+      "relation_id": "4422549",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cicaheum → Cileunyi"
+    },
+    {
+      "relation_id": "4644899",
+      "display_type": "ways",
+      "route_color": "#156635",
+      "route_name": "Cileunyi → Cicaheum"
+    },
+    {
+      "relation_id": "5747409",
+      "display_type": "ways",
+      "route_color": "#72463c",
+      "route_name": "04: Sumedang → Cileunyi"
+    },
+    {
+      "relation_id": "5747408",
+      "display_type": "ways",
+      "route_color": "#72463c",
+      "route_name": "04: Cileunyi → Sumedang"
+    },
+    {
+      "relation_id": "5745157",
+      "display_type": "ways",
+      "route_color": "#b0b000",
+      "route_name": "05: Cicalengka → Tanjungsari"
+    },
+    {
+      "relation_id": "5745158",
+      "display_type": "ways",
+      "route_color": "#b0b000",
+      "route_name": "05: Tanjungsari → Cicalengka"
+    },
+    {
+      "relation_id": "5738881",
+      "display_type": "ways",
+      "route_color": "#00abff",
+      "route_name": "Cicalengka → Cijolang (Limbangan)"
+    },
+    {
+      "relation_id": "5738882",
+      "display_type": "ways",
+      "route_color": "#00abff",
+      "route_name": "Cijolang (Limbangan) → Cicalengka"
+    },
+    {
+      "relation_id": "18799367",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Leuwipanjang → Ciwidey"
+    },
+    {
+      "relation_id": "18799368",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Ciwidey → Leuwipanjang"
+    },
+    {
+      "relation_id": "18799378",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Kalapa → Majalaya"
+    },
+    {
+      "relation_id": "18799379",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Majalaya → Kalapa"
+    },
+    {
+      "relation_id": "18799375",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Tegallega → Pangalengan"
+    },
+    {
+      "relation_id": "18799376",
+      "display_type": "ways",
+      "route_color": "#2c49a5",
+      "route_name": "Pangalengan → Tegallega"
+    }
+  ]
+}
