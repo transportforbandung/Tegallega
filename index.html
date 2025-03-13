@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Public Transport Routing</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map { height: 600px; }
+        .controls { position: absolute; top: 10px; left: 50px; z-index: 1000; background: white; padding: 10px; }
+        .loader { display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+    </style>
+</head>
+<body>
+    <div class="controls">
+        <button id="start-btn">Set Start</button>
+        <button id="end-btn">Set End</button>
+        <button id="clear-btn">Clear</button>
+    </div>
+    <div id="map"></div>
+    <div class="loader" id="loading">Loading data...</div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+    <script>
+        // Configuration
+        const DATA_BASE_URL = 'data/routes';
+        const ROUTES_INDEX_URL = 'data/route_index.geojson';
+
+        // Initialize map
+        const map = L.map('map').setView([-6.2, 106.8], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        // Transport network data storage
+        let transportData = {
+            routes: { type: "FeatureCollection", features: [] },
+            stops: { type: "FeatureCollection", features: [] }
+        };
+
+        // Initialize variables
+        let routingGraph = {};
+        let startPoint = null;
+        let endPoint = null;
+        let currentMarkers = [];
+        let currentRoute = null;
+
+        // Load data from files
+        async function loadTransportData() {
+            document.getElementById('loading').style.display = 'block';
+            
+            try {
+                // First load the routes index
+                const indexResponse = await fetch(ROUTES_INDEX_URL);
+                const indexData = await indexResponse.json();
+                
+                // Extract relation IDs from index
+                const ROUTE_IDS = indexData.routes.map(route => route.relation_id);
+
+                // Load all routes and their stops
+                const routePromises = ROUTE_IDS.map(async relationId => {
+                    const [routeRes, stopsRes] = await Promise.all([
+                        fetch(`${DATA_BASE_URL}/${relationId}/ways.geojson`),
+                        fetch(`${DATA_BASE_URL}/${relationId}/stops.geojson`)
+                    ]);
+                    
+                    const routeData = await routeRes.json();
+                    const stopsData = await stopsRes.json();
+
+                    // Add relation ID to properties
+                    routeData.features.forEach(f => {
+                        f.properties.relation_id = relationId;
+                        f.properties.route_color = indexData.routes.find(
+                            r => r.relation_id === relationId
+                        )?.route_color || '#000000';
+                    });
+                    
+                    return { route: routeData, stops: stopsData };
+                });
+
+                // Process all loaded data
+                const allData = await Promise.all(routePromises);
+                allData.forEach(({ route, stops }) => {
+                    transportData.routes.features.push(...route.features);
+                    transportData.stops.features.push(...stops.features);
+                });
+
+                initializeNetwork();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                alert('Failed to load transport data: ' + error.message);
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        // Initialize transport network
+        function initializeNetwork() {
+            // Build graph nodes from stops
+            routingGraph.nodes = transportData.stops.features.map(stop => ({
+                id: stop.properties.id,
+                type: 'stop',
+                coord: stop.geometry.coordinates,
+                routes: stop.properties.routes
+            }));
+
+            // Build graph edges
+            routingGraph.edges = [];
+            transportData.routes.features.forEach(route => {
+                const routeLine = turf.lineString(route.geometry.coordinates);
+                
+                // Find stops served by this route
+                const routeStops = transportData.stops.features.filter(stop => 
+                    stop.properties.routes.includes(route.properties.id)
+                );
+
+                // Snap stops to route and sort them
+                const stopsWithPositions = routeStops.map(stop => {
+                    const snapped = turf.nearestPointOnLine(
+                        routeLine, 
+                        turf.point(stop.geometry.coordinates)
+                    );
+                    return {
+                        id: stop.properties.id,
+                        position: snapped.properties.location
+                    };
+                }).sort((a, b) => a.position - b.position);
+
+                // Create edges between consecutive stops
+                for (let i = 0; i < stopsWithPositions.length - 1; i++) {
+                    const fromStop = routingGraph.nodes.find(n => n.id === stopsWithPositions[i].id);
+                    const toStop = routingGraph.nodes.find(n => n.id === stopsWithPositions[i + 1].id);
+                    
+                    if (fromStop && toStop) {
+                        routingGraph.edges.push({
+                            from: fromStop.id,
+                            to: toStop.id,
+                            route: route.properties.id,
+                            type: route.properties.type,
+                            distance: turf.distance(fromStop.coord, toStop.coord)
+                        });
+                    }
+                }
+            });
+        }
+
+        // Find nearest node in graph
+        function findNearestNode(point) {
+            const nodes = turf.featureCollection(routingGraph.nodes.map(n => turf.point(n.coord)));
+            const nearest = turf.nearestPoint(turf.point(point), nodes);
+            return routingGraph.nodes[nearest.properties.featureIndex];
+        }
+
+        // Dijkstra's algorithm implementation
+        function findShortestPath(startNode, endNode) {
+            const distances = {};
+            const previous = {};
+            const queue = new Set(routingGraph.nodes.map(n => n.id));
+
+            routingGraph.nodes.forEach(n => distances[n.id] = Infinity);
+            distances[startNode.id] = 0;
+
+            while (queue.size > 0) {
+                const currentId = Array.from(queue).reduce((a, b) => 
+                    distances[a] < distances[b] ? a : b);
+                queue.delete(currentId);
+
+                routingGraph.edges
+                    .filter(e => e.from === currentId)
+                    .forEach(edge => {
+                        const alt = distances[currentId] + edge.distance;
+                        if (alt < distances[edge.to]) {
+                            distances[edge.to] = alt;
+                            previous[edge.to] = { 
+                                from: currentId, 
+                                route: edge.route,
+                                type: edge.type
+                            };
+                        }
+                    });
+            }
+
+            // Reconstruct path
+            const path = [];
+            let current = endNode.id;
+            while (current !== startNode.id) {
+                if (!previous[current]) return null;
+                path.unshift({
+                    from: previous[current].from,
+                    to: current,
+                    route: previous[current].route,
+                    type: previous[current].type
+                });
+                current = previous[current].from;
+            }
+            return path;
+        }
+
+        // Handle map clicks
+        function handleMapClick(e) {
+            const mode = document.activeElement.id.replace('-btn', '');
+            
+            if (mode === 'start') {
+                startPoint = e.latlng;
+                addMarker(e.latlng, 'Start', 'green');
+            } else if (mode === 'end') {
+                endPoint = e.latlng;
+                addMarker(e.latlng, 'End', 'red');
+                calculateRoute();
+            }
+        }
+
+        // Calculate and display route
+        function calculateRoute() {
+            if (!startPoint || !endPoint) return;
+
+            // Convert Leaflet LatLng to Turf point
+            const startCoord = [startPoint.lng, startPoint.lat];
+            const endCoord = [endPoint.lng, endPoint.lat];
+
+            // Find nearest nodes (with flexible route handling)
+            const startNode = findNearestNode(startCoord);
+            const endNode = findNearestNode(endCoord);
+
+            // Find path
+            const path = findShortestPath(startNode, endNode);
+
+            if (!path) {
+                alert("No route found!");
+                return;
+            }
+
+            // Visualize route
+            if (currentRoute) map.removeLayer(currentRoute);
+            
+            const routeSegments = [];
+            path.forEach(segment => {
+                const route = transportData.routes.features
+                    .find(f => f.properties.id === segment.route);
+                
+                const fromNode = routingGraph.nodes.find(n => n.id === segment.from);
+                const toNode = routingGraph.nodes.find(n => n.id === segment.to);
+                
+                const segmentLine = turf.lineSlice(
+                    turf.point(fromNode.coord),
+                    turf.point(toNode.coord),
+                    turf.lineString(route.geometry.coordinates)
+                );
+                
+                routeSegments.push(segmentLine);
+            });
+
+            currentRoute = L.geoJSON(turf.featureCollection(routeSegments), {
+                style: { color: 'blue', weight: 5 }
+            }).addTo(map);
+        }
+
+        // Helper functions
+        function addMarker(latlng, title, color) {
+            currentMarkers.push(L.marker(latlng, {
+                title: title,
+                icon: L.divIcon({
+                    className: `marker-${color}`,
+                    html: `<div style="background: ${color}"></div>`
+                })
+            }).addTo(map));
+        }
+
+        function clearAll() {
+            currentMarkers.forEach(m => map.removeLayer(m));
+            currentMarkers = [];
+            if (currentRoute) map.removeLayer(currentRoute));
+            startPoint = endPoint = null;
+        }
+
+        // Event listeners
+        map.on('click', handleMapClick);
+        document.getElementById('start-btn').addEventListener('click', () => 
+            document.getElementById('start-btn').focus());
+        document.getElementById('end-btn').addEventListener('click', () => 
+            document.getElementById('end-btn').focus());
+        document.getElementById('clear-btn').addEventListener('click', clearAll);
+
+        // Initialize transport network
+        initializeNetwork();
+    </script>
+</body>
+</html>
