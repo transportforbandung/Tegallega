@@ -27,6 +27,23 @@ jobs:
       - name: Run script
         run: node fetching/fetch-route.js
 
+      - name: Save data folder as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: data
+          path: data/
+
+      - name: Checkout repository again (to ensure clean state)
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download data folder artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: data
+          path: data/
+
       - name: Check for changes
         id: check-changes
         run: |
