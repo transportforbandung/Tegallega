@@ -1,5 +1,4 @@
 name: Convert OSM to GTFS
-
 on:
   workflow_dispatch:
 
@@ -11,15 +10,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Install Python and Poetry
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-pip
-          pip3 install poetry
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.10
+
+      - name: Install Poetry
+        run: pip install poetry
 
       - name: Clone Prism
         run: |
           git clone https://github.com/Jungle-Bus/prism.git prism
+
+      - name: Install Prism dependencies
+        run: |
           cd prism
           poetry install
 
@@ -34,7 +38,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add gtfs
-          git commit -m "Add generated GTFS data"
+          git commit -m "Add generated GTFS data from Prism"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
