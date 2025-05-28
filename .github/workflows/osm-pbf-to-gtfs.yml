@@ -26,7 +26,7 @@ jobs:
       - name: Build osm2gtfs jar
         run: |
           cd osm2gtfs-src
-          ./gradlew shadowJar  # builds a fat jar usually in build/libs/
+          gradle shadowJar
 
       - name: Run osm2gtfs on .osm.pbf
         run: |
