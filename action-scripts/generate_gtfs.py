@@ -8,7 +8,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Configuration (using absolute paths)
 ROUTES_JSON = os.path.join(REPO_ROOT, 'routes.json')
-ROUTE_DATA_DIR = os.path.join(REPO_ROOT, 'route-data')
+ROUTE_DATA_DIR = os.path.join(REPO_ROOT, 'route-data', 'geojson')  # Updated path
 GTFS_DIR = os.path.join(REPO_ROOT, 'gtfs')
 TIMEZONE = 'Asia/Jakarta'
 AGENCY_NAME = 'Metro Jabar Trans'
@@ -57,11 +57,15 @@ def process_stops(routes):
     
     for route in routes:
         route_id = route['relationId']
+        # Updated path to include geojson subdirectory
         stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
         
         if not os.path.exists(stop_file):
             print(f"Stop file not found for route {route_id}: {stop_file}")
-            print(f"Directory contents: {os.listdir(os.path.dirname(stop_file))}")
+            # Print parent directory contents for debugging
+            parent_dir = os.path.dirname(stop_file)
+            if os.path.exists(parent_dir):
+                print(f"Directory contents: {os.listdir(parent_dir)}")
             continue
             
         with open(stop_file) as f:
@@ -94,11 +98,15 @@ def process_shapes(routes):
     
     for route in routes:
         route_id = route['relationId']
+        # Updated path to include geojson subdirectory
         ways_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'ways.geojson')
         
         if not os.path.exists(ways_file):
             print(f"Ways file not found for route {route_id}: {ways_file}")
-            print(f"Directory contents: {os.listdir(os.path.dirname(ways_file))}")
+            # Print parent directory contents for debugging
+            parent_dir = os.path.dirname(ways_file)
+            if os.path.exists(parent_dir):
+                print(f"Directory contents: {os.listdir(parent_dir)}")
             continue
             
         with open(ways_file) as f:
@@ -139,6 +147,7 @@ def generate_trips(routes):
     
     for route in routes:
         route_id = route['relationId']
+        # Updated path to include geojson subdirectory
         stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
         
         if not os.path.exists(stop_file):
