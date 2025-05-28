@@ -8,18 +8,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Install osmconvert
+      - name: Install osmium-tool
         run: |
-          wget https://github.com/ImreSamu/osmconvert-releases/releases/download/2024-02-08/osmconvert64
-          chmod +x osmconvert64
-          sudo mv osmconvert64 /usr/local/bin/osmconvert
+          sudo apt-get update
+          sudo apt-get install -y osmium-tool
 
       - name: Convert .osm to .osm.pbf
         run: |
-          osmconvert raw/greater-bandung.osm -o=raw/greater-bandung.osm.pbf
+          osmium cat raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
 
       - name: Commit Converted .osm.pbf
         run: |
