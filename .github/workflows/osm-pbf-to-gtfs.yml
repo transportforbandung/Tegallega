@@ -17,7 +17,7 @@ jobs:
 
       - name: Convert .osm to .osm.pbf
         run: |
-          osmium cat raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
+          osmium cat --overwrite raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
 
       - name: Clone osm2gtfs repo
         run: |
