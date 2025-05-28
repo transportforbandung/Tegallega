@@ -90,7 +90,6 @@ def process_shapes(routes):
     
     for route in routes:
         route_id = route['relationId']
-        # CORRECTED FILENAME: ways.geojson instead of route_ways.geojson
         ways_file = os.path.join(ROUTE_DATA_DIR, route_id, 'ways.geojson')
         
         if not os.path.exists(ways_file):
@@ -154,7 +153,7 @@ def generate_trips(routes):
             'service_id': 'weekday',
             'trip_headsign': route['name'],
             'direction_id': route['directionId'],
-            'shape_id': route.get('shape_id', '')  # Will be empty if shape not processed
+            'shape_id': route.get('shape_id', '')
         })
         
         # Create stop times with placeholder times
@@ -174,7 +173,82 @@ def generate_trips(routes):
     
     return trips, stop_times
 
-# ... [Rest of the functions remain unchanged: create_calendar, create_agency, write_gtfs, main] ...
+def create_calendar():
+    """Placeholder calendar - will be enhanced later"""
+    return [{
+        'service_id': 'weekday',
+        'monday': 1,
+        'tuesday': 1,
+        'wednesday': 1,
+        'thursday': 1,
+        'friday': 1,
+        'saturday': 0,
+        'sunday': 0,
+        'start_date': '20250101',
+        'end_date': '20251231'
+    }]
+
+def create_agency():
+    return [{
+        'agency_id': 'MJT',
+        'agency_name': AGENCY_NAME,
+        'agency_url': AGENCY_URL,
+        'agency_timezone': TIMEZONE,
+        'agency_lang': AGENCY_LANG
+    }]
+
+def write_gtfs(data, filename, fieldnames):
+    """Write GTFS CSV file"""
+    os.makedirs(GTFS_DIR, exist_ok=True)
+    with open(os.path.join(GTFS_DIR, filename), 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        if not isinstance(data, list):
+            data = list(data)
+        writer.writerows(data)
+
+def main():
+    print("Starting GTFS generation for Metro Jabar Trans...")
+    
+    # Process data
+    routes, route_groups = process_routes()
+    stops = process_stops(routes)
+    shapes = process_shapes(routes)
+    trips, stop_times = generate_trips(routes)
+    
+    # Generate GTFS files
+    write_gtfs(create_agency(), 'agency.txt', 
+               ['agency_id', 'agency_name', 'agency_url', 'agency_timezone', 'agency_lang'])
+    
+    write_gtfs([
+        {
+            'route_id': group['group_id'],
+            'agency_id': 'MJT',
+            'route_short_name': group['group_id'],  # Koridor number
+            'route_long_name': group['name'],
+            'route_type': group['route_type'],
+            'route_color': group['color'].lstrip('#')
+        } for group in route_groups
+    ], 'routes.txt', 
+    ['route_id', 'agency_id', 'route_short_name', 'route_long_name', 'route_type', 'route_color'])
+    
+    write_gtfs(trips, 'trips.txt', 
+               ['route_id', 'trip_id', 'service_id', 'trip_headsign', 'direction_id', 'shape_id'])
+    
+    write_gtfs(list(stops.values()), 'stops.txt', 
+               ['stop_id', 'stop_name', 'stop_lat', 'stop_lon', 'location_type', 'wheelchair_boarding'])
+    
+    write_gtfs(stop_times, 'stop_times.txt', 
+               ['trip_id', 'stop_id', 'stop_sequence', 'arrival_time', 'departure_time', 'pickup_type', 'drop_off_type'])
+    
+    write_gtfs(shapes, 'shapes.txt', 
+               ['shape_id', 'shape_pt_lon', 'shape_pt_lat', 'shape_pt_sequence', 'shape_dist_traveled'])
+    
+    write_gtfs(create_calendar(), 'calendar.txt', 
+               ['service_id', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'start_date', 'end_date'])
+    
+    print(f"GTFS generated successfully in {GTFS_DIR}/ directory")
+    print(f"Processed {len(route_groups)} route groups and {len(routes)} directions")
 
 if __name__ == "__main__":
     main()
