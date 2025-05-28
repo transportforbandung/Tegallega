@@ -26,11 +26,12 @@ jobs:
       - name: Build osm2gtfs jar
         run: |
           cd osm2gtfs-src
-          gradle shadowJar
+          gradle clean jar
 
       - name: Run osm2gtfs on .osm.pbf
         run: |
-          java -jar osm2gtfs-src/build/libs/osm2gtfs-all.jar --input ../raw/greater-bandung.osm.pbf --output ../gtfs
+          cd osm2gtfs-src
+          gradle run --args="--input ../raw/greater-bandung.osm.pbf --output ../gtfs"
 
       - name: Commit GTFS folder
         run: |
