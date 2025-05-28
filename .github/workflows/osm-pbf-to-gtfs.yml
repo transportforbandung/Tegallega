@@ -1,0 +1,43 @@
+name: Build and Run osm2gtfs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies (Java, Gradle)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y openjdk-17-jdk gradle osmium-tool
+
+      - name: Convert .osm to .osm.pbf
+        run: |
+          osmium cat raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
+
+      - name: Clone osm2gtfs repo
+        run: |
+          git clone https://github.com/grote/osm2gtfs.git osm2gtfs-src
+
+      - name: Build osm2gtfs jar
+        run: |
+          cd osm2gtfs-src
+          ./gradlew shadowJar  # builds a fat jar usually in build/libs/
+
+      - name: Run osm2gtfs on .osm.pbf
+        run: |
+          java -jar osm2gtfs-src/build/libs/osm2gtfs-all.jar --input ../raw/greater-bandung.osm.pbf --output ../gtfs
+
+      - name: Commit GTFS folder
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add gtfs
+          git commit -m "Add GTFS output from osm2gtfs build"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
