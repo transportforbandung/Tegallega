@@ -33,7 +33,7 @@ jobs:
       - name: Run Prism to generate GTFS
         run: |
           cd prism
-          poetry run python -m prism ../raw/greater-bandung.osm.pbf ../gtfs
+          poetry run python bin/prism ../raw/greater-bandung.osm.pbf ../gtfs
 
       - name: Commit GTFS output
         run: |
