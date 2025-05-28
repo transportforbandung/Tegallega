@@ -1,44 +1,40 @@
-name: Build and Run osm2gtfs
+name: Convert OSM to GTFS
 
 on:
   workflow_dispatch:
 
 jobs:
-  build:
+  convert:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Install dependencies (Java, Gradle)
+      - name: Install Python and Poetry
         run: |
           sudo apt-get update
-          sudo apt-get install -y openjdk-17-jdk gradle osmium-tool
+          sudo apt-get install -y python3-pip
+          pip3 install poetry
 
-      - name: Convert .osm to .osm.pbf
+      - name: Clone Prism
         run: |
-          osmium cat --overwrite raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
+          git clone https://github.com/Jungle-Bus/prism.git prism
+          cd prism
+          poetry install
 
-      - name: Clone osm2gtfs repo
+      - name: Run Prism to Generate GTFS
         run: |
-          git clone https://github.com/grote/osm2gtfs.git osm2gtfs-src
+          mkdir -p gtfs
+          cd prism
+          poetry run python prism/cli.py ../raw/greater-bandung.osm.pbf -gtfs -o ../gtfs
 
-      - name: Build osm2gtfs jar
-        run: |
-          cd osm2gtfs-src
-          gradle clean jar
-
-      - name: Run osm2gtfs on .osm.pbf
-        run: |
-          cd osm2gtfs-src
-          gradle run --args="--input ../raw/greater-bandung.osm.pbf --output ../gtfs"
-
-      - name: Commit GTFS folder
+      - name: Commit GTFS Output
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add gtfs
-          git commit -m "Add GTFS output from osm2gtfs build"
+          git commit -m "Add generated GTFS data"
           git push
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
