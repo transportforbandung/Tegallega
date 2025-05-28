@@ -13,7 +13,7 @@ jobs:
 
       - name: Install osmconvert
         run: |
-          wget https://download.openstreetmap.fr/rep/odbl/osmconvert/osmconvert64
+          wget https://github.com/ImreSamu/osmconvert-releases/releases/download/2024-02-08/osmconvert64
           chmod +x osmconvert64
           sudo mv osmconvert64 /usr/local/bin/osmconvert
 
