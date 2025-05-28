@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.713347,
+          -7.0357328
+        ]
+      },
+      "properties": {
+        "id": 2459057875,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Ciparay",
+        "public_transport": "stop_position",
+        "ref": "Ciparay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062885,
+          -6.939027
+        ]
+      },
+      "properties": {
+        "id": 11707031623,
+        "bus": "yes",
+        "name": "Muhammad Toha 1 (PT INTI A)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5956524,
+          -6.9372267
+        ]
+      },
+      "properties": {
+        "id": 11739021652,
+        "bus": "yes",
+        "name": "Rumah Sakit Immanuel A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6328659,
+          -6.9857289
+        ]
+      },
+      "properties": {
+        "id": 12626499682,
+        "bus": "yes",
+        "name": "Griya Bandung Asri",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594148,
+          -6.9384872
+        ]
+      },
+      "properties": {
+        "id": 12628901396,
+        "bus": "yes",
+        "name": "SDN Babakan Tarogong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6181453,
+          -6.9742063
+        ]
+      },
+      "properties": {
+        "id": 12628930746,
+        "bus": "yes",
+        "name": "Palasari Radio",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624845,
+          -6.9861797
+        ]
+      },
+      "properties": {
+        "id": 12628930749,
+        "bus": "yes",
+        "name": "Zipur Dayeuhkolot",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6316216,
+          -6.9989678
+        ]
+      },
+      "properties": {
+        "id": 12628930752,
+        "bus": "yes",
+        "name": "Pasar Baleendah A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6397222,
+          -7.0100016
+        ]
+      },
+      "properties": {
+        "id": 12628930755,
+        "bus": "yes",
+        "name": "Bumi Siliwangi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6020331,
+          -6.9371534
+        ]
+      },
+      "properties": {
+        "id": 12628930762,
+        "bus": "yes",
+        "name": "Muara A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932469,
+          -6.9458124
+        ]
+      },
+      "properties": {
+        "id": 3277886365,
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7601839,
+          -7.0477492
+        ]
+      },
+      "properties": {
+        "id": 12628930760,
+        "bus": "yes",
+        "name": "Terminal Majalaya",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

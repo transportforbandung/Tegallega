@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7651014,
+          -6.9357446
+        ]
+      },
+      "properties": {
+        "id": 5867026762,
+        "bus": "yes",
+        "name": "IPDN B",
+        "public_transport": "stop_position",
+        "ref": "IPDN B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6161572,
+          -6.8979434
+        ]
+      },
+      "properties": {
+        "id": 11707030825,
+        "bus": "yes",
+        "name": "Panatayudha B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6201283,
+          -6.9012501
+        ]
+      },
+      "properties": {
+        "id": 11707030827,
+        "bus": "yes",
+        "name": "Lapangan Gasibu B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6241682,
+          -6.9011517
+        ]
+      },
+      "properties": {
+        "id": 11707030828,
+        "bus": "yes",
+        "name": "PUSDAI B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6297079,
+          -6.907261
+        ]
+      },
+      "properties": {
+        "id": 11707030833,
+        "bus": "yes",
+        "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6312506,
+          -6.9184177
+        ]
+      },
+      "properties": {
+        "id": 11707030859,
+        "bus": "yes",
+        "name": "Bandung Creative Hub B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6251981,
+          -6.9343038
+        ]
+      },
+      "properties": {
+        "id": 11707031579,
+        "bus": "yes",
+        "name": "Hotel Horison B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6067624,
+          -6.9375463
+        ]
+      },
+      "properties": {
+        "id": 11707031601,
+        "bus": "yes",
+        "name": "PT INTI B (BKR 5)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6087518,
+          -6.9483342
+        ]
+      },
+      "properties": {
+        "id": 11707031627,
+        "bus": "yes",
+        "name": "Simpang By Pass Soekarno Hatta B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115567,
+          -6.9547392
+        ]
+      },
+      "properties": {
+        "id": 11711185185,
+        "bus": "yes",
+        "name": "Jalan Haji Tatang Sumantri",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7557736,
+          -6.9426257
+        ]
+      },
+      "properties": {
+        "id": 11711185188,
+        "bus": "yes",
+        "name": "Cileunyi B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7712431,
+          -6.933968
+        ]
+      },
+      "properties": {
+        "id": 11711185243,
+        "bus": "yes",
+        "name": "Jatinangor Town Square",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6339654,
+          -6.9129263
+        ]
+      },
+      "properties": {
+        "id": 11955476811,
+        "bus": "yes",
+        "name": "SPBU Ahmad Yani",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7732376,
+          -6.932299
+        ]
+      },
+      "properties": {
+        "id": 10697346845,
+        "bus": "yes",
+        "name": "UNPAD Jatinangor",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6180361,
+          -6.8934568
+        ]
+      },
+      "properties": {
+        "id": 3375793673,
+        "bus": "yes",
+        "name": "UNPAD Dipatiukur",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

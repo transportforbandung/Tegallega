@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044519,
+          -6.9164303
+        ]
+      },
+      "properties": {
+        "id": 29354702,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pasar Baru",
+        "public_transport": "stop_position",
+        "ref": "Pasar Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6106299,
+          -6.9065922
+        ]
+      },
+      "properties": {
+        "id": 10653503634,
+        "bus": "yes",
+        "name": "The-One-O-One B",
+        "network": "Trans Metro Pasundan",
+        "public_transport": "stop_position",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6128497,
+          -6.897514
+        ]
+      },
+      "properties": {
+        "id": 10778322181,
+        "bus": "yes",
+        "name": "Kartikasari B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116031,
+          -6.902518
+        ]
+      },
+      "properties": {
+        "id": 10778322182,
+        "bus": "yes",
+        "name": "Taman Radio B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040142,
+          -6.9219758
+        ]
+      },
+      "properties": {
+        "id": 10778322188,
+        "bus": "yes",
+        "name": "Dalem Kaum",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055097,
+          -6.9375586
+        ]
+      },
+      "properties": {
+        "id": 10815723012,
+        "bus": "yes",
+        "name": "Simpang Mohamad Toha Biddokkes",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6134343,
+          -6.8948051
+        ]
+      },
+      "properties": {
+        "id": 11104718106,
+        "bus": "yes",
+        "name": "Rumah Sakit Santo Borromeus B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6177764,
+          -6.8923055
+        ]
+      },
+      "properties": {
+        "id": 11707030824,
+        "bus": "yes",
+        "name": "UNPAD Dipatiukur (4D)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608993,
+          -6.9145426
+        ]
+      },
+      "properties": {
+        "id": 11735248675,
+        "bus": "yes",
+        "name": "Bank Indonesia",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610623,
+          -6.9088887
+        ]
+      },
+      "properties": {
+        "id": 11739021633,
+        "bus": "yes",
+        "name": "Bandung Indah Plaza",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6104548,
+          -6.9125343
+        ]
+      },
+      "properties": {
+        "id": 11739021637,
+        "alt_name": "Santa Angela",
+        "bus": "yes",
+        "name": "Merdeka",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039218,
+          -6.9314959
+        ]
+      },
+      "properties": {
+        "id": 11739021642,
+        "bus": "yes",
+        "name": "Jalan Ibu Inggit Garnasih",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062604,
+          -6.9368241
+        ]
+      },
+      "properties": {
+        "id": 11739021647,
+        "bus": "yes",
+        "name": "Pasar Tegalega",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5955421,
+          -6.9372977
+        ]
+      },
+      "properties": {
+        "id": 11739021653,
+        "bus": "yes",
+        "name": "Rumah Sakit Immanuel B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932469,
+          -6.9458124
+        ]
+      },
+      "properties": {
+        "id": 3277886365,
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

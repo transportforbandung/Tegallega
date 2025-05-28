@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934341,
+          -6.9468277
+        ]
+      },
+      "properties": {
+        "id": 11295303565,
+        "bus": "yes",
+        "name": "Leuwipanjang Soekarno Hatta",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576671,
+          -6.9323901
+        ]
+      },
+      "properties": {
+        "id": 12626357398,
+        "bus": "yes",
+        "name": "Sumber Sari Junction",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5831212,
+          -6.9419015
+        ]
+      },
+      "properties": {
+        "id": 12626357399,
+        "bus": "yes",
+        "name": "Pasar Induk Caringin",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.530779,
+          -7.0141857
+        ]
+      },
+      "properties": {
+        "id": 12626357383,
+        "bus": "yes",
+        "name": "Hotel Soreang B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932425,
+          -6.9458452
+        ]
+      },
+      "properties": {
+        "id": 3277886379,
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

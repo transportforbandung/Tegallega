@@ -1,0 +1,251 @@
+import os
+import json
+import csv
+from collections import defaultdict
+
+# Configuration
+ROUTES_JSON = 'routes.json'
+ROUTE_DATA_DIR = 'route-data'
+GTFS_DIR = 'gtfs'
+TIMEZONE = 'Asia/Jakarta'
+AGENCY_NAME = 'Metro Jabar Trans'
+AGENCY_URL = 'https://instagram.com/brt.metrojabartrans'
+AGENCY_LANG = 'id'
+
+def process_routes():
+    """Process routes.json and return enhanced route data"""
+    with open(ROUTES_JSON) as f:
+        data = json.load(f)
+    
+    route_groups = []
+    all_routes = []
+    
+    for category in data['categories']:
+        # Focus only on Metro Jabar Trans
+        if category['name'] != "Metro Jabar Trans":
+            continue
+            
+        for group in category['routeGroups']:
+            # Skip non-fixed routes (for future GTFS-flex)
+            if group.get('type') != 'fixed':
+                continue
+                
+            # Create route group entry
+            route_groups.append({
+                'group_id': group['groupId'],
+                'name': group['name'],
+                'color': group['color'],
+                'route_type': 3  # Bus
+            })
+            
+            # Process each route direction
+            for route in group['routes']:
+                route['group_id'] = group['groupId']
+                route['group_name'] = group['name']
+                route['color'] = group['color']
+                all_routes.append(route)
+    
+    return all_routes, route_groups
+
+def process_stops(routes):
+    """Collect all stops from all routes with deduplication"""
+    all_stops = {}
+    stop_counter = 1
+    
+    for route in routes:
+        route_id = route['relationId']
+        stop_file = os.path.join(ROUTE_DATA_DIR, route_id, 'stops.geojson')
+        
+        if not os.path.exists(stop_file):
+            continue
+            
+        with open(stop_file) as f:
+            data = json.load(f)
+        
+        for feature in data['features']:
+            props = feature['properties']
+            geom = feature['geometry']
+            coords = geom['coordinates']
+            
+            # Create unique stop ID using OSM ID or generate new
+            stop_id = props.get('id', f"stop_{stop_counter}")
+            stop_counter += 1
+            
+            if stop_id not in all_stops:
+                all_stops[stop_id] = {
+                    'stop_id': stop_id,
+                    'stop_name': props.get('name', f"Stop {stop_id}"),
+                    'stop_lat': coords[1],
+                    'stop_lon': coords[0],
+                    'location_type': 0,
+                    'wheelchair_boarding': 1 if props.get('wheelchair') == 'yes' else 0
+                }
+    
+    return all_stops
+
+def process_shapes(routes):
+    """Process route geometries into GTFS shapes"""
+    shapes = []
+    
+    for route in routes:
+        route_id = route['relationId']
+        ways_file = os.path.join(ROUTE_DATA_DIR, route_id, 'route_ways.geojson')
+        
+        if not os.path.exists(ways_file):
+            continue
+            
+        with open(ways_file) as f:
+            data = json.load(f)
+        
+        # Extract coordinates from GeoJSON
+        coords = []
+        for feature in data['features']:
+            geom_type = feature['geometry']['type']
+            if geom_type == 'LineString':
+                coords.extend(feature['geometry']['coordinates'])
+            elif geom_type == 'MultiLineString':
+                for line in feature['geometry']['coordinates']:
+                    coords.extend(line)
+        
+        # Create shape records
+        shape_id = f"shape_{route_id}"
+        
+        for seq, coord in enumerate(coords):
+            shapes.append({
+                'shape_id': shape_id,
+                'shape_pt_lon': coord[0],
+                'shape_pt_lat': coord[1],
+                'shape_pt_sequence': seq + 1,
+                'shape_dist_traveled': None
+            })
+        
+        # Store shape ID for trip assignment
+        route['shape_id'] = shape_id
+    
+    return shapes
+
+def generate_trips(routes):
+    """Generate trips and stop times with placeholder times"""
+    trips = []
+    stop_times = []
+    trip_counter = 1
+    
+    for route in routes:
+        route_id = route['relationId']
+        stop_file = os.path.join(ROUTE_DATA_DIR, route_id, 'stops.geojson')
+        
+        if not os.path.exists(stop_file):
+            continue
+            
+        with open(stop_file) as f:
+            data = json.load(f)
+        
+        # Create trip
+        trip_id = f"trip_{trip_counter}"
+        trip_counter += 1
+        
+        trips.append({
+            'route_id': route['group_id'],
+            'trip_id': trip_id,
+            'service_id': 'weekday',
+            'trip_headsign': route['name'],
+            'direction_id': route['directionId'],
+            'shape_id': route.get('shape_id', '')
+        })
+        
+        # Create stop times with placeholder times
+        for seq, feature in enumerate(data['features']):
+            props = feature['properties']
+            stop_id = props.get('id', f"stop_{seq}")
+            
+            stop_times.append({
+                'trip_id': trip_id,
+                'stop_id': stop_id,
+                'stop_sequence': seq + 1,
+                'arrival_time': '08:00:00',  # Placeholder
+                'departure_time': '08:00:00',  # Placeholder
+                'pickup_type': 0,
+                'drop_off_type': 0
+            })
+    
+    return trips, stop_times
+
+def create_calendar():
+    """Placeholder calendar - will be enhanced later"""
+    return [{
+        'service_id': 'weekday',
+        'monday': 1,
+        'tuesday': 1,
+        'wednesday': 1,
+        'thursday': 1,
+        'friday': 1,
+        'saturday': 0,
+        'sunday': 0,
+        'start_date': '20250101',
+        'end_date': '20251231'
+    }]
+
+def create_agency():
+    return [{
+        'agency_id': 'MJT',
+        'agency_name': AGENCY_NAME,
+        'agency_url': AGENCY_URL,
+        'agency_timezone': TIMEZONE,
+        'agency_lang': AGENCY_LANG
+    }]
+
+def write_gtfs(data, filename, fieldnames):
+    """Write GTFS CSV file"""
+    os.makedirs(GTFS_DIR, exist_ok=True)
+    with open(os.path.join(GTFS_DIR, filename), 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        if not isinstance(data, list):
+            data = list(data)
+        writer.writerows(data)
+
+def main():
+    print("Starting GTFS generation for Metro Jabar Trans...")
+    
+    # Process data
+    routes, route_groups = process_routes()
+    stops = process_stops(routes)
+    shapes = process_shapes(routes)
+    trips, stop_times = generate_trips(routes)
+    
+    # Generate GTFS files
+    write_gtfs(create_agency(), 'agency.txt', 
+               ['agency_id', 'agency_name', 'agency_url', 'agency_timezone', 'agency_lang'])
+    
+    write_gtfs([
+        {
+            'route_id': group['group_id'],
+            'agency_id': 'MJT',
+            'route_short_name': group['group_id'],  # Koridor number
+            'route_long_name': group['name'],
+            'route_type': group['route_type'],
+            'route_color': group['color'].lstrip('#')
+        } for group in route_groups
+    ], 'routes.txt', 
+    ['route_id', 'agency_id', 'route_short_name', 'route_long_name', 'route_type', 'route_color'])
+    
+    write_gtfs(trips, 'trips.txt', 
+               ['route_id', 'trip_id', 'service_id', 'trip_headsign', 'direction_id', 'shape_id'])
+    
+    write_gtfs(list(stops.values()), 'stops.txt', 
+               ['stop_id', 'stop_name', 'stop_lat', 'stop_lon', 'location_type', 'wheelchair_boarding'])
+    
+    write_gtfs(stop_times, 'stop_times.txt', 
+               ['trip_id', 'stop_id', 'stop_sequence', 'arrival_time', 'departure_time', 'pickup_type', 'drop_off_type'])
+    
+    write_gtfs(shapes, 'shapes.txt', 
+               ['shape_id', 'shape_pt_lon', 'shape_pt_lat', 'shape_pt_sequence', 'shape_dist_traveled'])
+    
+    write_gtfs(create_calendar(), 'calendar.txt', 
+               ['service_id', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'start_date', 'end_date'])
+    
+    print(f"GTFS generated successfully in {GTFS_DIR}/ directory")
+    print(f"Processed {len(route_groups)} route groups and {len(routes)} directions")
+
+if __name__ == "__main__":
+    main()

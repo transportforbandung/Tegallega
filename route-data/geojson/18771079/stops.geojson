@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6173961,
+          -6.9719753
+        ]
+      },
+      "properties": {
+        "id": 305891851,
+        "bus": "yes",
+        "name": "Palasari Ceres",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055097,
+          -6.9375586
+        ]
+      },
+      "properties": {
+        "id": 10815723012,
+        "bus": "yes",
+        "name": "Simpang Mohamad Toha Biddokkes",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608407,
+          -6.9453744
+        ]
+      },
+      "properties": {
+        "id": 11739021648,
+        "alt_name": "Mohammad Toha",
+        "bus": "yes",
+        "name": "TK Kemala Bhayangkari",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6330944,
+          -6.984586
+        ]
+      },
+      "properties": {
+        "id": 12626499683,
+        "bus": "yes",
+        "name": "Borma Bojongsoang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6316458,
+          -6.9990175
+        ]
+      },
+      "properties": {
+        "id": 12628930753,
+        "bus": "yes",
+        "name": "Pasar Baleendah B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563884,
+          -7.020725
+        ]
+      },
+      "properties": {
+        "id": 12628930757,
+        "bus": "yes",
+        "name": "Giriharja Jelekong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7601839,
+          -7.0477492
+        ]
+      },
+      "properties": {
+        "id": 12628930760,
+        "bus": "yes",
+        "name": "Terminal Majalaya",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932469,
+          -6.9458124
+        ]
+      },
+      "properties": {
+        "id": 3277886365,
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

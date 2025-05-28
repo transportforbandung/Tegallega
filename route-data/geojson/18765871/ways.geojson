@@ -1,0 +1,2495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5606012,
+            -6.935005
+          ],
+          [
+            107.5627029,
+            -6.9339859
+          ],
+          [
+            107.5667381,
+            -6.9320309
+          ],
+          [
+            107.5674939,
+            -6.9317341
+          ],
+          [
+            107.5681123,
+            -6.9315698
+          ],
+          [
+            107.5686872,
+            -6.931463
+          ],
+          [
+            107.5691137,
+            -6.9314193
+          ],
+          [
+            107.5693822,
+            -6.9314079
+          ]
+        ]
+      },
+      "properties": {
+        "id": 166752469,
+        "avgspeed": "70",
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5863956,
+            -6.9441848
+          ],
+          [
+            107.5868373,
+            -6.9443439
+          ],
+          [
+            107.5870102,
+            -6.9443993
+          ],
+          [
+            107.5876247,
+            -6.9446579
+          ],
+          [
+            107.5878344,
+            -6.9447464
+          ],
+          [
+            107.5880579,
+            -6.9448406
+          ],
+          [
+            107.5883073,
+            -6.9449457
+          ],
+          [
+            107.5888658,
+            -6.9451811
+          ]
+        ]
+      },
+      "properties": {
+        "id": 318231958,
+        "destination:lanes": "Kopo;Leuwipanjang;Cibaduyut|Caringin;Pasir Koja;Holis;Cibeureum",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "through|through;reverse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5905372,
+            -6.9458885
+          ],
+          [
+            107.5906174,
+            -6.9459184
+          ],
+          [
+            107.5908186,
+            -6.9459976
+          ],
+          [
+            107.5909454,
+            -6.9460471
+          ],
+          [
+            107.5912869,
+            -6.9461769
+          ],
+          [
+            107.5915135,
+            -6.946263
+          ],
+          [
+            107.5919633,
+            -6.946418
+          ],
+          [
+            107.5920057,
+            -6.9464327
+          ]
+        ]
+      },
+      "properties": {
+        "id": 318231959,
+        "destination": "Simpang Leuwipanjang",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5760593,
+            -6.9304537
+          ],
+          [
+            107.5761295,
+            -6.9307327
+          ]
+        ]
+      },
+      "properties": {
+        "id": 318891930,
+        "destination": "Caringin;Kopo;Leuwipanjang;Cibaduyut",
+        "destination:ref": "11",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5946801,
+            -6.9470993
+          ],
+          [
+            107.5949015,
+            -6.9470904
+          ],
+          [
+            107.5949654,
+            -6.9470873
+          ],
+          [
+            107.5949874,
+            -6.9470844
+          ],
+          [
+            107.5950189,
+            -6.9470765
+          ],
+          [
+            107.5950591,
+            -6.9470659
+          ],
+          [
+            107.5950873,
+            -6.9470551
+          ],
+          [
+            107.5951121,
+            -6.9470451
+          ],
+          [
+            107.5951365,
+            -6.9470303
+          ],
+          [
+            107.5951489,
+            -6.9470195
+          ],
+          [
+            107.5951597,
+            -6.9470058
+          ],
+          [
+            107.5951778,
+            -6.9469812
+          ],
+          [
+            107.5951852,
+            -6.9469692
+          ],
+          [
+            107.595202,
+            -6.9469407
+          ],
+          [
+            107.5952184,
+            -6.9469031
+          ]
+        ]
+      },
+      "properties": {
+        "id": 320628549,
+        "destination": "Terminal Leuwipanjang;Peta;Astana Anyar",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "oneway": "yes",
+        "turn:lanes": "slight_left"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5936967,
+            -6.9459132
+          ],
+          [
+            107.5936301,
+            -6.9459043
+          ],
+          [
+            107.5932425,
+            -6.9458452
+          ]
+        ]
+      },
+      "properties": {
+        "id": 321073931,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5761295,
+            -6.9307327
+          ],
+          [
+            107.5762615,
+            -6.9311707
+          ],
+          [
+            107.5763049,
+            -6.9313117
+          ],
+          [
+            107.5765033,
+            -6.9319558
+          ],
+          [
+            107.5765867,
+            -6.9321758
+          ],
+          [
+            107.5766269,
+            -6.9322818
+          ],
+          [
+            107.576671,
+            -6.9323901
+          ],
+          [
+            107.5767329,
+            -6.9325425
+          ],
+          [
+            107.576819,
+            -6.9327555
+          ],
+          [
+            107.576953,
+            -6.9330874
+          ],
+          [
+            107.5770589,
+            -6.933306
+          ],
+          [
+            107.5771271,
+            -6.9334469
+          ],
+          [
+            107.5773591,
+            -6.9339262
+          ],
+          [
+            107.5774678,
+            -6.9341351
+          ],
+          [
+            107.577519,
+            -6.9342396
+          ],
+          [
+            107.5778296,
+            -6.9347499
+          ],
+          [
+            107.5783524,
+            -6.9355244
+          ],
+          [
+            107.578457,
+            -6.9356736
+          ],
+          [
+            107.5788041,
+            -6.9361935
+          ],
+          [
+            107.5788416,
+            -6.9362517
+          ],
+          [
+            107.5795763,
+            -6.937339
+          ],
+          [
+            107.5796223,
+            -6.9374056
+          ],
+          [
+            107.5796859,
+            -6.937498
+          ],
+          [
+            107.5797906,
+            -6.9376502
+          ],
+          [
+            107.579936,
+            -6.937863
+          ],
+          [
+            107.5802287,
+            -6.9382866
+          ],
+          [
+            107.5803153,
+            -6.9384059
+          ],
+          [
+            107.5803728,
+            -6.9384851
+          ],
+          [
+            107.5804612,
+            -6.9386169
+          ],
+          [
+            107.5805598,
+            -6.9387753
+          ],
+          [
+            107.5806433,
+            -6.9388996
+          ],
+          [
+            107.5807733,
+            -6.9390932
+          ],
+          [
+            107.5807999,
+            -6.9391335
+          ],
+          [
+            107.5808244,
+            -6.9391671
+          ],
+          [
+            107.580938,
+            -6.9393311
+          ],
+          [
+            107.5810191,
+            -6.9394536
+          ],
+          [
+            107.5812002,
+            -6.9397265
+          ],
+          [
+            107.5815743,
+            -6.9402311
+          ],
+          [
+            107.5817044,
+            -6.9404068
+          ],
+          [
+            107.5818291,
+            -6.9405652
+          ],
+          [
+            107.5820397,
+            -6.9408049
+          ],
+          [
+            107.5823106,
+            -6.941111
+          ]
+        ]
+      },
+      "properties": {
+        "id": 331292384,
+        "destination": "Simpang Caringin",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.542689,
+            -6.9608414
+          ],
+          [
+            107.5425415,
+            -6.9604048
+          ],
+          [
+            107.5424811,
+            -6.9602038
+          ],
+          [
+            107.5424168,
+            -6.9599668
+          ],
+          [
+            107.5423417,
+            -6.9595662
+          ],
+          [
+            107.5422867,
+            -6.9591628
+          ],
+          [
+            107.5422652,
+            -6.9588952
+          ],
+          [
+            107.5422464,
+            -6.9585717
+          ],
+          [
+            107.5422612,
+            -6.9582496
+          ],
+          [
+            107.542276,
+            -6.9580353
+          ],
+          [
+            107.5423255,
+            -6.957536
+          ],
+          [
+            107.5423832,
+            -6.9572418
+          ],
+          [
+            107.5424516,
+            -6.956957
+          ],
+          [
+            107.542571,
+            -6.9565136
+          ],
+          [
+            107.5428315,
+            -6.9557674
+          ],
+          [
+            107.5431553,
+            -6.9548423
+          ],
+          [
+            107.5456247,
+            -6.9476902
+          ],
+          [
+            107.546048,
+            -6.9465006
+          ],
+          [
+            107.5467029,
+            -6.9446096
+          ],
+          [
+            107.5472796,
+            -6.942863
+          ],
+          [
+            107.5474338,
+            -6.9423678
+          ],
+          [
+            107.5475129,
+            -6.9421148
+          ],
+          [
+            107.5475681,
+            -6.9419709
+          ]
+        ]
+      },
+      "properties": {
+        "id": 505549734,
+        "avgspeed": "40",
+        "highway": "motorway",
+        "lanes": "2",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5495588,
+            -6.9397831
+          ],
+          [
+            107.5499953,
+            -6.9395269
+          ]
+        ]
+      },
+      "properties": {
+        "id": 542678302,
+        "destination": "Pasir Koja;Leuwi Panjang",
+        "highway": "motorway",
+        "lanes": "1",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5570704,
+            -6.9366853
+          ],
+          [
+            107.5602849,
+            -6.9351615
+          ]
+        ]
+      },
+      "properties": {
+        "id": 561397506,
+        "avgspeed": "70",
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5354867,
+            -6.9947733
+          ],
+          [
+            107.5357139,
+            -6.9942631
+          ],
+          [
+            107.5358319,
+            -6.9940023
+          ],
+          [
+            107.5359794,
+            -6.9937173
+          ],
+          [
+            107.5365105,
+            -6.9928229
+          ],
+          [
+            107.5370218,
+            -6.9920017
+          ],
+          [
+            107.5375893,
+            -6.9911243
+          ],
+          [
+            107.5384004,
+            -6.989778
+          ],
+          [
+            107.5386697,
+            -6.989354
+          ],
+          [
+            107.5393394,
+            -6.988317
+          ],
+          [
+            107.5397077,
+            -6.9877486
+          ],
+          [
+            107.5400598,
+            -6.9871902
+          ],
+          [
+            107.5416327,
+            -6.9847133
+          ],
+          [
+            107.5421069,
+            -6.9838936
+          ],
+          [
+            107.5424006,
+            -6.9833598
+          ],
+          [
+            107.542648,
+            -6.982873
+          ],
+          [
+            107.5432884,
+            -6.9815374
+          ],
+          [
+            107.5436143,
+            -6.9807574
+          ],
+          [
+            107.5438115,
+            -6.9802741
+          ],
+          [
+            107.5439643,
+            -6.9798734
+          ],
+          [
+            107.5442447,
+            -6.9791014
+          ],
+          [
+            107.5445036,
+            -6.9783121
+          ],
+          [
+            107.5446001,
+            -6.9780018
+          ],
+          [
+            107.5447315,
+            -6.9775692
+          ],
+          [
+            107.5449205,
+            -6.9768824
+          ],
+          [
+            107.545111,
+            -6.9761143
+          ],
+          [
+            107.5455254,
+            -6.9743598
+          ],
+          [
+            107.5455998,
+            -6.9740765
+          ],
+          [
+            107.5456863,
+            -6.9737474
+          ],
+          [
+            107.5457561,
+            -6.9734931
+          ],
+          [
+            107.5458472,
+            -6.9731511
+          ],
+          [
+            107.5459519,
+            -6.9726346
+          ],
+          [
+            107.546023,
+            -6.9722446
+          ]
+        ]
+      },
+      "properties": {
+        "id": 561403270,
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5323383,
+            -7.0095793
+          ],
+          [
+            107.5327084,
+            -7.0085493
+          ],
+          [
+            107.5329991,
+            -7.0075471
+          ],
+          [
+            107.5332612,
+            -7.0064294
+          ],
+          [
+            107.5333565,
+            -7.0057841
+          ],
+          [
+            107.53396,
+            -7.0018411
+          ]
+        ]
+      },
+      "properties": {
+        "id": 562361858,
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5312589,
+            -7.0127591
+          ],
+          [
+            107.5313315,
+            -7.0125519
+          ]
+        ]
+      },
+      "properties": {
+        "id": 562361864,
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.53396,
+            -7.0018411
+          ],
+          [
+            107.5340563,
+            -7.0011717
+          ]
+        ]
+      },
+      "properties": {
+        "id": 562361872,
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5534755,
+            -6.9382022
+          ],
+          [
+            107.5537985,
+            -6.9381226
+          ],
+          [
+            107.5541581,
+            -6.9380187
+          ],
+          [
+            107.5548891,
+            -6.9377492
+          ]
+        ]
+      },
+      "properties": {
+        "id": 565028028,
+        "destination": "Pasir Koja;Leuwi Panjang",
+        "destination:ref": "TOL 10",
+        "highway": "motorway",
+        "lanes": "1",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5499953,
+            -6.9395269
+          ],
+          [
+            107.5503011,
+            -6.9393498
+          ],
+          [
+            107.5506685,
+            -6.9391234
+          ],
+          [
+            107.5510373,
+            -6.9389198
+          ],
+          [
+            107.5515362,
+            -6.9387188
+          ],
+          [
+            107.5518313,
+            -6.9386242
+          ],
+          [
+            107.552074,
+            -6.9385577
+          ],
+          [
+            107.5526212,
+            -6.9384166
+          ],
+          [
+            107.5534755,
+            -6.9382022
+          ]
+        ]
+      },
+      "properties": {
+        "id": 565028029,
+        "bridge": "yes",
+        "destination": "Pasir Koja;Leuwi Panjang",
+        "destination:ref": "TOL 10",
+        "highway": "motorway",
+        "lanes": "1",
+        "layer": "1",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.546023,
+            -6.9722446
+          ],
+          [
+            107.5461174,
+            -6.9713899
+          ],
+          [
+            107.5461263,
+            -6.9712196
+          ],
+          [
+            107.546162,
+            -6.9707987
+          ]
+        ]
+      },
+      "properties": {
+        "id": 569512455,
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5602849,
+            -6.9351615
+          ],
+          [
+            107.5606012,
+            -6.935005
+          ]
+        ]
+      },
+      "properties": {
+        "id": 570881790,
+        "avgspeed": "70",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5475681,
+            -6.9419709
+          ],
+          [
+            107.5477235,
+            -6.9415397
+          ],
+          [
+            107.5479059,
+            -6.941178
+          ],
+          [
+            107.5480387,
+            -6.9409566
+          ],
+          [
+            107.5482296,
+            -6.9407243
+          ],
+          [
+            107.5484061,
+            -6.9405519
+          ],
+          [
+            107.548608,
+            -6.9404063
+          ],
+          [
+            107.5490698,
+            -6.9401114
+          ],
+          [
+            107.5493641,
+            -6.9399178
+          ],
+          [
+            107.5495588,
+            -6.9397831
+          ]
+        ]
+      },
+      "properties": {
+        "id": 571142358,
+        "avgspeed": "40",
+        "destination": "Pasir Koja;Leuwi Panjang;Pasteur;Jakarta",
+        "destination:ref": "TOL 4;TOL 10",
+        "highway": "motorway",
+        "lanes": "2",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5353934,
+            -6.9950152
+          ],
+          [
+            107.5354867,
+            -6.9947733
+          ]
+        ]
+      },
+      "properties": {
+        "id": 571840046,
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5347798,
+            -6.9968331
+          ],
+          [
+            107.5350514,
+            -6.9958978
+          ],
+          [
+            107.5353934,
+            -6.9950152
+          ]
+        ]
+      },
+      "properties": {
+        "id": 571840047,
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5693822,
+            -6.9314079
+          ],
+          [
+            107.5705886,
+            -6.9314328
+          ]
+        ]
+      },
+      "properties": {
+        "id": 685799347,
+        "avgspeed": "70",
+        "highway": "motorway",
+        "lanes": "7",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5707265,
+            -6.9314331
+          ],
+          [
+            107.5717838,
+            -6.9313641
+          ]
+        ]
+      },
+      "properties": {
+        "id": 686002143,
+        "avgspeed": "70",
+        "highway": "motorway",
+        "lanes": "7",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5705886,
+            -6.9314328
+          ],
+          [
+            107.5706235,
+            -6.9314329
+          ],
+          [
+            107.5707265,
+            -6.9314331
+          ]
+        ]
+      },
+      "properties": {
+        "id": 686002144,
+        "avgspeed": "70",
+        "covered": "yes",
+        "highway": "motorway",
+        "lanes": "7",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5347076,
+            -6.9971326
+          ],
+          [
+            107.5347798,
+            -6.9968331
+          ]
+        ]
+      },
+      "properties": {
+        "id": 687394922,
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5340563,
+            -7.0011717
+          ],
+          [
+            107.5341797,
+            -7.0003239
+          ],
+          [
+            107.5342703,
+            -6.9996224
+          ],
+          [
+            107.5347076,
+            -6.9971326
+          ]
+        ]
+      },
+      "properties": {
+        "id": 687394923,
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5831212,
+            -6.9419015
+          ],
+          [
+            107.5831836,
+            -6.9419591
+          ],
+          [
+            107.5834599,
+            -6.9422141
+          ],
+          [
+            107.5835578,
+            -6.942293
+          ],
+          [
+            107.583608,
+            -6.942339
+          ],
+          [
+            107.5838985,
+            -6.9425994
+          ],
+          [
+            107.5842331,
+            -6.9428621
+          ],
+          [
+            107.5842817,
+            -6.9429003
+          ],
+          [
+            107.5844282,
+            -6.9430135
+          ]
+        ]
+      },
+      "properties": {
+        "id": 704442767,
+        "destination:lanes": "Babakan Ciparay;Peta;Jamika|Kopo;Leuwipanjang|Mohammad Toha;Buahbatu",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "sharp_left|through|through"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.542925,
+            -6.9613859
+          ],
+          [
+            107.542689,
+            -6.9608414
+          ]
+        ]
+      },
+      "properties": {
+        "id": 780124197,
+        "avgspeed": "40",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.546162,
+            -6.9707987
+          ],
+          [
+            107.5461659,
+            -6.9707311
+          ],
+          [
+            107.5461718,
+            -6.9697199
+          ],
+          [
+            107.546137,
+            -6.969292
+          ],
+          [
+            107.5461008,
+            -6.9689446
+          ],
+          [
+            107.5460511,
+            -6.9685798
+          ],
+          [
+            107.5459887,
+            -6.968244
+          ],
+          [
+            107.545817,
+            -6.9675663
+          ],
+          [
+            107.5456962,
+            -6.9670944
+          ],
+          [
+            107.5455147,
+            -6.9665089
+          ],
+          [
+            107.5454367,
+            -6.9662881
+          ],
+          [
+            107.5453254,
+            -6.9659963
+          ],
+          [
+            107.5451198,
+            -6.9655136
+          ],
+          [
+            107.5450102,
+            -6.9652798
+          ],
+          [
+            107.5448047,
+            -6.9648761
+          ],
+          [
+            107.5445369,
+            -6.9643624
+          ],
+          [
+            107.5441616,
+            -6.9636756
+          ],
+          [
+            107.5434776,
+            -6.9624163
+          ],
+          [
+            107.5432402,
+            -6.9619823
+          ],
+          [
+            107.5430597,
+            -6.9616468
+          ],
+          [
+            107.542925,
+            -6.9613859
+          ]
+        ]
+      },
+      "properties": {
+        "id": 780124199,
+        "avgspeed": "40",
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5313315,
+            -7.0125519
+          ],
+          [
+            107.5318665,
+            -7.0110518
+          ],
+          [
+            107.5323383,
+            -7.0095793
+          ]
+        ]
+      },
+      "properties": {
+        "id": 891744952,
+        "highway": "motorway",
+        "lanes": "3",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5897693,
+            -6.9455492
+          ],
+          [
+            107.5898471,
+            -6.9455853
+          ],
+          [
+            107.5899816,
+            -6.945652
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1073713998,
+        "destination": "Leuwipanjang;Cibaduyut;Mohammad Toha;Cibiru",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5952184,
+            -6.9469031
+          ],
+          [
+            107.5952459,
+            -6.9466699
+          ],
+          [
+            107.5952669,
+            -6.9462117
+          ],
+          [
+            107.595271,
+            -6.9461694
+          ],
+          [
+            107.5952757,
+            -6.9461131
+          ],
+          [
+            107.5952807,
+            -6.9460535
+          ],
+          [
+            107.5952859,
+            -6.9459928
+          ],
+          [
+            107.595295,
+            -6.9458786
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1073714000,
+        "destination:lanes": "Terminal Leuwipanjang|",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Jalan Leuwi Panjang",
+        "oneway": "yes",
+        "turn:lanes": "left;through|through"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5548891,
+            -6.9377492
+          ],
+          [
+            107.5570704,
+            -6.9366853
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1079518616,
+        "avgspeed": "70",
+        "destination": "Pasir Koja;Leuwi Panjang",
+        "highway": "motorway",
+        "lanes": "2",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.575943,
+            -6.930415
+          ],
+          [
+            107.5760414,
+            -6.9303848
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1079518622,
+        "highway": "motorway",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "4",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5760414,
+            -6.9303848
+          ],
+          [
+            107.5760593,
+            -6.9304537
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1079518623,
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5894259,
+            -6.945408
+          ],
+          [
+            107.5896531,
+            -6.9454988
+          ],
+          [
+            107.5897088,
+            -6.945521
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1084971556,
+        "destination:lanes": "Leuwipanjang;Cibaduyut;Mohammad Toha;Cibiru|Leuwipanjang;Cibaduyut;Mohammad Toha;Cibiru|Purbaleunyi;Kopo Sayati;Lapangan Udara Sulaiman;Rancamanyar",
+        "destination:ref:lanes": "11|11|4;106;;",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "through|through|right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5312215,
+            -7.0128722
+          ],
+          [
+            107.5312589,
+            -7.0127591
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1111192548,
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Jalan Tol Soreang–Pasir Koja",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5717838,
+            -6.9313641
+          ],
+          [
+            107.572432,
+            -6.9313474
+          ],
+          [
+            107.5730325,
+            -6.9313066
+          ],
+          [
+            107.5734019,
+            -6.9312666
+          ],
+          [
+            107.5737087,
+            -6.9312089
+          ],
+          [
+            107.5740081,
+            -6.9311202
+          ],
+          [
+            107.5744168,
+            -6.9309985
+          ],
+          [
+            107.5752602,
+            -6.9306703
+          ],
+          [
+            107.5755067,
+            -6.9305697
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1111600032,
+        "avgspeed": "70",
+        "destination:lanes": "Holis;Cibeureum;Garuda;Cimahi|Jamika;Peta;Babakan Ciparay;Astana Anyar|Caringin;Kopo;Leuwipanjang;Cibaduyut",
+        "highway": "motorway",
+        "lanes": "3",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes",
+        "turn:lanes": "slight_left;through|through;right|right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5755067,
+            -6.9305697
+          ],
+          [
+            107.5758318,
+            -6.9304529
+          ],
+          [
+            107.575943,
+            -6.930415
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1111600033,
+        "avgspeed": "70",
+        "destination:lanes": "Jamika;Peta;Babakan Ciparay;Astana Anyar||Caringin;Kopo;Leuwipanjang;Cibaduyut",
+        "destination:ref": "373|373;11|11",
+        "highway": "motorway",
+        "lanes": "3",
+        "motorcycle": "no",
+        "name": "Jalan Tol Soreang–Pasirkoja",
+        "oneway": "yes",
+        "operator": "PT Citra Marga Lintas Jabar",
+        "ref": "4",
+        "short_name": "Jalan Tol Soroja",
+        "source": "Bing",
+        "toll": "yes",
+        "turn:lanes": "through|through;right|right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5849105,
+            -6.9433545
+          ],
+          [
+            107.5850407,
+            -6.9434372
+          ],
+          [
+            107.5853375,
+            -6.9436258
+          ],
+          [
+            107.58577,
+            -6.9438614
+          ],
+          [
+            107.5860174,
+            -6.9439945
+          ],
+          [
+            107.586299,
+            -6.9441384
+          ],
+          [
+            107.5863956,
+            -6.9441848
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1113146909,
+        "destination:lanes": "Kopo;Leuwipanjang;Cibaduyut|Kopo;Leuwipanjang;Cibaduyut|Mohammad Toha;Batununggal;Buahbatu;Cibiru|Mohammad Toha;Batununggal;Buahbatu;Cibiru",
+        "destination:ref:lanes": "||11|11",
+        "highway": "trunk",
+        "lanes": "4",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "slight_left|slight_left|through|through"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5888658,
+            -6.9451811
+          ],
+          [
+            107.5890571,
+            -6.9452671
+          ],
+          [
+            107.5891029,
+            -6.9452877
+          ],
+          [
+            107.5891731,
+            -6.9453141
+          ],
+          [
+            107.5893173,
+            -6.9453679
+          ],
+          [
+            107.5894259,
+            -6.945408
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1197261991,
+        "destination:lanes": "Peta;Panjunan;Astana Anyar|Leuwipanjang;Cibaduyut;Mohammad Toha;Cibiru|Purbaleunyi;Kopo Sayati;Lapangan Udara Sulaiman;Rancamanyar",
+        "destination:ref:lanes": "106|11|4;106;;",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "slight_left;through|through|right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.595295,
+            -6.9458786
+          ],
+          [
+            107.5947542,
+            -6.9458158
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1206691758,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "covered": "no",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Masuk Bus",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5944877,
+            -6.9457804
+          ],
+          [
+            107.5940855,
+            -6.9457238
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1206691759,
+        "bicycle": "no",
+        "bus": "yes",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota dan AKAP",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5920057,
+            -6.9464327
+          ],
+          [
+            107.5922205,
+            -6.9465024
+          ],
+          [
+            107.5923591,
+            -6.9465464
+          ],
+          [
+            107.5924183,
+            -6.9465651
+          ],
+          [
+            107.5929217,
+            -6.946706
+          ],
+          [
+            107.5930626,
+            -6.9467395
+          ],
+          [
+            107.5934341,
+            -6.9468277
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1218976005,
+        "destination:lanes": "||Kopo;Caringin;Pasir Koja",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "through|through|through;reverse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5899816,
+            -6.945652
+          ],
+          [
+            107.5902641,
+            -6.9457816
+          ],
+          [
+            107.5904302,
+            -6.9458446
+          ],
+          [
+            107.5905372,
+            -6.9458885
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1218977139,
+        "destination": "Simpang Leuwipanjang",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5897088,
+            -6.945521
+          ],
+          [
+            107.5897693,
+            -6.9455492
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1227189879,
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5844282,
+            -6.9430135
+          ],
+          [
+            107.584573,
+            -6.9431186
+          ],
+          [
+            107.584642,
+            -6.9431671
+          ],
+          [
+            107.5847245,
+            -6.9432291
+          ],
+          [
+            107.5848895,
+            -6.9433396
+          ],
+          [
+            107.5849105,
+            -6.9433545
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1231740041,
+        "destination:lanes": "Kopo;Leuwipanjang;Cibaduyut||Mohammad Toha;Batununggal;Buahbatu;Cibiru",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "slight_left|slight_left;through|through"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5934341,
+            -6.9468277
+          ],
+          [
+            107.5935172,
+            -6.946847
+          ],
+          [
+            107.5935575,
+            -6.9468564
+          ],
+          [
+            107.5936688,
+            -6.9468823
+          ],
+          [
+            107.593986,
+            -6.9469544
+          ],
+          [
+            107.5940785,
+            -6.9469738
+          ],
+          [
+            107.5941765,
+            -6.9469938
+          ],
+          [
+            107.5942182,
+            -6.9470057
+          ],
+          [
+            107.5946413,
+            -6.947092
+          ],
+          [
+            107.5946801,
+            -6.9470993
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1234371438,
+        "destination:lanes": "||Kopo;Caringin;Pasir Koja",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "through|through|through;reverse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5937479,
+            -6.9458174
+          ],
+          [
+            107.5937354,
+            -6.9458345
+          ],
+          [
+            107.5937192,
+            -6.9458627
+          ],
+          [
+            107.5937098,
+            -6.9458851
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1245234204,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5937098,
+            -6.9458851
+          ],
+          [
+            107.5936967,
+            -6.9459132
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1245234205,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5940315,
+            -6.9457129
+          ],
+          [
+            107.5939798,
+            -6.9457037
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1245234215,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota dan AKAP",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5939798,
+            -6.9457037
+          ],
+          [
+            107.5938573,
+            -6.9457504
+          ],
+          [
+            107.5938167,
+            -6.9457793
+          ],
+          [
+            107.5937687,
+            -6.9458089
+          ],
+          [
+            107.5937479,
+            -6.9458174
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1245234216,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5940855,
+            -6.9457238
+          ],
+          [
+            107.5940315,
+            -6.9457129
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1245234225,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota dan AKAP",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5947542,
+            -6.9458158
+          ],
+          [
+            107.5946724,
+            -6.9458045
+          ],
+          [
+            107.5944877,
+            -6.9457804
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1245685312,
+        "access": "no",
+        "bicycle": "no",
+        "bus": "designated",
+        "covered": "no",
+        "highway": "service",
+        "horse": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Jalur Bus Kota dan AKAP",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.530779,
+            -7.0141857
+          ],
+          [
+            107.5312215,
+            -7.0128722
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1363661395,
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Tol Soreang–Pasir Koja",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.5823106,
+            -6.941111
+          ],
+          [
+            107.582497,
+            -6.9413067
+          ],
+          [
+            107.5826593,
+            -6.9414771
+          ],
+          [
+            107.5828645,
+            -6.9416649
+          ],
+          [
+            107.5831212,
+            -6.9419015
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1364319045,
+        "destination:lanes": "Babakan Ciparay;Peta;Jamika|Kopo;Leuwipanjang|Mohammad Toha;Buahbatu",
+        "highway": "trunk",
+        "lanes": "3",
+        "name": "Jalan Soekarno-Hatta",
+        "oneway": "yes",
+        "ref": "11",
+        "turn:lanes": "sharp_left|through|through"
+      }
+    }
+  ]
+}

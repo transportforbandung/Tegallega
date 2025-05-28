@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6024135,
+          -6.9161558
+        ]
+      },
+      "properties": {
+        "id": 1013407725,
+        "alt_name": "Stasiun Bandung Pintu Selatan",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Stasiun Hall",
+        "public_transport": "stop_position",
+        "ref": "Stasiun Hall/Kebon Jati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600717,
+          -6.9293977
+        ]
+      },
+      "properties": {
+        "id": 6443280171,
+        "bus": "yes",
+        "name": "Astana Anyar RSIA Kota Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6105556,
+          -6.9065022
+        ]
+      },
+      "properties": {
+        "id": 10653503633,
+        "bus": "yes",
+        "departures_board": "no",
+        "name": "Hotel The-One-O-One A",
+        "network": "Trans Metro Pasundan",
+        "public_transport": "stop_position",
+        "ramp": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115213,
+          -6.9024821
+        ]
+      },
+      "properties": {
+        "id": 10778322183,
+        "bus": "yes",
+        "name": "Taman Radio A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6129072,
+          -6.8944564
+        ]
+      },
+      "properties": {
+        "id": 11104669204,
+        "bus": "yes",
+        "name": "Rumah Sakit Santo Borromeus A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6127613,
+          -6.8975185
+        ]
+      },
+      "properties": {
+        "id": 11104718108,
+        "bus": "yes",
+        "name": "Kartikasari A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6177764,
+          -6.8923055
+        ]
+      },
+      "properties": {
+        "id": 11707030824,
+        "bus": "yes",
+        "name": "UNPAD Dipatiukur (4D)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6096165,
+          -6.9068537
+        ]
+      },
+      "properties": {
+        "id": 11739021634,
+        "bus": "yes",
+        "name": "Riau XL",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6030596,
+          -6.9365059
+        ]
+      },
+      "properties": {
+        "id": 11739021646,
+        "bus": "yes",
+        "name": "Taman Tegallega",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5956524,
+          -6.9372267
+        ]
+      },
+      "properties": {
+        "id": 11739021652,
+        "bus": "yes",
+        "name": "Rumah Sakit Immanuel A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6024577,
+          -6.9338521
+        ]
+      },
+      "properties": {
+        "id": 11739021654,
+        "bus": "yes",
+        "name": "Pintu Masuk Terminal Tegallega",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6150582,
+          -6.8869095
+        ]
+      },
+      "properties": {
+        "id": 11739021656,
+        "bus": "yes",
+        "name": "UNIKOM",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609039,
+          -6.9130013
+        ]
+      },
+      "properties": {
+        "id": 11739064594,
+        "alt_name": "Balai Kota",
+        "bus": "yes",
+        "name": "SMK Negeri 1 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932469,
+          -6.9458124
+        ]
+      },
+      "properties": {
+        "id": 3277886365,
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

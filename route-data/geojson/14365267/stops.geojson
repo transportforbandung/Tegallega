@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934112,
+          -6.9360768
+        ]
+      },
+      "properties": {
+        "id": 12626357384,
+        "bus": "yes",
+        "name": "Hotel Grand Pasundan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5905268,
+          -6.933574
+        ]
+      },
+      "properties": {
+        "id": 12626357385,
+        "bus": "yes",
+        "name": "Bumi Kopo Kencana",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5872624,
+          -6.9291184
+        ]
+      },
+      "properties": {
+        "id": 12626357386,
+        "bus": "yes",
+        "name": "Festival Citylink",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5849563,
+          -6.9270511
+        ]
+      },
+      "properties": {
+        "id": 12626357387,
+        "bus": "yes",
+        "name": "Simpang Pasir Koja",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5793217,
+          -6.9292122
+        ]
+      },
+      "properties": {
+        "id": 12626357388,
+        "bus": "yes",
+        "name": "SPBU Pasir Koja",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5309483,
+          -7.0141236
+        ]
+      },
+      "properties": {
+        "id": 12626357389,
+        "bus": "yes",
+        "name": "Hotel Soreang A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5292319,
+          -7.0206847
+        ]
+      },
+      "properties": {
+        "id": 12626357390,
+        "bus": "yes",
+        "name": "Mall Pelayanan Publik",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5303409,
+          -7.0234041
+        ]
+      },
+      "properties": {
+        "id": 12626357392,
+        "bus": "yes",
+        "name": "Plaza Pemkab Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5287745,
+          -7.0287904
+        ]
+      },
+      "properties": {
+        "id": 12626357393,
+        "bus": "yes",
+        "name": "Simpang Desa Soreang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5412986,
+          -7.0305108
+        ]
+      },
+      "properties": {
+        "id": 12626357394,
+        "bus": "yes",
+        "name": "Pasar Ikan Modern",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5425246,
+          -7.0273253
+        ]
+      },
+      "properties": {
+        "id": 12626357395,
+        "bus": "yes",
+        "name": "RSUD Otto Iskandar Dinata",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5416105,
+          -7.0218422
+        ]
+      },
+      "properties": {
+        "id": 12626357396,
+        "bus": "yes",
+        "name": "Samsat Soreang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5363125,
+          -7.0154748
+        ]
+      },
+      "properties": {
+        "id": 12626357397,
+        "bus": "yes",
+        "name": "Geo Dipa Energi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932425,
+          -6.9458452
+        ]
+      },
+      "properties": {
+        "id": 3277886379,
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.530779,
+          -7.0141857
+        ]
+      },
+      "properties": {
+        "id": 12626357383,
+        "bus": "yes",
+        "name": "Hotel Soreang B",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

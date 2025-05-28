@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6274766,
+          -6.9106475
+        ]
+      },
+      "properties": {
+        "id": 1107694939,
+        "bus": "yes",
+        "name": "Taman Pramuka",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6199195,
+          -6.9011743
+        ]
+      },
+      "properties": {
+        "id": 1666155324,
+        "bus": "yes",
+        "name": "Lapangan Gasibu A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7652049,
+          -6.9356267
+        ]
+      },
+      "properties": {
+        "id": 1966499313,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "IPDN A",
+        "public_transport": "stop_position",
+        "ref": "IPDN A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6288644,
+          -6.9130163
+        ]
+      },
+      "properties": {
+        "id": 3375793687,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hotel Grand Tebu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090862,
+          -6.9473728
+        ]
+      },
+      "properties": {
+        "id": 5487616737,
+        "bus": "yes",
+        "name": "Simpang By Pass Soekarno Hatta A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6252887,
+          -6.9343354
+        ]
+      },
+      "properties": {
+        "id": 7702036194,
+        "bus": "yes",
+        "name": "Hotel Horison A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6161542,
+          -6.8979225
+        ]
+      },
+      "properties": {
+        "id": 11707030826,
+        "bus": "yes",
+        "name": "Panatayudha A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6241876,
+          -6.9010661
+        ]
+      },
+      "properties": {
+        "id": 11707030829,
+        "bus": "yes",
+        "name": "PUSDAI A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6301163,
+          -6.9080655
+        ]
+      },
+      "properties": {
+        "id": 11707030832,
+        "bus": "yes",
+        "name": "SMPN 14 Bandung (Lapangan Supratman A)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6313457,
+          -6.9183624
+        ]
+      },
+      "properties": {
+        "id": 11707030860,
+        "bus": "yes",
+        "name": "Bandung Creative Hub A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062885,
+          -6.939027
+        ]
+      },
+      "properties": {
+        "id": 11707031623,
+        "bus": "yes",
+        "name": "Muhammad Toha 1 (PT INTI A)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115168,
+          -6.954618
+        ]
+      },
+      "properties": {
+        "id": 11711185184,
+        "bus": "yes",
+        "name": "SPBU Moh. Toha",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7541846,
+          -6.9410603
+        ]
+      },
+      "properties": {
+        "id": 11711185187,
+        "bus": "yes",
+        "name": "Cileunyi A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6180361,
+          -6.8934568
+        ]
+      },
+      "properties": {
+        "id": 3375793673,
+        "bus": "yes",
+        "name": "UNPAD Dipatiukur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7732376,
+          -6.932299
+        ]
+      },
+      "properties": {
+        "id": 10697346845,
+        "bus": "yes",
+        "name": "UNPAD Jatinangor",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

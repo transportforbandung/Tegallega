@@ -1,0 +1,474 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6361478,
+          -6.9729226
+        ]
+      },
+      "properties": {
+        "id": 549740249,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Permata Buah Batu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6309071,
+          -7.0054785
+        ]
+      },
+      "properties": {
+        "id": 2477247659,
+        "bus": "yes",
+        "name": "Apotek K24",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6121553,
+          -6.9484924
+        ]
+      },
+      "properties": {
+        "id": 3272360374,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PLN UP3 Bandung B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6097021,
+          -6.9101076
+        ]
+      },
+      "properties": {
+        "id": 3376669066,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Museum Kota Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619152,
+          -6.9489877
+        ]
+      },
+      "properties": {
+        "id": 3384018110,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PT LEN Industri B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062885,
+          -6.939027
+        ]
+      },
+      "properties": {
+        "id": 11707031623,
+        "bus": "yes",
+        "name": "Muhammad Toha 1 (PT INTI A)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071455,
+          -6.9211653
+        ]
+      },
+      "properties": {
+        "id": 11711275743,
+        "bus": "yes",
+        "name": "Alun-Alun Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6104548,
+          -6.9125343
+        ]
+      },
+      "properties": {
+        "id": 11739021637,
+        "alt_name": "Santa Angela",
+        "bus": "yes",
+        "name": "Merdeka",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039434,
+          -6.9230192
+        ]
+      },
+      "properties": {
+        "id": 11739021639,
+        "bus": "yes",
+        "name": "Toko Mas ABC",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6036329,
+          -6.9280445
+        ]
+      },
+      "properties": {
+        "id": 11739021641,
+        "bus": "yes",
+        "name": "Simpang Ijan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603223,
+          -6.9339734
+        ]
+      },
+      "properties": {
+        "id": 11739021644,
+        "bus": "yes",
+        "name": "Taman Tegallega",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6083491,
+          -6.945205
+        ]
+      },
+      "properties": {
+        "id": 11739021649,
+        "bus": "yes",
+        "name": "Madurasa Tengah",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6355974,
+          -6.9749692
+        ]
+      },
+      "properties": {
+        "id": 11950910945,
+        "bus": "yes",
+        "name": "Podomoro",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6235977,
+          -7.0059629
+        ]
+      },
+      "properties": {
+        "id": 12626499675,
+        "bus": "yes",
+        "name": "KEJARI Bale Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6243131,
+          -7.0074774
+        ]
+      },
+      "properties": {
+        "id": 12626499676,
+        "bus": "yes",
+        "name": "RS Al-Ihsan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6318593,
+          -7.0002949
+        ]
+      },
+      "properties": {
+        "id": 12626499679,
+        "bus": "yes",
+        "name": "Masjid Jami' Baitul Huda B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6316525,
+          -6.9914167
+        ]
+      },
+      "properties": {
+        "id": 12626499681,
+        "bus": "yes",
+        "name": "Alfamart SPBU Bojongsoang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6328659,
+          -6.9857289
+        ]
+      },
+      "properties": {
+        "id": 12626499682,
+        "bus": "yes",
+        "name": "Griya Bandung Asri",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6339127,
+          -6.981957
+        ]
+      },
+      "properties": {
+        "id": 12626499684,
+        "bus": "yes",
+        "name": "AHASS",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6375686,
+          -6.9671846
+        ]
+      },
+      "properties": {
+        "id": 12626499687,
+        "bus": "yes",
+        "name": "Transmart Buahbatu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6381038,
+          -6.9649573
+        ]
+      },
+      "properties": {
+        "id": 12626499688,
+        "bus": "yes",
+        "name": "Puskesmas Kujangsari B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6394982,
+          -6.9584038
+        ]
+      },
+      "properties": {
+        "id": 12626499689,
+        "bus": "yes",
+        "name": "Bluebird B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6387006,
+          -6.9534876
+        ]
+      },
+      "properties": {
+        "id": 12626499692,
+        "bus": "yes",
+        "name": "Pasar Kordon B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6357751,
+          -6.9503784
+        ]
+      },
+      "properties": {
+        "id": 12626499694,
+        "bus": "yes",
+        "name": "Swadarma BNI",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6339239,
+          -6.9484693
+        ]
+      },
+      "properties": {
+        "id": 12626499695,
+        "bus": "yes",
+        "name": "Taman Buah Batu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6280918,
+          -6.9493306
+        ]
+      },
+      "properties": {
+        "id": 12626499698,
+        "bus": "yes",
+        "name": "Bangunan Mart B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6248137,
+          -6.9494301
+        ]
+      },
+      "properties": {
+        "id": 12626499699,
+        "bus": "yes",
+        "name": "LPKIA B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6093744,
+          -6.9081456
+        ]
+      },
+      "properties": {
+        "id": 5825243776,
+        "bus": "yes",
+        "name": "Bandung Electronic Center",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6261375,
+          -7.0067058
+        ]
+      },
+      "properties": {
+        "id": 11871901023,
+        "bus": "yes",
+        "name": "Baleendah",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

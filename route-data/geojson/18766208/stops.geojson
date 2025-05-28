@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.638933,
+          -6.9541863
+        ]
+      },
+      "properties": {
+        "id": 35138340,
+        "bus": "yes",
+        "name": "Pasar Kordon A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6029303,
+          -6.9125954
+        ]
+      },
+      "properties": {
+        "id": 293384756,
+        "bus": "yes",
+        "name": "Stasiun Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6287137,
+          -7.0059605
+        ]
+      },
+      "properties": {
+        "id": 2477247661,
+        "bus": "yes",
+        "name": "Masjid Al-Amanah",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6323136,
+          -6.9484371
+        ]
+      },
+      "properties": {
+        "id": 2614138793,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Medal Sekarwangi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190348,
+          -6.9490929
+        ]
+      },
+      "properties": {
+        "id": 3384018111,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PT LEN Industri A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062815,
+          -6.9365596
+        ]
+      },
+      "properties": {
+        "id": 5355897678,
+        "bus": "yes",
+        "name": "Taman Tegalega 3",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599992,
+          -6.906861
+        ]
+      },
+      "properties": {
+        "id": 11138593915,
+        "bus": "yes",
+        "name": "SDN Pajajaran",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604546,
+          -6.9153572
+        ]
+      },
+      "properties": {
+        "id": 11262097619,
+        "bus": "yes",
+        "name": "Stasiun Timur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6063015,
+          -6.9390693
+        ]
+      },
+      "properties": {
+        "id": 11707031622,
+        "bus": "yes",
+        "name": "Sekolah Ganesha",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071455,
+          -6.9211653
+        ]
+      },
+      "properties": {
+        "id": 11711275743,
+        "bus": "yes",
+        "name": "Alun-Alun Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5979188,
+          -6.9114098
+        ]
+      },
+      "properties": {
+        "id": 11739021629,
+        "bus": "yes",
+        "name": "SMAN 6 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044125,
+          -6.9064803
+        ]
+      },
+      "properties": {
+        "id": 11739021630,
+        "bus": "yes",
+        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608407,
+          -6.9453744
+        ]
+      },
+      "properties": {
+        "id": 11739021648,
+        "alt_name": "Mohammad Toha",
+        "bus": "yes",
+        "name": "TK Kemala Bhayangkari",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6067877,
+          -6.9301452
+        ]
+      },
+      "properties": {
+        "id": 11883812981,
+        "bus": "yes",
+        "name": "SDN Moh. Toha",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606261,
+          -6.9238597
+        ]
+      },
+      "properties": {
+        "id": 11898859975,
+        "bus": "yes",
+        "name": "Grand Yogya Kepatihan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6312603,
+          -7.0040341
+        ]
+      },
+      "properties": {
+        "id": 12626499677,
+        "bus": "yes",
+        "name": "Matahari Land",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6318753,
+          -7.0002118
+        ]
+      },
+      "properties": {
+        "id": 12626499678,
+        "bus": "yes",
+        "name": "Masjid Jami' Baitul Huda A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6308112,
+          -6.9946948
+        ]
+      },
+      "properties": {
+        "id": 12626499680,
+        "bus": "yes",
+        "name": "Bubur Ayam H. Amid",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6330944,
+          -6.984586
+        ]
+      },
+      "properties": {
+        "id": 12626499683,
+        "bus": "yes",
+        "name": "Borma Bojongsoang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6352127,
+          -6.9763963
+        ]
+      },
+      "properties": {
+        "id": 12626499685,
+        "bus": "yes",
+        "name": "SD Negeri Lengkong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6374709,
+          -6.9676213
+        ]
+      },
+      "properties": {
+        "id": 12626499686,
+        "bus": "yes",
+        "name": "Puskesmas Bojongsoang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639482,
+          -6.9576866
+        ]
+      },
+      "properties": {
+        "id": 12626499690,
+        "bus": "yes",
+        "name": "Bluebird A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6364761,
+          -6.9512022
+        ]
+      },
+      "properties": {
+        "id": 12626499693,
+        "bus": "yes",
+        "name": "JAPNAS",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6281496,
+          -6.9494451
+        ]
+      },
+      "properties": {
+        "id": 12626499697,
+        "bus": "yes",
+        "name": "Bangunan Mart A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242225,
+          -6.9495008
+        ]
+      },
+      "properties": {
+        "id": 12626499700,
+        "bus": "yes",
+        "name": "LPKIA A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.612094,
+          -6.9485877
+        ]
+      },
+      "properties": {
+        "id": 12626529703,
+        "bus": "yes",
+        "name": "PLN UP3 Bandung A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6059915,
+          -6.926739
+        ]
+      },
+      "properties": {
+        "id": 12626529705,
+        "bus": "yes",
+        "name": "ITC Kebon Kalapa",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6066404,
+          -6.9187122
+        ]
+      },
+      "properties": {
+        "id": 12626529706,
+        "bus": "yes",
+        "name": "Banceuy",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6261375,
+          -7.0067058
+        ]
+      },
+      "properties": {
+        "id": 11871901023,
+        "bus": "yes",
+        "name": "Baleendah",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6093744,
+          -6.9081456
+        ]
+      },
+      "properties": {
+        "id": 5825243776,
+        "bus": "yes",
+        "name": "Bandung Electronic Center",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

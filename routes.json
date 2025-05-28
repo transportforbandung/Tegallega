@@ -1,0 +1,153 @@
+{
+  "categories": [
+    {
+      "name": "Metro Jabar Trans",
+      "routeGroups": [
+        {
+          "groupId": "1",
+          "name": "Koridor 1 Metro Jabar Trans",
+          "color": "#00A64F",
+          "type": "fixed",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Soreang",
+              "directionId": 0,
+              "relationId": "14365267",
+              "first_departure": "04:40",
+              "last_departure": "20:30",
+              "trips": "60"
+            },
+            {
+              "name": "Soreang → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18765871",
+              "first_departure": "05:30",
+              "last_departure": "21:30",
+              "trips": "60"
+            }
+          ]
+        },
+        {
+          "groupId": "2",
+          "name": "Koridor 2 Metro Jabar Trans",
+          "color": "#ED1C24",
+          "type": "fixed",
+          "routes": [
+            {
+              "name": "Kota Baru Parahyangan → Alun-alun Bandung",
+              "directionId": 0,
+              "relationId": "18766205",
+              "first_departure": "05:00",
+              "last_departure": "20:00",
+              "trips": "60"
+            },
+            {
+              "name": "Alun-alun Bandung → Kota Baru Parahyangan",
+              "directionId": 1,
+              "relationId": "18766206",
+              "first_departure": "05:30",
+              "last_departure": "21:30",
+              "trips": "60"
+            }
+          ]
+        },
+        {
+          "groupId": "3",
+          "name": "Koridor 3 Metro Jabar Trans",
+          "color": "#562B63",
+          "type": "fixed",
+          "routes": [
+            {
+              "name": "Baleendah → BEC",
+              "directionId": 0,
+              "relationId": "18766205",
+              "first_departure": "05:00",
+              "last_departure": "20:00",
+              "trips": "60"
+            },
+            {
+              "name": "BEC → Baleendah",
+              "directionId": 1,
+              "relationId": "18766207",
+              "first_departure": "05:30",
+              "last_departure": "21:30",
+              "trips": "60"
+            }
+          ]
+        },
+        {
+          "groupId": "4",
+          "name": "Koridor 4 Metro Jabar Trans",
+          "color": "#2E3192",
+          "type": "fixed",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Dago",
+              "directionId": 0,
+              "relationId": "14298213",
+              "first_departure": "05:00",
+              "last_departure": "20:00",
+              "trips": "60"
+            },
+            {
+              "name": "Dago → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18770906",
+              "first_departure": "05:30",
+              "last_departure": "21:30",
+              "trips": "60"
+            }
+          ]
+        },
+        {
+          "groupId": "5",
+          "name": "Koridor 5 Metro Jabar Trans",
+          "color": "#EC008C",
+          "type": "fixed",
+          "routes": [
+            {
+              "name": "Dipatiukur → Jatinangor",
+              "directionId": 0,
+              "relationId": "15660998",
+              "first_departure": "05:00",
+              "last_departure": "20:00",
+              "trips": "60"
+            },
+            {
+              "name": "Jatinangor → Dipatiukur",
+              "directionId": 1,
+              "relationId": "14364569",
+              "first_departure": "05:30",
+              "last_departure": "21:30",
+              "trips": "60"
+            }
+          ]
+        },
+        {
+          "groupId": "6",
+          "name": "Koridor 6 Metro Jabar Trans",
+          "color": "#F04B23",
+          "type": "fixed",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Majalaya",
+              "directionId": 0,
+              "relationId": "18771078",
+              "first_departure": "05:00",
+              "last_departure": "20:00",
+              "trips": "60"
+            },
+            {
+              "name": "Majalaya → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18771079",
+              "first_departure": "05:30",
+              "last_departure": "21:30",
+              "trips": "60"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
