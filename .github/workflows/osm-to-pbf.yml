@@ -11,14 +11,15 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Install Osmium Tool
+      - name: Install osmconvert
         run: |
-          sudo apt update
-          sudo apt install -y osmium-tool
+          wget https://download.geofabrik.de/osmconvert64
+          chmod +x osmconvert64
+          sudo mv osmconvert64 /usr/local/bin/osmconvert
 
       - name: Convert .osm to .osm.pbf
         run: |
-          osmium convert raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
+          osmconvert raw/greater-bandung.osm -o=raw/greater-bandung.osm.pbf
 
       - name: Commit Converted .osm.pbf
         run: |
