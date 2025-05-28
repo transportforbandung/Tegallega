@@ -3,10 +3,13 @@ import json
 import csv
 from collections import defaultdict
 
-# Configuration
-ROUTES_JSON = 'routes.json'
-ROUTE_DATA_DIR = 'route-data'
-GTFS_DIR = 'gtfs'
+# Get the absolute path to the repository root
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Configuration (using absolute paths)
+ROUTES_JSON = os.path.join(REPO_ROOT, 'routes.json')
+ROUTE_DATA_DIR = os.path.join(REPO_ROOT, 'route-data')
+GTFS_DIR = os.path.join(REPO_ROOT, 'gtfs')
 TIMEZONE = 'Asia/Jakarta'
 AGENCY_NAME = 'Metro Jabar Trans'
 AGENCY_URL = 'https://instagram.com/brt.metrojabartrans'
@@ -54,10 +57,11 @@ def process_stops(routes):
     
     for route in routes:
         route_id = route['relationId']
-        stop_file = os.path.join(ROUTE_DATA_DIR, route_id, 'stops.geojson')
+        stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
         
         if not os.path.exists(stop_file):
             print(f"Stop file not found for route {route_id}: {stop_file}")
+            print(f"Directory contents: {os.listdir(os.path.dirname(stop_file))}")
             continue
             
         with open(stop_file) as f:
@@ -90,10 +94,11 @@ def process_shapes(routes):
     
     for route in routes:
         route_id = route['relationId']
-        ways_file = os.path.join(ROUTE_DATA_DIR, route_id, 'ways.geojson')
+        ways_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'ways.geojson')
         
         if not os.path.exists(ways_file):
             print(f"Ways file not found for route {route_id}: {ways_file}")
+            print(f"Directory contents: {os.listdir(os.path.dirname(ways_file))}")
             continue
             
         with open(ways_file) as f:
@@ -134,7 +139,7 @@ def generate_trips(routes):
     
     for route in routes:
         route_id = route['relationId']
-        stop_file = os.path.join(ROUTE_DATA_DIR, route_id, 'stops.geojson')
+        stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
         
         if not os.path.exists(stop_file):
             print(f"Stop file not found for trip generation: {stop_file}")
@@ -200,15 +205,19 @@ def create_agency():
 def write_gtfs(data, filename, fieldnames):
     """Write GTFS CSV file"""
     os.makedirs(GTFS_DIR, exist_ok=True)
-    with open(os.path.join(GTFS_DIR, filename), 'w', newline='', encoding='utf-8') as f:
+    output_path = os.path.join(GTFS_DIR, filename)
+    with open(output_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         if not isinstance(data, list):
             data = list(data)
         writer.writerows(data)
+    print(f"Created: {output_path}")
 
 def main():
     print("Starting GTFS generation for Metro Jabar Trans...")
+    print(f"Repository root: {REPO_ROOT}")
+    print(f"Routes JSON path: {ROUTES_JSON}")
     
     # Process data
     routes, route_groups = process_routes()
