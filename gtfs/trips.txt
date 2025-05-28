@@ -1,1 +1,13 @@
 route_id,trip_id,service_id,trip_headsign,direction_id,shape_id
+1,trip_1,weekday,Leuwipanjang → Soreang,0,shape_14365267
+1,trip_2,weekday,Soreang → Leuwipanjang,1,shape_18765871
+2,trip_3,weekday,Kota Baru Parahyangan → Alun-alun Bandung,0,shape_18766205
+2,trip_4,weekday,Alun-alun Bandung → Kota Baru Parahyangan,1,shape_18766206
+3,trip_5,weekday,Baleendah → BEC,0,shape_18766205
+3,trip_6,weekday,BEC → Baleendah,1,shape_18766207
+4,trip_7,weekday,Leuwipanjang → Dago,0,shape_14298213
+4,trip_8,weekday,Dago → Leuwipanjang,1,shape_18770906
+5,trip_9,weekday,Dipatiukur → Jatinangor,0,shape_15660998
+5,trip_10,weekday,Jatinangor → Dipatiukur,1,shape_14364569
+6,trip_11,weekday,Leuwipanjang → Majalaya,0,shape_18771078
+6,trip_12,weekday,Majalaya → Leuwipanjang,1,shape_18771079
