@@ -21,11 +21,11 @@ jobs:
           curl -sSL https://install.python-poetry.org | python3 -
           echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-      - name: Clone Prism repo
+      - name: Clone Prism and install dependencies
         run: |
           git clone https://github.com/Jungle-Bus/prism.git
           cd prism
-          poetry install
+          poetry install --no-root
 
       - name: Create output directory
         run: mkdir -p gtfs
@@ -33,7 +33,7 @@ jobs:
       - name: Run Prism to generate GTFS
         run: |
           cd prism
-          poetry run prism ../raw/greater-bandung.osm.pbf ../gtfs
+          poetry run python -m prism ../raw/greater-bandung.osm.pbf ../gtfs
 
       - name: Commit GTFS output
         run: |
