@@ -16,25 +16,16 @@ jobs:
           sudo apt update
           sudo apt install -y osmium-tool
 
-      - name: Prepare Input Directory
-        run: mkdir -p data
-
-      # Optional: Place your .osm file in /data or download it
-      # Example of downloading your Overpass-exported .osm file:
-      - name: Download OSM File
-        run: |
-          curl -L -o data/city.osm "https://your-download-url.com/city.osm"
-
       - name: Convert .osm to .osm.pbf
         run: |
-          osmium convert data/city.osm -o data/city.osm.pbf
+          osmium convert raw/greater-bandung.osm -o raw/greater-bandung.osm.pbf
 
       - name: Commit Converted .osm.pbf
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add data/city.osm.pbf
-          git commit -m "Add converted .osm.pbf file"
+          git add raw/greater-bandung.osm.pbf
+          git commit -m "Add converted greater-bandung.osm.pbf"
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
