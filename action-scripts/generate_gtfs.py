@@ -48,28 +48,26 @@ def process_routes():
     all_routes = []
     
     for category in data['categories']:
-        # Focus only on Metro Jabar Trans
         if category['name'] != "Metro Jabar Trans":
             continue
             
         for group in category['routeGroups']:
-            # Skip non-fixed routes (for future GTFS-flex)
             if group.get('type') != 'fixed':
                 continue
                 
-            # Create route group entry
             route_groups.append({
                 'group_id': group['groupId'],
                 'name': group['name'],
                 'color': group['color'],
-                'route_type': 3  # Bus
+                'route_type': 3,  # Bus
+                'loop': group.get('loop', 'no')  # Capture loop attribute
             })
             
-            # Process each route direction
             for route in group['routes']:
                 route['group_id'] = group['groupId']
                 route['group_name'] = group['name']
                 route['color'] = group['color']
+                route['loop'] = group.get('loop', 'no')  # Add to route
                 all_routes.append(route)
     
     return all_routes, route_groups
@@ -162,9 +160,12 @@ def process_shapes(routes):
     return shapes
 
 def generate_trips(routes):
-    """Generate trips and stop times with calculated times based on distances"""
+    """Generate trips and stop times with block_id support"""
     trips = []
     stop_times = []
+    
+    # Track last trip index per group for block pairing
+    group_trip_counts = defaultdict(int)
     
     for route in routes:
         route_id = route['relationId']
@@ -212,23 +213,25 @@ def generate_trips(routes):
             num_trips = 0
         
         if num_trips < 1:
-            print(f"Warning: No trips defined for route {route_id}")
             continue
             
         # Parse operational times
         start_sec = time_str_to_seconds(route['first_departure'])
         end_sec = time_str_to_seconds(route['last_departure'])
-        
-        # Handle single-trip case
-        if num_trips == 1:
-            headway_sec = 0
-        else:
-            headway_sec = (end_sec - start_sec) / (num_trips - 1)
-        
-        # Generate the specified number of trips
+        headway_sec = (end_sec - start_sec) / (num_trips - 1) if num_trips > 1 else 0
+
+        # Generate trips
         for idx in range(num_trips):
-            trip_start = start_sec + idx * headway_sec
-            trip_id = f"t-MJT{route['group_id']}{route['directionId']}{idx+1}"
+            trip_index = group_trip_counts[route['group_id']] + 1
+            group_trip_counts[route['group_id']] = trip_index
+            
+            trip_id = f"t-MJT{route['group_id']}{route['directionId']}{trip_index}"
+            
+            # Create block_id for loop routes
+            block_id = ""
+            if route['loop'] == 'yes':
+                # Format: MJT{group_id}{trip_index}
+                block_id = f"MJT{route['group_id']}{trip_index}"
             
             trips.append({
                 'route_id': route['group_id'],
@@ -236,7 +239,8 @@ def generate_trips(routes):
                 'service_id': 'everyday',
                 'trip_headsign': route['name'],
                 'direction_id': route['directionId'],
-                'shape_id': route.get('shape_id', '')
+                'shape_id': route.get('shape_id', ''),
+                'block_id': block_id  # Add block_id field
             })
             
             # Calculate stop times
@@ -322,7 +326,7 @@ def main():
     ['route_id', 'agency_id', 'route_short_name', 'route_long_name', 'route_type', 'route_color'])
     
     write_gtfs(trips, 'trips.txt', 
-               ['route_id', 'trip_id', 'service_id', 'trip_headsign', 'direction_id', 'shape_id'])
+               ['route_id', 'trip_id', 'service_id', 'trip_headsign', 'direction_id', 'shape_id', 'block_id'])  # Added block_id
     
     write_gtfs(list(stops.values()), 'stops.txt', 
                ['stop_id', 'stop_name', 'stop_lat', 'stop_lon', 'location_type', 'wheelchair_boarding'])
