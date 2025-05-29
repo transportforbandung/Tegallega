@@ -161,6 +161,7 @@
         "lanes": "3",
         "name": "Jalan Cihampelas",
         "oneway": "yes",
+        "sidewalk:both": "separate",
         "smoothness": "intermediate",
         "source": "S2City_POI_2022",
         "surface": "asphalt",
@@ -411,6 +412,8 @@
         "lanes": "3",
         "name": "Jalan Stasiun Timur",
         "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
         "surface": "asphalt"
       }
     },
@@ -664,10 +667,14 @@
       },
       "properties": {
         "id": 175071635,
+        "foot": "yes",
         "highway": "secondary",
         "lanes": "1",
         "name": "Jalan Dipatiukur",
         "oneway": "yes",
+        "parking:both": "no",
+        "sidewalk": "no",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -725,28 +732,8 @@
             -6.8874631
           ],
           [
-            107.6158021,
-            -6.8889815
-          ],
-          [
-            107.6158888,
-            -6.8891749
-          ],
-          [
-            107.6160343,
-            -6.8894728
-          ],
-          [
-            107.6165653,
-            -6.8902412
-          ],
-          [
-            107.616618,
-            -6.8903175
-          ],
-          [
-            107.6166228,
-            -6.8903248
+            107.6156977,
+            -6.8886991
           ]
         ]
       },
@@ -759,6 +746,8 @@
         "lanes": "2",
         "name": "Jalan Dipatiukur",
         "oneway": "no",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
         "surface": "asphalt"
       }
     },
@@ -848,6 +837,7 @@
         "name": "Jalan Wastukencana",
         "oneway": "no",
         "sidewalk": "separate",
+        "smoothness": "intermediate",
         "surface": "asphalt"
       }
     },
@@ -1071,6 +1061,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -1462,8 +1453,10 @@
         "foot": "yes",
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -1798,6 +1791,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -1843,6 +1837,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -1894,6 +1889,8 @@
         "motor_vehicle": "yes",
         "name": "Jalan Perintis Kemerdekaan",
         "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
         "surface": "asphalt"
       }
     },
@@ -2710,6 +2707,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -2826,6 +2824,7 @@
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
         "sidewalk": "separate",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -2920,6 +2919,7 @@
         "lanes": "1",
         "name": "Jalan Dipatiukur",
         "oneway": "yes",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -2953,8 +2953,10 @@
         "foot": "yes",
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -3261,6 +3263,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -3338,6 +3341,10 @@
           [
             107.6031066,
             -6.9160901
+          ],
+          [
+            107.60326,
+            -6.9160638
           ],
           [
             107.6043695,
@@ -3434,6 +3441,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -3792,6 +3800,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -3833,6 +3842,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -3996,8 +4006,10 @@
         "foot": "yes",
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -4043,6 +4055,7 @@
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
         "sidewalk": "separate",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -4300,6 +4313,79 @@
         "lanes": "2",
         "name": "Jalan Kebon Jati",
         "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.6156977,
+            -6.8886991
+          ],
+          [
+            107.6158021,
+            -6.8889815
+          ],
+          [
+            107.6158888,
+            -6.8891749
+          ],
+          [
+            107.6160343,
+            -6.8894728
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1388852430,
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "horse": "yes",
+        "lanes": "2",
+        "name": "Jalan Dipatiukur",
+        "oneway": "no",
+        "sidewalk:left": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.6160343,
+            -6.8894728
+          ],
+          [
+            107.6165653,
+            -6.8902412
+          ],
+          [
+            107.616618,
+            -6.8903175
+          ],
+          [
+            107.6166228,
+            -6.8903248
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1388852431,
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "secondary",
+        "horse": "yes",
+        "lanes": "2",
+        "name": "Jalan Dipatiukur",
+        "oneway": "no",
+        "sidewalk": "right",
         "surface": "asphalt"
       }
     }

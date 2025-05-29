@@ -6,14 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5934341,
-          -6.9468277
+          107.530779,
+          -7.0141857
         ]
       },
       "properties": {
-        "id": 11295303565,
+        "id": 12626357383,
+        "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Leuwipanjang Soekarno Hatta",
+        "name": "Hotel Soreang B",
         "public_transport": "stop_position"
       }
     },
@@ -28,6 +29,7 @@
       },
       "properties": {
         "id": 12626357398,
+        "role": "stop",
         "bus": "yes",
         "name": "Sumber Sari Junction",
         "public_transport": "stop_position"
@@ -44,6 +46,7 @@
       },
       "properties": {
         "id": 12626357399,
+        "role": "stop",
         "bus": "yes",
         "name": "Pasar Induk Caringin",
         "public_transport": "stop_position"
@@ -54,14 +57,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.530779,
-          -7.0141857
+          107.5934341,
+          -6.9468277
         ]
       },
       "properties": {
-        "id": 12626357383,
+        "id": 11295303565,
+        "role": "stop",
         "bus": "yes",
-        "name": "Hotel Soreang B",
+        "name": "Leuwipanjang Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -76,6 +80,7 @@
       },
       "properties": {
         "id": 3277886379,
+        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"

@@ -476,6 +476,8 @@
         "lanes": "3",
         "name": "Jalan Stasiun Timur",
         "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
         "surface": "asphalt"
       }
     },
@@ -1629,6 +1631,7 @@
         "highway": "primary_link",
         "lanes": "1",
         "oneway": "yes",
+        "surface": "asphalt",
         "turn:lanes": "right"
       }
     },
@@ -4966,6 +4969,8 @@
         "motor_vehicle": "yes",
         "name": "Jalan Perintis Kemerdekaan",
         "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
         "surface": "asphalt"
       }
     },
@@ -5796,6 +5801,10 @@
             -6.9160901
           ],
           [
+            107.60326,
+            -6.9160638
+          ],
+          [
             107.6043695,
             -6.9158689
           ],
@@ -6157,6 +6166,7 @@
         "name": "Jalan Lembong",
         "oneway": "yes",
         "sidewalk": "separate",
+        "surface": "asphalt",
         "turn:lanes": "through|through|through"
       }
     },
@@ -7093,8 +7103,12 @@
             -6.8685111
           ],
           [
-            107.5240567,
-            -6.8685213
+            107.5238605,
+            -6.8685121
+          ],
+          [
+            107.524111,
+            -6.8685186
           ],
           [
             107.5242475,

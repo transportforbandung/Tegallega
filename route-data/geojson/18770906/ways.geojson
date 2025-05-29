@@ -108,6 +108,7 @@
         "lanes": "3",
         "name": "Jalan Otto Iskandardinata",
         "oneway": "yes",
+        "sidewalk": "both",
         "surface": "asphalt"
       }
     },
@@ -276,14 +277,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            107.6174318,
-            -6.8947388
-          ],
-          [
-            107.6166325,
-            -6.894853
-          ],
-          [
             107.6160516,
             -6.8948686
           ],
@@ -308,8 +301,12 @@
       "properties": {
         "id": 4623282,
         "avgspeed": "20",
+        "cycleway:both": "no",
         "highway": "tertiary",
         "name": "Jalan Hasanudin",
+        "parking:both": "on_kerb",
+        "parking:both:orientation": "perpendicular",
+        "sidewalk": "no",
         "surface": "asphalt"
       }
     },
@@ -627,6 +624,7 @@
         "motor_vehicle": "yes",
         "name": "Jalan Dipatiukur",
         "oneway": "yes",
+        "sidewalk": "no",
         "surface": "asphalt"
       }
     },
@@ -1081,9 +1079,11 @@
       "properties": {
         "id": 318732962,
         "avgspeed": "20",
+        "cycleway:both": "no",
         "highway": "tertiary",
         "lane_markings": "no",
         "name": "Jalan Hasanudin",
+        "parking:both": "no",
         "surface": "asphalt"
       }
     },
@@ -1163,6 +1163,7 @@
         "lit": "yes",
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
+        "parking:both": "no",
         "sidewalk": "separate",
         "smoothness": "good",
         "source": "S2City_POI_2022",
@@ -1554,6 +1555,8 @@
         "lanes": "2",
         "name": "Jalan Dipatiukur",
         "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
         "surface": "asphalt"
       }
     },
@@ -2209,6 +2212,7 @@
         "lanes": "3",
         "name": "Jalan Mohammad Toha",
         "oneway": "yes",
+        "sidewalk:left": "separate",
         "surface": "asphalt"
       }
     },
@@ -2248,6 +2252,7 @@
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
         "sidewalk": "separate",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -2287,6 +2292,7 @@
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
         "sidewalk": "separate",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -2416,6 +2422,8 @@
         "motor_vehicle": "yes",
         "name": "Jalan Perintis Kemerdekaan",
         "oneway": "yes",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
         "surface": "asphalt"
       }
     },
@@ -3153,8 +3161,13 @@
       "properties": {
         "id": 1222381629,
         "avgspeed": "20",
+        "cycleway:both": "no",
         "highway": "tertiary",
+        "lane_markings": "no",
         "name": "Jalan Hasanudin",
+        "parking:left": "no",
+        "parking:right": "half_on_kerb",
+        "parking:right:orientation": "parallel",
         "surface": "asphalt"
       }
     },
@@ -3180,8 +3193,11 @@
       "properties": {
         "id": 1222381635,
         "avgspeed": "20",
+        "cycleway:both": "no",
         "highway": "tertiary",
+        "lane_markings": "no",
         "name": "Jalan Hasanudin",
+        "parking:both": "no",
         "surface": "asphalt"
       }
     },
@@ -3217,6 +3233,7 @@
         "name": "Jalan Ir. H. Djuanda",
         "oneway": "yes",
         "sidewalk": "separate",
+        "smoothness": "excellent",
         "surface": "asphalt"
       }
     },
@@ -3497,6 +3514,39 @@
         "lanes": "2",
         "name": "Jalan Dipatiukur",
         "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.6174318,
+            -6.8947388
+          ],
+          [
+            107.6166325,
+            -6.894853
+          ],
+          [
+            107.6160516,
+            -6.8948686
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1390136500,
+        "avgspeed": "20",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "name": "Jalan Hasanudin",
+        "parking:left": "lane",
+        "parking:left:orientation": "parallel",
+        "parking:right": "no",
+        "sidewalk": "no",
         "surface": "asphalt"
       }
     }

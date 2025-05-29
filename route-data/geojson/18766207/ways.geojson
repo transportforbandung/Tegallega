@@ -98,6 +98,7 @@
         "lanes": "3",
         "name": "Jalan Otto Iskandardinata",
         "oneway": "yes",
+        "sidewalk": "both",
         "surface": "asphalt"
       }
     },
@@ -370,6 +371,7 @@
         "name": "Jalan Wastukencana",
         "oneway": "no",
         "sidewalk": "separate",
+        "smoothness": "intermediate",
         "surface": "asphalt"
       }
     },
@@ -838,6 +840,7 @@
         "highway": "primary_link",
         "lanes": "1",
         "oneway": "yes",
+        "surface": "asphalt",
         "turn:lanes": "right"
       }
     },
@@ -1374,13 +1377,16 @@
       },
       "properties": {
         "id": 318899775,
+        "cycleway:both": "no",
         "highway": "primary",
         "lanes": "4",
         "lanes:backward": "2",
         "lanes:forward": "2",
         "maxspeed": "30",
         "name": "Jalan Mohammad Toha",
-        "ref": "161"
+        "ref": "161",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -1520,6 +1526,7 @@
         "highway": "trunk_link",
         "lanes": "1",
         "oneway": "yes",
+        "surface": "asphalt",
         "turn:lanes": "left"
       }
     },
@@ -1705,8 +1712,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            107.6336213,
-            -6.982891
+            107.633615,
+            -6.9828912
           ],
           [
             107.633572,
@@ -2097,12 +2104,16 @@
       "properties": {
         "id": 556619982,
         "avgspeed": "30",
+        "cycleway:both": "no",
         "foot": "no",
         "highway": "primary",
         "lanes": "2",
         "name": "Jalan Mohammad Toha",
         "oneway": "yes",
+        "parking:both": "no",
         "ref": "161",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
         "surface": "asphalt"
       }
     },
@@ -2630,6 +2641,8 @@
         "motor_vehicle": "yes",
         "name": "Jalan Merdeka",
         "oneway": "yes",
+        "sidewalk:both": "separate",
+        "smoothness": "good",
         "surface": "asphalt",
         "turn:lanes": "left|left|left"
       }
@@ -2703,7 +2716,8 @@
         "lanes": "3",
         "name": "Jalan Soekarno-Hatta",
         "oneway": "yes",
-        "ref": "11"
+        "ref": "11",
+        "surface": "asphalt"
       }
     },
     {
@@ -2913,6 +2927,7 @@
         "name": "Jalan Lembong",
         "oneway": "yes",
         "sidewalk": "separate",
+        "surface": "asphalt",
         "turn:lanes": "through|through|through"
       }
     },
@@ -3672,8 +3687,8 @@
             -6.9820795
           ],
           [
-            107.6337877,
-            -6.9822572
+            107.6337834,
+            -6.9822627
           ]
         ]
       },
@@ -3776,6 +3791,7 @@
         "name": "Jalan Merdeka",
         "oneway": "yes",
         "sidewalk": "separate",
+        "smoothness": "good",
         "surface": "asphalt",
         "turn:lanes": "slight_left;through|through|through"
       }
@@ -3902,12 +3918,19 @@
       "properties": {
         "id": 1212464431,
         "avgspeed": "30",
+        "cycleway:both": "no",
         "highway": "primary",
         "lanes": "4",
         "lanes:backward": "2",
         "lanes:forward": "2",
         "name": "Jalan Mohammad Toha",
-        "ref": "161"
+        "parking:left": "lane",
+        "parking:left:orientation": "parallel",
+        "parking:right": "no",
+        "ref": "161",
+        "sidewalk:both": "separate",
+        "smoothness": "excellent",
+        "surface": "asphalt"
       }
     },
     {
@@ -4091,6 +4114,7 @@
       },
       "properties": {
         "id": 1234195272,
+        "cycleway:both": "no",
         "destination:lanes:backward": "Batununggal;Buahbatu;Kiaracondong;Cibiru|Mekarwangi;Purbaleunyi;Mengger;Dayeuh Kolot|Inhoftank;Cibaduyut;Leuwipanjang;Kopo",
         "destination:ref:lanes:backward": "11|161;4;;|11",
         "highway": "primary",
@@ -4099,7 +4123,9 @@
         "lanes:forward": "2",
         "maxspeed": "30",
         "name": "Jalan Mohammad Toha",
-        "ref": "161"
+        "ref": "161",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
       }
     },
     {
@@ -4297,8 +4323,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            107.6337877,
-            -6.9822572
+            107.6337834,
+            -6.9822627
           ],
           [
             107.6336739,
@@ -4362,8 +4388,8 @@
             -6.9827042
           ],
           [
-            107.6336213,
-            -6.982891
+            107.633615,
+            -6.9828912
           ]
         ]
       },
