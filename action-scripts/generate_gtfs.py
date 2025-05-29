@@ -197,7 +197,7 @@ def generate_trips(routes):
             )
             # Add minimum distance to avoid division by zero
             dist = max(dist, 0.01)  # At least 10 meters
-            speed = 50 if dist <= 5 else 70
+            speed = 35 if dist <= 5 else 65
             segment_times.append((dist / speed) * 3600)  # in seconds
         
         # Calculate cumulative travel times (excluding dwell)
