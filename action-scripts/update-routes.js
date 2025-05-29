@@ -103,7 +103,7 @@ async function getOrderedStops(relationId) {
 
     // Collect stop nodes in order of appearance - FIXED SYNTAX HERE
     const stopMembers = relation.members
-      .filter(member => (
+      .filter(member =>
         member.type === 'node' && 
         ['stop', 'stop_entry_only', 'stop_exit_only'].includes(member.role)
       )
