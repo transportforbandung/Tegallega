@@ -224,7 +224,7 @@ def generate_trips(routes):
         for idx in range(num_trips):
             trip_index = group_trip_counts[route['group_id']] + 1
             group_trip_counts[route['group_id']] = trip_index
-            
+            trip_start = start_sec + idx * headway_sec
             trip_id = f"t-MJT{route['group_id']}{route['directionId']}{trip_index}"
             
             # Create block_id for loop routes
