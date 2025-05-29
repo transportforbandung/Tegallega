@@ -42,7 +42,7 @@
             {
               "name": "Kota Baru Parahyangan → Alun-alun Bandung",
               "directionId": 0,
-              "relationId": "18766205",
+              "relationId": "18766206",
               "first_departure": "04:30",
               "last_departure": "20:00",
               "trips": "90"
@@ -50,7 +50,7 @@
             {
               "name": "Alun-alun Bandung → Kota Baru Parahyangan",
               "directionId": 1,
-              "relationId": "18766206",
+              "relationId": "18766205",
               "first_departure": "05:15",
               "last_departure": "20:45",
               "trips": "90"
