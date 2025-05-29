@@ -46,7 +46,7 @@ function loadRouteData() {
 const uniqueRoutes = loadRouteData();
 console.log(`Loaded ${uniqueRoutes.length} valid routes`);
 
-// Overpass API query with retry logic (unchanged)
+// Overpass API query with retry logic
 async function overpassQuery(query, retries = 3, delay = 2000) {
   const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
   
@@ -67,7 +67,7 @@ async function overpassQuery(query, retries = 3, delay = 2000) {
   }
 }
 
-// Process OSM ways into GeoJSON (unchanged)
+// Process OSM ways into GeoJSON
 function processWays(elements) {
   const features = elements
     .filter(el => el.type === 'way')
@@ -89,7 +89,7 @@ function processWays(elements) {
   };
 }
 
-// NEW: Get stop members from relation in correct order
+// Get stop members from relation in correct order
 async function getOrderedStops(relationId) {
   try {
     const query = `[out:json];relation(${relationId});out body;`;
@@ -189,7 +189,7 @@ async function processRoute(route) {
   }
 }
 
-// Main execution (unchanged)
+// Main execution
 (async () => {
   try {
     for (const route of uniqueRoutes) {
