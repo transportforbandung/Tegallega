@@ -12,6 +12,7 @@
           "name": "Koridor 1 Metro Jabar Trans",
           "color": "#00A64F",
           "type": "fixed",
+          "loop": "no",
           "routes": [
             {
               "name": "Leuwipanjang → Soreang",
@@ -36,6 +37,7 @@
           "name": "Koridor 2 Metro Jabar Trans",
           "color": "#ED1C24",
           "type": "fixed",
+          "loop": "yes",
           "routes": [
             {
               "name": "Kota Baru Parahyangan → Alun-alun Bandung",
@@ -49,8 +51,8 @@
               "name": "Alun-alun Bandung → Kota Baru Parahyangan",
               "directionId": 1,
               "relationId": "18766206",
-              "first_departure": "05:00",
-              "last_departure": "21:15",
+              "first_departure": "05:05",
+              "last_departure": "20:45",
               "trips": "90"
             }
           ]
@@ -60,6 +62,7 @@
           "name": "Koridor 3 Metro Jabar Trans",
           "color": "#562B63",
           "type": "fixed",
+          "loop": "yes",
           "routes": [
             {
               "name": "Baleendah → BEC",
@@ -73,8 +76,8 @@
               "name": "BEC → Baleendah",
               "directionId": 1,
               "relationId": "18766207",
-              "first_departure": "05:15",
-              "last_departure": "21:00",
+              "first_departure": "05:05",
+              "last_departure": "20:45",
               "trips": "80"
             }
           ]
@@ -84,6 +87,7 @@
           "name": "Koridor 4 Metro Jabar Trans",
           "color": "#2E3192",
           "type": "fixed",
+          "loop": "yes",
           "routes": [
             {
               "name": "Leuwipanjang → Dago",
@@ -108,6 +112,7 @@
           "name": "Koridor 5 Metro Jabar Trans",
           "color": "#EC008C",
           "type": "fixed",
+          "loop": "no",
           "routes": [
             {
               "name": "Dipatiukur → Jatinangor",
@@ -132,6 +137,7 @@
           "name": "Koridor 6 Metro Jabar Trans",
           "color": "#F04B23",
           "type": "fixed",
+          "loop": "no",
           "routes": [
             {
               "name": "Leuwipanjang → Majalaya",
@@ -145,8 +151,8 @@
               "name": "Majalaya → Leuwipanjang",
               "directionId": 1,
               "relationId": "18771079",
-              "first_departure": "07:00",
-              "last_departure": "14:00",
+              "first_departure": "06:45",
+              "last_departure": "14:45",
               "trips": "16"
             }
           ]
