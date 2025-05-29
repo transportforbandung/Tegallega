@@ -114,24 +114,23 @@ def process_stops(routes):
     return all_stops
 
 def process_shapes(routes):
-    """Process route geometries into GTFS shapes"""
+    """Process route geometries into GTFS shapes with correct shape_dist_traveled"""
     shapes = []
-    
+
     for route in routes:
         route_id = route['relationId']
         ways_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'ways.geojson')
-        
+
         if not os.path.exists(ways_file):
             print(f"Ways file not found for route {route_id}: {ways_file}")
-            # Print parent directory contents for debugging
             parent_dir = os.path.dirname(ways_file)
             if os.path.exists(parent_dir):
                 print(f"Directory contents: {os.listdir(parent_dir)}")
             continue
-            
+
         with open(ways_file) as f:
             data = json.load(f)
-        
+
         # Extract coordinates from GeoJSON
         coords = []
         for feature in data['features']:
@@ -141,22 +140,30 @@ def process_shapes(routes):
             elif geom_type == 'MultiLineString':
                 for line in feature['geometry']['coordinates']:
                     coords.extend(line)
-        
-        # Create shape records
+
+        # Create shape records with cumulative distance
         shape_id = f"shape_{route_id}"
-        
+        cumulative_dist = 0.0
+
         for seq, coord in enumerate(coords):
+            if seq == 0:
+                cumulative_dist = 0.0
+            else:
+                prev = coords[seq - 1]
+                segment_dist = haversine(prev[0], prev[1], coord[0], coord[1])
+                cumulative_dist += segment_dist
+
             shapes.append({
                 'shape_id': shape_id,
                 'shape_pt_lon': coord[0],
                 'shape_pt_lat': coord[1],
                 'shape_pt_sequence': seq + 1,
-                'shape_dist_traveled': None
+                'shape_dist_traveled': round(cumulative_dist, 6)
             })
-        
+
         # Store shape ID for trip assignment
         route['shape_id'] = shape_id
-    
+
     return shapes
 
 def generate_trips(routes):
