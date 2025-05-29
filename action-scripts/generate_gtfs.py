@@ -8,7 +8,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Configuration (using absolute paths)
 ROUTES_JSON = os.path.join(REPO_ROOT, 'routes.json')
-ROUTE_DATA_DIR = os.path.join(REPO_ROOT, 'route-data', 'geojson')  # Updated path
+ROUTE_DATA_DIR = os.path.join(REPO_ROOT, 'route-data', 'geojson')
 GTFS_DIR = os.path.join(REPO_ROOT, 'gtfs')
 TIMEZONE = 'Asia/Jakarta'
 AGENCY_NAME = 'Metro Jabar Trans'
@@ -57,7 +57,6 @@ def process_stops(routes):
     
     for route in routes:
         route_id = route['relationId']
-        # Updated path to include geojson subdirectory
         stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
         
         if not os.path.exists(stop_file):
@@ -98,7 +97,6 @@ def process_shapes(routes):
     
     for route in routes:
         route_id = route['relationId']
-        # Updated path to include geojson subdirectory
         ways_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'ways.geojson')
         
         if not os.path.exists(ways_file):
@@ -143,11 +141,9 @@ def generate_trips(routes):
     """Generate trips and stop times with placeholder times"""
     trips = []
     stop_times = []
-    trip_counter = 1
     
     for route in routes:
         route_id = route['relationId']
-        # Updated path to include geojson subdirectory
         stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
         
         if not os.path.exists(stop_file):
@@ -155,51 +151,69 @@ def generate_trips(routes):
             continue
             
         with open(stop_file) as f:
-            data = json.load(f)
+            stop_data = json.load(f)
         
-        # Create trip
-        trip_id = f"trip_{trip_counter}"
-        trip_counter += 1
+        # Get number of trips from route configuration
+        try:
+            num_trips = int(route.get('trips', '0'))
+        except ValueError:
+            num_trips = 0
         
-        trips.append({
-            'route_id': route['group_id'],
-            'trip_id': trip_id,
-            'service_id': 'weekday',
-            'trip_headsign': route['name'],
-            'direction_id': route['directionId'],
-            'shape_id': route.get('shape_id', '')
-        })
-        
-        # Create stop times with placeholder times
-        for seq, feature in enumerate(data['features']):
-            props = feature['properties']
-            stop_id = props.get('id', f"stop_{seq}")
+        if num_trips < 1:
+            print(f"Warning: No trips defined for route {route_id}")
+            continue
             
-            stop_times.append({
+        # Create trip ID components
+        agency_id = 'MJT'  # From create_agency()
+        route_group_id = route['group_id']
+        direction_id = route['directionId']
+        
+        # Create base trip ID without index
+        base_trip_id = f"t-{agency_id}{route_group_id}{direction_id}"
+        
+        # Generate the specified number of trips
+        for trip_index in range(1, num_trips + 1):
+            trip_id = f"{base_trip_id}{trip_index}"
+            
+            trips.append({
+                'route_id': route['group_id'],
                 'trip_id': trip_id,
-                'stop_id': stop_id,
-                'stop_sequence': seq + 1,
-                'arrival_time': '08:00:00',  # Placeholder
-                'departure_time': '08:00:00',  # Placeholder
-                'pickup_type': 0,
-                'drop_off_type': 0
+                'service_id': 'everyday',  # Updated service ID
+                'trip_headsign': route['name'],
+                'direction_id': route['directionId'],
+                'shape_id': route.get('shape_id', '')
             })
+            
+            # Create stop times with placeholder times
+            for seq, feature in enumerate(stop_data['features']):
+                props = feature['properties']
+                stop_id = props.get('id', f"stop_{seq}")
+                
+                stop_times.append({
+                    'trip_id': trip_id,
+                    'stop_id': stop_id,
+                    'stop_sequence': seq + 1,
+                    'arrival_time': '08:00:00',  # Placeholder
+                    'departure_time': '08:00:00',  # Placeholder
+                    'pickup_type': 0,
+                    'drop_off_type': 0
+                })
     
     return trips, stop_times
 
 def create_calendar():
-    """Placeholder calendar - will be enhanced later"""
+    """Calendar for everyday service with unlimited end date"""
     return [{
-        'service_id': 'weekday',
+        'service_id': 'everyday',
         'monday': 1,
         'tuesday': 1,
         'wednesday': 1,
         'thursday': 1,
         'friday': 1,
-        'saturday': 0,
-        'sunday': 0,
-        'start_date': '20250101',
-        'end_date': '20251231'
+        'saturday': 1,
+        'sunday': 1,
+        'start_date': '20250101',  # Start from Jan 1, 2025
+        'end_date': '20991231'     # End on Dec 31, 2099 (far future)
     }]
 
 def create_agency():
@@ -267,6 +281,8 @@ def main():
     
     print(f"GTFS generated successfully in {GTFS_DIR}/ directory")
     print(f"Processed {len(route_groups)} route groups and {len(routes)} directions")
+    print(f"Generated {len(trips)} trips and {len(stop_times)} stop times")
 
 if __name__ == "__main__":
     main()
+    
