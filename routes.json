@@ -15,7 +15,7 @@
               "relationId": "14365267",
               "first_departure": "04:40",
               "last_departure": "20:30",
-              "trips": "60"
+              "trips": "90"
             },
             {
               "name": "Soreang → Leuwipanjang",
@@ -23,7 +23,7 @@
               "relationId": "18765871",
               "first_departure": "05:30",
               "last_departure": "21:30",
-              "trips": "60"
+              "trips": "90"
             }
           ]
         },
@@ -37,17 +37,17 @@
               "name": "Kota Baru Parahyangan → Alun-alun Bandung",
               "directionId": 0,
               "relationId": "18766205",
-              "first_departure": "05:00",
+              "first_departure": "04:30",
               "last_departure": "20:00",
-              "trips": "60"
+              "trips": "90"
             },
             {
               "name": "Alun-alun Bandung → Kota Baru Parahyangan",
               "directionId": 1,
               "relationId": "18766206",
-              "first_departure": "05:30",
-              "last_departure": "21:30",
-              "trips": "60"
+              "first_departure": "05:00",
+              "last_departure": "21:15",
+              "trips": "90"
             }
           ]
         },
@@ -61,17 +61,17 @@
               "name": "Baleendah → BEC",
               "directionId": 0,
               "relationId": "18766205",
-              "first_departure": "05:00",
+              "first_departure": "04:30",
               "last_departure": "20:00",
-              "trips": "60"
+              "trips": "80"
             },
             {
               "name": "BEC → Baleendah",
               "directionId": 1,
               "relationId": "18766207",
-              "first_departure": "05:30",
-              "last_departure": "21:30",
-              "trips": "60"
+              "first_departure": "05:15",
+              "last_departure": "21:00",
+              "trips": "80"
             }
           ]
         },
@@ -85,17 +85,17 @@
               "name": "Leuwipanjang → Dago",
               "directionId": 0,
               "relationId": "14298213",
-              "first_departure": "05:00",
-              "last_departure": "20:00",
-              "trips": "60"
+              "first_departure": "04:30",
+              "last_departure": "20:30",
+              "trips": "70"
             },
             {
               "name": "Dago → Leuwipanjang",
               "directionId": 1,
               "relationId": "18770906",
-              "first_departure": "05:30",
-              "last_departure": "21:30",
-              "trips": "60"
+              "first_departure": "04:50",
+              "last_departure": "21:15",
+              "trips": "70"
             }
           ]
         },
@@ -109,17 +109,17 @@
               "name": "Dipatiukur → Jatinangor",
               "directionId": 0,
               "relationId": "15660998",
-              "first_departure": "05:00",
-              "last_departure": "20:00",
-              "trips": "60"
+              "first_departure": "04:30",
+              "last_departure": "19:30",
+              "trips": "84"
             },
             {
               "name": "Jatinangor → Dipatiukur",
               "directionId": 1,
               "relationId": "14364569",
               "first_departure": "05:30",
-              "last_departure": "21:30",
-              "trips": "60"
+              "last_departure": "20:30",
+              "trips": "84"
             }
           ]
         },
@@ -133,17 +133,17 @@
               "name": "Leuwipanjang → Majalaya",
               "directionId": 0,
               "relationId": "18771078",
-              "first_departure": "05:00",
-              "last_departure": "20:00",
-              "trips": "60"
+              "first_departure": "06:00",
+              "last_departure": "13:00",
+              "trips": "16"
             },
             {
               "name": "Majalaya → Leuwipanjang",
               "directionId": 1,
               "relationId": "18771079",
-              "first_departure": "05:30",
-              "last_departure": "21:30",
-              "trips": "60"
+              "first_departure": "07:00",
+              "last_departure": "14:00",
+              "trips": "16"
             }
           ]
         }
