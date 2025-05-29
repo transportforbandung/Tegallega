@@ -1,10 +1,9 @@
-#!/bin/bash
+#!/bin/sh
 
-if [ ! -f /app/otp-data/Graph.obj ]; then
-  echo "Building OTP graph..."
-  java -Xmx2G -jar otp.jar --build /app/otp-data
-else
-  echo "Graph already built, starting server..."
+if [ ! -f /app/otp-data/graph.obj ]; then
+  echo "Graph not found. Building graph..."
+  java -Xmx2G -jar /app/otp.jar --build /app/otp-data
 fi
 
-java -Xmx2G -jar otp.jar --load /app/otp-data --serve
+echo "Starting OTP server..."
+java -Xmx2G -jar /app/otp.jar --serve --graphs /app/otp-data
