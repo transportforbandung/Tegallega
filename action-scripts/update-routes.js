@@ -3,17 +3,15 @@ const path = require('path');
 const axios = require('axios');
 const { mkdirp } = require('mkdirp');
 
-// Enhanced file loading with validation for new structure
+// Load and validate route data
 function loadRouteData() {
   const routesPath = path.join(__dirname, '..', 'routes.json');
-  
   try {
     const fileContent = fs.readFileSync(routesPath, 'utf-8');
     const routesData = JSON.parse(fileContent);
 
-    // Extract routes from new structure: categories → routeGroups → routes
-    const allRoutes = routesData.categories.flatMap(category => 
-      category.routeGroups.flatMap(group => 
+    return routesData.categories.flatMap(category =>
+      category.routeGroups.flatMap(group =>
         group.routes.map(route => ({
           relationId: route.relationId.toString(),
           name: route.name,
@@ -21,283 +19,151 @@ function loadRouteData() {
         }))
       )
     );
-
-    if (!Array.isArray(allRoutes)) {
-      throw new Error('No routes found in routeGroups array');
-    }
-
-    // Validate each route object
-    const validatedRoutes = allRoutes.map((route, index) => {
-      if (!route.relationId) {
-        throw new Error(`Route at index ${index} is missing relationId`);
-      }
-      return route;
-    });
-
-    // Remove duplicate entries
-    return [...new Map(validatedRoutes.map(route => [route.relationId, route])).values()];
   } catch (error) {
     console.error('Failed to load route data:', error.message);
     process.exit(1);
   }
 }
 
-// Load and validate routes
 const uniqueRoutes = loadRouteData();
-console.log(`Loaded ${uniqueRoutes.length} valid routes`);
 
-// Overpass API query with retry logic
+// Overpass API query with retry
 async function overpassQuery(query, retries = 3, delay = 2000) {
   const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
-  
-  for (let attempt = 1; attempt <= retries; attempt++) {
+  for (let i = 0; i < retries; i++) {
     try {
-      if (attempt > 1) {
-        console.log(`Retrying query (attempt ${attempt}/${retries})...`);
-        await new Promise(resolve => setTimeout(resolve, delay * (attempt - 1)));
-      }
-
       const response = await axios.get(url, { timeout: 15000 });
       return response.data.elements;
     } catch (error) {
-      if (attempt === retries) {
-        throw new Error(`Overpass query failed after ${retries} attempts: ${error.message}`);
-      }
+      if (i === retries - 1) throw error;
+      await new Promise(resolve => setTimeout(resolve, delay));
     }
   }
 }
 
-// Get relation details with members
+// Get relation with members
 async function getRelationDetails(relationId) {
   const query = `[out:json];relation(${relationId});out body;`;
   const elements = await overpassQuery(query);
-  
-  // Find our specific relation
   const relation = elements.find(el => el.type === 'relation' && el.id == relationId);
-  if (!relation) {
-    throw new Error(`Relation ${relationId} not found in response`);
-  }
+  if (!relation) throw new Error(`Relation ${relationId} not found`);
   return relation;
 }
 
-// Get ordered ways from relation
-async function getOrderedWays(relation) {
-  // Collect way members in order of appearance
-  const wayMembers = relation.members
-    .filter(member => member.type === 'way')
-    .map(member => ({
-      id: member.ref,
-      role: member.role
-    }));
+// Get all ways with geometry and map by ID
+async function getWayDetails(wayIds) {
+  const query = `[out:json];way(id:${wayIds.join(',')});out geom;`;
+  const elements = await overpassQuery(query);
+  const map = new Map(elements.map(w => [w.id, w]));
+  return map;
+}
 
-  // Get details for each way
-  if (wayMembers.length === 0) {
-    console.log(`No ways found for relation ${relation.id}`);
-    return [];
-  }
-
-  const wayIds = wayMembers.map(m => m.id).join(',');
-  const waysQuery = `[out:json];way(id:${wayIds});out geom;`;
-  const wayElements = await overpassQuery(waysQuery);
-  
-  // Map way details while preserving order
-  const wayMap = new Map(wayElements.map(way => [way.id, way]));
-  return wayMembers.map(member => {
-    const way = wayMap.get(member.id);
-    if (!way) {
-      console.warn(`Missing details for way ${member.id}`);
-      return null;
-    }
-    return {
-      ...way,
-      role: member.role
+// Build graph: node ID -> connected ways
+function buildGraph(ways) {
+  const graph = new Map();
+  for (const way of ways) {
+    const first = way.geometry[0];
+    const last = way.geometry[way.geometry.length - 1];
+    const addEdge = (a, b, w) => {
+      if (!graph.has(a)) graph.set(a, []);
+      graph.get(a).push({ node: b, way: w });
     };
-  }).filter(Boolean);
+    addEdge(first.lat + ',' + first.lon, last.lat + ',' + last.lon, way);
+    addEdge(last.lat + ',' + last.lon, first.lat + ',' + first.lon, way);
+  }
+  return graph;
 }
 
-// Process ordered ways into a single LineString
-function connectWaysTopologically(ways) {
-  if (!ways.length) return [];
+// Find path through all ways by connecting endpoints
+function orderWays(ways) {
+  const graph = buildGraph(ways);
+  const usedWays = new Set();
+  let path = [];
 
-  const used = new Set();
-  const result = [];
+  const start = ways[0].geometry[0];
+  const startKey = start.lat + ',' + start.lon;
 
-  // Start with the first way
-  let current = ways[0];
-  used.add(current.id);
-  result.push(current.geometry.map(p => [p.lon, p.lat]));
-
-  while (result.length < ways.length) {
-    let lastCoords = result[result.length - 1];
-    let lastEnd = lastCoords[lastCoords.length - 1];
-
-    let found = false;
-
-    for (let way of ways) {
-      if (used.has(way.id)) continue;
-      const coords = way.geometry.map(p => [p.lon, p.lat]);
-      const start = coords[0];
-      const end = coords[coords.length - 1];
-
-      if (pointsEqual(start, lastEnd)) {
-        used.add(way.id);
-        result.push(coords);
-        found = true;
-        break;
-      } else if (pointsEqual(end, lastEnd)) {
-        used.add(way.id);
-        result.push(coords.reverse());
-        found = true;
-        break;
-      }
+  function dfs(nodeKey, chain) {
+    const neighbors = graph.get(nodeKey) || [];
+    for (const { node: neighbor, way } of neighbors) {
+      if (usedWays.has(way.id)) continue;
+      usedWays.add(way.id);
+      const forward = way.geometry[0].lat + ',' + way.geometry[0].lon === nodeKey;
+      const coords = forward ? way.geometry : [...way.geometry].reverse();
+      dfs(neighbor, chain.concat(coords.slice(1)));
+      return;
     }
-
-    if (!found) {
-      console.warn('Could not connect all ways sequentially. Output may be fragmented.');
-      break;
-    }
+    path = chain;
   }
 
-  return result.flat();
+  dfs(startKey, [start]);
+  return path;
 }
 
-function pointsEqual(p1, p2) {
-  return Math.abs(p1[0] - p2[0]) < 1e-6 && Math.abs(p1[1] - p2[1]) < 1e-6;
+// Get ordered stops
+async function getOrderedStops(relation) {
+  const stopMembers = relation.members.filter(m =>
+    m.type === 'node' && ['stop', 'stop_entry_only', 'stop_exit_only'].includes(m.role)
+  );
+  if (stopMembers.length === 0) return [];
+  const ids = stopMembers.map(m => m.ref).join(',');
+  const query = `[out:json];node(id:${ids});out body;`;
+  const elements = await overpassQuery(query);
+  const map = new Map(elements.map(n => [n.id, n]));
+  return stopMembers.map(m => map.get(m.ref)).filter(Boolean);
 }
 
-function processOrderedWays(ways) {
-  const coords = connectWaysTopologically(ways);
+// Process single route
+async function processRoute(route) {
+  const dir = path.join(__dirname, '..', 'route-data', 'geojson', route.relationId);
+  await mkdirp(dir);
+  const relation = await getRelationDetails(route.relationId);
 
-  return {
+  const wayMembers = relation.members.filter(m => m.type === 'way');
+  if (!wayMembers.length) throw new Error('No way members in relation');
+
+  const wayIds = wayMembers.map(m => m.ref);
+  const wayMap = await getWayDetails(wayIds);
+  const ways = wayMembers.map(m => wayMap.get(m.ref)).filter(Boolean);
+  const orderedCoords = orderWays(ways);
+
+  const wayFeature = {
     type: 'Feature',
     geometry: {
       type: 'LineString',
-      coordinates: coords
+      coordinates: orderedCoords.map(c => [c.lon, c.lat])
     },
-    properties: {
-      id: ways[0]?.id
-    }
+    properties: { relationId: route.relationId }
   };
+
+  const waysGeoJSON = {
+    type: 'FeatureCollection',
+    features: [wayFeature]
+  };
+
+  fs.writeFileSync(path.join(dir, 'ways.geojson'), JSON.stringify(waysGeoJSON, null, 2));
+
+  const stopNodes = await getOrderedStops(relation);
+  const stopsGeoJSON = {
+    type: 'FeatureCollection',
+    features: stopNodes.map(n => ({
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: [n.lon, n.lat] },
+      properties: { id: n.id, ...n.tags }
+    }))
+  };
+
+  fs.writeFileSync(path.join(dir, 'stops.geojson'), JSON.stringify(stopsGeoJSON, null, 2));
+  console.log(`Processed route ${route.relationId}`);
 }
 
-// Get ordered stops from relation
-async function getOrderedStops(relation) {
-  // Collect stop nodes in order of appearance
-  const stopMembers = relation.members
-    .filter(member => 
-      member.type === 'node' && 
-      ['stop', 'stop_entry_only', 'stop_exit_only'].includes(member.role)
-    )
-    .map(member => ({
-      id: member.ref,
-      role: member.role
-    }));
-
-  // Get details for each stop node
-  if (stopMembers.length === 0) {
-    console.log(`No stops found for relation ${relation.id}`);
-    return [];
-  }
-
-  const nodeIds = stopMembers.map(m => m.id).join(',');
-  const nodesQuery = `[out:json];node(id:${nodeIds});out geom;`;
-  const nodeElements = await overpassQuery(nodesQuery);
-  
-  // Map node details while preserving order
-  const nodeMap = new Map(nodeElements.map(node => [node.id, node]));
-  return stopMembers.map(member => {
-    const node = nodeMap.get(member.id);
-    if (!node) {
-      console.warn(`Missing details for stop node ${member.id}`);
-      return null;
-    }
-    return {
-      ...node,
-      role: member.role
-    };
-  }).filter(Boolean);
-}
-
-// Process a single route with ordered stops and ways
-async function processRoute(route) {
-  const { relationId } = route;
-  const dir = path.join(__dirname, '..', 'route-data', 'geojson', relationId);
-  
-  try {
-    await mkdirp(dir);
-    console.log(`Processing route ${relationId}...`);
-
-    // Get relation details
-    const relation = await getRelationDetails(relationId);
-    
-    // Process ways data in order
-    const ways = await getOrderedWays(relation);
-    const wayFeature = processOrderedWays(ways);
-    const waysGeoJSON = {
-      type: 'FeatureCollection',
-      features: [wayFeature]
-    };
-    
-    fs.writeFileSync(
-      path.join(dir, 'ways.geojson'),
-      JSON.stringify(waysGeoJSON, null, 2)
-    );
-
-    // Process stops in correct order
-    const stopNodes = await getOrderedStops(relation);
-    const stopsGeoJSON = {
-      type: 'FeatureCollection',
-      features: stopNodes.map(node => ({
-        type: 'Feature',
-        geometry: {
-          type: 'Point',
-          coordinates: [node.lon, node.lat]
-        },
-        properties: {
-          id: node.id,
-          role: node.role,
-          ...node.tags
-        }
-      }))
-    };
-
-    fs.writeFileSync(
-      path.join(dir, 'stops.geojson'),
-      JSON.stringify(stopsGeoJSON, null, 2)
-    );
-
-    console.log(`Successfully processed route ${relationId}`);
-  } catch (error) {
-    console.error(`Failed to process route ${relationId}:`, error.message);
-    throw error;
-  }
-}
-
-// Main execution
+// Main
 (async () => {
-  try {
-    for (const route of uniqueRoutes) {
-      let attempts = 3;
-      let success = false;
-
-      while (attempts > 0 && !success) {
-        try {
-          await processRoute(route);
-          success = true;
-        } catch (error) {
-          attempts--;
-          if (attempts === 0) {
-            console.error(`Giving up on route ${route.relationId} after 3 attempts`);
-          } else {
-            console.log(`Will retry route ${route.relationId} (${attempts} attempts remaining)`);
-          }
-        }
-      }
+  for (const route of uniqueRoutes) {
+    try {
+      await processRoute(route);
+    } catch (error) {
+      console.error(`Error processing route ${route.relationId}:`, error.message);
     }
-
-    console.log('All routes processed successfully!');
-  } catch (error) {
-    console.error('Fatal error in main execution:', error.message);
-    process.exit(1);
   }
 })();
