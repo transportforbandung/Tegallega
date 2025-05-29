@@ -5,7 +5,7 @@ const { mkdirp } = require('mkdirp');
 
 // Enhanced file loading with validation for new structure
 function loadRouteData() {
-  const routesPath = path.join(__dirname, '..', 'routes.json');
+  const routesPath = path.join(__dirname, '..', 'route-data', 'routes.json');
   
   try {
     const fileContent = fs.readFileSync(routesPath, 'utf-8');
@@ -67,82 +67,126 @@ async function overpassQuery(query, retries = 3, delay = 2000) {
   }
 }
 
-// Process OSM ways into GeoJSON
-function processWays(elements) {
-  const features = elements
-    .filter(el => el.type === 'way')
-    .map(way => ({
-      type: 'Feature',
-      geometry: {
-        type: 'LineString',
-        coordinates: way.geometry.map(coord => [coord.lon, coord.lat])
-      },
-      properties: {
-        id: way.id,
-        ...way.tags
-      }
+// Get relation details with members
+async function getRelationDetails(relationId) {
+  const query = `[out:json];relation(${relationId});out body;`;
+  const elements = await overpassQuery(query);
+  
+  // Find our specific relation
+  const relation = elements.find(el => el.type === 'relation' && el.id == relationId);
+  if (!relation) {
+    throw new Error(`Relation ${relationId} not found in response`);
+  }
+  return relation;
+}
+
+// Get ordered ways from relation
+async function getOrderedWays(relation) {
+  // Collect way members in order of appearance
+  const wayMembers = relation.members
+    .filter(member => member.type === 'way')
+    .map(member => ({
+      id: member.ref,
+      role: member.role
     }));
 
+  // Get details for each way
+  if (wayMembers.length === 0) {
+    console.log(`No ways found for relation ${relation.id}`);
+    return [];
+  }
+
+  const wayIds = wayMembers.map(m => m.id).join(',');
+  const waysQuery = `[out:json];way(id:${wayIds});out geom;`;
+  const wayElements = await overpassQuery(waysQuery);
+  
+  // Map way details while preserving order
+  const wayMap = new Map(wayElements.map(way => [way.id, way]));
+  return wayMembers.map(member => {
+    const way = wayMap.get(member.id);
+    if (!way) {
+      console.warn(`Missing details for way ${member.id}`);
+      return null;
+    }
+    return {
+      ...way,
+      role: member.role
+    };
+  }).filter(Boolean);
+}
+
+// Process ordered ways into a single LineString
+function processOrderedWays(ways) {
+  let coordinates = [];
+  
+  ways.forEach((way, index) => {
+    let wayCoords = way.geometry.map(coord => [coord.lon, coord.lat]);
+    
+    // Reverse way if needed
+    if (way.role === 'backward') {
+      wayCoords = wayCoords.reverse();
+    }
+    
+    // Connect ways without duplicating nodes
+    if (index === 0) {
+      coordinates = wayCoords;
+    } else {
+      // Skip first point to connect to previous way
+      coordinates = coordinates.concat(wayCoords.slice(1));
+    }
+  });
+
   return {
-    type: 'FeatureCollection',
-    features
+    type: 'Feature',
+    geometry: {
+      type: 'LineString',
+      coordinates
+    },
+    properties: {
+      id: ways[0].id
+    }
   };
 }
 
-// Get stop members from relation in correct order
-async function getOrderedStops(relationId) {
-  try {
-    const query = `[out:json];relation(${relationId});out body;`;
-    const elements = await overpassQuery(query);
-    
-    // Find our specific relation
-    const relation = elements.find(el => el.type === 'relation' && el.id == relationId);
-    if (!relation) {
-      throw new Error(`Relation ${relationId} not found in response`);
-    }
+// Get ordered stops from relation
+async function getOrderedStops(relation) {
+  // Collect stop nodes in order of appearance
+  const stopMembers = relation.members
+    .filter(member => 
+      member.type === 'node' && 
+      ['stop', 'stop_entry_only', 'stop_exit_only'].includes(member.role)
+    )
+    .map(member => ({
+      id: member.ref,
+      role: member.role
+    }));
 
-    // Collect stop nodes in order of appearance - FIXED SYNTAX HERE
-    const stopMembers = relation.members
-      .filter(member =>
-        member.type === 'node' && 
-        ['stop', 'stop_entry_only', 'stop_exit_only'].includes(member.role)
-      )
-      .map(member => ({
-        id: member.ref,
-        role: member.role
-      }));
-
-    // Get details for each stop node
-    if (stopMembers.length === 0) {
-      console.log(`No stops found for relation ${relationId}`);
-      return [];
-    }
-
-    const nodeIds = stopMembers.map(m => m.id).join(',');
-    const nodesQuery = `[out:json];node(id:${nodeIds});out geom;`;
-    const nodeElements = await overpassQuery(nodesQuery);
-    
-    // Map node details while preserving order
-    const nodeMap = new Map(nodeElements.map(node => [node.id, node]));
-    return stopMembers.map(member => {
-      const node = nodeMap.get(member.id);
-      if (!node) {
-        console.warn(`Missing details for stop node ${member.id}`);
-        return null;
-      }
-      return {
-        ...node,
-        role: member.role
-      };
-    }).filter(Boolean);
-    
-  } catch (error) {
-    console.error(`Failed to get ordered stops for ${relationId}:`, error.message);
-    throw error;
+  // Get details for each stop node
+  if (stopMembers.length === 0) {
+    console.log(`No stops found for relation ${relation.id}`);
+    return [];
   }
+
+  const nodeIds = stopMembers.map(m => m.id).join(',');
+  const nodesQuery = `[out:json];node(id:${nodeIds});out geom;`;
+  const nodeElements = await overpassQuery(nodesQuery);
+  
+  // Map node details while preserving order
+  const nodeMap = new Map(nodeElements.map(node => [node.id, node]));
+  return stopMembers.map(member => {
+    const node = nodeMap.get(member.id);
+    if (!node) {
+      console.warn(`Missing details for stop node ${member.id}`);
+      return null;
+    }
+    return {
+      ...node,
+      role: member.role
+    };
+  }).filter(Boolean);
 }
 
-// Process a single route with ordered stops
+// Process a single route with ordered stops and ways
 async function processRoute(route) {
   const { relationId } = route;
   const dir = path.join(__dirname, '..', 'route-data', 'geojson', relationId);
@@ -151,17 +195,24 @@ async function processRoute(route) {
     await mkdirp(dir);
     console.log(`Processing route ${relationId}...`);
 
-    // Process ways data
-    const waysQuery = `[out:json]; relation(${relationId}); way(r); out geom;`;
-    const waysData = await overpassQuery(waysQuery);
-    const waysGeoJSON = processWays(waysData);
+    // Get relation details
+    const relation = await getRelationDetails(relationId);
+    
+    // Process ways data in order
+    const ways = await getOrderedWays(relation);
+    const wayFeature = processOrderedWays(ways);
+    const waysGeoJSON = {
+      type: 'FeatureCollection',
+      features: [wayFeature]
+    };
+    
     fs.writeFileSync(
       path.join(dir, 'ways.geojson'),
       JSON.stringify(waysGeoJSON, null, 2)
     );
 
     // Process stops in correct order
-    const stopNodes = await getOrderedStops(relationId);
+    const stopNodes = await getOrderedStops(relation);
     const stopsGeoJSON = {
       type: 'FeatureCollection',
       features: stopNodes.map(node => ({
