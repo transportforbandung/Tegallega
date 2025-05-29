@@ -12,7 +12,6 @@
       },
       "properties": {
         "id": 12628930760,
-        "role": "stop_entry_only",
         "bus": "yes",
         "name": "Terminal Majalaya",
         "public_transport": "stop_position"
@@ -29,7 +28,6 @@
       },
       "properties": {
         "id": 12628930757,
-        "role": "stop",
         "bus": "yes",
         "name": "Giriharja Jelekong",
         "public_transport": "stop_position"
@@ -46,7 +44,6 @@
       },
       "properties": {
         "id": 12628930753,
-        "role": "stop",
         "bus": "yes",
         "name": "Pasar Baleendah B",
         "public_transport": "stop_position"
@@ -63,7 +60,6 @@
       },
       "properties": {
         "id": 12626499683,
-        "role": "stop",
         "bus": "yes",
         "name": "Borma Bojongsoang",
         "public_transport": "stop_position"
@@ -80,7 +76,6 @@
       },
       "properties": {
         "id": 305891851,
-        "role": "stop",
         "bus": "yes",
         "name": "Palasari Ceres",
         "public_transport": "stop_position"
@@ -97,7 +92,6 @@
       },
       "properties": {
         "id": 11739021648,
-        "role": "stop",
         "alt_name": "Mohammad Toha",
         "bus": "yes",
         "name": "TK Kemala Bhayangkari",
@@ -115,7 +109,6 @@
       },
       "properties": {
         "id": 10815723012,
-        "role": "stop",
         "bus": "yes",
         "name": "Simpang Mohamad Toha Biddokkes",
         "public_transport": "stop_position",
@@ -135,7 +128,6 @@
       },
       "properties": {
         "id": 3277886365,
-        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"

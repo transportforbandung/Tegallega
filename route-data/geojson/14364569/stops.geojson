@@ -12,7 +12,6 @@
       },
       "properties": {
         "id": 10697346845,
-        "role": "stop_entry_only",
         "bus": "yes",
         "name": "UNPAD Jatinangor",
         "public_transport": "stop_position"
@@ -29,7 +28,6 @@
       },
       "properties": {
         "id": 11711185243,
-        "role": "stop",
         "bus": "yes",
         "name": "Jatinangor Town Square",
         "public_transport": "stop_position"
@@ -46,7 +44,6 @@
       },
       "properties": {
         "id": 5867026762,
-        "role": "stop",
         "bus": "yes",
         "name": "IPDN B",
         "public_transport": "stop_position",
@@ -64,7 +61,6 @@
       },
       "properties": {
         "id": 11711185188,
-        "role": "stop",
         "bus": "yes",
         "name": "Cileunyi B",
         "public_transport": "stop_position"
@@ -81,7 +77,6 @@
       },
       "properties": {
         "id": 11711185185,
-        "role": "stop",
         "bus": "yes",
         "name": "Jalan Haji Tatang Sumantri",
         "public_transport": "stop_position"
@@ -98,7 +93,6 @@
       },
       "properties": {
         "id": 11707031627,
-        "role": "stop",
         "bus": "yes",
         "name": "Simpang By Pass Soekarno Hatta B",
         "public_transport": "stop_position"
@@ -115,7 +109,6 @@
       },
       "properties": {
         "id": 11707031601,
-        "role": "stop",
         "bus": "yes",
         "name": "PT INTI B (BKR 5)",
         "public_transport": "stop_position"
@@ -132,7 +125,6 @@
       },
       "properties": {
         "id": 11707031579,
-        "role": "stop",
         "bus": "yes",
         "name": "Hotel Horison B",
         "public_transport": "stop_position"
@@ -149,7 +141,6 @@
       },
       "properties": {
         "id": 11707030859,
-        "role": "stop",
         "bus": "yes",
         "name": "Bandung Creative Hub B",
         "public_transport": "stop_position"
@@ -166,7 +157,6 @@
       },
       "properties": {
         "id": 11955476811,
-        "role": "stop",
         "bus": "yes",
         "name": "SPBU Ahmad Yani",
         "public_transport": "stop_position"
@@ -183,7 +173,6 @@
       },
       "properties": {
         "id": 11707030833,
-        "role": "stop",
         "bus": "yes",
         "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
         "public_transport": "stop_position"
@@ -200,7 +189,6 @@
       },
       "properties": {
         "id": 11707030828,
-        "role": "stop",
         "bus": "yes",
         "name": "PUSDAI B",
         "public_transport": "stop_position"
@@ -217,7 +205,6 @@
       },
       "properties": {
         "id": 11707030827,
-        "role": "stop",
         "bus": "yes",
         "name": "Lapangan Gasibu B",
         "public_transport": "stop_position"
@@ -234,7 +221,6 @@
       },
       "properties": {
         "id": 11707030825,
-        "role": "stop",
         "bus": "yes",
         "name": "Panatayudha B",
         "public_transport": "stop_position"
@@ -251,7 +237,6 @@
       },
       "properties": {
         "id": 3375793673,
-        "role": "stop_exit_only",
         "bus": "yes",
         "name": "UNPAD Dipatiukur",
         "public_transport": "stop_position"

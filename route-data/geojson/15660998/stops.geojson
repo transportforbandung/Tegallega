@@ -12,7 +12,6 @@
       },
       "properties": {
         "id": 3375793673,
-        "role": "stop_entry_only",
         "bus": "yes",
         "name": "UNPAD Dipatiukur",
         "public_transport": "stop_position"
@@ -29,7 +28,6 @@
       },
       "properties": {
         "id": 11707030826,
-        "role": "stop",
         "bus": "yes",
         "name": "Panatayudha A",
         "public_transport": "stop_position"
@@ -46,7 +44,6 @@
       },
       "properties": {
         "id": 1666155324,
-        "role": "stop",
         "bus": "yes",
         "name": "Lapangan Gasibu A",
         "public_transport": "stop_position"
@@ -63,7 +60,6 @@
       },
       "properties": {
         "id": 11707030829,
-        "role": "stop",
         "bus": "yes",
         "name": "PUSDAI A",
         "public_transport": "stop_position"
@@ -80,7 +76,6 @@
       },
       "properties": {
         "id": 11707030832,
-        "role": "stop",
         "bus": "yes",
         "name": "SMPN 14 Bandung (Lapangan Supratman A)",
         "public_transport": "stop_position"
@@ -97,7 +92,6 @@
       },
       "properties": {
         "id": 1107694939,
-        "role": "stop",
         "bus": "yes",
         "name": "Taman Pramuka",
         "public_transport": "stop_position"
@@ -114,7 +108,6 @@
       },
       "properties": {
         "id": 3375793687,
-        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Hotel Grand Tebu",
@@ -132,7 +125,6 @@
       },
       "properties": {
         "id": 11707030860,
-        "role": "stop",
         "bus": "yes",
         "name": "Bandung Creative Hub A",
         "public_transport": "stop_position"
@@ -149,7 +141,6 @@
       },
       "properties": {
         "id": 7702036194,
-        "role": "stop",
         "bus": "yes",
         "name": "Hotel Horison A",
         "public_transport": "stop_position"
@@ -166,7 +157,6 @@
       },
       "properties": {
         "id": 11707031623,
-        "role": "stop",
         "bus": "yes",
         "name": "Muhammad Toha 1 (PT INTI A)",
         "public_transport": "stop_position"
@@ -183,7 +173,6 @@
       },
       "properties": {
         "id": 5487616737,
-        "role": "stop",
         "bus": "yes",
         "name": "Simpang By Pass Soekarno Hatta A",
         "public_transport": "stop_position"
@@ -200,7 +189,6 @@
       },
       "properties": {
         "id": 11711185184,
-        "role": "stop",
         "bus": "yes",
         "name": "SPBU Moh. Toha",
         "public_transport": "stop_position"
@@ -217,7 +205,6 @@
       },
       "properties": {
         "id": 11711185187,
-        "role": "stop",
         "bus": "yes",
         "name": "Cileunyi A",
         "public_transport": "stop_position"
@@ -234,7 +221,6 @@
       },
       "properties": {
         "id": 1966499313,
-        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "IPDN A",
@@ -253,7 +239,6 @@
       },
       "properties": {
         "id": 10697346845,
-        "role": "stop_exit_only",
         "bus": "yes",
         "name": "UNPAD Jatinangor",
         "public_transport": "stop_position"
