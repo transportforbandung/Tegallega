@@ -171,8 +171,8 @@ def generate_trips(routes):
     trips = []
     stop_times = []
     
-    # Track last trip index per group for block pairing
-    group_trip_counts = defaultdict(int)
+    # Track trip counts per direction per group
+    group_direction_counts = defaultdict(lambda: defaultdict(int))
     
     for route in routes:
         route_id = route['relationId']
@@ -203,17 +203,16 @@ def generate_trips(routes):
                 stops[i-1]['lon'], stops[i-1]['lat'],
                 stops[i]['lon'], stops[i]['lat']
             )
-            # Add minimum distance to avoid division by zero
             dist = max(dist, 0.01)  # At least 10 meters
             speed = 30 if dist <= 5 else 55
             segment_times.append((dist / speed) * 3600)  # in seconds
         
-        # Calculate cumulative travel times (excluding dwell)
+        # Calculate cumulative travel times
         cumulative_travel = [0]
         for i in range(1, len(stops)):
             cumulative_travel.append(cumulative_travel[-1] + segment_times[i])
         
-        # Get number of trips from route configuration
+        # Get number of trips
         try:
             num_trips = int(route.get('trips', '0'))
         except ValueError:
@@ -227,34 +226,38 @@ def generate_trips(routes):
         end_sec = time_str_to_seconds(route['last_departure'])
         headway_sec = (end_sec - start_sec) / (num_trips - 1) if num_trips > 1 else 0
 
+        # Get current trip count for this direction
+        direction = route['directionId']
+        group_id = route['group_id']
+        current_count = group_direction_counts[group_id][direction]
+        
         # Generate trips
         for idx in range(num_trips):
-            trip_index = group_trip_counts[route['group_id']] + 1
-            group_trip_counts[route['group_id']] = trip_index
+            # Calculate the trip number within this direction
+            trip_num = current_count + idx + 1
             trip_start = start_sec + idx * headway_sec
-            trip_id = f"t-MJT{route['group_id']}{route['directionId']}{trip_index}"
             
-            # Create block_id for loop routes
+            # Format trip ID: t-MJT{group_id}{direction}{trip_num}
+            trip_id = f"t-MJT{group_id}{direction}{trip_num}"
+            
+            # Create block ID: MJT{group_id}{trip_num} (without direction)
             block_id = ""
             if route['loop'] == 'yes':
-                # Format: MJT{group_id}{trip_index}
-                block_id = f"MJT{route['group_id']}{trip_index}"
+                block_id = f"MJT{group_id}{trip_num}"
             
             trips.append({
-                'route_id': route['group_id'],
+                'route_id': group_id,
                 'trip_id': trip_id,
                 'service_id': 'everyday',
                 'trip_headsign': route['name'],
-                'direction_id': route['directionId'],
+                'direction_id': direction,
                 'shape_id': route.get('shape_id', ''),
-                'block_id': block_id  # Add block_id field
+                'block_id': block_id
             })
             
             # Calculate stop times
             for seq in range(len(stops)):
-                # Arrival time = trip start + travel to stop + dwell from previous stops
                 arrival_sec = trip_start + cumulative_travel[seq] + (seq * 10)
-                # Departure time adds 10 seconds dwell time
                 departure_sec = arrival_sec + 10
                 
                 stop_times.append({
@@ -266,6 +269,9 @@ def generate_trips(routes):
                     'pickup_type': 0,
                     'drop_off_type': 0
                 })
+        
+        # Update the trip count for this direction
+        group_direction_counts[group_id][direction] += num_trips
     
     return trips, stop_times
 
