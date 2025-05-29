@@ -101,11 +101,12 @@ async function getOrderedStops(relationId) {
       throw new Error(`Relation ${relationId} not found in response`);
     }
 
-    // Collect stop nodes in order of appearance
+    // Collect stop nodes in order of appearance - FIXED SYNTAX HERE
     const stopMembers = relation.members
-      .filter(member => 
+      .filter(member => (
         member.type === 'node' && 
         ['stop', 'stop_entry_only', 'stop_exit_only'].includes(member.role)
+      )
       .map(member => ({
         id: member.ref,
         role: member.role
