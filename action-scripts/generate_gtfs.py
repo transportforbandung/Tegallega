@@ -30,12 +30,14 @@ def time_str_to_seconds(time_str):
     h, m = map(int, time_str.split(':'))
     return h * 3600 + m * 60
 
-def seconds_to_time_str(seconds):
+def seconds_to_time_str(total_seconds):
     """Convert seconds to HH:MM:SS format"""
-    h = seconds // 3600
-    m = (seconds % 3600) // 60
-    s = seconds % 60
-    return f"{h:02d}:{m:02d}:{s:02d}"
+    # Round to nearest second before conversion
+    total_seconds = round(total_seconds)
+    h = total_seconds // 3600
+    m = (total_seconds % 3600) // 60
+    s = total_seconds % 60
+    return f"{int(h):02d}:{int(m):02d}:{int(s):02d}"
 
 def process_routes():
     """Process routes.json and return enhanced route data"""
@@ -193,6 +195,8 @@ def generate_trips(routes):
                 stops[i-1]['lon'], stops[i-1]['lat'],
                 stops[i]['lon'], stops[i]['lat']
             )
+            # Add minimum distance to avoid division by zero
+            dist = max(dist, 0.01)  # At least 10 meters
             speed = 50 if dist <= 5 else 70
             segment_times.append((dist / speed) * 3600)  # in seconds
         
@@ -214,7 +218,12 @@ def generate_trips(routes):
         # Parse operational times
         start_sec = time_str_to_seconds(route['first_departure'])
         end_sec = time_str_to_seconds(route['last_departure'])
-        headway_sec = (end_sec - start_sec) / (num_trips - 1) if num_trips > 1 else 0
+        
+        # Handle single-trip case
+        if num_trips == 1:
+            headway_sec = 0
+        else:
+            headway_sec = (end_sec - start_sec) / (num_trips - 1)
         
         # Generate the specified number of trips
         for idx in range(num_trips):
@@ -230,11 +239,12 @@ def generate_trips(routes):
                 'shape_id': route.get('shape_id', '')
             })
             
-            # Create stop times with calculated times
+            # Calculate stop times
             for seq in range(len(stops)):
                 # Arrival time = trip start + travel to stop + dwell from previous stops
-                arrival_sec = trip_start + cumulative_travel[seq] + seq * 10
-                departure_sec = arrival_sec + 10  # Add dwell time
+                arrival_sec = trip_start + cumulative_travel[seq] + (seq * 10)
+                # Departure time adds 10 seconds dwell time
+                departure_sec = arrival_sec + 10
                 
                 stop_times.append({
                     'trip_id': trip_id,

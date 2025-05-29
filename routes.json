@@ -2,6 +2,10 @@
   "categories": [
     {
       "name": "Metro Jabar Trans",
+      "agencyId": "MJT",
+      "agencyUrl": "https://instagram.com/brt.metrojabartrans",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
       "routeGroups": [
         {
           "groupId": "1",
