@@ -116,34 +116,66 @@ async function getOrderedWays(relation) {
 }
 
 // Process ordered ways into a single LineString
+function connectWaysTopologically(ways) {
+  if (!ways.length) return [];
+
+  const used = new Set();
+  const result = [];
+
+  // Start with the first way
+  let current = ways[0];
+  used.add(current.id);
+  result.push(current.geometry.map(p => [p.lon, p.lat]));
+
+  while (result.length < ways.length) {
+    let lastCoords = result[result.length - 1];
+    let lastEnd = lastCoords[lastCoords.length - 1];
+
+    let found = false;
+
+    for (let way of ways) {
+      if (used.has(way.id)) continue;
+      const coords = way.geometry.map(p => [p.lon, p.lat]);
+      const start = coords[0];
+      const end = coords[coords.length - 1];
+
+      if (pointsEqual(start, lastEnd)) {
+        used.add(way.id);
+        result.push(coords);
+        found = true;
+        break;
+      } else if (pointsEqual(end, lastEnd)) {
+        used.add(way.id);
+        result.push(coords.reverse());
+        found = true;
+        break;
+      }
+    }
+
+    if (!found) {
+      console.warn('Could not connect all ways sequentially. Output may be fragmented.');
+      break;
+    }
+  }
+
+  return result.flat();
+}
+
+function pointsEqual(p1, p2) {
+  return Math.abs(p1[0] - p2[0]) < 1e-6 && Math.abs(p1[1] - p2[1]) < 1e-6;
+}
+
 function processOrderedWays(ways) {
-  let coordinates = [];
-  
-  ways.forEach((way, index) => {
-    let wayCoords = way.geometry.map(coord => [coord.lon, coord.lat]);
-    
-    // Reverse way if needed
-    if (way.role === 'backward') {
-      wayCoords = wayCoords.reverse();
-    }
-    
-    // Connect ways without duplicating nodes
-    if (index === 0) {
-      coordinates = wayCoords;
-    } else {
-      // Skip first point to connect to previous way
-      coordinates = coordinates.concat(wayCoords.slice(1));
-    }
-  });
+  const coords = connectWaysTopologically(ways);
 
   return {
     type: 'Feature',
     geometry: {
       type: 'LineString',
-      coordinates
+      coordinates: coords
     },
     properties: {
-      id: ways[0].id
+      id: ways[0]?.id
     }
   };
 }
