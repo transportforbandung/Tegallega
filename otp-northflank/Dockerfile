@@ -3,7 +3,7 @@ FROM eclipse-temurin:17
 WORKDIR /app
 
 # Download OTP (adjust version as needed)
-RUN curl -L https://github.com/opentripplanner/OpenTripPlanner/releases/download/v2.5.0/otp-2.5.0-shaded.jar -o otp.jar
+RUN curl -L https://github.com/opentripplanner/OpenTripPlanner/releases/download/v2.7.0/otp-2.7.0-shaded.jar -o otp.jar
 
 COPY otp-data/ /app/otp-data/
 COPY start.sh /app/start.sh
