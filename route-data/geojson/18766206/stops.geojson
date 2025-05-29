@@ -6,30 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6071455,
-          -6.9211653
-        ]
-      },
-      "properties": {
-        "id": 11711275743,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Alun-Alun Bandung",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.4668097,
           -6.8663512
         ]
       },
       "properties": {
         "id": 11955383183,
-        "role": "stop",
+        "role": "stop_entry_only",
         "bus": "yes",
         "name": "IKEA Kota Baru Parahyangan",
         "public_transport": "stop_position"
@@ -541,7 +524,7 @@
       },
       "properties": {
         "id": 11711275743,
-        "role": "stop",
+        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"

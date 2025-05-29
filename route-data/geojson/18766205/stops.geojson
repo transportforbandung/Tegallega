@@ -12,7 +12,7 @@
       },
       "properties": {
         "id": 11711275743,
-        "role": "stop",
+        "role": "stop_entry_only",
         "bus": "yes",
         "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
