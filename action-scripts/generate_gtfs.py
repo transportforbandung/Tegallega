@@ -114,56 +114,64 @@ def process_stops(routes):
     return all_stops
 
 def process_shapes(routes):
-    """Process route geometries into GTFS shapes with correct shape_dist_traveled"""
+    """Process route geometries into GTFS shapes with correct sequencing"""
     shapes = []
-
+    
     for route in routes:
         route_id = route['relationId']
         ways_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'ways.geojson')
-
+        
         if not os.path.exists(ways_file):
             print(f"Ways file not found for route {route_id}: {ways_file}")
-            parent_dir = os.path.dirname(ways_file)
-            if os.path.exists(parent_dir):
-                print(f"Directory contents: {os.listdir(parent_dir)}")
             continue
-
+            
         with open(ways_file) as f:
             data = json.load(f)
-
-        # Extract coordinates from GeoJSON
-        coords = []
+        
+        # Extract coordinates while preserving feature order
+        all_coords = []
         for feature in data['features']:
-            geom_type = feature['geometry']['type']
+            geom = feature['geometry']
+            geom_type = geom['type']
+            
             if geom_type == 'LineString':
-                coords.extend(feature['geometry']['coordinates'])
+                # Preserve original coordinate order
+                all_coords.append(geom['coordinates'])
             elif geom_type == 'MultiLineString':
-                for line in feature['geometry']['coordinates']:
-                    coords.extend(line)
-
+                # Preserve order of linestrings and their coordinates
+                for line in geom['coordinates']:
+                    all_coords.append(line)
+        
+        # Flatten while maintaining sequence
+        coords = []
+        for feature_coords in all_coords:
+            coords.extend(feature_coords)
+        
         # Create shape records with cumulative distance
         shape_id = f"shape_{route_id}"
         cumulative_dist = 0.0
-
+        prev_lon, prev_lat = None, None
+        
         for seq, coord in enumerate(coords):
-            if seq == 0:
-                cumulative_dist = 0.0
-            else:
-                prev = coords[seq - 1]
-                segment_dist = haversine(prev[0], prev[1], coord[0], coord[1])
+            lon, lat = coord[0], coord[1]
+            
+            if prev_lon is not None:
+                segment_dist = haversine(prev_lon, prev_lat, lon, lat)
                 cumulative_dist += segment_dist
-
+            
             shapes.append({
                 'shape_id': shape_id,
-                'shape_pt_lon': coord[0],
-                'shape_pt_lat': coord[1],
+                'shape_pt_lon': lon,
+                'shape_pt_lat': lat,
                 'shape_pt_sequence': seq + 1,
                 'shape_dist_traveled': round(cumulative_dist, 6)
             })
-
+            
+            prev_lon, prev_lat = lon, lat
+        
         # Store shape ID for trip assignment
         route['shape_id'] = shape_id
-
+    
     return shapes
 
 def generate_trips(routes):
