@@ -12,6 +12,7 @@
       },
       "properties": {
         "id": 11955383183,
+        "role": "stop_entry_only",
         "bus": "yes",
         "name": "IKEA Kota Baru Parahyangan",
         "public_transport": "stop_position"
@@ -28,6 +29,7 @@
       },
       "properties": {
         "id": 12143596539,
+        "role": "stop",
         "bus": "yes",
         "name": "Wahoo Waterworld",
         "public_transport": "stop_position"
@@ -44,6 +46,7 @@
       },
       "properties": {
         "id": 11955383184,
+        "role": "stop",
         "bus": "yes",
         "name": "Parahyangan Timur",
         "public_transport": "stop_position"
@@ -60,6 +63,7 @@
       },
       "properties": {
         "id": 11955383185,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Cahaya Kawaluyaan",
         "public_transport": "stop_position"
@@ -76,6 +80,7 @@
       },
       "properties": {
         "id": 11955383187,
+        "role": "stop",
         "bus": "yes",
         "name": "Masjid Al Irsyad",
         "public_transport": "stop_position"
@@ -92,6 +97,7 @@
       },
       "properties": {
         "id": 11955383188,
+        "role": "stop",
         "bus": "yes",
         "name": "Tatar Wangsakerta A",
         "public_transport": "stop_position"
@@ -108,6 +114,7 @@
       },
       "properties": {
         "id": 11955383190,
+        "role": "stop",
         "bus": "yes",
         "name": "Bale Pare A",
         "public_transport": "stop_position"
@@ -124,6 +131,7 @@
       },
       "properties": {
         "id": 11536873492,
+        "role": "stop",
         "bus": "yes",
         "name": "Stasiun Kereta Cepat Padalarang",
         "public_transport": "stop_position"
@@ -140,6 +148,7 @@
       },
       "properties": {
         "id": 11953710372,
+        "role": "stop",
         "bus": "yes",
         "name": "STEI LPPM A",
         "public_transport": "stop_position"
@@ -156,6 +165,7 @@
       },
       "properties": {
         "id": 5287090695,
+        "role": "stop",
         "bus": "yes",
         "name": "RS Karisma Cimareme A",
         "public_transport": "stop_position"
@@ -172,6 +182,7 @@
       },
       "properties": {
         "id": 5348536065,
+        "role": "stop",
         "bus": "yes",
         "name": "RS IMC A",
         "public_transport": "stop_position"
@@ -188,6 +199,7 @@
       },
       "properties": {
         "id": 9908476904,
+        "role": "stop",
         "bus": "yes",
         "name": "Masjid Ar Ridwan A",
         "public_transport": "stop_position"
@@ -204,6 +216,7 @@
       },
       "properties": {
         "id": 11954137035,
+        "role": "stop",
         "bus": "yes",
         "name": "Padasuka Indah A",
         "public_transport": "stop_position"
@@ -220,6 +233,7 @@
       },
       "properties": {
         "id": 11954137037,
+        "role": "stop",
         "bus": "yes",
         "name": "Ranca Belut A",
         "public_transport": "stop_position"
@@ -236,6 +250,7 @@
       },
       "properties": {
         "id": 11954137039,
+        "role": "stop",
         "bus": "yes",
         "name": "PLN Cisangkan A",
         "public_transport": "stop_position"
@@ -252,6 +267,7 @@
       },
       "properties": {
         "id": 10680256969,
+        "role": "stop",
         "bus": "yes",
         "name": "BRI Cimahi",
         "public_transport": "stop_position"
@@ -268,6 +284,7 @@
       },
       "properties": {
         "id": 11954552709,
+        "role": "stop",
         "bus": "yes",
         "name": "RSUD Cibabat A",
         "public_transport": "stop_position"
@@ -284,6 +301,7 @@
       },
       "properties": {
         "id": 11954552711,
+        "role": "stop",
         "bus": "yes",
         "name": "Dinas Sosial",
         "public_transport": "stop_position"
@@ -300,6 +318,7 @@
       },
       "properties": {
         "id": 11954552713,
+        "role": "stop",
         "bus": "yes",
         "name": "Jalan Budi",
         "public_transport": "stop_position"
@@ -316,6 +335,7 @@
       },
       "properties": {
         "id": 11954552722,
+        "role": "stop",
         "bus": "yes",
         "name": "SMAN 13 Bandung A",
         "public_transport": "stop_position"
@@ -332,6 +352,7 @@
       },
       "properties": {
         "id": 11954552728,
+        "role": "stop",
         "bus": "yes",
         "name": "Paledang",
         "public_transport": "stop_position"
@@ -348,6 +369,7 @@
       },
       "properties": {
         "id": 11711326971,
+        "role": "stop",
         "bus": "yes",
         "name": "Rajawali Barat",
         "public_transport": "stop_position"
@@ -364,6 +386,7 @@
       },
       "properties": {
         "id": 11711326972,
+        "role": "stop",
         "bus": "yes",
         "name": "Plaza Telkom Rajawali",
         "public_transport": "stop_position"
@@ -380,6 +403,7 @@
       },
       "properties": {
         "id": 11735239264,
+        "role": "stop",
         "bus": "yes",
         "name": "Rajawali 1",
         "public_transport": "stop_position"
@@ -396,6 +420,7 @@
       },
       "properties": {
         "id": 11735239266,
+        "role": "stop",
         "bus": "yes",
         "name": "Dunguscariang",
         "public_transport": "stop_position"
@@ -412,6 +437,7 @@
       },
       "properties": {
         "id": 11735239268,
+        "role": "stop",
         "bus": "yes",
         "name": "SMA Trinitas",
         "public_transport": "stop_position"
@@ -428,6 +454,7 @@
       },
       "properties": {
         "id": 11735248671,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Kebon Jati",
         "public_transport": "stop_position"
@@ -444,6 +471,7 @@
       },
       "properties": {
         "id": 11735248674,
+        "role": "stop",
         "bus": "yes",
         "name": "SMA Pasundan",
         "public_transport": "stop_position"
@@ -460,6 +488,7 @@
       },
       "properties": {
         "id": 11711326974,
+        "role": "stop",
         "bus": "yes",
         "name": "Perintis Kemerdekaan",
         "public_transport": "stop_position"
@@ -476,6 +505,7 @@
       },
       "properties": {
         "id": 1849525838,
+        "role": "stop",
         "bus": "yes",
         "name": "Lembong",
         "public_transport": "stop_position",
@@ -494,6 +524,7 @@
       },
       "properties": {
         "id": 11711275743,
+        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"

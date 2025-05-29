@@ -12,6 +12,7 @@
       },
       "properties": {
         "id": 3277886365,
+        "role": "stop_entry_only",
         "bus": "yes",
         "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"
@@ -28,6 +29,7 @@
       },
       "properties": {
         "id": 11739021652,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Immanuel A",
         "public_transport": "stop_position"
@@ -44,6 +46,7 @@
       },
       "properties": {
         "id": 11739021646,
+        "role": "stop",
         "bus": "yes",
         "name": "Taman Tegallega",
         "public_transport": "stop_position"
@@ -60,6 +63,7 @@
       },
       "properties": {
         "id": 11739021654,
+        "role": "stop",
         "bus": "yes",
         "name": "Pintu Masuk Terminal Tegallega",
         "public_transport": "stop_position"
@@ -76,6 +80,7 @@
       },
       "properties": {
         "id": 6443280171,
+        "role": "stop",
         "bus": "yes",
         "name": "Astana Anyar RSIA Kota Bandung",
         "public_transport": "stop_position"
@@ -92,6 +97,7 @@
       },
       "properties": {
         "id": 1013407725,
+        "role": "stop",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
         "highway": "bus_stop",
@@ -111,6 +117,7 @@
       },
       "properties": {
         "id": 11739064594,
+        "role": "stop",
         "alt_name": "Balai Kota",
         "bus": "yes",
         "name": "SMK Negeri 1 Bandung",
@@ -128,6 +135,7 @@
       },
       "properties": {
         "id": 11739021634,
+        "role": "stop",
         "bus": "yes",
         "name": "Riau XL",
         "public_transport": "stop_position"
@@ -144,6 +152,7 @@
       },
       "properties": {
         "id": 10653503633,
+        "role": "stop",
         "bus": "yes",
         "departures_board": "no",
         "name": "Hotel The-One-O-One A",
@@ -165,6 +174,7 @@
       },
       "properties": {
         "id": 10778322183,
+        "role": "stop",
         "bus": "yes",
         "name": "Taman Radio A",
         "public_transport": "stop_position"
@@ -181,6 +191,7 @@
       },
       "properties": {
         "id": 11104718108,
+        "role": "stop",
         "bus": "yes",
         "name": "Kartikasari A",
         "public_transport": "stop_position"
@@ -197,6 +208,7 @@
       },
       "properties": {
         "id": 11104669204,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Santo Borromeus A",
         "public_transport": "stop_position"
@@ -213,6 +225,7 @@
       },
       "properties": {
         "id": 11739021656,
+        "role": "stop",
         "bus": "yes",
         "name": "UNIKOM",
         "public_transport": "stop_position"
@@ -229,6 +242,7 @@
       },
       "properties": {
         "id": 11707030824,
+        "role": "stop",
         "bus": "yes",
         "name": "UNPAD Dipatiukur (4D)",
         "public_transport": "stop_position"

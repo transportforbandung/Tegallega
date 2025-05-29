@@ -12,6 +12,7 @@
       },
       "properties": {
         "id": 3277886365,
+        "role": "stop_entry_only",
         "bus": "yes",
         "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"
@@ -28,6 +29,7 @@
       },
       "properties": {
         "id": 12628901396,
+        "role": "stop",
         "bus": "yes",
         "name": "SDN Babakan Tarogong",
         "public_transport": "stop_position"
@@ -44,6 +46,7 @@
       },
       "properties": {
         "id": 11739021652,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Immanuel A",
         "public_transport": "stop_position"
@@ -60,6 +63,7 @@
       },
       "properties": {
         "id": 12628930762,
+        "role": "stop",
         "bus": "yes",
         "name": "Muara A",
         "public_transport": "stop_position"
@@ -76,6 +80,7 @@
       },
       "properties": {
         "id": 11707031623,
+        "role": "stop",
         "bus": "yes",
         "name": "Muhammad Toha 1 (PT INTI A)",
         "public_transport": "stop_position"
@@ -92,6 +97,7 @@
       },
       "properties": {
         "id": 12628930746,
+        "role": "stop",
         "bus": "yes",
         "name": "Palasari Radio",
         "public_transport": "stop_position"
@@ -108,6 +114,7 @@
       },
       "properties": {
         "id": 12628930749,
+        "role": "stop",
         "bus": "yes",
         "name": "Zipur Dayeuhkolot",
         "public_transport": "stop_position"
@@ -124,6 +131,7 @@
       },
       "properties": {
         "id": 12626499682,
+        "role": "stop",
         "bus": "yes",
         "name": "Griya Bandung Asri",
         "public_transport": "stop_position"
@@ -140,6 +148,7 @@
       },
       "properties": {
         "id": 12628930752,
+        "role": "stop",
         "bus": "yes",
         "name": "Pasar Baleendah A",
         "public_transport": "stop_position"
@@ -156,6 +165,7 @@
       },
       "properties": {
         "id": 12628930755,
+        "role": "stop",
         "bus": "yes",
         "name": "Bumi Siliwangi",
         "public_transport": "stop_position"
@@ -172,6 +182,7 @@
       },
       "properties": {
         "id": 2459057875,
+        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Terminal Ciparay",
@@ -190,6 +201,7 @@
       },
       "properties": {
         "id": 12628930760,
+        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Terminal Majalaya",
         "public_transport": "stop_position"

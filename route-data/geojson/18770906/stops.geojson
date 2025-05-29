@@ -12,6 +12,7 @@
       },
       "properties": {
         "id": 11707030824,
+        "role": "stop",
         "bus": "yes",
         "name": "UNPAD Dipatiukur (4D)",
         "public_transport": "stop_position"
@@ -28,6 +29,7 @@
       },
       "properties": {
         "id": 11104718106,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Santo Borromeus B",
         "public_transport": "stop_position"
@@ -44,6 +46,7 @@
       },
       "properties": {
         "id": 10778322181,
+        "role": "stop",
         "bus": "yes",
         "name": "Kartikasari B",
         "public_transport": "stop_position"
@@ -60,6 +63,7 @@
       },
       "properties": {
         "id": 10778322182,
+        "role": "stop",
         "bus": "yes",
         "name": "Taman Radio B",
         "public_transport": "stop_position"
@@ -76,6 +80,7 @@
       },
       "properties": {
         "id": 10653503634,
+        "role": "stop",
         "bus": "yes",
         "name": "The-One-O-One B",
         "network": "Trans Metro Pasundan",
@@ -94,6 +99,7 @@
       },
       "properties": {
         "id": 11739021633,
+        "role": "stop",
         "bus": "yes",
         "name": "Bandung Indah Plaza",
         "public_transport": "stop_position"
@@ -110,6 +116,7 @@
       },
       "properties": {
         "id": 11739021637,
+        "role": "stop",
         "alt_name": "Santa Angela",
         "bus": "yes",
         "name": "Merdeka",
@@ -127,6 +134,7 @@
       },
       "properties": {
         "id": 11735248675,
+        "role": "stop",
         "bus": "yes",
         "name": "Bank Indonesia",
         "public_transport": "stop_position"
@@ -143,6 +151,7 @@
       },
       "properties": {
         "id": 29354702,
+        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Pasar Baru",
@@ -161,6 +170,7 @@
       },
       "properties": {
         "id": 10778322188,
+        "role": "stop",
         "bus": "yes",
         "name": "Dalem Kaum",
         "public_transport": "stop_position"
@@ -177,6 +187,7 @@
       },
       "properties": {
         "id": 11739021642,
+        "role": "stop",
         "bus": "yes",
         "name": "Jalan Ibu Inggit Garnasih",
         "public_transport": "stop_position"
@@ -193,6 +204,7 @@
       },
       "properties": {
         "id": 11739021647,
+        "role": "stop",
         "bus": "yes",
         "name": "Pasar Tegalega",
         "public_transport": "stop_position"
@@ -209,6 +221,7 @@
       },
       "properties": {
         "id": 10815723012,
+        "role": "stop",
         "bus": "yes",
         "name": "Simpang Mohamad Toha Biddokkes",
         "public_transport": "stop_position",
@@ -228,6 +241,7 @@
       },
       "properties": {
         "id": 11739021653,
+        "role": "stop",
         "bus": "yes",
         "name": "Rumah Sakit Immanuel B",
         "public_transport": "stop_position"
@@ -244,6 +258,7 @@
       },
       "properties": {
         "id": 3277886365,
+        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"

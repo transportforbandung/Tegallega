@@ -12,6 +12,7 @@
       },
       "properties": {
         "id": 5825243776,
+        "role": "stop_entry_only",
         "bus": "yes",
         "name": "Bandung Electronic Center",
         "public_transport": "stop_position"
@@ -28,6 +29,7 @@
       },
       "properties": {
         "id": 3376669066,
+        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Museum Kota Bandung",
@@ -45,6 +47,7 @@
       },
       "properties": {
         "id": 11739021637,
+        "role": "stop",
         "alt_name": "Santa Angela",
         "bus": "yes",
         "name": "Merdeka",
@@ -62,6 +65,7 @@
       },
       "properties": {
         "id": 11711275743,
+        "role": "stop",
         "bus": "yes",
         "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
@@ -78,6 +82,7 @@
       },
       "properties": {
         "id": 11739021639,
+        "role": "stop",
         "bus": "yes",
         "name": "Toko Mas ABC",
         "public_transport": "stop_position"
@@ -94,6 +99,7 @@
       },
       "properties": {
         "id": 11739021641,
+        "role": "stop",
         "bus": "yes",
         "name": "Simpang Ijan",
         "public_transport": "stop_position"
@@ -110,6 +116,7 @@
       },
       "properties": {
         "id": 11739021644,
+        "role": "stop",
         "bus": "yes",
         "name": "Taman Tegallega",
         "public_transport": "stop_position"
@@ -126,6 +133,7 @@
       },
       "properties": {
         "id": 11707031623,
+        "role": "stop",
         "bus": "yes",
         "name": "Muhammad Toha 1 (PT INTI A)",
         "public_transport": "stop_position"
@@ -142,6 +150,7 @@
       },
       "properties": {
         "id": 11739021649,
+        "role": "stop",
         "bus": "yes",
         "name": "Madurasa Tengah",
         "public_transport": "stop_position"
@@ -158,6 +167,7 @@
       },
       "properties": {
         "id": 3272360374,
+        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "PLN UP3 Bandung B",
@@ -175,6 +185,7 @@
       },
       "properties": {
         "id": 3384018110,
+        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "PT LEN Industri B",
@@ -192,6 +203,7 @@
       },
       "properties": {
         "id": 12626499699,
+        "role": "stop",
         "bus": "yes",
         "name": "LPKIA B",
         "public_transport": "stop_position"
@@ -208,6 +220,7 @@
       },
       "properties": {
         "id": 12626499698,
+        "role": "stop",
         "bus": "yes",
         "name": "Bangunan Mart B",
         "public_transport": "stop_position"
@@ -224,6 +237,7 @@
       },
       "properties": {
         "id": 12626499695,
+        "role": "stop",
         "bus": "yes",
         "name": "Taman Buah Batu",
         "public_transport": "stop_position"
@@ -240,6 +254,7 @@
       },
       "properties": {
         "id": 12626499694,
+        "role": "stop",
         "bus": "yes",
         "name": "Swadarma BNI",
         "public_transport": "stop_position"
@@ -256,6 +271,7 @@
       },
       "properties": {
         "id": 12626499692,
+        "role": "stop",
         "bus": "yes",
         "name": "Pasar Kordon B",
         "public_transport": "stop_position"
@@ -272,6 +288,7 @@
       },
       "properties": {
         "id": 12626499689,
+        "role": "stop",
         "bus": "yes",
         "name": "Bluebird B",
         "public_transport": "stop_position"
@@ -288,6 +305,7 @@
       },
       "properties": {
         "id": 12626499688,
+        "role": "stop",
         "bus": "yes",
         "name": "Puskesmas Kujangsari B",
         "public_transport": "stop_position"
@@ -304,6 +322,7 @@
       },
       "properties": {
         "id": 12626499687,
+        "role": "stop",
         "bus": "yes",
         "name": "Transmart Buahbatu",
         "public_transport": "stop_position"
@@ -320,6 +339,7 @@
       },
       "properties": {
         "id": 549740249,
+        "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Permata Buah Batu",
@@ -337,6 +357,7 @@
       },
       "properties": {
         "id": 11950910945,
+        "role": "stop",
         "bus": "yes",
         "name": "Podomoro",
         "public_transport": "stop_position"
@@ -353,6 +374,7 @@
       },
       "properties": {
         "id": 12626499684,
+        "role": "stop",
         "bus": "yes",
         "name": "AHASS",
         "public_transport": "stop_position"
@@ -369,6 +391,7 @@
       },
       "properties": {
         "id": 12626499682,
+        "role": "stop",
         "bus": "yes",
         "name": "Griya Bandung Asri",
         "public_transport": "stop_position"
@@ -385,6 +408,7 @@
       },
       "properties": {
         "id": 12626499681,
+        "role": "stop",
         "bus": "yes",
         "name": "Alfamart SPBU Bojongsoang",
         "public_transport": "stop_position"
@@ -401,6 +425,7 @@
       },
       "properties": {
         "id": 12626499679,
+        "role": "stop",
         "bus": "yes",
         "name": "Masjid Jami' Baitul Huda B",
         "public_transport": "stop_position"
@@ -417,6 +442,7 @@
       },
       "properties": {
         "id": 2477247659,
+        "role": "stop",
         "bus": "yes",
         "name": "Apotek K24",
         "public_transport": "stop_position"
@@ -433,6 +459,7 @@
       },
       "properties": {
         "id": 12626499675,
+        "role": "stop",
         "bus": "yes",
         "name": "KEJARI Bale Bandung",
         "public_transport": "stop_position"
@@ -449,6 +476,7 @@
       },
       "properties": {
         "id": 12626499676,
+        "role": "stop",
         "bus": "yes",
         "name": "RS Al-Ihsan",
         "public_transport": "stop_position"
@@ -465,6 +493,7 @@
       },
       "properties": {
         "id": 11871901023,
+        "role": "stop_exit_only",
         "bus": "yes",
         "name": "Baleendah",
         "public_transport": "stop_position"
