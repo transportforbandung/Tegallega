@@ -1,6 +1,7 @@
 import os
 import json
 import csv
+import math
 from collections import defaultdict
 
 # Get the absolute path to the repository root
@@ -14,6 +15,27 @@ TIMEZONE = 'Asia/Jakarta'
 AGENCY_NAME = 'Metro Jabar Trans'
 AGENCY_URL = 'https://instagram.com/brt.metrojabartrans'
 AGENCY_LANG = 'id'
+
+# Helper functions for distance and time calculations
+def haversine(lon1, lat1, lon2, lat2):
+    """Calculate distance between two geo-coordinates (in km)"""
+    lon1, lat1, lon2, lat2 = map(math.radians, [lon1, lat1, lon2, lat2])
+    dlon = lon2 - lon1
+    dlat = lat2 - lat1
+    a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon/2)**2
+    return 6371 * 2 * math.asin(math.sqrt(a))  # Earth radius=6371km
+
+def time_str_to_seconds(time_str):
+    """Convert HH:MM string to seconds since midnight"""
+    h, m = map(int, time_str.split(':'))
+    return h * 3600 + m * 60
+
+def seconds_to_time_str(seconds):
+    """Convert seconds to HH:MM:SS format"""
+    h = seconds // 3600
+    m = (seconds % 3600) // 60
+    s = seconds % 60
+    return f"{h:02d}:{m:02d}:{s:02d}"
 
 def process_routes():
     """Process routes.json and return enhanced route data"""
@@ -138,7 +160,7 @@ def process_shapes(routes):
     return shapes
 
 def generate_trips(routes):
-    """Generate trips and stop times with placeholder times"""
+    """Generate trips and stop times with calculated times based on distances"""
     trips = []
     stop_times = []
     
@@ -153,6 +175,32 @@ def generate_trips(routes):
         with open(stop_file) as f:
             stop_data = json.load(f)
         
+        # Extract stop sequence with coordinates
+        stops = []
+        for feature in stop_data['features']:
+            props = feature['properties']
+            coords = feature['geometry']['coordinates']
+            stops.append({
+                'stop_id': props.get('id', f"stop_{len(stops)+1}"),
+                'lon': coords[0],
+                'lat': coords[1]
+            })
+        
+        # Precompute segment times between stops
+        segment_times = [0]  # Start with 0 for first stop
+        for i in range(1, len(stops)):
+            dist = haversine(
+                stops[i-1]['lon'], stops[i-1]['lat'],
+                stops[i]['lon'], stops[i]['lat']
+            )
+            speed = 50 if dist <= 5 else 70
+            segment_times.append((dist / speed) * 3600)  # in seconds
+        
+        # Calculate cumulative travel times (excluding dwell)
+        cumulative_travel = [0]
+        for i in range(1, len(stops)):
+            cumulative_travel.append(cumulative_travel[-1] + segment_times[i])
+        
         # Get number of trips from route configuration
         try:
             num_trips = int(route.get('trips', '0'))
@@ -163,38 +211,37 @@ def generate_trips(routes):
             print(f"Warning: No trips defined for route {route_id}")
             continue
             
-        # Create trip ID components
-        agency_id = 'MJT'  # From create_agency()
-        route_group_id = route['group_id']
-        direction_id = route['directionId']
-        
-        # Create base trip ID without index
-        base_trip_id = f"t-{agency_id}{route_group_id}{direction_id}"
+        # Parse operational times
+        start_sec = time_str_to_seconds(route['first_departure'])
+        end_sec = time_str_to_seconds(route['last_departure'])
+        headway_sec = (end_sec - start_sec) / (num_trips - 1) if num_trips > 1 else 0
         
         # Generate the specified number of trips
-        for trip_index in range(1, num_trips + 1):
-            trip_id = f"{base_trip_id}{trip_index}"
+        for idx in range(num_trips):
+            trip_start = start_sec + idx * headway_sec
+            trip_id = f"t-MJT{route['group_id']}{route['directionId']}{idx+1}"
             
             trips.append({
                 'route_id': route['group_id'],
                 'trip_id': trip_id,
-                'service_id': 'everyday',  # Updated service ID
+                'service_id': 'everyday',
                 'trip_headsign': route['name'],
                 'direction_id': route['directionId'],
                 'shape_id': route.get('shape_id', '')
             })
             
-            # Create stop times with placeholder times
-            for seq, feature in enumerate(stop_data['features']):
-                props = feature['properties']
-                stop_id = props.get('id', f"stop_{seq}")
+            # Create stop times with calculated times
+            for seq in range(len(stops)):
+                # Arrival time = trip start + travel to stop + dwell from previous stops
+                arrival_sec = trip_start + cumulative_travel[seq] + seq * 10
+                departure_sec = arrival_sec + 10  # Add dwell time
                 
                 stop_times.append({
                     'trip_id': trip_id,
-                    'stop_id': stop_id,
+                    'stop_id': stops[seq]['stop_id'],
                     'stop_sequence': seq + 1,
-                    'arrival_time': '08:00:00',  # Placeholder
-                    'departure_time': '08:00:00',  # Placeholder
+                    'arrival_time': seconds_to_time_str(arrival_sec),
+                    'departure_time': seconds_to_time_str(departure_sec),
                     'pickup_type': 0,
                     'drop_off_type': 0
                 })
