@@ -5,7 +5,7 @@ const { mkdirp } = require('mkdirp');
 
 // Enhanced file loading with validation for new structure
 function loadRouteData() {
-  const routesPath = path.join(__dirname, '..', 'route-data', 'routes.json');
+  const routesPath = path.join(__dirname, '..', 'routes.json');
   
   try {
     const fileContent = fs.readFileSync(routesPath, 'utf-8');
