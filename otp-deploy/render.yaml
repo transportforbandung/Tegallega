@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: otp-server
+    env: docker
+    repo: https://github.com/transportforbandung/Tegallega
+    region: oregon
+    branch: main
+    rootDir: otp-deploy
+    plan: free
+    autoDeploy: true
