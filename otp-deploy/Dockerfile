@@ -1,9 +1,8 @@
 FROM opentripplanner/opentripplanner:latest
 
-COPY routers /app/routers
-COPY start.sh /app/start.sh
+COPY otp-deploy/graph.obj /var/opentripplanner/graph.obj
+COPY otp-deploy/start.sh /start.sh
 
-WORKDIR /app
-RUN chmod +x start.sh
+RUN chmod +x /start.sh
 
-CMD ["./start.sh"]
+CMD ["/start.sh"]
