@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: otp-server
+    env: docker
+    plan: free
+    buildCommand: ""
+    startCommand: ./start.sh
+    envVars:
+      - key: JAVA_OPTS
+        value: "-Xmx1G"
+    dockerfilePath: ""
