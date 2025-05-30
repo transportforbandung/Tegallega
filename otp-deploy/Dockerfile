@@ -1,11 +1,8 @@
-# Use a specific version instead of 'latest' for stability
+# Use specific OTP version
 FROM opentripplanner/opentripplanner:2.3.0
 
-# Copy graph to OTP's expected directory
-COPY graph.obj /var/opentripplanner/graph.obj
+# Copy graph to standard directory
+COPY graph.obj /var/opentripplanner/
 
-# Set working directory to where the JAR actually exists
-WORKDIR /app
-
-# Correct entrypoint with verified paths
-ENTRYPOINT ["java", "-Xmx2G", "-jar", "otp-shaded.jar", "--load", "/var/opentripplanner", "--serve"]
+# Use official OTP entrypoint pattern
+ENTRYPOINT ["java", "-Xmx2G", "-jar", "/opt/opentripplanner/otp-shaded.jar", "--load", "/var/opentripplanner", "--serve"]
