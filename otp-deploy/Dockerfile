@@ -1,8 +1,8 @@
-# Use specific version - confirmed working with 2.3.0
 FROM opentripplanner/opentripplanner:2.3.0
 
-# Copy graph to standard directory
-COPY graph.obj /var/opentripplanner/
+# Create directory structure explicitly
+RUN mkdir -p /var/opentripplanner/graphs
+COPY graph.obj /var/opentripplanner/graphs/
 
-# Use OTP's built-in argument handling
-CMD ["--load", "/var/opentripplanner", "--serve"]
+# Use the base image's entrypoint with proper arguments
+CMD ["--load", "/var/opentripplanner/graphs", "--serve"]
