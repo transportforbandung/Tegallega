@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: otp-backend
+    env: docker
+    plan: free
+    region: oregon
+    dockerContext: otp-deploy
+    dockerfilePath: otp-deploy/Dockerfile
+    autoDeploy: true
