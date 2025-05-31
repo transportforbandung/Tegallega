@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping Render server
-        run: curl -m 10 https://your-app.onrender.com || true
+        run: curl -m 10 https://tegallega.onrender.com || true
