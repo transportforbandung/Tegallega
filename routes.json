@@ -158,6 +158,190 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Trans Metro Bandung",
+      "agencyId": "TMB",
+      "agencyUrl": "https://uptangkutan-bandung.id/",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "K1",
+          "name": "Koridor 1 Trans Metro Bandung",
+          "color": "#EF2A33",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cibiru → Cibeureum",
+              "directionId": 0,
+              "relationId": "18768805",
+              "first_departure": "05:00",
+              "last_departure": "15:30",
+              "trips": "32"
+            },
+            {
+              "name": "Cibeureum → Cibiru",
+              "directionId": 1,
+              "relationId": "18768804",
+              "first_departure": "05:00",
+              "last_departure": "17:00",
+              "trips": "36"
+            }
+          ]
+        },
+        {
+          "groupId": "K2",
+          "name": "Koridor 2 Trans Metro Bandung",
+          "color": "#2E3192",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicaheum → Cibeureum",
+              "directionId": 0,
+              "relationId": "15520324",
+              "first_departure": "05:00",
+              "last_departure": "17:00",
+              "trips": "36"
+            },
+            {
+              "name": "Cibeureum → Cicaheum",
+              "directionId": 1,
+              "relationId": "17329177",
+              "first_departure": "05:00",
+              "last_departure": "17:30",
+              "trips": "36"
+            }
+          ]
+        },
+        {
+          "groupId": "K3",
+          "name": "Koridor 3 Trans Metro Bandung",
+          "color": "#734D29",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicaheum → Sarijadi",
+              "directionId": 0,
+              "relationId": "17564612",
+              "first_departure": "05:30",
+              "last_departure": "17:00",
+              "trips": "12"
+            },
+            {
+              "name": "Sarijadi → Cicaheum",
+              "directionId": 1,
+              "relationId": "17564831",
+              "first_departure": "06:00",
+              "last_departure": "18:00",
+              "trips": "12"
+            }
+          ]
+        },
+        {
+          "groupId": "K4",
+          "name": "Koridor 4 Trans Metro Bandung",
+          "color": "#F7941D",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Antapani",
+              "directionId": 0,
+              "relationId": "17770945",
+              "first_departure": "05:30",
+              "last_departure": "15:00",
+              "trips": "12"
+            },
+            {
+              "name": "Antapani → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "15555901",
+              "first_departure": "06:00",
+              "last_departure": "17:00",
+              "trips": "12"
+            }
+          ]
+        },
+        {
+          "groupId": "K5",
+          "name": "Koridor 5 Trans Metro Bandung",
+          "color": "#00A14B",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Stasiun Hall → Antapani",
+              "directionId": 0,
+              "relationId": "17350725",
+              "first_departure": "06:30",
+              "last_departure": "15:00",
+              "trips": "12"
+            },
+            {
+              "name": "Antapani → Stasiun Hall",
+              "directionId": 1,
+              "relationId": "15555900",
+              "first_departure": "06:00",
+              "last_departure": "13:30",
+              "trips": "12"
+            }
+          ]
+        },
+        {
+          "groupId": "F1",
+          "name": "Feeder 1 Trans Metro Bandung",
+          "color": "#662D91",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Stasiun Hall → Gunung Batu",
+              "directionId": 0,
+              "relationId": "17772446",
+              "first_departure": "06:00",
+              "last_departure": "15:00",
+              "trips": "8"
+            },
+            {
+              "name": "Gunung Batu → Stasiun Hall",
+              "directionId": 1,
+              "relationId": "17772447",
+              "first_departure": "05:30",
+              "last_departure": "15:30",
+              "trips": "8"
+            }
+          ]
+        },
+        {
+          "groupId": "F2",
+          "name": "Feeder 2 Trans Metro Bandung",
+          "color": "#3499CC",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cibeureum → Summarecon Mall Bandung",
+              "directionId": 0,
+              "relationId": "17771075",
+              "first_departure": "06:30",
+              "last_departure": "18:00",
+              "trips": "8"
+            },
+            {
+              "name": "Summarecon Mall Bandung → Cibeureum",
+              "directionId": 1,
+              "relationId": "17772429",
+              "first_departure": "06:30",
+              "last_departure": "15:00",
+              "trips": "8"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
