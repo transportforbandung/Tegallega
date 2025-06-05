@@ -6,15 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4668097,
-          -6.8663512
+          107.6565637,
+          -6.902329
         ]
       },
       "properties": {
-        "id": 11955383183,
+        "id": 6460801785,
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "IKEA Kota Baru Parahyangan",
+        "name": "Terminal Cicaheum",
+        "network": "Trans Metro Bandung",
+        "operator": "Dinas Perhubungan Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -23,15 +25,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4654195,
-          -6.8655811
+          107.6483165,
+          -6.9060351
         ]
       },
       "properties": {
-        "id": 12143596539,
+        "id": 11735248707,
         "role": "stop",
         "bus": "yes",
-        "name": "Wahoo Waterworld",
+        "name": "BCA Cimuncang",
         "public_transport": "stop_position"
       }
     },
@@ -40,15 +42,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4712124,
-          -6.8663744
+          107.6459395,
+          -6.9072816
         ]
       },
       "properties": {
-        "id": 11955383184,
+        "id": 11735248706,
         "role": "stop",
         "bus": "yes",
-        "name": "Parahyangan Timur",
+        "name": "Gateway Cicadas",
         "public_transport": "stop_position"
       }
     },
@@ -57,15 +59,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4734039,
-          -6.8665328
+          107.6434825,
+          -6.911388
         ]
       },
       "properties": {
-        "id": 11955383185,
+        "id": 3248969440,
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Cahaya Kawaluyaan",
+        "name": "BTM",
         "public_transport": "stop_position"
       }
     },
@@ -74,15 +76,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4783521,
-          -6.8648529
+          107.6429791,
+          -6.9138756
         ]
       },
       "properties": {
-        "id": 11955383187,
+        "id": 11735248700,
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Al Irsyad",
+        "name": "Flyover Antapani",
         "public_transport": "stop_position"
       }
     },
@@ -91,15 +93,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4805786,
-          -6.8619949
+          107.6399016,
+          -6.9142036
         ]
       },
       "properties": {
-        "id": 11955383188,
+        "id": 3375793691,
         "role": "stop",
         "bus": "yes",
-        "name": "Tatar Wangsakerta A",
+        "name": "WUJ Jalan Banten",
         "public_transport": "stop_position"
       }
     },
@@ -108,15 +110,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4897438,
-          -6.8568342
+          107.6381956,
+          -6.9144188
         ]
       },
       "properties": {
-        "id": 11955383190,
+        "id": 11735248701,
         "role": "stop",
         "bus": "yes",
-        "name": "Bale Pare A",
+        "name": "STMIK",
         "public_transport": "stop_position"
       }
     },
@@ -125,15 +127,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4966418,
-          -6.8428228
+          107.6362469,
+          -6.9146627
         ]
       },
       "properties": {
-        "id": 11536873492,
+        "id": 11735248702,
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Kereta Cepat Padalarang",
+        "name": "GOR KONI",
         "public_transport": "stop_position"
       }
     },
@@ -142,15 +144,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.4986651,
-          -6.8573652
+          107.6327884,
+          -6.9142791
         ]
       },
       "properties": {
-        "id": 11953710372,
+        "id": 11735248692,
         "role": "stop",
         "bus": "yes",
-        "name": "STEI LPPM A",
+        "name": "IBCC",
         "public_transport": "stop_position"
       }
     },
@@ -159,15 +161,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5028237,
-          -6.8629469
+          107.6292904,
+          -6.9161976
         ]
       },
       "properties": {
-        "id": 5287090695,
+        "id": 11735248690,
         "role": "stop",
         "bus": "yes",
-        "name": "RS Karisma Cimareme A",
+        "name": "Stadion Persib Sidolig",
         "public_transport": "stop_position"
       }
     },
@@ -176,15 +178,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5098225,
-          -6.8633262
+          107.6245415,
+          -6.9186929
         ]
       },
       "properties": {
-        "id": 5348536065,
+        "id": 5391666905,
         "role": "stop",
         "bus": "yes",
-        "name": "RS IMC A",
+        "highway": "bus_stop",
+        "name": "Cikudapateuh",
+        "public_transport": "stop_position",
+        "ref": "Cikudapateuh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6235031,
+          -6.9192144
+        ]
+      },
+      "properties": {
+        "id": 11735248683,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Kantor Pos Kosambi",
         "public_transport": "stop_position"
       }
     },
@@ -193,15 +214,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5190095,
-          -6.8675906
+          107.6220644,
+          -6.9199617
         ]
       },
       "properties": {
-        "id": 9908476904,
+        "id": 3277420346,
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Ar Ridwan A",
+        "highway": "bus_stop",
+        "name": "Seberang Pasar Kosambi",
+        "public_transport": "stop_position",
+        "ref": "Kosambi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619848,
+          -6.921143
+        ]
+      },
+      "properties": {
+        "id": 11735248705,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Ketapang",
         "public_transport": "stop_position"
       }
     },
@@ -210,15 +250,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5263898,
-          -6.8685422
+          107.61585,
+          -6.9222132
         ]
       },
       "properties": {
-        "id": 11954137035,
+        "id": 11735248710,
         "role": "stop",
         "bus": "yes",
-        "name": "Padasuka Indah A",
+        "name": "Asia Afrika",
         "public_transport": "stop_position"
       }
     },
@@ -227,15 +267,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5319386,
-          -6.8688013
+          107.6110406,
+          -6.921618
         ]
       },
       "properties": {
-        "id": 11954137037,
+        "id": 11735248711,
         "role": "stop",
         "bus": "yes",
-        "name": "Ranca Belut A",
+        "name": "Gedung Keuangan Negara/KM 0",
         "public_transport": "stop_position"
       }
     },
@@ -244,15 +284,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5363908,
-          -6.8704221
+          107.6071455,
+          -6.9211653
         ]
       },
       "properties": {
-        "id": 11954137039,
+        "id": 11711275743,
         "role": "stop",
         "bus": "yes",
-        "name": "PLN Cisangkan A",
+        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -261,15 +301,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5442734,
-          -6.8748788
+          107.6038238,
+          -6.9207677
         ]
       },
       "properties": {
-        "id": 10680256969,
+        "id": 11735248713,
         "role": "stop",
         "bus": "yes",
-        "name": "BRI Cimahi",
+        "name": "Simpang Sudirman",
         "public_transport": "stop_position"
       }
     },
@@ -278,15 +318,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5503819,
-          -6.8797123
+          107.6020569,
+          -6.9205571
         ]
       },
       "properties": {
-        "id": 11954552709,
+        "id": 11711275750,
         "role": "stop",
         "bus": "yes",
-        "name": "RSUD Cibabat A",
+        "name": "KEB Hana Bank",
         "public_transport": "stop_position"
       }
     },
@@ -295,15 +335,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5542851,
-          -6.8859958
+          107.597515,
+          -6.9200243
         ]
       },
       "properties": {
-        "id": 11954552711,
+        "id": 11711275748,
         "role": "stop",
         "bus": "yes",
-        "name": "Dinas Sosial",
+        "name": "GKI Anugerah",
         "public_transport": "stop_position"
       }
     },
@@ -312,15 +352,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5580359,
-          -6.8921818
+          107.5937417,
+          -6.9195734
         ]
       },
       "properties": {
-        "id": 11954552713,
+        "id": 11735248714,
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Budi",
+        "name": "Sukamanah",
         "public_transport": "stop_position"
       }
     },
@@ -329,15 +369,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5648032,
-          -6.9033346
+          107.591747,
+          -6.9193345
         ]
       },
       "properties": {
-        "id": 11954552722,
+        "id": 11711275755,
         "role": "stop",
         "bus": "yes",
-        "name": "SMAN 13 Bandung A",
+        "name": "Mayapada Tower",
         "public_transport": "stop_position"
       }
     },
@@ -346,15 +386,100 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5663258,
-          -6.905851
+          107.5874451,
+          -6.9188238
         ]
       },
       "properties": {
-        "id": 11954552728,
+        "id": 11735248716,
         "role": "stop",
         "bus": "yes",
-        "name": "Paledang",
+        "name": "Simpang Jamika",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5855198,
+          -6.9186067
+        ]
+      },
+      "properties": {
+        "id": 11711275757,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Toko Ambon",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5819763,
+          -6.9181852
+        ]
+      },
+      "properties": {
+        "id": 11954573588,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SDN Raya Barat",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5771136,
+          -6.9176018
+        ]
+      },
+      "properties": {
+        "id": 11711275763,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Kemenag Kanwil Jabar",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5720549,
+          -6.9155598
+        ]
+      },
+      "properties": {
+        "id": 2604179157,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Optik Krida",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.569361,
+          -6.9109035
+        ]
+      },
+      "properties": {
+        "id": 11954573590,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Batas Kota",
         "public_transport": "stop_position"
       }
     },
@@ -397,136 +522,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5781901,
-          -6.9137773
+          107.575723,
+          -6.9133498
         ]
       },
       "properties": {
-        "id": 11735239264,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Rajawali 1",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5828928,
-          -6.9149105
-        ]
-      },
-      "properties": {
-        "id": 11735239266,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Dunguscariang",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5917121,
-          -6.9165436
-        ]
-      },
-      "properties": {
-        "id": 11735239268,
-        "role": "stop",
-        "bus": "yes",
-        "name": "SMA Trinitas",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5966005,
-          -6.9163694
-        ]
-      },
-      "properties": {
-        "id": 11735248671,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Rumah Sakit Kebon Jati",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.599627,
-          -6.9162422
-        ]
-      },
-      "properties": {
-        "id": 11735248674,
-        "role": "stop",
-        "bus": "yes",
-        "name": "SMA Pasundan",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.607935,
-          -6.9140241
-        ]
-      },
-      "properties": {
-        "id": 11711326974,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Perintis Kemerdekaan",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.609811,
-          -6.916445
-        ]
-      },
-      "properties": {
-        "id": 1849525838,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Lembong",
-        "public_transport": "stop_position",
-        "shelter": "yes",
-        "source": "POI_WRI_Survey_2023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6071455,
-          -6.9211653
-        ]
-      },
-      "properties": {
-        "id": 11711275743,
+        "id": 11711326973,
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
+        "name": "Terminal Elang",
         "public_transport": "stop_position"
       }
     }

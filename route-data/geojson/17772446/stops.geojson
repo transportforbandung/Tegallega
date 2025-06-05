@@ -6,239 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6180361,
-          -6.8934568
+          107.6024135,
+          -6.9161558
         ]
       },
       "properties": {
-        "id": 3375793673,
+        "id": 1013407725,
         "role": "stop_entry_only",
-        "bus": "yes",
-        "name": "UNPAD Dipatiukur",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6161542,
-          -6.8979225
-        ]
-      },
-      "properties": {
-        "id": 11707030826,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Panatayudha A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6199195,
-          -6.9011743
-        ]
-      },
-      "properties": {
-        "id": 1666155324,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Lapangan Gasibu A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6241876,
-          -6.9010661
-        ]
-      },
-      "properties": {
-        "id": 11707030829,
-        "role": "stop",
-        "bus": "yes",
-        "name": "PUSDAI A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6301163,
-          -6.9080655
-        ]
-      },
-      "properties": {
-        "id": 11707030832,
-        "role": "stop",
-        "bus": "yes",
-        "name": "SMPN 14 Bandung (Lapangan Supratman A)",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6274766,
-          -6.9106475
-        ]
-      },
-      "properties": {
-        "id": 1107694939,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Taman Pramuka",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6288644,
-          -6.9130163
-        ]
-      },
-      "properties": {
-        "id": 3375793687,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Hotel Grand Tebu",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6313457,
-          -6.9183624
-        ]
-      },
-      "properties": {
-        "id": 11707030860,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Bandung Creative Hub A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6252887,
-          -6.9343354
-        ]
-      },
-      "properties": {
-        "id": 7702036194,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Hotel Horison A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6062885,
-          -6.939027
-        ]
-      },
-      "properties": {
-        "id": 11707031623,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Muhammad Toha 1 (PT INTI A)",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6090862,
-          -6.9473728
-        ]
-      },
-      "properties": {
-        "id": 5487616737,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Simpang By Pass Soekarno Hatta A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6115168,
-          -6.954618
-        ]
-      },
-      "properties": {
-        "id": 11711185184,
-        "role": "stop",
-        "bus": "yes",
-        "name": "SPBU Moh. Toha",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.7541846,
-          -6.9410603
-        ]
-      },
-      "properties": {
-        "id": 11711185187,
-        "role": "stop",
-        "bus": "yes",
-        "name": "Cileunyi A",
-        "public_transport": "stop_position"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.7652049,
-          -6.9356267
-        ]
-      },
-      "properties": {
-        "id": 1966499313,
-        "role": "stop",
+        "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "IPDN A",
+        "name": "Stasiun Hall",
         "public_transport": "stop_position",
-        "ref": "IPDN A"
+        "ref": "Stasiun Hall/Kebon Jati"
       }
     },
     {
@@ -246,15 +26,254 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7732376,
-          -6.932299
+          107.604546,
+          -6.9153572
         ]
       },
       "properties": {
-        "id": 10697346845,
+        "id": 11262097619,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Stasiun Timur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607935,
+          -6.9140241
+        ]
+      },
+      "properties": {
+        "id": 11711326974,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Perintis Kemerdekaan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609039,
+          -6.9130013
+        ]
+      },
+      "properties": {
+        "id": 11739064594,
+        "role": "stop",
+        "alt_name": "Balai Kota",
+        "bus": "yes",
+        "name": "SMK Negeri 1 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090912,
+          -6.9111612
+        ]
+      },
+      "properties": {
+        "id": 12809274346,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Masjid Al-Ukhuwwah",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079826,
+          -6.9088722
+        ]
+      },
+      "properties": {
+        "id": 12809274348,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Wastukencana Purnawarman",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044125,
+          -6.9064803
+        ]
+      },
+      "properties": {
+        "id": 11739021630,
+        "role": "stop",
+        "bus": "yes",
+        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6038123,
+          -6.904381
+        ]
+      },
+      "properties": {
+        "id": 3269294966,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Abdul Rivai",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5968191,
+          -6.9003956
+        ]
+      },
+      "properties": {
+        "id": 12809082539,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Djunjunan Paskal",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5884432,
+          -6.8950796
+        ]
+      },
+      "properties": {
+        "id": 12628813994,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Griya Pasteur 1",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5832389,
+          -6.8923414
+        ]
+      },
+      "properties": {
+        "id": 12628813991,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Warung Cepot",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5786575,
+          -6.8914927
+        ]
+      },
+      "properties": {
+        "id": 12809283847,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SDN Sukaraja",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5726156,
+          -6.8935189
+        ]
+      },
+      "properties": {
+        "id": 1396428138,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Simpang Dakota",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.572217,
+          -6.8908761
+        ]
+      },
+      "properties": {
+        "id": 12809283844,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Borma Dakota",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5698999,
+          -6.889704
+        ]
+      },
+      "properties": {
+        "id": 12809283842,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Mentor",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5672467,
+          -6.8875315
+        ]
+      },
+      "properties": {
+        "id": 3250402136,
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "UNPAD Jatinangor",
+        "name": "Gunung Batu",
         "public_transport": "stop_position"
       }
     }

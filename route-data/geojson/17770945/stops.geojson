@@ -6,15 +6,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6180361,
-          -6.8934568
+          107.5932351,
+          -6.9459075
         ]
       },
       "properties": {
-        "id": 3375793673,
+        "id": 10693001605,
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "UNPAD Dipatiukur",
+        "name": "Terminal Leuwipanjang",
+        "name:ar": "محطه باصات بندوق",
         "public_transport": "stop_position"
       }
     },
@@ -23,15 +24,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6161542,
-          -6.8979225
+          107.594148,
+          -6.9384872
         ]
       },
       "properties": {
-        "id": 11707030826,
+        "id": 12628901396,
         "role": "stop",
         "bus": "yes",
-        "name": "Panatayudha A",
+        "name": "SDN Babakan Tarogong",
         "public_transport": "stop_position"
       }
     },
@@ -40,15 +41,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6199195,
-          -6.9011743
+          107.5956524,
+          -6.9372267
         ]
       },
       "properties": {
-        "id": 1666155324,
+        "id": 11739021652,
         "role": "stop",
         "bus": "yes",
-        "name": "Lapangan Gasibu A",
+        "name": "Rumah Sakit Immanuel A",
         "public_transport": "stop_position"
       }
     },
@@ -57,15 +58,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6241876,
-          -6.9010661
+          107.6020331,
+          -6.9371534
         ]
       },
       "properties": {
-        "id": 11707030829,
+        "id": 12628930762,
         "role": "stop",
         "bus": "yes",
-        "name": "PUSDAI A",
+        "name": "Muara A",
         "public_transport": "stop_position"
       }
     },
@@ -74,15 +75,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6301163,
-          -6.9080655
+          107.6037009,
+          -6.9373001
         ]
       },
       "properties": {
-        "id": 11707030832,
+        "id": 12806765746,
         "role": "stop",
         "bus": "yes",
-        "name": "SMPN 14 Bandung (Lapangan Supratman A)",
+        "name": "Taman Tegalega/Sri Baduga",
         "public_transport": "stop_position"
       }
     },
@@ -91,15 +92,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6274766,
-          -6.9106475
+          107.6067624,
+          -6.9375463
         ]
       },
       "properties": {
-        "id": 1107694939,
+        "id": 11707031601,
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Pramuka",
+        "name": "PT INTI B (BKR 5)",
         "public_transport": "stop_position"
       }
     },
@@ -108,15 +109,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6288644,
-          -6.9130163
+          107.6083051,
+          -6.9375959
         ]
       },
       "properties": {
-        "id": 3375793687,
+        "id": 3445680780,
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Grand Tebu",
+        "name": "Samsudin",
         "public_transport": "stop_position"
       }
     },
@@ -125,15 +126,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6313457,
-          -6.9183624
+          107.610179,
+          -6.937657
         ]
       },
       "properties": {
-        "id": 11707030860,
+        "id": 12808948210,
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Creative Hub A",
+        "name": "Patung Ikan",
         "public_transport": "stop_position"
       }
     },
@@ -142,15 +143,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6252887,
-          -6.9343354
+          107.6231054,
+          -6.9365872
         ]
       },
       "properties": {
-        "id": 7702036194,
+        "id": 3272575985,
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison A",
+        "name": "BKR Buah Batu",
         "public_transport": "stop_position"
       }
     },
@@ -159,15 +160,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6062885,
-          -6.939027
+          107.6251981,
+          -6.9343038
         ]
       },
       "properties": {
-        "id": 11707031623,
+        "id": 11707031579,
         "role": "stop",
         "bus": "yes",
-        "name": "Muhammad Toha 1 (PT INTI A)",
+        "name": "Hotel Horison B",
         "public_transport": "stop_position"
       }
     },
@@ -176,15 +177,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6090862,
-          -6.9473728
+          107.6260901,
+          -6.9308456
         ]
       },
       "properties": {
-        "id": 5487616737,
+        "id": 12809462424,
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang By Pass Soekarno Hatta A",
+        "name": "Kangkung Kaler",
         "public_transport": "stop_position"
       }
     },
@@ -193,15 +194,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6115168,
-          -6.954618
+          107.6312506,
+          -6.9184177
         ]
       },
       "properties": {
-        "id": 11711185184,
+        "id": 11707030859,
         "role": "stop",
         "bus": "yes",
-        "name": "SPBU Moh. Toha",
+        "name": "Bandung Creative Hub B",
         "public_transport": "stop_position"
       }
     },
@@ -210,15 +211,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7541846,
-          -6.9410603
+          107.6310524,
+          -6.9151724
         ]
       },
       "properties": {
-        "id": 11711185187,
+        "id": 5391666887,
         "role": "stop",
         "bus": "yes",
-        "name": "Cileunyi A",
+        "name": "Jalan Mangga",
         "public_transport": "stop_position"
       }
     },
@@ -227,18 +228,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7652049,
-          -6.9356267
+          107.6332108,
+          -6.9140574
         ]
       },
       "properties": {
-        "id": 1966499313,
+        "id": 11735248691,
         "role": "stop",
         "bus": "yes",
-        "highway": "bus_stop",
-        "name": "IPDN A",
-        "public_transport": "stop_position",
-        "ref": "IPDN A"
+        "name": "Sekolah Agustinus",
+        "public_transport": "stop_position"
       }
     },
     {
@@ -246,15 +245,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7732376,
-          -6.932299
+          107.6345966,
+          -6.9133253
         ]
       },
       "properties": {
-        "id": 10697346845,
+        "id": 3375793690,
+        "role": "stop",
+        "bus": "yes",
+        "name": "A.Yani Supratman",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6396001,
+          -6.9106533
+        ]
+      },
+      "properties": {
+        "id": 11735248694,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Awi Bitung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6434825,
+          -6.911388
+        ]
+      },
+      "properties": {
+        "id": 3248969440,
+        "role": "stop",
+        "bus": "yes",
+        "name": "BTM",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6429791,
+          -6.9138756
+        ]
+      },
+      "properties": {
+        "id": 11735248700,
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "UNPAD Jatinangor",
+        "name": "Flyover Antapani",
         "public_transport": "stop_position"
       }
     }

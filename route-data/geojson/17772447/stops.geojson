@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6180361,
-          -6.8934568
+          107.5672467,
+          -6.8875315
         ]
       },
       "properties": {
-        "id": 3375793673,
+        "id": 3250402136,
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "UNPAD Dipatiukur",
+        "name": "Gunung Batu",
         "public_transport": "stop_position"
       }
     },
@@ -23,15 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6161542,
-          -6.8979225
+          107.566898,
+          -6.8893002
         ]
       },
       "properties": {
-        "id": 11707030826,
+        "id": 2317306703,
         "role": "stop",
         "bus": "yes",
-        "name": "Panatayudha A",
+        "name": "Seberang Gateway Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -40,15 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6199195,
-          -6.9011743
+          107.5829072,
+          -6.8922539
         ]
       },
       "properties": {
-        "id": 1666155324,
+        "id": 1658426541,
         "role": "stop",
         "bus": "yes",
-        "name": "Lapangan Gasibu A",
+        "name": "BPJS Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -57,15 +57,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6241876,
-          -6.9010661
+          107.5849478,
+          -6.8925604
         ]
       },
       "properties": {
-        "id": 11707030829,
+        "id": 12013144935,
         "role": "stop",
         "bus": "yes",
-        "name": "PUSDAI A",
+        "name": "Mall d'Botanica",
         "public_transport": "stop_position"
       }
     },
@@ -74,15 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6301163,
-          -6.9080655
+          107.5856805,
+          -6.8929291
         ]
       },
       "properties": {
-        "id": 11707030832,
+        "id": 2958261155,
         "role": "stop",
         "bus": "yes",
-        "name": "SMPN 14 Bandung (Lapangan Supratman A)",
+        "name": "Djundjunan 3",
         "public_transport": "stop_position"
       }
     },
@@ -91,15 +91,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6274766,
-          -6.9106475
+          107.5883918,
+          -6.8948914
         ]
       },
       "properties": {
-        "id": 1107694939,
+        "id": 12628813992,
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Pramuka",
+        "name": "Griya Pasteur 2",
         "public_transport": "stop_position"
       }
     },
@@ -108,15 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6288644,
-          -6.9130163
+          107.6027269,
+          -6.9002045
         ]
       },
       "properties": {
-        "id": 3375793687,
+        "id": 12809237524,
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Grand Tebu",
+        "name": "GKI Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -125,15 +125,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6313457,
-          -6.9183624
+          107.605369,
+          -6.9039986
         ]
       },
       "properties": {
-        "id": 11707030860,
+        "id": 12809237525,
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Creative Hub A",
+        "name": "Linggawastu",
         "public_transport": "stop_position"
       }
     },
@@ -142,15 +142,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6252887,
-          -6.9343354
+          107.607265,
+          -6.9048943
         ]
       },
       "properties": {
-        "id": 7702036194,
+        "id": 3376669071,
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison A",
+        "name": "Pasar Kembang Wastukencana",
         "public_transport": "stop_position"
       }
     },
@@ -159,15 +159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6062885,
-          -6.939027
+          107.6047535,
+          -6.9071527
         ]
       },
       "properties": {
-        "id": 11707031623,
+        "id": 12809237527,
         "role": "stop",
         "bus": "yes",
-        "name": "Muhammad Toha 1 (PT INTI A)",
+        "name": "Pajajaran Timur",
         "public_transport": "stop_position"
       }
     },
@@ -176,15 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6090862,
-          -6.9473728
+          107.6044529,
+          -6.9075468
         ]
       },
       "properties": {
-        "id": 5487616737,
+        "id": 3376669069,
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang By Pass Soekarno Hatta A",
+        "name": "Kimia Farma",
         "public_transport": "stop_position"
       }
     },
@@ -193,15 +193,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6115168,
-          -6.954618
+          107.6029303,
+          -6.9125954
         ]
       },
       "properties": {
-        "id": 11711185184,
+        "id": 293384756,
         "role": "stop",
         "bus": "yes",
-        "name": "SPBU Moh. Toha",
+        "name": "Stasiun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -210,15 +210,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7541846,
-          -6.9410603
+          107.6007223,
+          -6.9124771
         ]
       },
       "properties": {
-        "id": 11711185187,
+        "id": 12806120204,
         "role": "stop",
         "bus": "yes",
-        "name": "Cileunyi A",
+        "name": "Haji Mesri",
         "public_transport": "stop_position"
       }
     },
@@ -227,35 +227,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7652049,
-          -6.9356267
+          107.5988546,
+          -6.916282
         ]
       },
       "properties": {
-        "id": 1966499313,
+        "id": 25434237,
         "role": "stop",
+        "bus": "yes",
+        "name": "GKI Kebonjati",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599627,
+          -6.9162422
+        ]
+      },
+      "properties": {
+        "id": 11735248674,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SMA Pasundan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6024135,
+          -6.9161558
+        ]
+      },
+      "properties": {
+        "id": 1013407725,
+        "role": "stop_exit_only",
+        "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "IPDN A",
+        "name": "Stasiun Hall",
         "public_transport": "stop_position",
-        "ref": "IPDN A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.7732376,
-          -6.932299
-        ]
-      },
-      "properties": {
-        "id": 10697346845,
-        "role": "stop_exit_only",
-        "bus": "yes",
-        "name": "UNPAD Jatinangor",
-        "public_transport": "stop_position"
+        "ref": "Stasiun Hall/Kebon Jati"
       }
     }
   ]
