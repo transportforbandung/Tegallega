@@ -1,3 +1,5 @@
-fare_id,price,currency_type,payment_method,transfers,transfer_duration
-mjt_regular,4900,IDR,0,3,5400
-mjt_concession,2000,IDR,0,3,5400
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+mjt_regular,4900,IDR,0,,MJT,5400
+mjt_concession,2000,IDR,0,,MJT,5400
+tmb_regular,4000,IDR,0,0,TMB,0
+tmb_concession,4000,IDR,0,0,TMB,0
