@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'route-data/**'
+      - 'route-data/geojson**'
       - 'routes.json'
   workflow_dispatch:
 
