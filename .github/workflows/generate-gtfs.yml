@@ -28,11 +28,16 @@ jobs:
     - name: Generate GTFS
       run: |
         python action-scripts/generate_gtfs.py
-        
-    - name: Commit GTFS files
+
+    - name: Zip GTFS output into otp-data/gtfs.zip
+      run: |
+        mkdir -p otp-data
+        zip -r otp-data/gtfs.zip gtfs
+
+    - name: Commit GTFS files and zipped feed
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@users.noreply.github.com"
-        git add gtfs
-        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-generated GTFS feed"
+        git add gtfs otp-data/gtfs.zip
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-generated GTFS feed and gtfs.zip"
         git push
