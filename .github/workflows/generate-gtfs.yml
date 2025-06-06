@@ -32,7 +32,7 @@ jobs:
     - name: Zip GTFS output into otp-data/gtfs.zip
       run: |
         mkdir -p otp-data
-        zip -r otp-data/gtfs.zip gtfs
+        (cd gtfs && zip -r ../otp-data/gtfs.zip .)
 
     - name: Commit GTFS files and zipped feed
       run: |
