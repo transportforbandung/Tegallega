@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6456051,
+          -6.9247723
+        ]
+      },
+      "properties": {
+        "id": 11549081621,
+        "role": "stop_entry_only",
+        "name": "Kiaracondong",
+        "network": "KAI Commuter",
+        "operator": "Kereta Api Indonesia",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "B18;C18",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625378,
+          -6.9185947
+        ]
+      },
+      "properties": {
+        "id": 7835805289,
+        "role": "stop",
+        "local_ref": "2",
+        "name": "Cikudapateuh",
+        "network": "KAI Commuter",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "B17;C17",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6013653,
+          -6.9144562
+        ]
+      },
+      "properties": {
+        "id": 10694245344,
+        "role": "stop",
+        "local_ref": "4",
+        "name": "Bandung",
+        "name:ja": "バンドン",
+        "network": "KAI Commuter",
+        "operator": "Kereta Api Indonesia",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "B16;C16",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5606244,
+          -6.8956811
+        ]
+      },
+      "properties": {
+        "id": 291546102,
+        "role": "stop",
+        "name": "Cimindi",
+        "operator": "Kereta Api Indonesia",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "B13;C13",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5353528,
+          -6.8849429
+        ]
+      },
+      "properties": {
+        "id": 11546259370,
+        "role": "stop",
+        "name": "Cimahi",
+        "network": "KAI",
+        "operator": "Kereta Api Indonesia",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "B12;C12",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4968046,
+          -6.8424956
+        ]
+      },
+      "properties": {
+        "id": 10693460258,
+        "role": "stop_exit_only",
+        "local_ref": "1",
+        "name": "Padalarang",
+        "network": "KAI",
+        "operator": "Kereta Api Indonesia",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "B10;C10",
+        "train": "yes"
+      }
+    }
+  ]
+}
