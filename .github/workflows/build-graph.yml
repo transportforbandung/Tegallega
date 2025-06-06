@@ -8,7 +8,7 @@ on:
     workflow_dispatch:
 
 jobs:
-  rebuild-graph:
+  building-graph:
     runs-on: ubuntu-latest
 
     steps:
@@ -34,7 +34,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          touch otp-deploy/graph.obj
-          git add -f otp-deploy/graph.obj
-          git commit -m "Update graph.obj from OTP build" || echo "No changes to commit"
-          git push
+          if [ -f otp-deploy/graph.obj ]; then
+              rm -f otp-deploy/graph.obj
+              git add otp-deploy/graph.obj
+              git commit -m "Update graph.obj from OTP build" || echo "No changes to commit"
+              git push
+          else
+              echo "No new graph.obj generated — skipping commit"
+          fi
