@@ -1,8 +1,117 @@
 {
   "categories": [
     {
+      "name": "KAI Commuter",
+      "agencyId": "KCI",
+      "mode": "train",
+      "agencyUrl": "https://commuterline.id/",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "B",
+          "name": "Commuter Line Bandung Raya",
+          "color": "#2D398B",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Padalarang → Cicalengka",
+              "directionId": 0,
+              "relationId": "17077466",
+              "first_departure": "04:00",
+              "last_departure": "21:17",
+              "trips": "18"
+            },
+            {
+              "name": "Padalarang → Kiaracondong",
+              "directionId": 0,
+              "relationId": "17555073",
+              "first_departure": "21:46",
+              "last_departure": "21:46",
+              "trips": "1"
+            },
+            {
+              "name": "Cicalengka → Padalarang",
+              "directionId": 1,
+              "relationId": "17077467",
+              "first_departure": "04:45",
+              "last_departure": "22:25",
+              "trips": "17"
+            },
+            {
+              "name": "Kiaracondong → Padalarang",
+              "directionId": 1,
+              "relationId": "19214381",
+              "first_departure": "22:50",
+              "last_departure": "22:50",
+              "trips": "1"
+            },
+            {
+              "name": "Cicalengka → Purwakarta",
+              "directionId": 1,
+              "relationId": "4626672",
+              "first_departure": "20:45",
+              "last_departure": "20:45",
+              "trips": "1"
+            }
+          ]
+        },
+        {
+          "groupId": "C",
+          "name": "Commuter Line Garut",
+          "color": "#1C75BC",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Purwakarta → Garut",
+              "directionId": 0,
+              "relationId": "15534571",
+              "first_departure": "04:25",
+              "last_departure": "16:25",
+              "trips": "2"
+            },
+            {
+              "name": "Padalarang → Cibatu",
+              "directionId": 0,
+              "relationId": "17549848",
+              "first_departure": "20:46",
+              "last_departure": "20:46",
+              "trips": "1"
+            },
+            {
+              "name": "Garut → Purwakarta",
+              "directionId": 1,
+              "relationId": "17545520",
+              "first_departure": "11:50",
+              "last_departure": "11:50",
+              "trips": "1"
+            },
+            {
+              "name": "Garut → Padalarang",
+              "directionId": 1,
+              "relationId": "17549850",
+              "first_departure": "05:35",
+              "last_departure": "05:35",
+              "trips": "1"
+            },
+            {
+              "name": "Cibatu → Padalarang",
+              "directionId": 1,
+              "relationId": "17549847",
+              "first_departure": "05:15",
+              "last_departure": "05:15",
+              "trips": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Metro Jabar Trans",
       "agencyId": "MJT",
+      "mode": "bus",
       "agencyUrl": "https://instagram.com/brt.metrojabartrans",
       "agencyTimezone": "Asia/Jakarta",
       "agencyLang": "id",
@@ -162,6 +271,7 @@
     {
       "name": "Trans Metro Bandung",
       "agencyId": "TMB",
+      "mode": "bus",
       "agencyUrl": "https://uptangkutan-bandung.id/",
       "agencyTimezone": "Asia/Jakarta",
       "agencyLang": "id",

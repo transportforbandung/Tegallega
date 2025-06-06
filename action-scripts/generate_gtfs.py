@@ -10,6 +10,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Configuration (using absolute paths)
 ROUTES_JSON = os.path.join(REPO_ROOT, 'routes.json')
 ROUTE_DATA_DIR = os.path.join(REPO_ROOT, 'route-data', 'geojson')
+SCHEDULE_DIR = os.path.join(REPO_ROOT, 'route-data', 'schedule')  # Directory for schedule CSVs
 GTFS_DIR = os.path.join(REPO_ROOT, 'gtfs')
 TIMEZONE = 'Asia/Jakarta'
 
@@ -47,6 +48,9 @@ def process_routes():
     
     for category in data['categories']:
         agency_id = category['agencyId']
+        # Determine route type based on mode
+        route_type = 2 if category['mode'] == 'train' else 3  # 2: Train, 3: Bus
+            
         agencies.append({
             'agency_id': agency_id,
             'agency_name': category['name'],
@@ -64,7 +68,7 @@ def process_routes():
                 'group_id': group['groupId'],
                 'name': group['name'],
                 'color': group['color'],
-                'route_type': 3,  # Bus
+                'route_type': route_type,  # Set based on mode
                 'loop': group.get('loop', 'no')  # Capture loop attribute
             })
             
@@ -74,6 +78,7 @@ def process_routes():
                 route['group_name'] = group['name']
                 route['color'] = group['color']
                 route['loop'] = group.get('loop', 'no')  # Add to route
+                route['mode'] = category['mode']  # Add mode for later use
                 all_routes.append(route)
     
     return agencies, route_groups, all_routes
@@ -185,108 +190,259 @@ def generate_trips(routes):
     trips = []
     stop_times = []
     
-    # Track trip counts per direction per group
+    # Track trip counts per direction per group (for bus only)
     group_direction_counts = defaultdict(lambda: defaultdict(int))
     
     for route in routes:
         route_id = route['relationId']
         agency_id = route['agency_id']
-        stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
-        
-        if not os.path.exists(stop_file):
-            print(f"Stop file not found for trip generation: {stop_file}")
-            continue
-            
-        with open(stop_file) as f:
-            stop_data = json.load(f)
-        
-        # Extract stop sequence with coordinates
-        stops = []
-        for feature in stop_data['features']:
-            props = feature['properties']
-            coords = feature['geometry']['coordinates']
-            stops.append({
-                'stop_id': props.get('id', f"stop_{len(stops)+1}"),
-                'lon': coords[0],
-                'lat': coords[1]
-            })
-        
-        # Precompute segment times between stops
-        segment_times = [0]  # Start with 0 for first stop
-        for i in range(1, len(stops)):
-            dist = haversine(
-                stops[i-1]['lon'], stops[i-1]['lat'],
-                stops[i]['lon'], stops[i]['lat']
-            )
-            dist = max(dist, 0.01)  # At least 10 meters
-            speed = 30 if dist <= 5 else 55
-            segment_times.append((dist / speed) * 3600)  # in seconds
-        
-        # Calculate cumulative travel times
-        cumulative_travel = [0]
-        for i in range(1, len(stops)):
-            cumulative_travel.append(cumulative_travel[-1] + segment_times[i])
-        
-        # Get number of trips
-        try:
-            num_trips = int(route.get('trips', '0'))
-        except ValueError:
-            num_trips = 0
-        
-        if num_trips < 1:
-            continue
-            
-        # Parse operational times
-        start_sec = time_str_to_seconds(route['first_departure'])
-        end_sec = time_str_to_seconds(route['last_departure'])
-        headway_sec = (end_sec - start_sec) / (num_trips - 1) if num_trips > 1 else 0
-
-        # Get current trip count for this direction
-        direction = route['directionId']
         group_id = route['group_id']
-        current_count = group_direction_counts[group_id][direction]
+        direction = route['directionId']
         
-        # Generate trips
-        for idx in range(num_trips):
-            # Calculate the trip number within this direction
-            trip_num = current_count + idx + 1
-            trip_start = start_sec + idx * headway_sec
+        # Process train routes differently using schedule CSV
+        if route.get('mode') == 'train':
+            # Build CSV path: route-data/schedule/{agencyId}_{direction}.csv
+            csv_file = os.path.join(SCHEDULE_DIR, f"{agency_id}_{direction}.csv")
             
-            # Format trip ID: t-{agency_id}{group_id}{direction}{trip_num}
-            trip_id = f"t-{agency_id}{group_id}{direction}{trip_num}"
+            if not os.path.exists(csv_file):
+                print(f"Schedule CSV not found for {agency_id} direction {direction}: {csv_file}")
+                continue
             
-            # Create block ID: {agency_id}{group_id}{trip_num} (without direction)
-            block_id = ""
-            if route['loop'] == 'yes':
-                block_id = f"{agency_id}{group_id}{trip_num}"
-            
-            trips.append({
-                'route_id': group_id,
-                'trip_id': trip_id,
-                'service_id': 'everyday',
-                'trip_headsign': route['name'],
-                'direction_id': direction,
-                'shape_id': route.get('shape_id', ''),
-                'block_id': block_id
-            })
-            
-            # Calculate stop times
-            for seq in range(len(stops)):
-                arrival_sec = trip_start + cumulative_travel[seq] + (seq * 10)
-                departure_sec = arrival_sec + 10
+            # Read CSV data
+            with open(csv_file, 'r', newline='', encoding='utf-8') as f:
+                reader = csv.reader(f)
+                # Read first two header rows
+                event_types = next(reader)  # First row: A/D indicators
+                stop_ids = next(reader)     # Second row: stop IDs
                 
-                stop_times.append({
-                    'trip_id': trip_id,
-                    'stop_id': stops[seq]['stop_id'],
-                    'stop_sequence': seq + 1,
-                    'arrival_time': seconds_to_time_str(arrival_sec),
-                    'departure_time': seconds_to_time_str(departure_sec),
-                    'pickup_type': 0,
-                    'drop_off_type': 0
-                })
+                # Validate header rows
+                if len(event_types) < 2 or len(stop_ids) < 2:
+                    print(f"Invalid header rows in {csv_file}")
+                    continue
+                
+                # Extract stop IDs and event types starting from column index 2
+                stop_events = []
+                for i in range(2, len(stop_ids)):
+                    if i < len(event_types):
+                        stop_events.append({
+                            'stop_id': stop_ids[i],
+                            'event_type': event_types[i]
+                        })
+                
+                # Process each trip row
+                for row in reader:
+                    if not row or row[0].strip() == '':
+                        continue
+                    
+                    # Check if this row belongs to the current route
+                    if row[0] != str(route_id):
+                        continue
+                    
+                    trip_num = row[1]
+                    trip_id = f"t-{agency_id}{group_id}{trip_num}"
+                    
+                    # Block ID for looped routes
+                    block_id = ""
+                    if route.get('loop', 'no') == 'yes':
+                        block_id = f"{agency_id}{group_id}{trip_num}"
+                    
+                    # Add trip
+                    trips.append({
+                        'route_id': group_id,
+                        'trip_id': trip_id,
+                        'service_id': 'everyday',
+                        'trip_headsign': route['name'],
+                        'direction_id': direction,
+                        'shape_id': route.get('shape_id', ''),
+                        'block_id': block_id
+                    })
+                    
+                    # Process stop times for this trip
+                    stop_seq = 1
+                    current_stop_id = None
+                    arrival_time = None
+                    departure_time = None
+                    
+                    for i in range(2, len(row)):
+                        if i - 2 >= len(stop_events):
+                            break
+                            
+                        time_str = row[i].strip()
+                        if not time_str:
+                            continue
+                            
+                        event = stop_events[i-2]
+                        event_type = event['event_type']
+                        stop_id = event['stop_id']
+                        
+                        # Convert time to HH:MM:SS format
+                        if ':' in time_str:
+                            h, m = time_str.split(':')[:2]
+                            time_sec = f"{int(h):02d}:{int(m):02d}:00"
+                        else:
+                            continue
+                        
+                        # Handle different event types
+                        if event_type == 'A':
+                            arrival_time = time_sec
+                            # If we already have departure from previous column, complete the stop
+                            if current_stop_id == stop_id and departure_time:
+                                stop_times.append({
+                                    'trip_id': trip_id,
+                                    'stop_id': stop_id,
+                                    'stop_sequence': stop_seq,
+                                    'arrival_time': arrival_time,
+                                    'departure_time': departure_time,
+                                    'pickup_type': 0,
+                                    'drop_off_type': 0
+                                })
+                                stop_seq += 1
+                                arrival_time = None
+                                departure_time = None
+                            current_stop_id = stop_id
+                            
+                        elif event_type == 'D':
+                            departure_time = time_sec
+                            # If we already have arrival from previous column, complete the stop
+                            if current_stop_id == stop_id and arrival_time:
+                                stop_times.append({
+                                    'trip_id': trip_id,
+                                    'stop_id': stop_id,
+                                    'stop_sequence': stop_seq,
+                                    'arrival_time': arrival_time,
+                                    'departure_time': departure_time,
+                                    'pickup_type': 0,
+                                    'drop_off_type': 0
+                                })
+                                stop_seq += 1
+                                arrival_time = None
+                                departure_time = None
+                            current_stop_id = stop_id
+                            
+                        elif event_type == 'AD':
+                            # Handle AD (single column with both times)
+                            stop_times.append({
+                                'trip_id': trip_id,
+                                'stop_id': stop_id,
+                                'stop_sequence': stop_seq,
+                                'arrival_time': time_sec,
+                                'departure_time': time_sec,
+                                'pickup_type': 0,
+                                'drop_off_type': 0
+                            })
+                            stop_seq += 1
+                            current_stop_id = None
+                            arrival_time = None
+                            departure_time = None
+                    
+                    # Handle any remaining partial stop
+                    if arrival_time and departure_time and current_stop_id:
+                        stop_times.append({
+                            'trip_id': trip_id,
+                            'stop_id': current_stop_id,
+                            'stop_sequence': stop_seq,
+                            'arrival_time': arrival_time,
+                            'departure_time': departure_time,
+                            'pickup_type': 0,
+                            'drop_off_type': 0
+                        })
         
-        # Update the trip count for this direction
-        group_direction_counts[group_id][direction] += num_trips
+        # Process bus routes normally
+        else:
+            stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
+            
+            if not os.path.exists(stop_file):
+                print(f"Stop file not found for trip generation: {stop_file}")
+                continue
+                
+            with open(stop_file) as f:
+                stop_data = json.load(f)
+            
+            # Extract stop sequence with coordinates
+            stops = []
+            for feature in stop_data['features']:
+                props = feature['properties']
+                coords = feature['geometry']['coordinates']
+                stops.append({
+                    'stop_id': props.get('id', f"stop_{len(stops)+1}"),
+                    'lon': coords[0],
+                    'lat': coords[1]
+                })
+            
+            # Precompute segment times between stops
+            segment_times = [0]  # Start with 0 for first stop
+            for i in range(1, len(stops)):
+                dist = haversine(
+                    stops[i-1]['lon'], stops[i-1]['lat'],
+                    stops[i]['lon'], stops[i]['lat']
+                )
+                dist = max(dist, 0.01)  # At least 10 meters
+                speed = 30 if dist <= 5 else 55
+                segment_times.append((dist / speed) * 3600)  # in seconds
+            
+            # Calculate cumulative travel times
+            cumulative_travel = [0]
+            for i in range(1, len(stops)):
+                cumulative_travel.append(cumulative_travel[-1] + segment_times[i])
+            
+            # Get number of trips
+            try:
+                num_trips = int(route.get('trips', '0'))
+            except ValueError:
+                num_trips = 0
+            
+            if num_trips < 1:
+                continue
+                
+            # Parse operational times
+            start_sec = time_str_to_seconds(route['first_departure'])
+            end_sec = time_str_to_seconds(route['last_departure'])
+            headway_sec = (end_sec - start_sec) / (num_trips - 1) if num_trips > 1 else 0
+
+            # Get current trip count for this direction
+            current_count = group_direction_counts[group_id][direction]
+            
+            # Generate trips
+            for idx in range(num_trips):
+                # Calculate the trip number within this direction
+                trip_num = current_count + idx + 1
+                trip_start = start_sec + idx * headway_sec
+                
+                # Format trip ID: t-{agency_id}{group_id}{direction}{trip_num}
+                trip_id = f"t-{agency_id}{group_id}{direction}{trip_num}"
+                
+                # Create block ID: {agency_id}{group_id}{trip_num} (without direction)
+                block_id = ""
+                if route['loop'] == 'yes':
+                    block_id = f"{agency_id}{group_id}{trip_num}"
+                
+                trips.append({
+                    'route_id': group_id,
+                    'trip_id': trip_id,
+                    'service_id': 'everyday',
+                    'trip_headsign': route['name'],
+                    'direction_id': direction,
+                    'shape_id': route.get('shape_id', ''),
+                    'block_id': block_id
+                })
+                
+                # Calculate stop times
+                for seq in range(len(stops)):
+                    arrival_sec = trip_start + cumulative_travel[seq] + (seq * 10)
+                    departure_sec = arrival_sec + 10
+                    
+                    stop_times.append({
+                        'trip_id': trip_id,
+                        'stop_id': stops[seq]['stop_id'],
+                        'stop_sequence': seq + 1,
+                        'arrival_time': seconds_to_time_str(arrival_sec),
+                        'departure_time': seconds_to_time_str(departure_sec),
+                        'pickup_type': 0,
+                        'drop_off_type': 0
+                    })
+            
+            # Update the trip count for this direction
+            group_direction_counts[group_id][direction] += num_trips
     
     return trips, stop_times
 
