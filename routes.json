@@ -452,6 +452,141 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Bus Kota Damri",
+      "agencyId": "Damri",
+      "mode": "bus",
+      "agencyUrl": "https://damri.co.id/",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "D2",
+          "name": "Jalur 2 Bus Kota Damri",
+          "color": "#85191B",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Ledeng",
+              "directionId": 0,
+              "relationId": "17771220",
+              "first_departure": "06:30",
+              "last_departure": "15:30",
+              "trips": "12"
+            },
+            {
+              "name": "Ledeng → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "17771221",
+              "first_departure": "06:30",
+              "last_departure": "16:30",
+              "trips": "12"
+            }
+          ]
+        },
+        {
+          "groupId": "D6A",
+          "name": "Jalur 6A Bus Kota Damri",
+          "color": "#F288B7",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Elang → Jatinangor",
+              "directionId": 0,
+              "relationId": "17771076",
+              "first_departure": "06:00",
+              "last_departure": "16:30",
+              "trips": "20"
+            },
+            {
+              "name": "Jatinangor → Elang",
+              "directionId": 1,
+              "relationId": "17772430",
+              "first_departure": "05:30",
+              "last_departure": "15:30",
+              "trips": "20"
+            }
+          ]
+        },
+        {
+          "groupId": "D8",
+          "name": "Jalur 8 Bus Kota Damri",
+          "color": "#CC3366",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Tanjungsari → Kalapa",
+              "directionId": 0,
+              "relationId": "17565369",
+              "first_departure": "05:00",
+              "last_departure": "14:00",
+              "trips": "20"
+            },
+            {
+              "name": "Kalapa → Tanjungsari",
+              "directionId": 1,
+              "relationId": "17771073",
+              "first_departure": "05:30",
+              "last_departure": "16:30",
+              "trips": "20"
+            }
+          ]
+        },
+        {
+          "groupId": "D11",
+          "name": "Jalur 11 Bus Kota Damri",
+          "color": "#754C29",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Cibiru",
+              "directionId": 0,
+              "relationId": "17771219",
+              "first_departure": "06:30",
+              "last_departure": "17:00",
+              "trips": "40"
+            },
+            {
+              "name": "Cibiru → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "17771223",
+              "first_departure": "05:00",
+              "last_departure": "15:30",
+              "trips": "40"
+            }
+          ]
+        },
+        {
+          "groupId": "KBP",
+          "name": "Jalur KBP Bus Kota Damri",
+          "color": "#D7DF23",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Alun-alun Bandung → Kota Baru Parahyangan",
+              "directionId": 0,
+              "relationId": "18771222",
+              "first_departure": "06:00",
+              "last_departure": "16:00",
+              "trips": "20"
+            },
+            {
+              "name": "Kota Baru Parahyangan → Alun-alun Bandung",
+              "directionId": 1,
+              "relationId": "18771223",
+              "first_departure": "06:00",
+              "last_departure": "15:30",
+              "trips": "20"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

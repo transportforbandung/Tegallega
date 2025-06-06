@@ -185,6 +185,15 @@ def process_shapes(routes):
     
     return shapes
 
+def seconds_to_time_str(total_seconds):
+    """Convert seconds to HH:MM:SS format, allowing HH>=24 for next day"""
+    # Round to nearest second before conversion
+    total_seconds = round(total_seconds)
+    hours = total_seconds // 3600
+    minutes = (total_seconds % 3600) // 60
+    seconds = total_seconds % 60
+    return f"{int(hours):02d}:{int(minutes):02d}:{int(seconds):02d}"
+
 def generate_trips(routes):
     """Generate trips and stop times with block_id support"""
     trips = []
@@ -211,7 +220,7 @@ def generate_trips(routes):
             # Read CSV data
             with open(csv_file, 'r', newline='', encoding='utf-8') as f:
                 reader = csv.reader(f)
-                # FIRST row is stop IDs, SECOND row is A/D indicators
+                # Read first two header rows - FIRST row is stop IDs, SECOND row is A/D indicators
                 stop_ids = next(reader)     # First row: stop IDs
                 event_types = next(reader)   # Second row: A/D indicators
                 
@@ -274,10 +283,27 @@ def generate_trips(routes):
                             arrival_str = departure_str
                         if not departure_str:
                             departure_str = arrival_str
-                            
-                        # Convert to HH:MM:SS format
-                        arrival_time = f"{arrival_str}:00"
-                        departure_time = f"{departure_str}:00"
+                        
+                        # Convert time strings to seconds since midnight
+                        def parse_time(time_str):
+                            """Parse HH:MM string to seconds, handling 24+ times"""
+                            if ':' not in time_str:
+                                return 0
+                            h, m = time_str.split(':')
+                            h = int(h)
+                            m = int(m)
+                            # Handle times beyond 24:00
+                            if h < 24:
+                                return h * 3600 + m * 60
+                            # For times >= 24:00, convert to seconds directly
+                            return (h * 3600) + (m * 60)
+                        
+                        arrival_sec = parse_time(arrival_str)
+                        departure_sec = parse_time(departure_str)
+                        
+                        # Convert to GTFS time format (HH:MM:SS with possible 24+ hours)
+                        arrival_time = seconds_to_time_str(arrival_sec)
+                        departure_time = seconds_to_time_str(departure_sec)
                         
                         stop_times.append({
                             'trip_id': trip_id,
