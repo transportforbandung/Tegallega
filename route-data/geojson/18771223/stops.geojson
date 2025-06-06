@@ -1,0 +1,484 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4554476,
+          -6.8818457
+        ]
+      },
+      "properties": {
+        "id": 5509730969,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "Tatar Subanglarang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4660366,
+          -6.8716903
+        ]
+      },
+      "properties": {
+        "id": 11489094686,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Kamandaka",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4692856,
+          -6.8724249
+        ]
+      },
+      "properties": {
+        "id": 11489094682,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Jingganagara",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4687526,
+          -6.8686557
+        ]
+      },
+      "properties": {
+        "id": 11489094684,
+        "role": "stop",
+        "bus": "yes",
+        "name": "CBCS/BAIS",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4687013,
+          -6.8673805
+        ]
+      },
+      "properties": {
+        "id": 12881302236,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Timur IKEA Kota Baru Parahyangan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4712124,
+          -6.8663744
+        ]
+      },
+      "properties": {
+        "id": 11955383184,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Parahyangan Timur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4734039,
+          -6.8665328
+        ]
+      },
+      "properties": {
+        "id": 11955383185,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Rumah Sakit Cahaya Kawaluyaan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4783521,
+          -6.8648529
+        ]
+      },
+      "properties": {
+        "id": 11955383187,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Masjid Al Irsyad",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4805786,
+          -6.8619949
+        ]
+      },
+      "properties": {
+        "id": 11955383188,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Tatar Wangsakerta A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4897438,
+          -6.8568342
+        ]
+      },
+      "properties": {
+        "id": 11955383190,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Bale Pare A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5829072,
+          -6.8922539
+        ]
+      },
+      "properties": {
+        "id": 1658426541,
+        "role": "stop",
+        "bus": "yes",
+        "name": "BPJS Pasteur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5849478,
+          -6.8925604
+        ]
+      },
+      "properties": {
+        "id": 12013144935,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Mall d'Botanica",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5856805,
+          -6.8929291
+        ]
+      },
+      "properties": {
+        "id": 2958261155,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Djundjunan 3",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5883918,
+          -6.8948914
+        ]
+      },
+      "properties": {
+        "id": 12628813992,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Griya Pasteur 2",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6027269,
+          -6.9002045
+        ]
+      },
+      "properties": {
+        "id": 12809237524,
+        "role": "stop",
+        "bus": "yes",
+        "name": "GKI Pasteur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605369,
+          -6.9039986
+        ]
+      },
+      "properties": {
+        "id": 12809237525,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Linggawastu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607265,
+          -6.9048943
+        ]
+      },
+      "properties": {
+        "id": 3376669071,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Pasar Kembang Wastukencana",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6096165,
+          -6.9068537
+        ]
+      },
+      "properties": {
+        "id": 11739021634,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Riau XL",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610623,
+          -6.9088887
+        ]
+      },
+      "properties": {
+        "id": 11739021633,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Bandung Indah Plaza",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6106101,
+          -6.9103764
+        ]
+      },
+      "properties": {
+        "id": 3376669065,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Taman Sejarah Balai Kota Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6104548,
+          -6.9125343
+        ]
+      },
+      "properties": {
+        "id": 11739021637,
+        "role": "stop",
+        "alt_name": "Santa Angela",
+        "bus": "yes",
+        "name": "Merdeka",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6099856,
+          -6.9139284
+        ]
+      },
+      "properties": {
+        "id": 12825997248,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Taman Vanda",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608993,
+          -6.9145426
+        ]
+      },
+      "properties": {
+        "id": 11735248675,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Bank Indonesia",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609811,
+          -6.916445
+        ]
+      },
+      "properties": {
+        "id": 1849525838,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Lembong",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "source": "POI_WRI_Survey_2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6111029,
+          -6.9170839
+        ]
+      },
+      "properties": {
+        "id": 10801865379,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Telkom Lembong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6123364,
+          -6.9189576
+        ]
+      },
+      "properties": {
+        "id": 3374033500,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Tamblong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6110406,
+          -6.921618
+        ]
+      },
+      "properties": {
+        "id": 11735248711,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Gedung Keuangan Negara/KM 0",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071455,
+          -6.9211653
+        ]
+      },
+      "properties": {
+        "id": 11711275743,
+        "role": "stop_exit_only",
+        "bus": "yes",
+        "name": "Alun-Alun Bandung",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

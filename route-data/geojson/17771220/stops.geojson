@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932396,
+          -6.9458755
+        ]
+      },
+      "properties": {
+        "id": 4608003593,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "name:ar": "محطه باصات بندوق",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594148,
+          -6.9384872
+        ]
+      },
+      "properties": {
+        "id": 12628901396,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SDN Babakan Tarogong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5997325,
+          -6.9263959
+        ]
+      },
+      "properties": {
+        "id": 12806765749,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Simpang Astanaanyar Pasirkoja",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5991575,
+          -6.9247939
+        ]
+      },
+      "properties": {
+        "id": 12809227879,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Jalan Haji Safari",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598583,
+          -6.9226401
+        ]
+      },
+      "properties": {
+        "id": 12806765750,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Karanganyar",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5984295,
+          -6.9209186
+        ]
+      },
+      "properties": {
+        "id": 12806765752,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Cibadak Astanaanyar",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5983081,
+          -6.9194322
+        ]
+      },
+      "properties": {
+        "id": 12809269114,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Seberang SMAN 4 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5981241,
+          -6.9155623
+        ]
+      },
+      "properties": {
+        "id": 3640664489,
+        "role": "stop",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paskal Hypersquare",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5979188,
+          -6.9114098
+        ]
+      },
+      "properties": {
+        "id": 11739021629,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SMAN 6 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5976895,
+          -6.9081074
+        ]
+      },
+      "properties": {
+        "id": 12806120202,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SDN 013 Pajajaran",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5973503,
+          -6.8989275
+        ]
+      },
+      "properties": {
+        "id": 5639376088,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Garunggang Kulon",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5973197,
+          -6.8979069
+        ]
+      },
+      "properties": {
+        "id": 12825997250,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SPBU Paskal",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5972487,
+          -6.8960662
+        ]
+      },
+      "properties": {
+        "id": 29357744,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Cibarengkok",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596972,
+          -6.8913554
+        ]
+      },
+      "properties": {
+        "id": 29357741,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Sukagalih PVJ",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596791,
+          -6.8878738
+        ]
+      },
+      "properties": {
+        "id": 1746711065,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Polsek Sukajadi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5965236,
+          -6.8836426
+        ]
+      },
+      "properties": {
+        "id": 3380200149,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Mandiri Sukajadi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596246,
+          -6.8780655
+        ]
+      },
+      "properties": {
+        "id": 3376673098,
+        "role": "stop",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "junction": "yes",
+        "name": "Sukawangi",
+        "public_transport": "stop_position",
+        "ref": "Terminal Karang Setra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5960887,
+          -6.8756034
+        ]
+      },
+      "properties": {
+        "id": 12825997252,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Gereja Santo Laurentius",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5957592,
+          -6.8739356
+        ]
+      },
+      "properties": {
+        "id": 12809082550,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SMPN 15 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594077,
+          -6.8653206
+        ]
+      },
+      "properties": {
+        "id": 12809046293,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Gegerkalong Girang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594757,
+          -6.8600369
+        ]
+      },
+      "properties": {
+        "id": 3376673106,
+        "role": "stop_exit_only",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Museum Pendidikan Nasional UPI",
+        "public_transport": "stop_position",
+        "ref": "UPI"
+      }
+    }
+  ]
+}

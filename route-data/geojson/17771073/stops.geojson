@@ -1,0 +1,568 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6067877,
+          -6.9301452
+        ]
+      },
+      "properties": {
+        "id": 11883812981,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "SDN Moh. Toha",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6059915,
+          -6.926739
+        ]
+      },
+      "properties": {
+        "id": 12626529705,
+        "role": "stop",
+        "bus": "yes",
+        "name": "ITC Kebon Kalapa",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606261,
+          -6.9238597
+        ]
+      },
+      "properties": {
+        "id": 11898859975,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Grand Yogya Kepatihan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071455,
+          -6.9211653
+        ]
+      },
+      "properties": {
+        "id": 11711275743,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Alun-Alun Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065186,
+          -6.9205454
+        ]
+      },
+      "properties": {
+        "id": 12808912264,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Pos Banceuy",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6125973,
+          -6.9262285
+        ]
+      },
+      "properties": {
+        "id": 1956195997,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Jalan Jati",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6183599,
+          -6.9316133
+        ]
+      },
+      "properties": {
+        "id": 3376282080,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Banteng Sadakeling",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619075,
+          -6.931384
+        ]
+      },
+      "properties": {
+        "id": 1982390333,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SMK Medina",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6203316,
+          -6.9317067
+        ]
+      },
+      "properties": {
+        "id": 2250581874,
+        "role": "stop",
+        "bus": "yes",
+        "name": "GOR Lodaya",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6251981,
+          -6.9343038
+        ]
+      },
+      "properties": {
+        "id": 11707031579,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Hotel Horison B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6252887,
+          -6.9343354
+        ]
+      },
+      "properties": {
+        "id": 7702036194,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Hotel Horison A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625925,
+          -6.9402599
+        ]
+      },
+      "properties": {
+        "id": 12808948214,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Selontongan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6282283,
+          -6.9426596
+        ]
+      },
+      "properties": {
+        "id": 12808948215,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Kliningan Buahbatu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6348946,
+          -6.9474943
+        ]
+      },
+      "properties": {
+        "id": 12806868676,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Griya Hemat",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.638444,
+          -6.9464022
+        ]
+      },
+      "properties": {
+        "id": 12806868672,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Sekelimus Utara",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6428119,
+          -6.9450226
+        ]
+      },
+      "properties": {
+        "id": 5825209951,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Simpang Samsat Kiaracondong",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6438888,
+          -6.944662
+        ]
+      },
+      "properties": {
+        "id": 12806851389,
+        "role": "stop",
+        "bus": "yes",
+        "name": "STT Mandala",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6464874,
+          -6.9438278
+        ]
+      },
+      "properties": {
+        "id": 12806851390,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SMK Medika Com",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6505153,
+          -6.9425403
+        ]
+      },
+      "properties": {
+        "id": 12806851392,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Unibi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6528692,
+          -6.941787
+        ]
+      },
+      "properties": {
+        "id": 12806851396,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Cidurian Utara",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6569119,
+          -6.9405212
+        ]
+      },
+      "properties": {
+        "id": 12806851393,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SMKN 9 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6582639,
+          -6.9400924
+        ]
+      },
+      "properties": {
+        "id": 3375689664,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Jasa Raharja Jabar",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6601512,
+          -6.9395718
+        ]
+      },
+      "properties": {
+        "id": 12806851400,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Suparma",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6635594,
+          -6.9390207
+        ]
+      },
+      "properties": {
+        "id": 12806868601,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Kawaluyaan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6672726,
+          -6.938728
+        ]
+      },
+      "properties": {
+        "id": 12806868603,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Sanggar Hurip",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6775339,
+          -6.9379974
+        ]
+      },
+      "properties": {
+        "id": 12806868618,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Cisaranten Kulon",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6794352,
+          -6.9378628
+        ]
+      },
+      "properties": {
+        "id": 12806868620,
+        "role": "stop",
+        "bus": "yes",
+        "name": "KPP Pratama Cicadas",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6973063,
+          -6.9365674
+        ]
+      },
+      "properties": {
+        "id": 12814754658,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Depan Pasar Gedebage",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7099558,
+          -6.9356286
+        ]
+      },
+      "properties": {
+        "id": 12806516348,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Universitas Bhakti Kencana",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7215528,
+          -6.9342906
+        ]
+      },
+      "properties": {
+        "id": 12806516353,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SDN 050 Cibiru",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7642048,
+          -6.9358995
+        ]
+      },
+      "properties": {
+        "id": 10771913963,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Gerbang IPDN Jatinangor",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7652049,
+          -6.9356267
+        ]
+      },
+      "properties": {
+        "id": 1966499313,
+        "role": "stop",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "IPDN A",
+        "public_transport": "stop_position",
+        "ref": "IPDN A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7758563,
+          -6.9316463
+        ]
+      },
+      "properties": {
+        "id": 3476277701,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Damri Unpad Jatinangor",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

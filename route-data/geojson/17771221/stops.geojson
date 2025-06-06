@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951942,
+          -6.85933
+        ]
+      },
+      "properties": {
+        "id": 11711070002,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "Terminal Ledeng",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5936817,
+          -6.8682279
+        ]
+      },
+      "properties": {
+        "id": 12809046289,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Poltekpar NHI",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935629,
+          -6.8693537
+        ]
+      },
+      "properties": {
+        "id": 3376673102,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Simpang Gegerkalong Hilir",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5962411,
+          -6.8746244
+        ]
+      },
+      "properties": {
+        "id": 3376673100,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Borma Setiabudhi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602517,
+          -6.894782
+        ]
+      },
+      "properties": {
+        "id": 3376669085,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Masjid Besar Cipaganti",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5973907,
+          -6.8982584
+        ]
+      },
+      "properties": {
+        "id": 12809082541,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Paskal RSHS",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6027269,
+          -6.9002045
+        ]
+      },
+      "properties": {
+        "id": 12809237524,
+        "role": "stop",
+        "bus": "yes",
+        "name": "GKI Pasteur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605369,
+          -6.9039986
+        ]
+      },
+      "properties": {
+        "id": 12809237525,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Linggawastu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607265,
+          -6.9048943
+        ]
+      },
+      "properties": {
+        "id": 3376669071,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Pasar Kembang Wastukencana",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6047535,
+          -6.9071527
+        ]
+      },
+      "properties": {
+        "id": 12809237527,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Pajajaran Timur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044529,
+          -6.9075468
+        ]
+      },
+      "properties": {
+        "id": 3376669069,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Kimia Farma",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607935,
+          -6.9140241
+        ]
+      },
+      "properties": {
+        "id": 11711326974,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Perintis Kemerdekaan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608993,
+          -6.9145426
+        ]
+      },
+      "properties": {
+        "id": 11735248675,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Bank Indonesia",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044519,
+          -6.9164303
+        ]
+      },
+      "properties": {
+        "id": 29354702,
+        "role": "stop",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pasar Baru",
+        "public_transport": "stop_position",
+        "ref": "Pasar Baru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040142,
+          -6.9219758
+        ]
+      },
+      "properties": {
+        "id": 10778322188,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Dalem Kaum",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039434,
+          -6.9230192
+        ]
+      },
+      "properties": {
+        "id": 11739021639,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Toko Mas ABC",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6036329,
+          -6.9280445
+        ]
+      },
+      "properties": {
+        "id": 11739021641,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Simpang Ijan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603223,
+          -6.9339734
+        ]
+      },
+      "properties": {
+        "id": 11739021644,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Taman Tegallega",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5999005,
+          -6.9374746
+        ]
+      },
+      "properties": {
+        "id": 12806765747,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Muara",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5955421,
+          -6.9372977
+        ]
+      },
+      "properties": {
+        "id": 11739021653,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Rumah Sakit Immanuel B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5913003,
+          -6.9430856
+        ]
+      },
+      "properties": {
+        "id": 12809603991,
+        "role": "stop",
+        "bus": "yes",
+        "name": "RSUD Bandung Kiwari",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934341,
+          -6.9468277
+        ]
+      },
+      "properties": {
+        "id": 11295303565,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Leuwipanjang Soekarno Hatta",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932396,
+          -6.9458755
+        ]
+      },
+      "properties": {
+        "id": 4608003593,
+        "role": "stop_exit_only",
+        "bus": "yes",
+        "name": "Terminal Leuwipanjang",
+        "name:ar": "محطه باصات بندوق",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071455,
+          -6.9211653
+        ]
+      },
+      "properties": {
+        "id": 11711275743,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "Alun-Alun Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065186,
+          -6.9205454
+        ]
+      },
+      "properties": {
+        "id": 12808912264,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "Pos Banceuy",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6066404,
+          -6.9187122
+        ]
+      },
+      "properties": {
+        "id": 12626529706,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Banceuy",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604546,
+          -6.9153572
+        ]
+      },
+      "properties": {
+        "id": 11262097619,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Stasiun Timur",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607935,
+          -6.9140241
+        ]
+      },
+      "properties": {
+        "id": 11711326974,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Perintis Kemerdekaan",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609039,
+          -6.9130013
+        ]
+      },
+      "properties": {
+        "id": 11739064594,
+        "role": "stop",
+        "alt_name": "Balai Kota",
+        "bus": "yes",
+        "name": "SMK Negeri 1 Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090912,
+          -6.9111612
+        ]
+      },
+      "properties": {
+        "id": 12809274346,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Masjid Al-Ukhuwwah",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079826,
+          -6.9088722
+        ]
+      },
+      "properties": {
+        "id": 12809274348,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Wastukencana Purnawarman",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044125,
+          -6.9064803
+        ]
+      },
+      "properties": {
+        "id": 11739021630,
+        "role": "stop",
+        "bus": "yes",
+        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6038123,
+          -6.904381
+        ]
+      },
+      "properties": {
+        "id": 3269294966,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Abdul Rivai",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5968191,
+          -6.9003956
+        ]
+      },
+      "properties": {
+        "id": 12809082539,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Djunjunan Paskal",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5884432,
+          -6.8950796
+        ]
+      },
+      "properties": {
+        "id": 12628813994,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Griya Pasteur 1",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5832389,
+          -6.8923414
+        ]
+      },
+      "properties": {
+        "id": 12628813991,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Warung Cepot",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4941137,
+          -6.8529876
+        ]
+      },
+      "properties": {
+        "id": 12888147067,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Flyover KBP",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4901266,
+          -6.8567205
+        ]
+      },
+      "properties": {
+        "id": 10680256950,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Bale Pare B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4815775,
+          -6.8612441
+        ]
+      },
+      "properties": {
+        "id": 11955383189,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Tatar Wangsakerta B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4782844,
+          -6.865168
+        ]
+      },
+      "properties": {
+        "id": 12143596541,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Parahyangan Utara B",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4738005,
+          -6.8665457
+        ]
+      },
+      "properties": {
+        "id": 11955383186,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Tatar Pitaloka (Parahyangan Selatan)",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4688418,
+          -6.8689266
+        ]
+      },
+      "properties": {
+        "id": 12390565460,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Ratnasasih",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4678358,
+          -6.8724813
+        ]
+      },
+      "properties": {
+        "id": 12888177149,
+        "role": "stop",
+        "bus": "yes",
+        "name": "BTD",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4554476,
+          -6.8818457
+        ]
+      },
+      "properties": {
+        "id": 5509730969,
+        "role": "stop_exit_only",
+        "bus": "yes",
+        "name": "Tatar Subanglarang",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5753136,
+          -6.9144895
+        ]
+      },
+      "properties": {
+        "id": 12013198354,
+        "role": "stop_entry_only",
+        "bus": "yes",
+        "name": "Terminal Elang",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575247,
+          -6.9252035
+        ]
+      },
+      "properties": {
+        "id": 12808867767,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Holis 1",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5763049,
+          -6.9313117
+        ]
+      },
+      "properties": {
+        "id": 12808867765,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Sumbersari 1",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576671,
+          -6.9323901
+        ]
+      },
+      "properties": {
+        "id": 12626357398,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Sumber Sari Junction",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5831212,
+          -6.9419015
+        ]
+      },
+      "properties": {
+        "id": 12626357399,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Pasar Induk Caringin",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5850407,
+          -6.9434372
+        ]
+      },
+      "properties": {
+        "id": 12808867764,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Simpang Caringin",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934341,
+          -6.9468277
+        ]
+      },
+      "properties": {
+        "id": 11295303565,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Leuwipanjang Soekarno Hatta",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6022466,
+          -6.9478017
+        ]
+      },
+      "properties": {
+        "id": 12808867762,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Inhoftank",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6051379,
+          -6.9479853
+        ]
+      },
+      "properties": {
+        "id": 12808867760,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Seberang Ampera Soekarno Hatta",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6067107,
+          -6.9480912
+        ]
+      },
+      "properties": {
+        "id": 12808867756,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Karasak Utara",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115168,
+          -6.954618
+        ]
+      },
+      "properties": {
+        "id": 11711185184,
+        "role": "stop",
+        "bus": "yes",
+        "name": "SPBU Moh. Toha",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7541846,
+          -6.9410603
+        ]
+      },
+      "properties": {
+        "id": 11711185187,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Cileunyi A",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7537453,
+          -6.9404081
+        ]
+      },
+      "properties": {
+        "id": 6473170574,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Pasar Cileunyi",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7642048,
+          -6.9358995
+        ]
+      },
+      "properties": {
+        "id": 10771913963,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Gerbang IPDN Jatinangor",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7652049,
+          -6.9356267
+        ]
+      },
+      "properties": {
+        "id": 1966499313,
+        "role": "stop",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "IPDN A",
+        "public_transport": "stop_position",
+        "ref": "IPDN A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7732585,
+          -6.9323545
+        ]
+      },
+      "properties": {
+        "id": 12013198353,
+        "role": "stop_exit_only",
+        "bus": "yes",
+        "name": "UNPAD Jatinangor",
+        "public_transport": "stop_position"
+      }
+    }
+  ]
+}
