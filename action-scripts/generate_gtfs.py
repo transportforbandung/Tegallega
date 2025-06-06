@@ -220,15 +220,6 @@ def generate_trips(routes):
                     print(f"Invalid header rows in {csv_file}")
                     continue
                 
-                # Extract stop IDs and event types starting from column index 2
-                stop_events = []
-                for i in range(2, len(stop_ids)):
-                    if i < len(event_types):
-                        stop_events.append({
-                            'stop_id': stop_ids[i],
-                            'event_type': event_types[i]
-                        })
-                
                 # Process each trip row
                 for row in reader:
                     if not row or row[0].strip() == '':
@@ -259,93 +250,45 @@ def generate_trips(routes):
                     
                     # Process stop times for this trip
                     stop_seq = 1
-                    current_stop_id = None
-                    arrival_time = None
-                    departure_time = None
-                    
-                    for i in range(2, len(row)):
-                        if i - 2 >= len(stop_events):
+                    # Process columns in pairs (each stop has two columns: arrival and departure)
+                    for col_idx in range(2, len(row), 2):
+                        # Ensure we have a pair of columns
+                        if col_idx + 1 >= len(row):
                             break
-                            
-                        time_str = row[i].strip()
-                        if not time_str:
+                        
+                        # Get stop ID from header (both columns should have same stop ID)
+                        stop_id = stop_ids[col_idx] if col_idx < len(stop_ids) else None
+                        if not stop_id:
                             continue
                             
-                        event = stop_events[i-2]
-                        event_type = event['event_type']
-                        stop_id = event['stop_id']
+                        # Get times for arrival and departure
+                        arrival_str = row[col_idx].strip()
+                        departure_str = row[col_idx + 1].strip()
                         
-                        # Convert time to HH:MM:SS format
-                        if ':' in time_str:
-                            h, m = time_str.split(':')[:2]
-                            time_sec = f"{int(h):02d}:{int(m):02d}:00"
-                        else:
+                        # Skip if both times are empty
+                        if not arrival_str and not departure_str:
                             continue
+                            
+                        # If one time is missing, use the available one for both
+                        if not arrival_str:
+                            arrival_str = departure_str
+                        if not departure_str:
+                            departure_str = arrival_str
+                            
+                        # Convert to HH:MM:SS format
+                        arrival_time = f"{arrival_str}:00"
+                        departure_time = f"{departure_str}:00"
                         
-                        # Handle different event types
-                        if event_type == 'A':
-                            arrival_time = time_sec
-                            # If we already have departure from previous column, complete the stop
-                            if current_stop_id == stop_id and departure_time:
-                                stop_times.append({
-                                    'trip_id': trip_id,
-                                    'stop_id': stop_id,
-                                    'stop_sequence': stop_seq,
-                                    'arrival_time': arrival_time,
-                                    'departure_time': departure_time,
-                                    'pickup_type': 0,
-                                    'drop_off_type': 0
-                                })
-                                stop_seq += 1
-                                arrival_time = None
-                                departure_time = None
-                            current_stop_id = stop_id
-                            
-                        elif event_type == 'D':
-                            departure_time = time_sec
-                            # If we already have arrival from previous column, complete the stop
-                            if current_stop_id == stop_id and arrival_time:
-                                stop_times.append({
-                                    'trip_id': trip_id,
-                                    'stop_id': stop_id,
-                                    'stop_sequence': stop_seq,
-                                    'arrival_time': arrival_time,
-                                    'departure_time': departure_time,
-                                    'pickup_type': 0,
-                                    'drop_off_type': 0
-                                })
-                                stop_seq += 1
-                                arrival_time = None
-                                departure_time = None
-                            current_stop_id = stop_id
-                            
-                        elif event_type == 'AD':
-                            # Handle AD (single column with both times)
-                            stop_times.append({
-                                'trip_id': trip_id,
-                                'stop_id': stop_id,
-                                'stop_sequence': stop_seq,
-                                'arrival_time': time_sec,
-                                'departure_time': time_sec,
-                                'pickup_type': 0,
-                                'drop_off_type': 0
-                            })
-                            stop_seq += 1
-                            current_stop_id = None
-                            arrival_time = None
-                            departure_time = None
-                    
-                    # Handle any remaining partial stop
-                    if arrival_time and departure_time and current_stop_id:
                         stop_times.append({
                             'trip_id': trip_id,
-                            'stop_id': current_stop_id,
+                            'stop_id': stop_id,
                             'stop_sequence': stop_seq,
                             'arrival_time': arrival_time,
                             'departure_time': departure_time,
                             'pickup_type': 0,
                             'drop_off_type': 0
                         })
+                        stop_seq += 1
         
         # Process bus routes normally
         else:
