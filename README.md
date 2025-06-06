@@ -1,2 +1,2 @@
 # Tegallega
-Prototype of public transport routing by Transport for Bandung.
+Backend repository for Transport for Bandung, Linraya routing webapp.
