@@ -211,9 +211,9 @@ def generate_trips(routes):
             # Read CSV data
             with open(csv_file, 'r', newline='', encoding='utf-8') as f:
                 reader = csv.reader(f)
-                # Read first two header rows
-                event_types = next(reader)  # First row: A/D indicators
-                stop_ids = next(reader)     # Second row: stop IDs
+                # FIRST row is stop IDs, SECOND row is A/D indicators
+                stop_ids = next(reader)     # First row: stop IDs
+                event_types = next(reader)   # Second row: A/D indicators
                 
                 # Validate header rows
                 if len(event_types) < 2 or len(stop_ids) < 2:
