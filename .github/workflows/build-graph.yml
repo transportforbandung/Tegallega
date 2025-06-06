@@ -1,10 +1,6 @@
 name: Build OTP Graph
 
 on:
-    push:
-        branches: [ main ]
-        paths:
-          - 'otp-data/gtfs.zip'
     workflow_dispatch:
 
 jobs:
