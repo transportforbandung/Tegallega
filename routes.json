@@ -587,6 +587,41 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Angkot Kota Bandung",
+      "agencyId": "ABD",
+      "mode": "angkot",
+      "agencyUrl": "htts://dishub.bandung.go.id/",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "01A",
+          "name": "Angkot Kota Bandung 01A",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Abdul Muis → Cicaheum via Binong",
+              "directionId": 0,
+              "relationId": "3415464",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cicaheum → Abdul Muis via Binong",
+              "directionId": 0,
+              "relationId": "4635390",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
