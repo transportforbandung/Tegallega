@@ -16,7 +16,8 @@ function loadRouteData() {
         group.routes.map(route => ({
           relationId: route.relationId.toString(),
           name: route.name,
-          directionId: route.directionId
+          directionId: route.directionId,
+          mode: category.mode // Capture mode here
         }))
       )
     );
@@ -176,7 +177,7 @@ async function getOrderedStops(relation) {
 }
 
 async function processRoute(route) {
-  const { relationId } = route;
+  const { relationId, mode } = route;
   const dir = path.join(__dirname, '..', 'route-data', 'geojson', relationId);
 
   try {
@@ -196,22 +197,70 @@ async function processRoute(route) {
       JSON.stringify(waysGeoJSON, null, 2)
     );
 
-    const stopNodes = await getOrderedStops(relation);
-    const stopsGeoJSON = {
-      type: 'FeatureCollection',
-      features: stopNodes.map(node => ({
-        type: 'Feature',
-        geometry: {
-          type: 'Point',
-          coordinates: [node.lon, node.lat]
-        },
-        properties: {
-          id: node.id,
-          role: node.role,
-          ...node.tags
+    let stopsGeoJSON;
+
+    if (mode === 'angkot') {
+      console.log(`Generating virtual stops for angkot route ${relationId}`);
+
+      const coordSet = new Set();
+      const coordToName = new Map();
+
+      // Build coordinate list with road names from ways
+      for (const way of ways) {
+        const coords = way.geometry.map(c => [c.lon, c.lat]);
+        const name = way.tags?.name || 'Jalan terdekat';
+
+        for (const coord of coords) {
+          const key = coord.join(',');
+          if (!coordSet.has(key)) {
+            coordSet.add(key);
+            coordToName.set(key, name);
+          }
         }
-      }))
-    };
+      }
+
+      const virtualStops = Array.from(coordSet).map((key, index) => {
+        const [lon, lat] = key.split(',').map(Number);
+        return {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [lon, lat]
+          },
+          properties: {
+            id: `virtual_${relationId}_${index}`,
+            name: coordToName.get(key),
+            role: 'virtual',
+            mode: 'bus'
+          }
+        };
+      });
+
+      stopsGeoJSON = {
+        type: 'FeatureCollection',
+        features: virtualStops
+      };
+    }
+
+    else {
+      // Fetch regular stop nodes
+      const stopNodes = await getOrderedStops(relation);
+      stopsGeoJSON = {
+        type: 'FeatureCollection',
+        features: stopNodes.map(node => ({
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [node.lon, node.lat]
+          },
+          properties: {
+            id: node.id,
+            role: node.role,
+            ...node.tags
+          }
+        }))
+      };
+    }
 
     fs.writeFileSync(
       path.join(dir, 'stops.geojson'),
