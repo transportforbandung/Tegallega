@@ -1,0 +1,5509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5942998,
+          -6.9486456
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5943_-6.9486",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5942619,
+          -6.9487521
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5943_-6.9488",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594111,
+          -6.9491645
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9492",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594007,
+          -6.9494581
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9495",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593989,
+          -6.9495183
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9495",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939029,
+          -6.9498072
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.9498",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937705,
+          -6.950365
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9504",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937512,
+          -6.9504458
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9504",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937476,
+          -6.9504611
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5937_-6.9505",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593706,
+          -6.9506522
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5937_-6.9507",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5936724,
+          -6.9508306
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5937_-6.9508",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5936409,
+          -6.9510003
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9510",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593606,
+          -6.9512253
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9512",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935936,
+          -6.95131
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9513",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935928,
+          -6.9513153
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9513",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935268,
+          -6.9517653
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9518",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935106,
+          -6.9518508
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9519",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934577,
+          -6.9521425
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9521",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934263,
+          -6.9522883
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9523",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933988,
+          -6.9524241
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9524",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933754,
+          -6.9525559
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9526",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933284,
+          -6.9527389
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9527",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933177,
+          -6.9527975
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9528",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593309,
+          -6.9528767
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9529",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933036,
+          -6.9529725
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9530",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593305,
+          -6.9532368
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9532",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933075,
+          -6.9534735
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9535",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932993,
+          -6.9536359
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9536",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932909,
+          -6.9538691
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9539",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932949,
+          -6.9539843
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9540",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932996,
+          -6.9541793
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9542",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593305,
+          -6.9542246
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9542",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933365,
+          -6.9543897
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9544",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933935,
+          -6.9546193
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9546",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934061,
+          -6.9546625
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9547",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934384,
+          -6.9547824
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9548",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934686,
+          -6.9549341
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9549",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593488,
+          -6.955044
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9550",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934934,
+          -6.9550985
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9551",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934947,
+          -6.9551751
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9552",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934916,
+          -6.9551915
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9552",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934747,
+          -6.9552797
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9553",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934458,
+          -6.9553814
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9554",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933754,
+          -6.9556357
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9556",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933656,
+          -6.9556633
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9557",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593298,
+          -6.955853
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9559",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932667,
+          -6.9559447
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9559",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932482,
+          -6.9560037
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9560",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932429,
+          -6.9560206
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9560",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931688,
+          -6.9562614
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9563",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931279,
+          -6.9564338
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9564",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931118,
+          -6.9565123
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9565",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931011,
+          -6.9565895
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9566",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5930924,
+          -6.9567466
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9567",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931829,
+          -6.9574289
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9574",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931876,
+          -6.957554
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9576",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593193,
+          -6.9577384
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9577",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931995,
+          -6.957832
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9578",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932071,
+          -6.9579567
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9580",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932265,
+          -6.9580632
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9581",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593256,
+          -6.958195
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9582",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932835,
+          -6.9582848
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9583",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933485,
+          -6.9584339
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9584",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934169,
+          -6.9585984
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9586",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934817,
+          -6.9587587
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9588",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935162,
+          -6.958844
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9588",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935437,
+          -6.9589191
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9589",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935578,
+          -6.9589944
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9590",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935544,
+          -6.9590537
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9591",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935423,
+          -6.9591362
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9591",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935324,
+          -6.9592025
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9592",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935172,
+          -6.9593415
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9593",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935017,
+          -6.9594638
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9595",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934861,
+          -6.959587
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9596",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934847,
+          -6.9596633
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9597",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934853,
+          -6.9597652
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9598",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934947,
+          -6.9598657
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9599",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935034,
+          -6.9599256
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9599",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935148,
+          -6.9599802
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9600",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935343,
+          -6.9600407
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5935_-6.9600",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935611,
+          -6.9601013
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9601",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935846,
+          -6.9601313
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9601",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5936972,
+          -6.9602917
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5937_-6.9603",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937871,
+          -6.9604228
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9604",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938486,
+          -6.9605156
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9605",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939708,
+          -6.9607057
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9607",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939983,
+          -6.9607589
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9608",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940191,
+          -6.9608068
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9608",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940339,
+          -6.9608475
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9608",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940399,
+          -6.9608927
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9609",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940406,
+          -6.960948
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9609",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940379,
+          -6.9610205
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9610",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938862,
+          -6.9614574
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.9615",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938691,
+          -6.9615072
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.9615",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937757,
+          -6.9617658
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9618",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951636,
+          -6.9477707
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9478",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951418,
+          -6.9478259
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.9478",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951296,
+          -6.9478505
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.9479",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951215,
+          -6.9478692
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.9479",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5950953,
+          -6.9479038
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.9479",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5950618,
+          -6.9479511
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.9480",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5950276,
+          -6.9479856
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5950_-6.9480",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5949773,
+          -6.9480149
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5950_-6.9480",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948566,
+          -6.9480862
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5949_-6.9481",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5947507,
+          -6.9481401
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9481",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946789,
+          -6.9481874
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5947_-6.9482",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946166,
+          -6.9482326
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9482",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945643,
+          -6.9482752
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9483",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945267,
+          -6.9483019
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5945_-6.9483",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5944851,
+          -6.9483431
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5945_-6.9483",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5944503,
+          -6.9483844
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5945_-6.9484",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594408,
+          -6.9484363
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5944_-6.9484",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5943671,
+          -6.9484982
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5944_-6.9485",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5943322,
+          -6.9485655
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5943_-6.9486",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951744,
+          -6.9476516
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9477",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951774,
+          -6.9476057
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9476",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951895,
+          -6.9474073
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9474",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951905,
+          -6.9473813
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9474",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5951948,
+          -6.9471897
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9472",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595201,
+          -6.9471108
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9471",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952184,
+          -6.9469031
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9469",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952459,
+          -6.9466699
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9467",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952669,
+          -6.9462117
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9462",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595271,
+          -6.9461694
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9462",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952757,
+          -6.9461131
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9461",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952807,
+          -6.9460535
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9461",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952859,
+          -6.9459928
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9460",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595295,
+          -6.9458786
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9459",
+        "name": "Jalan Leuwi Panjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5947542,
+          -6.9458158
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9458",
+        "name": "Jalur Masuk Bus",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946833,
+          -6.9457747
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5947_-6.9458",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946602,
+          -6.9457539
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5947_-6.9458",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946417,
+          -6.9457374
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9457",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946051,
+          -6.945699
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9457",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945604,
+          -6.9456597
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9457",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945045,
+          -6.9456294
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5945_-6.9456",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940938,
+          -6.9455608
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9456",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594043,
+          -6.9455517
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9456",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939996,
+          -6.9455089
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9455",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939206,
+          -6.9454445
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.9454",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938304,
+          -6.9453934
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9454",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937581,
+          -6.9453769
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9454",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933092,
+          -6.9453113
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9453",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932421,
+          -6.9453015
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9453",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931905,
+          -6.9452829
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9453",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931632,
+          -6.9452184
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9452",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931481,
+          -6.9451822
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9452",
+        "name": "Jalur Bus AKDP",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5930651,
+          -6.9449801
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9450",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593001,
+          -6.9448463
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5930_-6.9448",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5929292,
+          -6.9447046
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5929_-6.9447",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5928343,
+          -6.9445374
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5928_-6.9445",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5927511,
+          -6.9443886
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5928_-6.9444",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926206,
+          -6.9442708
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5926_-6.9443",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5923835,
+          -6.9441238
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5924_-6.9441",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5921208,
+          -6.9439946
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5921_-6.9440",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5918901,
+          -6.9438721
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5919_-6.9439",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5918384,
+          -6.9438586
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5918_-6.9439",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5917569,
+          -6.9438503
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5918_-6.9439",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916902,
+          -6.9438514
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5917_-6.9439",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916379,
+          -6.9438582
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5916_-6.9439",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5910845,
+          -6.9435862
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5911_-6.9436",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5910269,
+          -6.9435481
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5910_-6.9435",
+        "name": "Jalan Keluar Terminal Leuwipanjang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5910603,
+          -6.9434929
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5911_-6.9435",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5910903,
+          -6.9434463
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5911_-6.9434",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5911028,
+          -6.9434233
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5911_-6.9434",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5911203,
+          -6.9433931
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5911_-6.9434",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5912147,
+          -6.9432302
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5912_-6.9432",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591257,
+          -6.9431573
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5913_-6.9432",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5913003,
+          -6.9430856
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5913_-6.9431",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5913435,
+          -6.9430138
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5913_-6.9430",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5914686,
+          -6.9428144
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5915_-6.9428",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916513,
+          -6.9425217
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5917_-6.9425",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5918451,
+          -6.942203
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5918_-6.9422",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5918647,
+          -6.9421708
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5919_-6.9422",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59192,
+          -6.9420837
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5919_-6.9421",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5920724,
+          -6.9418438
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5921_-6.9418",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5922389,
+          -6.9415903
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5922_-6.9416",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5924641,
+          -6.9412448
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5925_-6.9412",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5930896,
+          -6.9402979
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9403",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59314,
+          -6.9402168
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5931_-6.9402",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932148,
+          -6.9400962
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9401",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932356,
+          -6.9400628
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9401",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933094,
+          -6.939944
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5933_-6.9399",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934404,
+          -6.9397331
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9397",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5936005,
+          -6.9394752
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9395",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937688,
+          -6.9391642
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9392",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939092,
+          -6.9389121
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.9389",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939987,
+          -6.938752
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9388",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940814,
+          -6.9386042
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9386",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5941015,
+          -6.9385696
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9386",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594148,
+          -6.9384872
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9385",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594204,
+          -6.9383881
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5942_-6.9384",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594524,
+          -6.9378129
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5945_-6.9378",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945872,
+          -6.9376992
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9377",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946221,
+          -6.9376377
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.9376",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946542,
+          -6.9375847
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5947_-6.9376",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948299,
+          -6.9373141
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9373",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948404,
+          -6.9372004
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9372",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948364,
+          -6.9370866
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9371",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948276,
+          -6.937023
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9370",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948141,
+          -6.9369602
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9370",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5943039,
+          -6.9366433
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5943_-6.9366",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5941,
+          -6.9365167
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9365",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940685,
+          -6.936498
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9365",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938034,
+          -6.9363309
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5938_-6.9363",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937173,
+          -6.9362775
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5937_-6.9363",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5936387,
+          -6.9362255
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5936_-6.9362",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934112,
+          -6.9360768
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5934_-6.9361",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5929253,
+          -6.9357593
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5929_-6.9358",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926348,
+          -6.9355874
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5926_-6.9356",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5923246,
+          -6.9353626
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5923_-6.9354",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5919994,
+          -6.9351204
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5920_-6.9351",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5917192,
+          -6.9348719
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5917_-6.9349",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916857,
+          -6.9348415
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5917_-6.9348",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5914958,
+          -6.9346635
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5915_-6.9347",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5914306,
+          -6.9346026
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5914_-6.9346",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5914077,
+          -6.934577
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5914_-6.9346",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5911483,
+          -6.9342878
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5911_-6.9343",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5907048,
+          -6.9337927
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5907_-6.9338",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5906563,
+          -6.9337317
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5907_-6.9337",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5905268,
+          -6.933574
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5905_-6.9336",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5902955,
+          -6.9332924
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5903_-6.9333",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5900181,
+          -6.9329457
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5900_-6.9329",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5899659,
+          -6.9328782
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5900_-6.9329",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5892057,
+          -6.9318954
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5892_-6.9319",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5887036,
+          -6.9312262
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5887_-6.9312",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5886347,
+          -6.9311348
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5886_-6.9311",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5885244,
+          -6.9309884
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5885_-6.9310",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5884445,
+          -6.9308824
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5884_-6.9309",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5882717,
+          -6.9306532
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5883_-6.9307",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5881617,
+          -6.9305127
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5882_-6.9305",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5880076,
+          -6.930291
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5880_-6.9303",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5878265,
+          -6.9300334
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5878_-6.9300",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58773,
+          -6.9298868
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5877_-6.9299",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5876706,
+          -6.9297926
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5877_-6.9298",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5876218,
+          -6.9297152
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5876_-6.9297",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5873584,
+          -6.9292693
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5874_-6.9293",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5873385,
+          -6.9292381
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5873_-6.9292",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5872624,
+          -6.9291184
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5873_-6.9291",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5870069,
+          -6.9287166
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5870_-6.9287",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5870783,
+          -6.9286663
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5871_-6.9287",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5872693,
+          -6.9289677
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5873_-6.9290",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5878209,
+          -6.9298432
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5878_-6.9298",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5880867,
+          -6.9302251
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5881_-6.9302",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5885186,
+          -6.9308281
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5885_-6.9308",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5892718,
+          -6.9317765
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5893_-6.9318",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5896129,
+          -6.9322061
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5896_-6.9322",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5898891,
+          -6.9325542
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5899_-6.9326",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5900921,
+          -6.932815
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5901_-6.9328",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5902264,
+          -6.9329875
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5902_-6.9330",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5904689,
+          -6.9332992
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5905_-6.9333",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5906616,
+          -6.9335467
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5907_-6.9335",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591246,
+          -6.9342321
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5912_-6.9342",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5913302,
+          -6.9343317
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5913_-6.9343",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5918144,
+          -6.9348252
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5918_-6.9348",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5920652,
+          -6.9350312
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5921_-6.9350",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5924543,
+          -6.9353145
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5925_-6.9353",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926867,
+          -6.9354757
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5927_-6.9355",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5928426,
+          -6.9355727
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5928_-6.9356",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593996,
+          -6.9363217
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9363",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594144,
+          -6.936407
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5941_-6.9364",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5941686,
+          -6.9364211
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5942_-6.9364",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5948326,
+          -6.9368455
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.9368",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5949722,
+          -6.9369162
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5950_-6.9369",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5950424,
+          -6.936952
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5950_-6.9370",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595108,
+          -6.9369797
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.9370",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952913,
+          -6.937055
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9371",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5955701,
+          -6.9371851
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5956_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5956524,
+          -6.9372267
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5957_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5957833,
+          -6.9372929
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5958_-6.9373",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5960045,
+          -6.937408
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5960_-6.9374",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596358,
+          -6.9375437
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.9375",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5965807,
+          -6.9376054
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5966_-6.9376",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5967717,
+          -6.9376364
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5968_-6.9376",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5970266,
+          -6.9376757
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5970_-6.9377",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5970826,
+          -6.9376843
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5971_-6.9377",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597167,
+          -6.937696
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5972_-6.9377",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597571,
+          -6.9377203
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5976_-6.9377",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980158,
+          -6.9377065
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5980_-6.9377",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5984843,
+          -6.937651
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5985_-6.9377",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5993404,
+          -6.9374905
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5993_-6.9375",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599356,
+          -6.9374873
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5994_-6.9375",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5994448,
+          -6.9374721
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5994_-6.9375",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5994636,
+          -6.9374701
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5995_-6.9375",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6001982,
+          -6.9373255
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6002_-6.9373",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6005128,
+          -6.9372644
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6005_-6.9373",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6009668,
+          -6.9371867
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6010_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6012443,
+          -6.9371571
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6012_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6015131,
+          -6.9371424
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6015_-6.9371",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601986,
+          -6.9371494
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6020_-6.9371",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6020331,
+          -6.9371534
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6020_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6023057,
+          -6.9371766
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6023_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6025122,
+          -6.9371945
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6025_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6028669,
+          -6.9372273
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6029_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6028903,
+          -6.9372279
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6029_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6030002,
+          -6.9372376
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6030_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60308,
+          -6.9372447
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6031_-6.9372",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6031763,
+          -6.9372532
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6032_-6.9373",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603309,
+          -6.9372649
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6033_-6.9373",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6037009,
+          -6.9373001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6037_-6.9373",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6043789,
+          -6.9373611
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6044_-6.9374",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6045674,
+          -6.937378
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6046_-6.9374",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6059561,
+          -6.9375043
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6060_-6.9375",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6060215,
+          -6.9374808
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6060_-6.9375",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6060615,
+          -6.9374566
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6061_-6.9375",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6060983,
+          -6.937428
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6061_-6.9374",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6061469,
+          -6.9373771
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6061_-6.9374",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6061856,
+          -6.9373185
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6062_-6.9373",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062104,
+          -6.9372527
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6062_-6.9373",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062336,
+          -6.9369656
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6062_-6.9370",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062386,
+          -6.9369386
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6062_-6.9369",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062529,
+          -6.9369183
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9369",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062604,
+          -6.9368241
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9368",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062815,
+          -6.9365596
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9366",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062864,
+          -6.9364942
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9365",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062951,
+          -6.936362
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9364",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6063018,
+          -6.9362741
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9363",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6063213,
+          -6.9360167
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6063_-6.9360",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064216,
+          -6.9346941
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6064_-6.9347",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064347,
+          -6.9345209
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6064_-6.9345",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064644,
+          -6.934149
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9341",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064804,
+          -6.9339369
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9339",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065192,
+          -6.9332778
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9333",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065207,
+          -6.9332521
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9333",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065399,
+          -6.9330001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9330",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065556,
+          -6.9327947
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6066_-6.9328",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6066275,
+          -6.9318519
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6066_-6.9319",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6054273,
+          -6.9316877
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6054_-6.9317",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6059933,
+          -6.9317677
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6060_-6.9318",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6060299,
+          -6.931773
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6060_-6.9318",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064553,
+          -6.931835
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9318",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055016,
+          -6.9311384
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9311",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055192,
+          -6.9309578
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9310",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055259,
+          -6.9309078
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9309",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605557,
+          -6.9305299
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9305",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055585,
+          -6.9305004
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9305",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055781,
+          -6.930239
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9302",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055888,
+          -6.9300028
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9300",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055993,
+          -6.9298025
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9298",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605655,
+          -6.9290349
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6057_-6.9290",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6056868,
+          -6.9286757
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6057_-6.9287",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6057712,
+          -6.9281145
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6058_-6.9281",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6057772,
+          -6.9280104
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6058_-6.9280",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6057934,
+          -6.9278423
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6058_-6.9278",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6058121,
+          -6.9276265
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6058_-6.9276",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    }
+  ]
+}
