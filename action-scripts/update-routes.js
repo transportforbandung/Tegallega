@@ -221,6 +221,9 @@ async function processRoute(route) {
 
       const virtualStops = Array.from(coordSet).map((key, index) => {
         const [lon, lat] = key.split(',').map(Number);
+        const roundedLon = lon.toFixed(4);
+        const roundedLat = lat.toFixed(4);
+
         return {
           type: 'Feature',
           geometry: {
@@ -228,7 +231,7 @@ async function processRoute(route) {
             coordinates: [lon, lat]
           },
           properties: {
-            id: `virtual_${relationId}_${index}`,
+            id: `virtual_${roundedLon}_${roundedLat}`,
             name: coordToName.get(key),
             role: 'virtual',
             mode: 'bus'
