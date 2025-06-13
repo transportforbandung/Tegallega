@@ -1,2 +1,5 @@
 gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
 gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
+otp-deploy/graph.obj filter=lfs diff=lfs merge=lfs -text
+otp-deploy/otp-shaded-2.7.0.jar filter=lfs diff=lfs merge=lfs -text
+otp-deploy/gtfs.zip filter=lfs diff=lfs merge=lfs -text
