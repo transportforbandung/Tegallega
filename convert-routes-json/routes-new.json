@@ -1,6 +1,486 @@
 {
   "categories": [
     {
+      "name": "Metro Jabar Trans",
+      "agencyId": "MJT",
+      "mode": "bus",
+      "agencyUrl": "https://instagram.com/brt.metrojabartrans",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "1",
+          "name": "Metro Jabar Trans 1",
+          "color": "#00A64F",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Soreang",
+              "directionId": 0,
+              "relationId": "14365267",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Soreang → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18765871",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "2",
+          "name": "Metro Jabar Trans 2",
+          "color": "#ED1C24",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Kota Baru Parahyangan → Alun-alun Bandung",
+              "directionId": 0,
+              "relationId": "18766206",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Alun-Alun Bandung → Kota Baru Parahyangan",
+              "directionId": 1,
+              "relationId": "18766205",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "3",
+          "name": "Metro Jabar Trans 3",
+          "color": "#562B63",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Baleendah → BEC",
+              "directionId": 0,
+              "relationId": "18766208",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "BEC → Baleendah",
+              "directionId": 1,
+              "relationId": "18766207",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "4",
+          "name": "Metro Jabar Trans 4",
+          "color": "#2E3192",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Dago",
+              "directionId": 0,
+              "relationId": "14298213",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Dago → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18770906",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "5",
+          "name": "Metro Jabar Trans 5",
+          "color": "#EC008C",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Dipatiukur → Jatinangor",
+              "directionId": 0,
+              "relationId": "15660998",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Jatinangor → Dipatiukur",
+              "directionId": 1,
+              "relationId": "14364569",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "6",
+          "name": "Metro Jabar Trans 6",
+          "color": "#F04B23",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Majalaya",
+              "directionId": 0,
+              "relationId": "18771078",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Majalaya → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18771079",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trans Metro Bandung",
+      "agencyId": "TMB",
+      "mode": "bus",
+      "agencyUrl": "https://uptangkutan-bandung.id/",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "1",
+          "name": "Trans Metro Bandung 1",
+          "color": "#EF2A33",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cibiru → Cibeureum",
+              "directionId": 0,
+              "relationId": "18768805",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cibeureum → Cibiru",
+              "directionId": 1,
+              "relationId": "18768804",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "2",
+          "name": "Trans Metro Bandung 2",
+          "color": "#2E3192",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicaheum → Cibeureum",
+              "directionId": 0,
+              "relationId": "15520324",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cibeureum → Cicaheum",
+              "directionId": 1,
+              "relationId": "17329177",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "3",
+          "name": "Trans Metro Bandung 3",
+          "color": "#734D29",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicaheum → Sarijadi",
+              "directionId": 0,
+              "relationId": "17564612",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Sarijadi → Cicaheum",
+              "directionId": 1,
+              "relationId": "17564831",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "4",
+          "name": "Trans Metro Bandung 4",
+          "color": "#F7941D",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Flyover Antapani",
+              "directionId": 0,
+              "relationId": "17770945",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Flyover Antapani → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "15555901",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "5",
+          "name": "Trans Metro Bandung 5",
+          "color": "#00A14B",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Stasiun Hall → Antapani",
+              "directionId": 0,
+              "relationId": "17350725",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Antapani → Stasiun Hall",
+              "directionId": 1,
+              "relationId": "15555900",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "1",
+          "name": "Trans Metro Bandung 1",
+          "color": "#662D91",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Feeder 1: Stasiun Hall → Gunung Batu",
+              "directionId": 0,
+              "relationId": "17772446",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Feeder 1: Gunung Batu → Stasiun Hall",
+              "directionId": 1,
+              "relationId": "17772447",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "2",
+          "name": "Trans Metro Bandung 2",
+          "color": "#3499CC",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Feeder 2: Cibeureum → Mall Summarecon Bandung",
+              "directionId": 0,
+              "relationId": "17771075",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Feeder 2: Mall Summarecon Bandung → Cibeureum",
+              "directionId": 1,
+              "relationId": "17772429",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bus Kota Damri",
+      "agencyId": "Damri",
+      "mode": "bus",
+      "agencyUrl": "https://damri.co.id/",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "2",
+          "name": "Bus Kota Damri 2",
+          "color": "#85191B",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Jalur 2: Leuwipanjang → Ledeng",
+              "directionId": 0,
+              "relationId": "17771220",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Jalur 2: Ledeng → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "17771221",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "6A",
+          "name": "Bus Kota Damri 6A",
+          "color": "#F288B7",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Jalur 6A: Elang → Jatinangor via Tol Padaleunyi",
+              "directionId": 0,
+              "relationId": "17771076",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Jalur 6A: Jatinangor → Elang via Tol Padaleunyi",
+              "directionId": 1,
+              "relationId": "17772430",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "8",
+          "name": "Bus Kota Damri 8",
+          "color": "#CC3366",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Jalur 8: Tanjungsari → Kebon Kalapa",
+              "directionId": 0,
+              "relationId": "17565369",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Jalur 8: Kebon Kalapa → Tanjungsari",
+              "directionId": 1,
+              "relationId": "17771073",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "11",
+          "name": "Bus Kota Damri 11",
+          "color": "#754C29",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Jalur 11: Leuwipanjang → Cibiru",
+              "directionId": 0,
+              "relationId": "17771219",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Jalur 11: Cibiru → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "17771223",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "KBP",
+          "name": "Bus Kota Damri KBP",
+          "color": "#D7DF23",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Jalur KBP: Alun-alun Bandung → Kota Baru Parahyangan via Tol Pasteur",
+              "directionId": 0,
+              "relationId": "18771222",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Jalur KBP: Kota Baru Parahyangan → Alun-alun Bandung via Tol Pasteur",
+              "directionId": 1,
+              "relationId": "18771223",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Angkot Kota Bandung",
       "agencyId": "ABD",
       "mode": "angkot",
@@ -975,6 +1455,1331 @@
               "name": "35: Karangsetra → Kalapa",
               "directionId": 1,
               "relationId": "16677557",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angkot Kota Cimahi",
+      "agencyId": "AC",
+      "mode": "angkot",
+      "agencyUrl": "",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "Citeureup → Cimindi via Pemkot",
+          "name": "Citeureup → Cimindi via Pemkot",
+          "color": "#EE2A7B",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Citeureup → Cimindi via Pemkot",
+              "directionId": 0,
+              "relationId": "18797951",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cimindi → Citeureup via Pemkot",
+              "directionId": 1,
+              "relationId": "18797950",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Cimindi via Leuwigajah",
+          "name": "Cimahi → Cimindi via Leuwigajah",
+          "color": "#800080",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Cimindi via Leuwigajah",
+              "directionId": 0,
+              "relationId": "4820221",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cimindi → Cimahi via Leuwigajah",
+              "directionId": 1,
+              "relationId": "4820225",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Cibeber via Baros",
+          "name": "Cimahi → Cibeber via Baros",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Cibeber via Baros",
+              "directionId": 0,
+              "relationId": "5737856",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cibeber → Cimahi via Baros",
+              "directionId": 1,
+              "relationId": "5737854",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Cibeber via Contong",
+          "name": "Cimahi → Cibeber via Contong",
+          "color": "#ff2700",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Cibeber via Contong",
+              "directionId": 0,
+              "relationId": "4820363",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cibeber → Cimahi via Contong",
+              "directionId": 1,
+              "relationId": "4820367",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angkot Kabupaten Bandung",
+      "agencyId": "AKB",
+      "mode": "angkot",
+      "agencyUrl": "",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "Soreang → Banjaran",
+          "name": "Soreang → Banjaran",
+          "color": "#00c0ff",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Soreang → Banjaran",
+              "directionId": 0,
+              "relationId": "4807479",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Banjaran → Soreang",
+              "directionId": 1,
+              "relationId": "4807478",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cibaduyut → Baleendah",
+          "name": "Cibaduyut → Baleendah",
+          "color": "#67EC23",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cibaduyut → Baleendah",
+              "directionId": 0,
+              "relationId": "5738880",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Baleendah → Cibaduyut",
+              "directionId": 1,
+              "relationId": "5738875",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cibaduyut → Pameungpeuk (Asem)",
+          "name": "Cibaduyut → Pameungpeuk (Asem)",
+          "color": "#00AEEF",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cibaduyut → Pameungpeuk (Asem)",
+              "directionId": 0,
+              "relationId": "5736615",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Pameungpeuk (Asem) → Cibaduyut",
+              "directionId": 1,
+              "relationId": "5736614",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Rancamanyar → Baleendah",
+          "name": "Rancamanyar → Baleendah",
+          "color": "#00AEEF",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Rancamanyar → Baleendah",
+              "directionId": 0,
+              "relationId": "5738888",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Baleendah → Rancamanyar",
+              "directionId": 1,
+              "relationId": "5738877",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Palasari → Sayati",
+          "name": "Palasari → Sayati",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Palasari → Sayati",
+              "directionId": 0,
+              "relationId": "5736616",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Sayati → Palasari",
+              "directionId": 1,
+              "relationId": "5736617",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Banjaran → Cimaung (Pangalengan)",
+          "name": "Banjaran → Cimaung (Pangalengan)",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Banjaran → Cimaung (Pangalengan)",
+              "directionId": 0,
+              "relationId": "18799372",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cimaung (Pangalengan) → Banjaran",
+              "directionId": 1,
+              "relationId": "18799373",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Banjaran → Arjasari",
+          "name": "Banjaran → Arjasari",
+          "color": "#F7ED38",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Banjaran → Arjasari",
+              "directionId": 0,
+              "relationId": "18793595",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Arjasari → Banjaran",
+              "directionId": 1,
+              "relationId": "18793596",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Banjaran → Baros",
+          "name": "Banjaran → Baros",
+          "color": "#2c49a5",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Banjaran → Baros",
+              "directionId": 0,
+              "relationId": "18793591",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Baros → Banjaran",
+              "directionId": 1,
+              "relationId": "18793592",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cileunyi → Majalaya",
+          "name": "Cileunyi → Majalaya",
+          "color": "#0000FF",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cileunyi → Majalaya",
+              "directionId": 0,
+              "relationId": "4808695",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Majalaya → Cileunyi",
+              "directionId": 1,
+              "relationId": "4808696",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Ciparay → Majalaya",
+          "name": "Ciparay → Majalaya",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Ciparay → Majalaya",
+              "directionId": 0,
+              "relationId": "5736510",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Majalaya → Ciparay",
+              "directionId": 1,
+              "relationId": "5736512",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Majalaya → Lembur Awi",
+          "name": "Majalaya → Lembur Awi",
+          "color": "#F7ED38",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Majalaya → Lembur Awi",
+              "directionId": 0,
+              "relationId": "18793793",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Lembur Awi → Majalaya",
+              "directionId": 1,
+              "relationId": "18793794",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Majalaya → Ibun",
+          "name": "Majalaya → Ibun",
+          "color": "#F7ED38",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Majalaya → Ibun",
+              "directionId": 0,
+              "relationId": "18793796",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Ibun → Majalaya",
+              "directionId": 1,
+              "relationId": "18793797",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cicalengka → Majalaya",
+          "name": "Cicalengka → Majalaya",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicalengka → Majalaya",
+              "directionId": 0,
+              "relationId": "5736508",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Majalaya → Cicalengka",
+              "directionId": 1,
+              "relationId": "5736511",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angkot Kabupaten Bandung Barat",
+      "agencyId": "AKBB",
+      "mode": "angkot",
+      "agencyUrl": "",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "Padalarang → Rajamandala",
+          "name": "Padalarang → Rajamandala",
+          "color": "#F7ED38",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Padalarang → Rajamandala",
+              "directionId": 0,
+              "relationId": "5738488",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Rajamandala → Padalarang",
+              "directionId": 1,
+              "relationId": "5738489",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Padalarang → Gunung Bentang",
+          "name": "Padalarang → Gunung Bentang",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Padalarang → Gunung Bentang",
+              "directionId": 0,
+              "relationId": "5742517",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Gunung Bentang → Padalarang",
+              "directionId": 1,
+              "relationId": "5742516",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Padalarang → Parongpong",
+          "name": "Padalarang → Parongpong",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Padalarang → Parongpong",
+              "directionId": 0,
+              "relationId": "18792719",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Parongpong → Padalarang",
+              "directionId": 1,
+              "relationId": "4421032",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cisarua → Lembang",
+          "name": "Cisarua → Lembang",
+          "color": "#F7ED38",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cisarua → Lembang",
+              "directionId": 0,
+              "relationId": "18400714",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Lembang → Cisarua",
+              "directionId": 1,
+              "relationId": "4421033",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Angkot Lintas Wilayah (AKDP)",
+      "agencyId": "AKDP",
+      "mode": "angkot",
+      "agencyUrl": "",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "04",
+          "name": "Angkot Lintas Wilayah (AKDP) 04",
+          "color": "#72463c",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "04: Sumedang → Cileunyi",
+              "directionId": 0,
+              "relationId": "5747409",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "04: Cileunyi → Sumedang",
+              "directionId": 1,
+              "relationId": "5747408",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "05",
+          "name": "Angkot Lintas Wilayah (AKDP) 05",
+          "color": "#b0b000",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "05: Cicalengka → Tanjungsari",
+              "directionId": 0,
+              "relationId": "5745157",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "05: Tanjungsari → Cicalengka",
+              "directionId": 1,
+              "relationId": "5745158",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Stasiun Hall → Lembang",
+          "name": "Stasiun Hall → Lembang",
+          "color": "#863535",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Stasiun Hall → Lembang",
+              "directionId": 0,
+              "relationId": "4308299",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Lembang → Stasiun Hall",
+              "directionId": 1,
+              "relationId": "17556157",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Ciroyom → Lembang",
+          "name": "Ciroyom → Lembang",
+          "color": "#0e664d",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Ciroyom → Lembang",
+              "directionId": 0,
+              "relationId": "17553836",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Lembang → Ciroyom",
+              "directionId": 1,
+              "relationId": "17553837",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Ledeng",
+          "name": "Cimahi → Ledeng",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Ledeng",
+              "directionId": 0,
+              "relationId": "4818341",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Ledeng → Cimahi",
+              "directionId": 1,
+              "relationId": "4818342",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Polban → Gegerkalong Hilir",
+          "name": "Polban → Gegerkalong Hilir",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Polban → Gegerkalong Hilir",
+              "directionId": 0,
+              "relationId": "4818363",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Gegerkalong Hilir → Polban",
+              "directionId": 1,
+              "relationId": "4818361",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Pesantren → Sarijadi",
+          "name": "Pesantren → Sarijadi",
+          "color": "#0000FF",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Pesantren → Sarijadi",
+              "directionId": 0,
+              "relationId": "4818405",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Sarijadi → Pesantren",
+              "directionId": 1,
+              "relationId": "4420980",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Parongpong",
+          "name": "Cimahi → Parongpong",
+          "color": "#800080",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Parongpong",
+              "directionId": 0,
+              "relationId": "4818568",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Parongpong → Cimahi",
+              "directionId": 1,
+              "relationId": "4818569",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Stasiun Hall",
+          "name": "Cimahi → Stasiun Hall",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Stasiun Hall",
+              "directionId": 0,
+              "relationId": "18782468",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Stasiun Hall → Cimahi",
+              "directionId": 1,
+              "relationId": "18782469",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Leuwipanjang",
+          "name": "Cimahi → Leuwipanjang",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Leuwipanjang",
+              "directionId": 0,
+              "relationId": "4817618",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Leuwipanjang → Cimahi",
+              "directionId": 1,
+              "relationId": "17830973",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Padalarang → Cimahi",
+          "name": "Padalarang → Cimahi",
+          "color": "#ff2700",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Padalarang → Cimahi",
+              "directionId": 0,
+              "relationId": "5737865",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cimahi → Padalarang",
+              "directionId": 1,
+              "relationId": "5737857",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Cangkorah",
+          "name": "Cimahi → Cangkorah",
+          "color": "#00AEEF",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Cangkorah",
+              "directionId": 0,
+              "relationId": "5737855",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cangkorah → Cimahi",
+              "directionId": 1,
+              "relationId": "5737853",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Cililin",
+          "name": "Cimahi → Cililin",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Cililin",
+              "directionId": 0,
+              "relationId": "5738485",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cililin → Cimahi",
+              "directionId": 1,
+              "relationId": "5738483",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Soreang → Cililin",
+          "name": "Soreang → Cililin",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Soreang → Cililin",
+              "directionId": 0,
+              "relationId": "5738490",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cililin → Soreang",
+              "directionId": 1,
+              "relationId": "5738484",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimahi → Soreang",
+          "name": "Cimahi → Soreang",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimahi → Soreang",
+              "directionId": 0,
+              "relationId": "5737858",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Soreang → Cimahi",
+              "directionId": 1,
+              "relationId": "5737866",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cimindi → Cipatik",
+          "name": "Cimindi → Cipatik",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cimindi → Cipatik",
+              "directionId": 0,
+              "relationId": "5737860",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cipatik → Cimindi",
+              "directionId": 1,
+              "relationId": "5737863",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Elang → Melong Asih",
+          "name": "Elang → Melong Asih",
+          "color": "#ff0000",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Elang → Melong Asih",
+              "directionId": 0,
+              "relationId": "4425942",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Melong Asih → Elang",
+              "directionId": 1,
+              "relationId": "4645583",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Leuwipanjang → Soreang",
+          "name": "Leuwipanjang → Soreang",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Soreang",
+              "directionId": 0,
+              "relationId": "4807424",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Soreang → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "4807425",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Tegallega → Banjaran",
+          "name": "Tegallega → Banjaran",
+          "color": "#803000",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Tegallega → Banjaran",
+              "directionId": 0,
+              "relationId": "5738886",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Banjaran → Tegallega",
+              "directionId": 1,
+              "relationId": "5738878",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Kalapa → Baleendah",
+          "name": "Kalapa → Baleendah",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Kalapa → Baleendah",
+              "directionId": 0,
+              "relationId": "5738885",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Baleendah → Kalapa",
+              "directionId": 1,
+              "relationId": "5738876",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Tegallega → Ciparay",
+          "name": "Tegallega → Ciparay",
+          "color": "#006838",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Tegallega → Ciparay",
+              "directionId": 0,
+              "relationId": "5738887",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Ciparay → Tegallega",
+              "directionId": 1,
+              "relationId": "5738883",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Buahbatu → GBA",
+          "name": "Buahbatu → GBA",
+          "color": "#006838",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Buahbatu → GBA",
+              "directionId": 0,
+              "relationId": "4648430",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "GBA → Buahbatu",
+              "directionId": 1,
+              "relationId": "4648431",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Buahbatu → Ciparay via Sapan",
+          "name": "Buahbatu → Ciparay via Sapan",
+          "color": "#2E3192",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Buahbatu → Ciparay via Sapan",
+              "directionId": 0,
+              "relationId": "5736507",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Ciparay → Buahbatu via Sapan",
+              "directionId": 1,
+              "relationId": "5736509",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Gedebage → Majalaya via Sapan",
+          "name": "Gedebage → Majalaya via Sapan",
+          "color": "#FFF200",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Gedebage → Majalaya via Sapan",
+              "directionId": 0,
+              "relationId": "5736435",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Majalaya → Gedebage via Sapan",
+              "directionId": 1,
+              "relationId": "5736436",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Majalaya (Rancaekek Kencana) → Gedebage via Sayang",
+          "name": "Majalaya (Rancaekek Kencana) → Gedebage via Sayang",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Majalaya (Rancaekek Kencana) → Gedebage via Sayang",
+              "directionId": 0,
+              "relationId": "4808667",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Gedebage → Majalaya (Rancaekek Kencana) via Sayang",
+              "directionId": 1,
+              "relationId": "4808655",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cicaheum → Cileunyi",
+          "name": "Cicaheum → Cileunyi",
+          "color": "#156635",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicaheum → Cileunyi",
+              "directionId": 0,
+              "relationId": "4422549",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cileunyi → Cicaheum",
+              "directionId": 1,
+              "relationId": "4644899",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Cicalengka → Cijolang (Limbangan)",
+          "name": "Cicalengka → Cijolang (Limbangan)",
+          "color": "#00abff",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Cicalengka → Cijolang (Limbangan)",
+              "directionId": 0,
+              "relationId": "5738881",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Cijolang (Limbangan) → Cicalengka",
+              "directionId": 1,
+              "relationId": "5738882",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elf",
+      "agencyId": "ELF",
+      "mode": "bus",
+      "agencyUrl": "",
+      "agencyTimezone": "Asia/Jakarta",
+      "agencyLang": "id",
+      "routeGroups": [
+        {
+          "groupId": "Leuwipanjang → Ciwidey",
+          "name": "Leuwipanjang → Ciwidey",
+          "color": "#2c49a5",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Leuwipanjang → Ciwidey",
+              "directionId": 0,
+              "relationId": "18799367",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Ciwidey → Leuwipanjang",
+              "directionId": 1,
+              "relationId": "18799368",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Kalapa → Majalaya",
+          "name": "Kalapa → Majalaya",
+          "color": "#2c49a5",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Kalapa → Majalaya",
+              "directionId": 0,
+              "relationId": "18799378",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Majalaya → Kalapa",
+              "directionId": 1,
+              "relationId": "18799379",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            }
+          ]
+        },
+        {
+          "groupId": "Tegallega → Pangalengan",
+          "name": "Tegallega → Pangalengan",
+          "color": "#2c49a5",
+          "type": "fixed",
+          "loop": "no",
+          "routes": [
+            {
+              "name": "Tegallega → Pangalengan",
+              "directionId": 0,
+              "relationId": "18799375",
+              "first_departure": "04:00",
+              "last_departure": "18:00",
+              "trips": "85"
+            },
+            {
+              "name": "Pangalengan → Tegallega",
+              "directionId": 1,
+              "relationId": "18799376",
               "first_departure": "04:00",
               "last_departure": "18:00",
               "trips": "85"
