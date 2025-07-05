@@ -22,12 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.561984,
-          -6.8932335
+          107.5608942,
+          -6.8939076
         ]
       },
       "properties": {
-        "id": "v_107.561984_-6.893234",
+        "id": "v_107.560894_-6.893908",
         "name": "Jalan Gunung Batu",
         "role": "virtual",
         "mode": "bus"
@@ -38,12 +38,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5634091,
-          -6.8907915
+          107.5621082,
+          -6.8929964
         ]
       },
       "properties": {
-        "id": "v_107.563409_-6.890791",
+        "id": "v_107.562108_-6.892996",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5627356,
+          -6.89176
+        ]
+      },
+      "properties": {
+        "id": "v_107.562736_-6.891760",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5636674,
+          -6.8902646
+        ]
+      },
+      "properties": {
+        "id": "v_107.563667_-6.890265",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5646544,
+          -6.8889168
+        ]
+      },
+      "properties": {
+        "id": "v_107.564654_-6.888917",
         "name": "Jalan Gunung Batu",
         "role": "virtual",
         "mode": "bus"
@@ -70,6 +118,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.568348,
+          -6.8894666
+        ]
+      },
+      "properties": {
+        "id": "v_107.568348_-6.889467",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5698608,
           -6.8896958
         ]
@@ -86,12 +150,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5722426,
-          -6.8910315
+          107.571799,
+          -6.8901058
         ]
       },
       "properties": {
-        "id": "v_107.572243_-6.891032",
+        "id": "v_107.571799_-6.890106",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5722985,
+          -6.8913707
+        ]
+      },
+      "properties": {
+        "id": "v_107.572299_-6.891371",
         "name": "Jalan Dakota",
         "role": "virtual",
         "mode": "bus"
@@ -102,12 +182,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5733107,
-          -6.8937105
+          107.5725513,
+          -6.8929057
         ]
       },
       "properties": {
-        "id": "v_107.573311_-6.893711",
+        "id": "v_107.572551_-6.892906",
+        "name": "Jalan Dakota",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5737486,
+          -6.8937594
+        ]
+      },
+      "properties": {
+        "id": "v_107.573749_-6.893759",
         "name": "Jalan Sukaraja",
         "role": "virtual",
         "mode": "bus"
@@ -118,12 +214,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5754545,
-          -6.8918515
+          107.5750083,
+          -6.8926448
         ]
       },
       "properties": {
-        "id": "v_107.575455_-6.891851",
+        "id": "v_107.575008_-6.892645",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755656,
+          -6.8913711
+        ]
+      },
+      "properties": {
+        "id": "v_107.575566_-6.891371",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5770756,
+          -6.8911417
+        ]
+      },
+      "properties": {
+        "id": "v_107.577076_-6.891142",
         "name": "Jalan Sukaraja",
         "role": "virtual",
         "mode": "bus"
@@ -141,6 +269,38 @@
       "properties": {
         "id": "v_107.578523_-6.891446",
         "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5798198,
+          -6.8919878
+        ]
+      },
+      "properties": {
+        "id": "v_107.579820_-6.891988",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5811856,
+          -6.8921739
+        ]
+      },
+      "properties": {
+        "id": "v_107.581186_-6.892174",
+        "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "mode": "bus"
       }
@@ -198,12 +358,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5885046,
-          -6.8932073
+          107.5869911,
+          -6.8938819
         ]
       },
       "properties": {
-        "id": "v_107.588505_-6.893207",
+        "id": "v_107.586991_-6.893882",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5882036,
+          -6.8931928
+        ]
+      },
+      "properties": {
+        "id": "v_107.588204_-6.893193",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5900039,
+          -6.8932226
+        ]
+      },
+      "properties": {
+        "id": "v_107.590004_-6.893223",
         "name": "Jalan Sukagalih",
         "role": "virtual",
         "mode": "bus"
@@ -230,6 +422,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5933159,
+          -6.8925186
+        ]
+      },
+      "properties": {
+        "id": "v_107.593316_-6.892519",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5947421,
+          -6.892366
+        ]
+      },
+      "properties": {
+        "id": "v_107.594742_-6.892366",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5960188,
+          -6.8928947
+        ]
+      },
+      "properties": {
+        "id": "v_107.596019_-6.892895",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596952,
           -6.8913554
         ]
@@ -238,6 +478,22 @@
         "id": "29357741",
         "name": "Sukagalih PVJ",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5969028,
+          -6.8899793
+        ]
+      },
+      "properties": {
+        "id": "v_107.596903_-6.889979",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -262,6 +518,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5964324,
+          -6.88604
+        ]
+      },
+      "properties": {
+        "id": "v_107.596432_-6.886040",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596703,
           -6.8840134
         ]
@@ -278,13 +550,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5994217,
-          -6.8845695
+          107.5981289,
+          -6.8836697
         ]
       },
       "properties": {
-        "id": "v_107.599422_-6.884569",
+        "id": "v_107.598129_-6.883670",
         "name": "Jalan Cemara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5991397,
+          -6.8845878
+        ]
+      },
+      "properties": {
+        "id": "v_107.599140_-6.884588",
+        "name": "Jalan Cemara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6007041,
+          -6.8843216
+        ]
+      },
+      "properties": {
+        "id": "v_107.600704_-6.884322",
+        "name": "Jalan Cemara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6007385,
+          -6.8856844
+        ]
+      },
+      "properties": {
+        "id": "v_107.600739_-6.885684",
+        "name": "Jalan Jurang",
         "role": "virtual",
         "mode": "bus"
       }
@@ -302,6 +622,22 @@
         "id": "29379224",
         "name": "Jl. Jurang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6004083,
+          -6.8887161
+        ]
+      },
+      "properties": {
+        "id": "v_107.600408_-6.888716",
+        "name": "Jalan Jurang",
+        "role": "virtual",
         "mode": "bus"
       }
     },

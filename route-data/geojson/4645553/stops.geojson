@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5637956,
+          -6.9255173
+        ]
+      },
+      "properties": {
+        "id": "v_107.563796_-6.925517",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5628736,
           -6.9239311
         ]
@@ -14,6 +30,22 @@
         "id": "1387999370",
         "name": "Puskesmas Melong Asih",
         "role": "stop_entry_only",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5637956,
+          -6.9255173
+        ]
+      },
+      "properties": {
+        "id": "v_107.563796_-6.925517",
+        "name": "Jalan terdekat",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -38,12 +70,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5666555,
-          -6.9250697
+          107.5640253,
+          -6.9258624
         ]
       },
       "properties": {
-        "id": "v_107.566655_-6.925070",
+        "id": "v_107.564025_-6.925862",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5661673,
+          -6.9256374
+        ]
+      },
+      "properties": {
+        "id": "v_107.566167_-6.925637",
         "name": "Jalan Raya Cijerah",
         "role": "virtual",
         "mode": "bus"
@@ -54,12 +102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5683046,
-          -6.9227279
+          107.5672138,
+          -6.9246128
         ]
       },
       "properties": {
-        "id": "v_107.568305_-6.922728",
+        "id": "v_107.567214_-6.924613",
         "name": "Jalan Raya Cijerah",
         "role": "virtual",
         "mode": "bus"
@@ -70,12 +118,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5698295,
-          -6.9203328
+          107.56817,
+          -6.923174
         ]
       },
       "properties": {
-        "id": "v_107.569829_-6.920333",
+        "id": "v_107.568170_-6.923174",
         "name": "Jalan Raya Cijerah",
         "role": "virtual",
         "mode": "bus"
@@ -86,12 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5707434,
-          -6.917782
+          107.5685963,
+          -6.9218727
         ]
       },
       "properties": {
-        "id": "v_107.570743_-6.917782",
+        "id": "v_107.568596_-6.921873",
         "name": "Jalan Raya Cijerah",
         "role": "virtual",
         "mode": "bus"
@@ -102,13 +150,109 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5713267,
-          -6.9151148
+          107.5696276,
+          -6.9209583
         ]
       },
       "properties": {
-        "id": "v_107.571327_-6.915115",
+        "id": "v_107.569628_-6.920958",
         "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5700698,
+          -6.9196362
+        ]
+      },
+      "properties": {
+        "id": "v_107.570070_-6.919636",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.570555,
+          -6.9183325
+        ]
+      },
+      "properties": {
+        "id": "v_107.570555_-6.918332",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5708964,
+          -6.916782
+        ]
+      },
+      "properties": {
+        "id": "v_107.570896_-6.916782",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.571235,
+          -6.915424
+        ]
+      },
+      "properties": {
+        "id": "v_107.571235_-6.915424",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5710851,
+          -6.913941
+        ]
+      },
+      "properties": {
+        "id": "v_107.571085_-6.913941",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5703429,
+          -6.9126894
+        ]
+      },
+      "properties": {
+        "id": "v_107.570343_-6.912689",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -134,6 +278,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5715519,
+          -6.9114805
+        ]
+      },
+      "properties": {
+        "id": "v_107.571552_-6.911480",
+        "name": "Jalan Rajawali Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5729282,
+          -6.9120185
+        ]
+      },
+      "properties": {
+        "id": "v_107.572928_-6.912019",
+        "name": "Jalan Rajawali Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5753653,
           -6.9129722
         ]
@@ -150,12 +326,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5779564,
-          -6.9120857
+          107.5766744,
+          -6.9134545
         ]
       },
       "properties": {
-        "id": "v_107.577956_-6.912086",
+        "id": "v_107.576674_-6.913455",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5778207,
+          -6.9127137
+        ]
+      },
+      "properties": {
+        "id": "v_107.577821_-6.912714",
         "name": "Jalan Garuda",
         "role": "virtual",
         "mode": "bus"
@@ -166,13 +358,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5786837,
-          -6.9089362
+          107.5781807,
+          -6.9110965
         ]
       },
       "properties": {
-        "id": "v_107.578684_-6.908936",
+        "id": "v_107.578181_-6.911097",
         "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5784895,
+          -6.90976
+        ]
+      },
+      "properties": {
+        "id": "v_107.578490_-6.909760",
+        "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5788616,
+          -6.9083233
+        ]
+      },
+      "properties": {
+        "id": "v_107.578862_-6.908323",
+        "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5798772,
+          -6.9073964
+        ]
+      },
+      "properties": {
+        "id": "v_107.579877_-6.907396",
+        "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
         "mode": "bus"
       }
@@ -188,6 +428,22 @@
       },
       "properties": {
         "id": "v_107.581589_-6.907602",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5830117,
+          -6.907607
+        ]
+      },
+      "properties": {
+        "id": "v_107.583012_-6.907607",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
         "mode": "bus"
@@ -214,6 +470,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5859825,
+          -6.9071795
+        ]
+      },
+      "properties": {
+        "id": "v_107.585983_-6.907179",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588219,
           -6.9067739
         ]
@@ -222,6 +494,22 @@
         "id": "3377321681",
         "name": "Pintu Masuk Bandara Husein Sastranegara",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5898536,
+          -6.90694
+        ]
+      },
+      "properties": {
+        "id": "v_107.589854_-6.906940",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -262,6 +550,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5952568,
+          -6.9066609
+        ]
+      },
+      "properties": {
+        "id": "v_107.595257_-6.906661",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596171,
           -6.9053889
         ]
@@ -270,6 +574,22 @@
         "id": "3377321682",
         "name": "Istana Plaza (IP)",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963629,
+          -6.9038698
+        ]
+      },
+      "properties": {
+        "id": "v_107.596363_-6.903870",
+        "name": "Jalan Astina",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -294,12 +614,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973452,
-          -6.8999212
+          107.5973841,
+          -6.9009013
         ]
       },
       "properties": {
-        "id": "v_107.597345_-6.899921",
+        "id": "v_107.597384_-6.900901",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5973293,
+          -6.8994991
+        ]
+      },
+      "properties": {
+        "id": "v_107.597329_-6.899499",
         "name": "Jalan Pasir Kaliki",
         "role": "virtual",
         "mode": "bus"
@@ -310,12 +646,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5972936,
-          -6.8969114
+          107.5973223,
+          -6.8980478
         ]
       },
       "properties": {
-        "id": "v_107.597294_-6.896911",
+        "id": "v_107.597322_-6.898048",
         "name": "Jalan Pasir Kaliki",
         "role": "virtual",
         "mode": "bus"
@@ -326,12 +662,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5987172,
-          -6.8940629
+          107.5974629,
+          -6.8966804
         ]
       },
       "properties": {
-        "id": "v_107.598717_-6.894063",
+        "id": "v_107.597463_-6.896680",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5984316,
+          -6.8951102
+        ]
+      },
+      "properties": {
+        "id": "v_107.598432_-6.895110",
+        "name": "Jalan Sederhana",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5988798,
+          -6.8935471
+        ]
+      },
+      "properties": {
+        "id": "v_107.598880_-6.893547",
         "name": "Jalan Sederhana",
         "role": "virtual",
         "mode": "bus"

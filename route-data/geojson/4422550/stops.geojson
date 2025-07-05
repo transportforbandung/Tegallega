@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6970879,
+          -6.9339558
+        ]
+      },
+      "properties": {
+        "id": "v_107.697088_-6.933956",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6970712,
           -6.9324741
         ]
@@ -30,6 +46,22 @@
         "id": "3380490528",
         "name": "Pasar Cimol Gedebage",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6956856,
+          -6.931964
+        ]
+      },
+      "properties": {
+        "id": "v_107.695686_-6.931964",
+        "name": "Jalan terdekat",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -54,12 +86,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6944834,
-          -6.9282603
+          107.6941072,
+          -6.9292778
         ]
       },
       "properties": {
-        "id": "v_107.694483_-6.928260",
+        "id": "v_107.694107_-6.929278",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6945747,
+          -6.9280103
+        ]
+      },
+      "properties": {
+        "id": "v_107.694575_-6.928010",
         "name": "Jalan Rumah Sakit",
         "role": "virtual",
         "mode": "bus"
@@ -86,12 +134,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6967262,
-          -6.9229736
+          107.696096,
+          -6.9241339
         ]
       },
       "properties": {
-        "id": "v_107.696726_-6.922974",
+        "id": "v_107.696096_-6.924134",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6968315,
+          -6.9227914
+        ]
+      },
+      "properties": {
+        "id": "v_107.696832_-6.922791",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6974662,
+          -6.9214314
+        ]
+      },
+      "properties": {
+        "id": "v_107.697466_-6.921431",
         "name": "Jalan Rumah Sakit",
         "role": "virtual",
         "mode": "bus"
@@ -118,6 +198,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6984811,
+          -6.9184409
+        ]
+      },
+      "properties": {
+        "id": "v_107.698481_-6.918441",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6992861,
           -6.9158662
         ]
@@ -126,6 +222,38 @@
         "id": "12638331186",
         "name": "RSUD Ujungberung",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6993906,
+          -6.9143918
+        ]
+      },
+      "properties": {
+        "id": "v_107.699391_-6.914392",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6978409,
+          -6.9140523
+        ]
+      },
+      "properties": {
+        "id": "v_107.697841_-6.914052",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -150,6 +278,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6940999,
+          -6.9131835
+        ]
+      },
+      "properties": {
+        "id": "v_107.694100_-6.913183",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6925681,
           -6.9126992
         ]
@@ -166,12 +310,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6902863,
-          -6.9112063
+          107.6910003,
+          -6.9120482
         ]
       },
       "properties": {
-        "id": "v_107.690286_-6.911206",
+        "id": "v_107.691000_-6.912048",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6898481,
+          -6.9107388
+        ]
+      },
+      "properties": {
+        "id": "v_107.689848_-6.910739",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
         "mode": "bus"
@@ -230,6 +390,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6841297,
+          -6.9064181
+        ]
+      },
+      "properties": {
+        "id": "v_107.684130_-6.906418",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6828062,
           -6.9058327
         ]
@@ -246,12 +422,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6813524,
+          -6.9052663
+        ]
+      },
+      "properties": {
+        "id": "v_107.681352_-6.905266",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6795138,
           -6.9049983
         ]
       },
       "properties": {
         "id": "v_107.679514_-6.904998",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6780053,
+          -6.9048194
+        ]
+      },
+      "properties": {
+        "id": "v_107.678005_-6.904819",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
         "mode": "bus"
@@ -310,6 +518,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6709567,
+          -6.9042404
+        ]
+      },
+      "properties": {
+        "id": "v_107.670957_-6.904240",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6694947,
           -6.9042219
         ]
@@ -326,12 +550,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6667063,
-          -6.9041501
+          107.6679175,
+          -6.9042041
         ]
       },
       "properties": {
-        "id": "v_107.666706_-6.904150",
+        "id": "v_107.667918_-6.904204",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
         "mode": "bus"
@@ -342,12 +566,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6638979,
-          -6.9038599
+          107.6662245,
+          -6.9041035
         ]
       },
       "properties": {
-        "id": "v_107.663898_-6.903860",
+        "id": "v_107.666224_-6.904103",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
         "mode": "bus"
@@ -358,12 +582,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6611816,
-          -6.9032348
+          107.6647137,
+          -6.9039446
         ]
       },
       "properties": {
-        "id": "v_107.661182_-6.903235",
+        "id": "v_107.664714_-6.903945",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6629487,
+          -6.9037576
+        ]
+      },
+      "properties": {
+        "id": "v_107.662949_-6.903758",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6615175,
+          -6.9035395
+        ]
+      },
+      "properties": {
+        "id": "v_107.661518_-6.903539",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6605793,
+          -6.9024754
+        ]
+      },
+      "properties": {
+        "id": "v_107.660579_-6.902475",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6591741,
+          -6.9022823
+        ]
+      },
+      "properties": {
+        "id": "v_107.659174_-6.902282",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
         "mode": "bus"
@@ -390,6 +678,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6553391,
+          -6.9021168
+        ]
+      },
+      "properties": {
+        "id": "v_107.655339_-6.902117",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6536878,
           -6.9019865
         ]
@@ -398,6 +702,38 @@
         "id": "5832221932",
         "name": "Padasuka",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6522919,
+          -6.9018742
+        ]
+      },
+      "properties": {
+        "id": "v_107.652292_-6.901874",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6508611,
+          -6.9018087
+        ]
+      },
+      "properties": {
+        "id": "v_107.650861_-6.901809",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -422,6 +758,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6474504,
+          -6.9014584
+        ]
+      },
+      "properties": {
+        "id": "v_107.647450_-6.901458",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6461914,
+          -6.9008434
+        ]
+      },
+      "properties": {
+        "id": "v_107.646191_-6.900843",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6446782,
           -6.9001599
         ]
@@ -438,12 +806,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6437076,
-          -6.897601
+          107.6434549,
+          -6.8991739
         ]
       },
       "properties": {
-        "id": "v_107.643708_-6.897601",
+        "id": "v_107.643455_-6.899174",
         "name": "Jalan Cikutra",
         "role": "virtual",
         "mode": "bus"
@@ -454,12 +822,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6427374,
-          -6.8950706
+          107.6437015,
+          -6.8978073
         ]
       },
       "properties": {
-        "id": "v_107.642737_-6.895071",
+        "id": "v_107.643702_-6.897807",
         "name": "Jalan Cikutra",
         "role": "virtual",
         "mode": "bus"
@@ -470,12 +838,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6401385,
-          -6.8938889
+          107.6436342,
+          -6.896441
         ]
       },
       "properties": {
-        "id": "v_107.640139_-6.893889",
+        "id": "v_107.643634_-6.896441",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6428455,
+          -6.8951583
+        ]
+      },
+      "properties": {
+        "id": "v_107.642846_-6.895158",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6416085,
+          -6.8944254
+        ]
+      },
+      "properties": {
+        "id": "v_107.641609_-6.894425",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6403262,
+          -6.8939387
+        ]
+      },
+      "properties": {
+        "id": "v_107.640326_-6.893939",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6388995,
+          -6.8936636
+        ]
+      },
+      "properties": {
+        "id": "v_107.638899_-6.893664",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6374363,
+          -6.8936549
+        ]
+      },
+      "properties": {
+        "id": "v_107.637436_-6.893655",
         "name": "Jalan Cikutra",
         "role": "virtual",
         "mode": "bus"
@@ -502,12 +950,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6347529,
-          -6.8961255
+          107.6350337,
+          -6.8949709
         ]
       },
       "properties": {
-        "id": "v_107.634753_-6.896126",
+        "id": "v_107.635034_-6.894971",
+        "name": "Jalan Pahlawan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6345969,
+          -6.8966637
+        ]
+      },
+      "properties": {
+        "id": "v_107.634597_-6.896664",
         "name": "Jalan Pahlawan",
         "role": "virtual",
         "mode": "bus"
@@ -566,6 +1030,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6279771,
+          -6.8996818
+        ]
+      },
+      "properties": {
+        "id": "v_107.627977_-6.899682",
+        "name": "Jalan Surapati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6261407,
           -6.8992562
         ]
@@ -582,6 +1062,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6247134,
+          -6.899237
+        ]
+      },
+      "properties": {
+        "id": "v_107.624713_-6.899237",
+        "name": "Jalan Surapati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6232693,
           -6.8992279
         ]
@@ -589,6 +1085,22 @@
       "properties": {
         "id": "v_107.623269_-6.899228",
         "name": "Jalan Surapati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6217759,
+          -6.8984286
+        ]
+      },
+      "properties": {
+        "id": "v_107.621776_-6.898429",
+        "name": "Jalan Dederuk",
         "role": "virtual",
         "mode": "bus"
       }
@@ -614,6 +1126,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6190609,
+          -6.8976434
+        ]
+      },
+      "properties": {
+        "id": "v_107.619061_-6.897643",
+        "name": "Jalan Japati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6179234,
+          -6.8984045
+        ]
+      },
+      "properties": {
+        "id": "v_107.617923_-6.898404",
+        "name": "Jalan Haji Hasan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6161572,
           -6.8979434
         ]
@@ -622,6 +1166,22 @@
         "id": "11707030825",
         "name": "Panatayudha B",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6139831,
+          -6.897948
+        ]
+      },
+      "properties": {
+        "id": "v_107.613983_-6.897948",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
         "mode": "bus"
       }
     },

@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5766744,
+          -6.9134545
+        ]
+      },
+      "properties": {
+        "id": "v_107.576674_-6.913455",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5781901,
           -6.9137773
         ]
@@ -30,6 +46,38 @@
         "id": "11735239264",
         "name": "Rajawali 1",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5797157,
+          -6.9141156
+        ]
+      },
+      "properties": {
+        "id": "v_107.579716_-6.914116",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5811424,
+          -6.9144359
+        ]
+      },
+      "properties": {
+        "id": "v_107.581142_-6.914436",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -70,12 +118,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5869745,
+          -6.9161187
+        ]
+      },
+      "properties": {
+        "id": "v_107.586974_-6.916119",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5884105,
           -6.9162695
         ]
       },
       "properties": {
         "id": "v_107.588410_-6.916270",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5900726,
+          -6.9164713
+        ]
+      },
+      "properties": {
+        "id": "v_107.590073_-6.916471",
         "name": "Jalan Rajawali Timur",
         "role": "virtual",
         "mode": "bus"
@@ -102,6 +182,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5933422,
+          -6.9165018
+        ]
+      },
+      "properties": {
+        "id": "v_107.593342_-6.916502",
+        "name": "Jalan Kebon Jati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5966005,
           -6.9163694
         ]
@@ -118,12 +214,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5982807,
-          -6.9186924
+          107.5980505,
+          -6.9163289
         ]
       },
       "properties": {
-        "id": "v_107.598281_-6.918692",
+        "id": "v_107.598050_-6.916329",
+        "name": "Jalan Kebon Jati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5982915,
+          -6.9178883
+        ]
+      },
+      "properties": {
+        "id": "v_107.598292_-6.917888",
         "name": "Jalan Gardujati",
         "role": "virtual",
         "mode": "bus"
@@ -134,12 +246,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5984717,
-          -6.9214196
+          107.5983085,
+          -6.9194279
         ]
       },
       "properties": {
-        "id": "v_107.598472_-6.921420",
+        "id": "v_107.598309_-6.919428",
+        "name": "Jalan Gardujati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5984122,
+          -6.9208607
+        ]
+      },
+      "properties": {
+        "id": "v_107.598412_-6.920861",
         "name": "Jalan Astana Anyar",
         "role": "virtual",
         "mode": "bus"
@@ -150,12 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5989872,
-          -6.9243261
+          107.5985679,
+          -6.9225334
         ]
       },
       "properties": {
-        "id": "v_107.598987_-6.924326",
+        "id": "v_107.598568_-6.922533",
         "name": "Jalan Astana Anyar",
         "role": "virtual",
         "mode": "bus"
@@ -166,12 +294,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5999192,
-          -6.9268738
+          107.5988393,
+          -6.9239196
         ]
       },
       "properties": {
-        "id": "v_107.599919_-6.926874",
+        "id": "v_107.598839_-6.923920",
         "name": "Jalan Astana Anyar",
         "role": "virtual",
         "mode": "bus"
@@ -182,13 +310,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6007351,
-          -6.9295707
+          107.5995204,
+          -6.9258084
         ]
       },
       "properties": {
-        "id": "v_107.600735_-6.929571",
+        "id": "v_107.599520_-6.925808",
         "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6001956,
+          -6.9277355
+        ]
+      },
+      "properties": {
+        "id": "v_107.600196_-6.927735",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6006731,
+          -6.9290234
+        ]
+      },
+      "properties": {
+        "id": "v_107.600673_-6.929023",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5995398,
+          -6.9300939
+        ]
+      },
+      "properties": {
+        "id": "v_107.599540_-6.930094",
+        "name": "Jalan Panjunan",
         "role": "virtual",
         "mode": "bus"
       }
@@ -214,12 +390,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5965357,
-          -6.9324963
+          107.5969018,
+          -6.9312049
         ]
       },
       "properties": {
-        "id": "v_107.596536_-6.932496",
+        "id": "v_107.596902_-6.931205",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5964545,
+          -6.9328118
+        ]
+      },
+      "properties": {
+        "id": "v_107.596454_-6.932812",
         "name": "Jalan Kyai Haji Wahid Hasyim",
         "role": "virtual",
         "mode": "bus"
@@ -262,12 +454,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5970266,
+          -6.9376757
+        ]
+      },
+      "properties": {
+        "id": "v_107.597027_-6.937676",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5984843,
           -6.937651
         ]
       },
       "properties": {
         "id": "v_107.598484_-6.937651",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6001982,
+          -6.9373255
+        ]
+      },
+      "properties": {
+        "id": "v_107.600198_-6.937326",
         "name": "Jalan Peta",
         "role": "virtual",
         "mode": "bus"
@@ -342,6 +566,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6096423,
+          -6.9372363
+        ]
+      },
+      "properties": {
+        "id": "v_107.609642_-6.937236",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.611406,
           -6.9359826
         ]
@@ -358,12 +598,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6127563,
+          -6.9348062
+        ]
+      },
+      "properties": {
+        "id": "v_107.612756_-6.934806",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6138283,
           -6.9337409
         ]
       },
       "properties": {
         "id": "v_107.613828_-6.933741",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6149112,
+          -6.9325381
+        ]
+      },
+      "properties": {
+        "id": "v_107.614911_-6.932538",
         "name": "Jalan Mochammad Ramdhan",
         "role": "virtual",
         "mode": "bus"
@@ -470,6 +742,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6225611,
+          -6.9305163
+        ]
+      },
+      "properties": {
+        "id": "v_107.622561_-6.930516",
+        "name": "Jalan Palasari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6230578,
           -6.928673
         ]
@@ -486,12 +774,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6234197,
+          -6.9272967
+        ]
+      },
+      "properties": {
+        "id": "v_107.623420_-6.927297",
+        "name": "Jalan Palasari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.623714,
           -6.925252
         ]
       },
       "properties": {
         "id": "v_107.623714_-6.925252",
+        "name": "Jalan Malabar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242404,
+          -6.9237756
+        ]
+      },
+      "properties": {
+        "id": "v_107.624240_-6.923776",
         "name": "Jalan Malabar",
         "role": "virtual",
         "mode": "bus"
@@ -534,12 +854,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.630294,
-          -6.9221533
+          107.6291891,
+          -6.9227221
         ]
       },
       "properties": {
-        "id": "v_107.630294_-6.922153",
+        "id": "v_107.629189_-6.922722",
+        "name": "Jalan Laswi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6303825,
+          -6.9220654
+        ]
+      },
+      "properties": {
+        "id": "v_107.630382_-6.922065",
+        "name": "Jalan Laswi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.630896,
+          -6.920344
+        ]
+      },
+      "properties": {
+        "id": "v_107.630896_-6.920344",
         "name": "Jalan Laswi",
         "role": "virtual",
         "mode": "bus"
@@ -566,6 +918,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6306282,
+          -6.9171247
+        ]
+      },
+      "properties": {
+        "id": "v_107.630628_-6.917125",
+        "name": "Jalan Laswi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6292904,
           -6.9161976
         ]
@@ -574,6 +942,22 @@
         "id": "11735248690",
         "name": "Stadion Persib Sidolig",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6274434,
+          -6.9171135
+        ]
+      },
+      "properties": {
+        "id": "v_107.627443_-6.917114",
+        "name": "Jalan Jenderal Ahmad Yani",
+        "role": "virtual",
         "mode": "bus"
       }
     },

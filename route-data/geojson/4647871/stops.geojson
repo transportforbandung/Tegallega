@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5755699,
+          -6.9220701
+        ]
+      },
+      "properties": {
+        "id": "v_107.575570_-6.922070",
+        "name": "Jalan Holis",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5751042,
           -6.923662
         ]
@@ -14,6 +30,38 @@
         "id": "6442840898",
         "name": "Simpang Holis Soekarno Hatta",
         "role": "stop_entry_only",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755699,
+          -6.9220701
+        ]
+      },
+      "properties": {
+        "id": "v_107.575570_-6.922070",
+        "name": "Jalan Holis",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5773603,
+          -6.9206105
+        ]
+      },
+      "properties": {
+        "id": "v_107.577360_-6.920611",
+        "name": "Jalan Nana Rohana",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -38,6 +86,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.577495,
+          -6.9205305
+        ]
+      },
+      "properties": {
+        "id": "v_107.577495_-6.920530",
+        "name": "Jalan Suryani Dalam",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5788708,
+          -6.9205583
+        ]
+      },
+      "properties": {
+        "id": "v_107.578871_-6.920558",
+        "name": "Jalan Suryani Dalam",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.580869,
           -6.9206062
         ]
@@ -46,6 +126,22 @@
         "id": "1911634983",
         "name": "Jalan Suryani",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58099,
+          -6.9221656
+        ]
+      },
+      "properties": {
+        "id": "v_107.580990_-6.922166",
+        "name": "Jalan Suryani",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -70,6 +166,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5824701,
+          -6.9226789
+        ]
+      },
+      "properties": {
+        "id": "v_107.582470_-6.922679",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5836371,
+          -6.9219375
+        ]
+      },
+      "properties": {
+        "id": "v_107.583637_-6.921938",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5859557,
           -6.9219839
         ]
@@ -86,12 +214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5888085,
-          -6.9222225
+          107.5879726,
+          -6.9221376
         ]
       },
       "properties": {
-        "id": "v_107.588808_-6.922223",
+        "id": "v_107.587973_-6.922138",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"
@@ -102,12 +230,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5916531,
-          -6.9224873
+          107.5897321,
+          -6.9222979
         ]
       },
       "properties": {
-        "id": "v_107.591653_-6.922487",
+        "id": "v_107.589732_-6.922298",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5911917,
+          -6.9224429
+        ]
+      },
+      "properties": {
+        "id": "v_107.591192_-6.922443",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926679,
+          -6.922586
+        ]
+      },
+      "properties": {
+        "id": "v_107.592668_-6.922586",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"
@@ -134,13 +294,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5985311,
-          -6.9232621
+          107.5972707,
+          -6.9230932
         ]
       },
       "properties": {
-        "id": "v_107.598531_-6.923262",
+        "id": "v_107.597271_-6.923093",
         "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5986744,
+          -6.9232626
+        ]
+      },
+      "properties": {
+        "id": "v_107.598674_-6.923263",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6003445,
+          -6.9234206
+        ]
+      },
+      "properties": {
+        "id": "v_107.600345_-6.923421",
+        "name": "Jalan Kalipah Apo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6017833,
+          -6.9235754
+        ]
+      },
+      "properties": {
+        "id": "v_107.601783_-6.923575",
+        "name": "Jalan Kalipah Apo",
         "role": "virtual",
         "mode": "bus"
       }
@@ -166,12 +374,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6035279,
-          -6.9295503
+          107.6037853,
+          -6.9255254
         ]
       },
       "properties": {
-        "id": "v_107.603528_-6.929550",
+        "id": "v_107.603785_-6.925525",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6036969,
+          -6.9271072
+        ]
+      },
+      "properties": {
+        "id": "v_107.603697_-6.927107",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6035987,
+          -6.9285343
+        ]
+      },
+      "properties": {
+        "id": "v_107.603599_-6.928534",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6035002,
+          -6.9299478
+        ]
+      },
+      "properties": {
+        "id": "v_107.603500_-6.929948",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603397,
+          -6.9314278
+        ]
+      },
+      "properties": {
+        "id": "v_107.603397_-6.931428",
         "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
@@ -189,6 +461,22 @@
       "properties": {
         "id": "v_107.605427_-6.931688",
         "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055781,
+          -6.930239
+        ]
+      },
+      "properties": {
+        "id": "v_107.605578_-6.930239",
+        "name": "Jalan Dewi Sartika",
         "role": "virtual",
         "mode": "bus"
       }

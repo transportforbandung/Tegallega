@@ -38,6 +38,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6035279,
+          -6.9295503
+        ]
+      },
+      "properties": {
+        "id": "v_107.603528_-6.929550",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603397,
+          -6.9314278
+        ]
+      },
+      "properties": {
+        "id": "v_107.603397_-6.931428",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.601334,
           -6.9306827
         ]
@@ -54,6 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6000694,
+          -6.9301678
+        ]
+      },
+      "properties": {
+        "id": "v_107.600069_-6.930168",
+        "name": "Jalan Panjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5973451,
           -6.9298621
         ]
@@ -62,6 +110,22 @@
         "id": "2325452881",
         "name": "Jalan Panjunan",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5979226,
+          -6.9278179
+        ]
+      },
+      "properties": {
+        "id": "v_107.597923_-6.927818",
+        "name": "Jalan Kopo",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -102,6 +166,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5987003,
+          -6.9233666
+        ]
+      },
+      "properties": {
+        "id": "v_107.598700_-6.923367",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5973482,
+          -6.9231019
+        ]
+      },
+      "properties": {
+        "id": "v_107.597348_-6.923102",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5957657,
           -6.9229321
         ]
@@ -118,12 +214,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5927501,
-          -6.922594
+          107.5939519,
+          -6.922727
         ]
       },
       "properties": {
-        "id": "v_107.592750_-6.922594",
+        "id": "v_107.593952_-6.922727",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5917759,
+          -6.9224992
+        ]
+      },
+      "properties": {
+        "id": "v_107.591776_-6.922499",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"
@@ -150,6 +262,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5881341,
+          -6.9221534
+        ]
+      },
+      "properties": {
+        "id": "v_107.588134_-6.922153",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5859557,
           -6.9219839
         ]
@@ -158,6 +286,38 @@
         "id": "2325452491",
         "name": "Unknown",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5845732,
+          -6.9219104
+        ]
+      },
+      "properties": {
+        "id": "v_107.584573_-6.921910",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583176,
+          -6.9221543
+        ]
+      },
+      "properties": {
+        "id": "v_107.583176_-6.922154",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -182,6 +342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.58099,
+          -6.9221656
+        ]
+      },
+      "properties": {
+        "id": "v_107.580990_-6.922166",
+        "name": "Jalan Suryani",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.580869,
           -6.9206062
         ]
@@ -198,6 +374,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5794019,
+          -6.9205663
+        ]
+      },
+      "properties": {
+        "id": "v_107.579402_-6.920566",
+        "name": "Jalan Suryani Dalam",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5777274,
+          -6.920533
+        ]
+      },
+      "properties": {
+        "id": "v_107.577727_-6.920533",
+        "name": "Jalan Suryani Dalam",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5769466,
           -6.9223077
         ]
@@ -206,6 +414,22 @@
         "id": "1911634927",
         "name": "RS Priangan",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755699,
+          -6.9220701
+        ]
+      },
+      "properties": {
+        "id": "v_107.575570_-6.922070",
+        "name": "Jalan terdekat",
+        "role": "virtual",
         "mode": "bus"
       }
     },

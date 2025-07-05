@@ -54,6 +54,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6063778,
+          -6.922496
+        ]
+      },
+      "properties": {
+        "id": "v_107.606378_-6.922496",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6071455,
           -6.9211653
         ]
@@ -102,6 +118,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6063193,
+          -6.9173781
+        ]
+      },
+      "properties": {
+        "id": "v_107.606319_-6.917378",
+        "name": "Jalan Banceuy",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065461,
+          -6.9155971
+        ]
+      },
+      "properties": {
+        "id": "v_107.606546_-6.915597",
+        "name": "Jalan Banceuy",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.604546,
           -6.9153572
         ]
@@ -118,13 +166,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6071865,
-          -6.9145473
+          107.6064066,
+          -6.9149399
         ]
       },
       "properties": {
-        "id": "v_107.607186_-6.914547",
-        "name": "Jalan Perintis Kemerdekaan",
+        "id": "v_107.606407_-6.914940",
+        "name": "Jalan Stasiun Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604621,
+          -6.9139963
+        ]
+      },
+      "properties": {
+        "id": "v_107.604621_-6.913996",
+        "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
       }
@@ -166,6 +230,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5990408,
+          -6.912374
+        ]
+      },
+      "properties": {
+        "id": "v_107.599041_-6.912374",
+        "name": "Jalan Kebon Kawung",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5979188,
           -6.9114098
         ]
@@ -174,6 +254,22 @@
         "id": "11739021629",
         "name": "SMAN 6 Bandung",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5978086,
+          -6.909947
+        ]
+      },
+      "properties": {
+        "id": "v_107.597809_-6.909947",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -198,6 +294,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5975322,
+          -6.9065723
+        ]
+      },
+      "properties": {
+        "id": "v_107.597532_-6.906572",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5961119,
+          -6.9066005
+        ]
+      },
+      "properties": {
+        "id": "v_107.596112_-6.906600",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5939013,
           -6.9068851
         ]
@@ -206,6 +334,22 @@
         "id": "11138593907",
         "name": "Padjajaran 2",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5925401,
+          -6.9070991
+        ]
+      },
+      "properties": {
+        "id": "v_107.592540_-6.907099",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -246,6 +390,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5866215,
+          -6.9071283
+        ]
+      },
+      "properties": {
+        "id": "v_107.586622_-6.907128",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5852567,
           -6.9073414
         ]
@@ -262,12 +422,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5825276,
-          -6.9077023
+          107.5838341,
+          -6.9075507
         ]
       },
       "properties": {
-        "id": "v_107.582528_-6.907702",
+        "id": "v_107.583834_-6.907551",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
         "mode": "bus"
@@ -278,12 +438,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5798218,
-          -6.9074031
+          107.5821405,
+          -6.9077081
         ]
       },
       "properties": {
-        "id": "v_107.579822_-6.907403",
+        "id": "v_107.582140_-6.907708",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5805433,
+          -6.9075583
+        ]
+      },
+      "properties": {
+        "id": "v_107.580543_-6.907558",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5791651,
+          -6.907794
+        ]
+      },
+      "properties": {
+        "id": "v_107.579165_-6.907794",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
         "mode": "bus"
@@ -310,13 +502,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5741958,
-          -6.9102903
+          107.5781807,
+          -6.9110965
         ]
       },
       "properties": {
-        "id": "v_107.574196_-6.910290",
+        "id": "v_107.578181_-6.911097",
+        "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5766452,
+          -6.9112801
+        ]
+      },
+      "properties": {
+        "id": "v_107.576645_-6.911280",
         "name": "Jalan Dadali",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5752686,
+          -6.910731
+        ]
+      },
+      "properties": {
+        "id": "v_107.575269_-6.910731",
+        "name": "Jalan Dadali",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5737057,
+          -6.910096
+        ]
+      },
+      "properties": {
+        "id": "v_107.573706_-6.910096",
+        "name": "Jalan Dadali",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.573181,
+          -6.9113863
+        ]
+      },
+      "properties": {
+        "id": "v_107.573181_-6.911386",
+        "name": "Jalan Kasuari",
         "role": "virtual",
         "mode": "bus"
       }

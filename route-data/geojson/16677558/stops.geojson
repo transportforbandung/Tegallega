@@ -38,6 +38,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6035279,
+          -6.9295503
+        ]
+      },
+      "properties": {
+        "id": "v_107.603528_-6.929550",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603397,
+          -6.9314278
+        ]
+      },
+      "properties": {
+        "id": "v_107.603397_-6.931428",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.601334,
           -6.9306827
         ]
@@ -62,6 +94,22 @@
         "id": "6443280171",
         "name": "Astana Anyar RSIA Kota Bandung",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6003256,
+          -6.9280843
+        ]
+      },
+      "properties": {
+        "id": "v_107.600326_-6.928084",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -150,6 +198,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5982308,
+          -6.9180616
+        ]
+      },
+      "properties": {
+        "id": "v_107.598231_-6.918062",
+        "name": "Jalan Gardujati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5981241,
           -6.9155623
         ]
@@ -166,6 +230,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5981191,
+          -6.9141458
+        ]
+      },
+      "properties": {
+        "id": "v_107.598119_-6.914146",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5979188,
           -6.9114098
         ]
@@ -174,6 +254,22 @@
         "id": "11739021629",
         "name": "SMAN 6 Bandung",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5978086,
+          -6.909947
+        ]
+      },
+      "properties": {
+        "id": "v_107.597809_-6.909947",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -294,6 +390,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5971398,
+          -6.8945401
+        ]
+      },
+      "properties": {
+        "id": "v_107.597140_-6.894540",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5970391,
+          -6.8930157
+        ]
+      },
+      "properties": {
+        "id": "v_107.597039_-6.893016",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596952,
           -6.8913554
         ]
@@ -302,6 +430,22 @@
         "id": "29357741",
         "name": "Sukagalih PVJ",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5969028,
+          -6.8899793
+        ]
+      },
+      "properties": {
+        "id": "v_107.596903_-6.889979",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -326,6 +470,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5964324,
+          -6.88604
+        ]
+      },
+      "properties": {
+        "id": "v_107.596432_-6.886040",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5965088,
           -6.8836453
         ]
@@ -334,6 +494,38 @@
         "id": "3380200149",
         "name": "Mandiri Sukajadi",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5964601,
+          -6.8821498
+        ]
+      },
+      "properties": {
+        "id": "v_107.596460_-6.882150",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963847,
+          -6.8806684
+        ]
+      },
+      "properties": {
+        "id": "v_107.596385_-6.880668",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
         "mode": "bus"
       }
     },

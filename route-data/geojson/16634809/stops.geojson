@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6031641,
+          -6.9173826
+        ]
+      },
+      "properties": {
+        "id": "v_107.603164_-6.917383",
+        "name": "Jalan Pasar Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6042904,
           -6.9182779
         ]
@@ -29,6 +45,22 @@
       "properties": {
         "id": "v_107.604290_-6.918278",
         "name": "Jalan Pasar Selatan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6041935,
+          -6.9196695
+        ]
+      },
+      "properties": {
+        "id": "v_107.604193_-6.919670",
+        "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
       }
@@ -46,6 +78,54 @@
         "id": "10778322188",
         "name": "Dalem Kaum",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6046005,
+          -6.9231938
+        ]
+      },
+      "properties": {
+        "id": "v_107.604601_-6.923194",
+        "name": "Jalan Kepatihan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6061346,
+          -6.9234028
+        ]
+      },
+      "properties": {
+        "id": "v_107.606135_-6.923403",
+        "name": "Jalan Kepatihan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6073353,
+          -6.9225078
+        ]
+      },
+      "properties": {
+        "id": "v_107.607335_-6.922508",
+        "name": "Jalan Dalem Kaum",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -86,6 +166,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6066668,
+          -6.919094
+        ]
+      },
+      "properties": {
+        "id": "v_107.606667_-6.919094",
+        "name": "Jalan Banceuy",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6080647,
+          -6.9193303
+        ]
+      },
+      "properties": {
+        "id": "v_107.608065_-6.919330",
+        "name": "Jalan ABC",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6098643,
           -6.9197138
         ]
@@ -93,6 +205,22 @@
       "properties": {
         "id": "v_107.609864_-6.919714",
         "name": "Jalan ABC",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6112676,
+          -6.919941
+        ]
+      },
+      "properties": {
+        "id": "v_107.611268_-6.919941",
+        "name": "Jalan Naripan",
         "role": "virtual",
         "mode": "bus"
       }
@@ -134,13 +262,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6188228,
-          -6.9213769
+          107.6177343,
+          -6.9211766
         ]
       },
       "properties": {
-        "id": "v_107.618823_-6.921377",
+        "id": "v_107.617734_-6.921177",
         "name": "Jalan Naripan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190864,
+          -6.9213831
+        ]
+      },
+      "properties": {
+        "id": "v_107.619086_-6.921383",
+        "name": "Jalan Naripan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6179492,
+          -6.9221334
+        ]
+      },
+      "properties": {
+        "id": "v_107.617949_-6.922133",
+        "name": "Jalan Jenderal Ahmad Yani",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6194125,
+          -6.9225967
+        ]
+      },
+      "properties": {
+        "id": "v_107.619412_-6.922597",
+        "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
       }
@@ -166,13 +342,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6221516,
-          -6.9263079
+          107.6197453,
+          -6.9254171
         ]
       },
       "properties": {
-        "id": "v_107.622152_-6.926308",
+        "id": "v_107.619745_-6.925417",
+        "name": "Jalan Burangrang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6210854,
+          -6.9260138
+        ]
+      },
+      "properties": {
+        "id": "v_107.621085_-6.926014",
         "name": "Jalan Halimun",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6226412,
+          -6.9263649
+        ]
+      },
+      "properties": {
+        "id": "v_107.622641_-6.926365",
+        "name": "Jalan Halimun",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6225684,
+          -6.9278645
+        ]
+      },
+      "properties": {
+        "id": "v_107.622568_-6.927865",
+        "name": "Jalan Malabar",
         "role": "virtual",
         "mode": "bus"
       }
@@ -188,6 +412,22 @@
       },
       "properties": {
         "id": "v_107.624047_-6.928882",
+        "name": "Jalan Talaga Bodas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6254359,
+          -6.9292386
+        ]
+      },
+      "properties": {
+        "id": "v_107.625436_-6.929239",
         "name": "Jalan Talaga Bodas",
         "role": "virtual",
         "mode": "bus"
@@ -214,12 +454,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6277229,
-          -6.9331834
+          107.6258277,
+          -6.9322856
         ]
       },
       "properties": {
-        "id": "v_107.627723_-6.933183",
+        "id": "v_107.625828_-6.932286",
+        "name": "Jalan Pelajar Pejuang 45",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6272027,
+          -6.9330478
+        ]
+      },
+      "properties": {
+        "id": "v_107.627203_-6.933048",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6290522,
+          -6.9335308
+        ]
+      },
+      "properties": {
+        "id": "v_107.629052_-6.933531",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
         "mode": "bus"
@@ -246,12 +518,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6322996,
-          -6.9361789
+          107.6321764,
+          -6.9342353
         ]
       },
       "properties": {
-        "id": "v_107.632300_-6.936179",
+        "id": "v_107.632176_-6.934235",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6323847,
+          -6.9356488
+        ]
+      },
+      "properties": {
+        "id": "v_107.632385_-6.935649",
+        "name": "Jalan Reog",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6319463,
+          -6.9375285
+        ]
+      },
+      "properties": {
+        "id": "v_107.631946_-6.937528",
         "name": "Jalan Reog",
         "role": "virtual",
         "mode": "bus"
@@ -278,12 +582,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6289001,
-          -6.9399782
+          107.629781,
+          -6.9391159
         ]
       },
       "properties": {
-        "id": "v_107.628900_-6.939978",
+        "id": "v_107.629781_-6.939116",
+        "name": "Jalan Karawitan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6287636,
+          -6.9403524
+        ]
+      },
+      "properties": {
+        "id": "v_107.628764_-6.940352",
         "name": "Jalan Kliningan",
         "role": "virtual",
         "mode": "bus"
@@ -326,12 +646,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6312283,
+          -6.9457923
+        ]
+      },
+      "properties": {
+        "id": "v_107.631228_-6.945792",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6322352,
           -6.9468242
         ]
       },
       "properties": {
         "id": "v_107.632235_-6.946824",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6332291,
+          -6.9477884
+        ]
+      },
+      "properties": {
+        "id": "v_107.633229_-6.947788",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -358,6 +710,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6363926,
+          -6.9470334
+        ]
+      },
+      "properties": {
+        "id": "v_107.636393_-6.947033",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.638444,
           -6.9464022
         ]
@@ -366,6 +734,38 @@
         "id": "12806868672",
         "name": "Sekelimus Utara",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6399381,
+          -6.9459425
+        ]
+      },
+      "properties": {
+        "id": "v_107.639938_-6.945943",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.641371,
+          -6.945532
+        ]
+      },
+      "properties": {
+        "id": "v_107.641371_-6.945532",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -422,6 +822,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6478935,
+          -6.9433774
+        ]
+      },
+      "properties": {
+        "id": "v_107.647893_-6.943377",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6505153,
           -6.9425403
         ]
@@ -446,6 +862,22 @@
         "id": "12806851396",
         "name": "Cidurian Utara",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6548123,
+          -6.941184
+        ]
+      },
+      "properties": {
+        "id": "v_107.654812_-6.941184",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -502,6 +934,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6619723,
+          -6.9392196
+        ]
+      },
+      "properties": {
+        "id": "v_107.661972_-6.939220",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6635594,
           -6.9390207
         ]
@@ -510,6 +958,22 @@
         "id": "12806868601",
         "name": "Kawaluyaan",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6650947,
+          -6.9388715
+        ]
+      },
+      "properties": {
+        "id": "v_107.665095_-6.938872",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -534,6 +998,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6686684,
+          -6.9386322
+        ]
+      },
+      "properties": {
+        "id": "v_107.668668_-6.938632",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6706974,
           -6.9384772
         ]
@@ -550,12 +1030,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6735519,
-          -6.9382758
+          107.6722412,
+          -6.9383679
         ]
       },
       "properties": {
-        "id": "v_107.673552_-6.938276",
+        "id": "v_107.672241_-6.938368",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.673913,
+          -6.9382504
+        ]
+      },
+      "properties": {
+        "id": "v_107.673913_-6.938250",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6753034,
+          -6.9381554
+        ]
+      },
+      "properties": {
+        "id": "v_107.675303_-6.938155",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -598,12 +1110,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6811571,
+          -6.9377409
+        ]
+      },
+      "properties": {
+        "id": "v_107.681157_-6.937741",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6829267,
           -6.9376226
         ]
       },
       "properties": {
         "id": "v_107.682927_-6.937623",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6844521,
+          -6.937515
+        ]
+      },
+      "properties": {
+        "id": "v_107.684452_-6.937515",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -630,12 +1174,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.688678,
-          -6.9371968
+          107.6875247,
+          -6.9372836
         ]
       },
       "properties": {
-        "id": "v_107.688678_-6.937197",
+        "id": "v_107.687525_-6.937284",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -646,12 +1190,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6916934,
-          -6.9369685
+          107.6890078,
+          -6.9371718
         ]
       },
       "properties": {
-        "id": "v_107.691693_-6.936968",
+        "id": "v_107.689008_-6.937172",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6906621,
+          -6.9370418
+        ]
+      },
+      "properties": {
+        "id": "v_107.690662_-6.937042",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6922068,
+          -6.9369654
+        ]
+      },
+      "properties": {
+        "id": "v_107.692207_-6.936965",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6943211,
+          -6.9367804
+        ]
+      },
+      "properties": {
+        "id": "v_107.694321_-6.936780",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"

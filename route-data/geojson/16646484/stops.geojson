@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6021978,
+          -6.9325846
+        ]
+      },
+      "properties": {
+        "id": "v_107.602198_-6.932585",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.601334,
           -6.9306827
         ]
@@ -46,6 +62,22 @@
         "id": "6443280171",
         "name": "Astana Anyar RSIA Kota Bandung",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6003256,
+          -6.9280843
+        ]
+      },
+      "properties": {
+        "id": "v_107.600326_-6.928084",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -134,6 +166,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5982308,
+          -6.9180616
+        ]
+      },
+      "properties": {
+        "id": "v_107.598231_-6.918062",
+        "name": "Jalan Gardujati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5988546,
           -6.916282
         ]
@@ -198,13 +246,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6071865,
-          -6.9145473
+          107.6064066,
+          -6.9149399
         ]
       },
       "properties": {
-        "id": "v_107.607186_-6.914547",
-        "name": "Jalan Perintis Kemerdekaan",
+        "id": "v_107.606407_-6.914940",
+        "name": "Jalan Stasiun Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604621,
+          -6.9139963
+        ]
+      },
+      "properties": {
+        "id": "v_107.604621_-6.913996",
+        "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
       }
@@ -246,6 +310,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5990408,
+          -6.912374
+        ]
+      },
+      "properties": {
+        "id": "v_107.599041_-6.912374",
+        "name": "Jalan Kebon Kawung",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5979188,
           -6.9114098
         ]
@@ -262,6 +342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5978086,
+          -6.909947
+        ]
+      },
+      "properties": {
+        "id": "v_107.597809_-6.909947",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5976849,
           -6.9081059
         ]
@@ -270,6 +366,22 @@
         "id": "12806120202",
         "name": "SDN 013 Pajajaran",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5976232,
+          -6.9066483
+        ]
+      },
+      "properties": {
+        "id": "v_107.597623_-6.906648",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -390,6 +502,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6080675,
+          -6.9025498
+        ]
+      },
+      "properties": {
+        "id": "v_107.608068_-6.902550",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6089678,
+          -6.9007757
+        ]
+      },
+      "properties": {
+        "id": "v_107.608968_-6.900776",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6093403,
           -6.8987437
         ]
@@ -422,6 +566,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6089556,
+          -6.8950833
+        ]
+      },
+      "properties": {
+        "id": "v_107.608956_-6.895083",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6083698,
           -6.8933258
         ]
@@ -430,6 +590,38 @@
         "id": "11262097538",
         "name": "Tamansari (Bonbin)",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6080495,
+          -6.8919857
+        ]
+      },
+      "properties": {
+        "id": "v_107.608050_-6.891986",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6080495,
+          -6.8905569
+        ]
+      },
+      "properties": {
+        "id": "v_107.608050_-6.890557",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -470,6 +662,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6113589,
+          -6.8872884
+        ]
+      },
+      "properties": {
+        "id": "v_107.611359_-6.887288",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116791,
+          -6.8858918
+        ]
+      },
+      "properties": {
+        "id": "v_107.611679_-6.885892",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6116232,
           -6.8843045
         ]
@@ -478,6 +702,38 @@
         "id": "12813184472",
         "name": "Sangkuriang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6112548,
+          -6.8830029
+        ]
+      },
+      "properties": {
+        "id": "v_107.611255_-6.883003",
+        "name": "Jalan Cisitu Lama",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6118021,
+          -6.8815711
+        ]
+      },
+      "properties": {
+        "id": "v_107.611802_-6.881571",
+        "name": "Jalan Cisitu Lama",
+        "role": "virtual",
         "mode": "bus"
       }
     },
