@@ -1,4 +1,4 @@
-name: Combined Route Processing Workflow
+name: Direct Graph Generation
 
 on:
   workflow_dispatch:
