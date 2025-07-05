@@ -22,12 +22,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5748665,
-          -6.9233028
+          107.5748329,
+          -6.9253122
         ]
       },
       "properties": {
-        "id": "v_107.574866_-6.923303",
+        "id": "v_107.574833_-6.925312",
+        "name": "Jalan Holis",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5746727,
+          -6.922073
+        ]
+      },
+      "properties": {
+        "id": "v_107.574673_-6.922073",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -38,13 +54,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5743029,
-          -6.9182666
+          107.574311,
+          -6.919126
         ]
       },
       "properties": {
-        "id": "v_107.574303_-6.918267",
+        "id": "v_107.574311_-6.919126",
         "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5747072,
+          -6.9163324
+        ]
+      },
+      "properties": {
+        "id": "v_107.574707_-6.916332",
+        "name": "Jalan Elang",
         "role": "virtual",
         "mode": "bus"
       }
@@ -150,13 +182,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5517589,
-          -6.9279959
+          107.5514062,
+          -6.9296386
         ]
       },
       "properties": {
-        "id": "v_107.551759_-6.927996",
+        "id": "v_107.551406_-6.929639",
         "name": "Jalan Dirgantara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5521804,
+          -6.926537
+        ]
+      },
+      "properties": {
+        "id": "v_107.552180_-6.926537",
+        "name": "Jalan Dirgantara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5548453,
+          -6.9279848
+        ]
+      },
+      "properties": {
+        "id": "v_107.554845_-6.927985",
+        "name": "Jalan Gempol",
         "role": "virtual",
         "mode": "bus"
       }
@@ -182,13 +246,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5624059,
-          -6.9321088
+          107.5607067,
+          -6.9315072
         ]
       },
       "properties": {
-        "id": "v_107.562406_-6.932109",
+        "id": "v_107.560707_-6.931507",
         "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5632917,
+          -6.9323412
+        ]
+      },
+      "properties": {
+        "id": "v_107.563292_-6.932341",
+        "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.565064,
+          -6.9302837
+        ]
+      },
+      "properties": {
+        "id": "v_107.565064_-6.930284",
+        "name": "Jalan Raya Cijerah",
         "role": "virtual",
         "mode": "bus"
       }
@@ -206,6 +302,22 @@
         "id": "3252892639",
         "name": "Cijerah",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5685351,
+          -6.9275379
+        ]
+      },
+      "properties": {
+        "id": "v_107.568535_-6.927538",
+        "name": "Jalan Bojong Raya",
+        "role": "virtual",
         "mode": "bus"
       }
     }

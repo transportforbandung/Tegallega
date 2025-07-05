@@ -86,12 +86,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5906715,
-          -6.9223995
+          107.5888085,
+          -6.9222225
         ]
       },
       "properties": {
-        "id": "v_107.590671_-6.922400",
+        "id": "v_107.588808_-6.922223",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916531,
+          -6.9224873
+        ]
+      },
+      "properties": {
+        "id": "v_107.591653_-6.922487",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"
@@ -118,6 +134,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5985311,
+          -6.9232621
+        ]
+      },
+      "properties": {
+        "id": "v_107.598531_-6.923262",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6038724,
           -6.923931
         ]
@@ -126,6 +158,38 @@
         "id": "2250562868",
         "name": "Otista/Kalipah Apo",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6035279,
+          -6.9295503
+        ]
+      },
+      "properties": {
+        "id": "v_107.603528_-6.929550",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6054273,
+          -6.9316877
+        ]
+      },
+      "properties": {
+        "id": "v_107.605427_-6.931688",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
         "mode": "bus"
       }
     },

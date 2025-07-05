@@ -134,6 +134,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6010968,
+          -6.90402
+        ]
+      },
+      "properties": {
+        "id": "v_107.601097_-6.904020",
+        "name": "Bunderan Radjiman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5982442,
           -6.9010192
         ]
@@ -166,12 +182,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5929268,
-          -6.8978439
+          107.5939125,
+          -6.8988957
         ]
       },
       "properties": {
-        "id": "v_107.592927_-6.897844",
+        "id": "v_107.593913_-6.898896",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916961,
+          -6.8969965
+        ]
+      },
+      "properties": {
+        "id": "v_107.591696_-6.896997",
         "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "mode": "bus"
@@ -190,6 +222,22 @@
         "id": "12628813994",
         "name": "Griya Pasteur 1",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5860686,
+          -6.8933302
+        ]
+      },
+      "properties": {
+        "id": "v_107.586069_-6.893330",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -222,6 +270,22 @@
         "id": "12809283847",
         "name": "SDN Sukaraja",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5756474,
+          -6.8913072
+        ]
+      },
+      "properties": {
+        "id": "v_107.575647_-6.891307",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
         "mode": "bus"
       }
     },

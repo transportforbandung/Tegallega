@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5893946,
+          -6.9115203
+        ]
+      },
+      "properties": {
+        "id": "v_107.589395_-6.911520",
+        "name": "Jalan Arjuna",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588219,
           -6.9067739
         ]
@@ -134,6 +150,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5984316,
+          -6.8951102
+        ]
+      },
+      "properties": {
+        "id": "v_107.598432_-6.895110",
+        "name": "Jalan Sederhana",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5996153,
           -6.8908128
         ]
@@ -150,6 +182,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5975019,
+          -6.8885472
+        ]
+      },
+      "properties": {
+        "id": "v_107.597502_-6.888547",
+        "name": "Jalan Sukamaju",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5965088,
           -6.8836453
         ]
@@ -158,6 +206,38 @@
         "id": "3380200149",
         "name": "Mandiri Sukajadi",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963984,
+          -6.8809341
+        ]
+      },
+      "properties": {
+        "id": "v_107.596398_-6.880934",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5992232,
+          -6.8812425
+        ]
+      },
+      "properties": {
+        "id": "v_107.599223_-6.881242",
+        "name": "Jalan Karang Sari",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -198,12 +278,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6102659,
-          -6.8844619
+          107.6082242,
+          -6.8847452
         ]
       },
       "properties": {
-        "id": "v_107.610266_-6.884462",
+        "id": "v_107.608224_-6.884745",
+        "name": "Jalan Siliwangi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6112344,
+          -6.8847532
+        ]
+      },
+      "properties": {
+        "id": "v_107.611234_-6.884753",
         "name": "Jalan Siliwangi",
         "role": "virtual",
         "mode": "bus"
@@ -478,6 +574,38 @@
         "id": "5832221887",
         "name": "Sukapada",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6469046,
+          -6.9012136
+        ]
+      },
+      "properties": {
+        "id": "v_107.646905_-6.901214",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6497732,
+          -6.9017359
+        ]
+      },
+      "properties": {
+        "id": "v_107.649773_-6.901736",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
         "mode": "bus"
       }
     },

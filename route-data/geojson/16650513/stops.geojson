@@ -54,6 +54,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6087199,
+          -6.9226665
+        ]
+      },
+      "properties": {
+        "id": "v_107.608720_-6.922667",
+        "name": "Jalan Dalem Kaum",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6118585,
+          -6.9230332
+        ]
+      },
+      "properties": {
+        "id": "v_107.611858_-6.923033",
+        "name": "Jalan Dalem Kaum",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -70,13 +102,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6164635,
-          -6.9287163
+          107.6151523,
+          -6.928135
         ]
       },
       "properties": {
-        "id": "v_107.616463_-6.928716",
+        "id": "v_107.615152_-6.928135",
         "name": "Jalan Cikawao",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6181288,
+          -6.9283719
+        ]
+      },
+      "properties": {
+        "id": "v_107.618129_-6.928372",
+        "name": "Jalan Sadakeling",
         "role": "virtual",
         "mode": "bus"
       }
@@ -102,6 +150,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6226711,
+          -6.9231079
+        ]
+      },
+      "properties": {
+        "id": "v_107.622671_-6.923108",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6268157,
           -6.924329
         ]
@@ -118,12 +182,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6313583,
-          -6.9254032
+          107.6299576,
+          -6.925063
         ]
       },
       "properties": {
-        "id": "v_107.631358_-6.925403",
+        "id": "v_107.629958_-6.925063",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6327213,
+          -6.9258218
+        ]
+      },
+      "properties": {
+        "id": "v_107.632721_-6.925822",
         "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
@@ -150,12 +230,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6405374,
-          -6.9307832
+          107.6391119,
+          -6.9297496
         ]
       },
       "properties": {
-        "id": "v_107.640537_-6.930783",
+        "id": "v_107.639112_-6.929750",
         "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
@@ -166,12 +246,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6442459,
-          -6.9279591
+          107.6418972,
+          -6.9313006
         ]
       },
       "properties": {
-        "id": "v_107.644246_-6.927959",
+        "id": "v_107.641897_-6.931301",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6439464,
+          -6.9294702
+        ]
+      },
+      "properties": {
+        "id": "v_107.643946_-6.929470",
+        "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6444641,
+          -6.9267038
+        ]
+      },
+      "properties": {
+        "id": "v_107.644464_-6.926704",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "mode": "bus"

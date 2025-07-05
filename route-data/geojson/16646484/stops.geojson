@@ -198,6 +198,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6071865,
+          -6.9145473
+        ]
+      },
+      "properties": {
+        "id": "v_107.607186_-6.914547",
+        "name": "Jalan Perintis Kemerdekaan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]

@@ -70,6 +70,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5884105,
+          -6.9162695
+        ]
+      },
+      "properties": {
+        "id": "v_107.588410_-6.916270",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5917121,
           -6.9165436
         ]
@@ -158,6 +174,22 @@
         "id": "29354702",
         "name": "Pasar Baru",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6042248,
+          -6.9192265
+        ]
+      },
+      "properties": {
+        "id": "v_107.604225_-6.919226",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
         "mode": "bus"
       }
     },

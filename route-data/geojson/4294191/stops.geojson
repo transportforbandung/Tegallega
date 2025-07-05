@@ -118,12 +118,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5911917,
-          -6.9224429
+          107.5927501,
+          -6.922594
         ]
       },
       "properties": {
-        "id": "v_107.591192_-6.922443",
+        "id": "v_107.592750_-6.922594",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5898681,
+          -6.9223157
+        ]
+      },
+      "properties": {
+        "id": "v_107.589868_-6.922316",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"

@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.7000087,
+          -6.914134
+        ]
+      },
+      "properties": {
+        "id": "v_107.700009_-6.914134",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6955657,
           -6.9136497
         ]
@@ -38,12 +54,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6910003,
-          -6.9120482
+          107.6925681,
+          -6.9126992
         ]
       },
       "properties": {
-        "id": "v_107.691000_-6.912048",
+        "id": "v_107.692568_-6.912699",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6902863,
+          -6.9112063
+        ]
+      },
+      "properties": {
+        "id": "v_107.690286_-6.911206",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
         "mode": "bus"
@@ -102,12 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6834678,
-          -6.9115966
+          107.6842106,
+          -6.9096389
         ]
       },
       "properties": {
-        "id": "v_107.683468_-6.911597",
+        "id": "v_107.684211_-6.909639",
         "name": "Jalan Cicukang",
         "role": "virtual",
         "mode": "bus"
@@ -118,12 +150,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6849427,
-          -6.9158827
+          107.6832025,
+          -6.9122167
         ]
       },
       "properties": {
-        "id": "v_107.684943_-6.915883",
+        "id": "v_107.683202_-6.912217",
+        "name": "Jalan Cicukang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6845783,
+          -6.9147246
+        ]
+      },
+      "properties": {
+        "id": "v_107.684578_-6.914725",
+        "name": "Jalan Cicukang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6840438,
+          -6.9177435
+        ]
+      },
+      "properties": {
+        "id": "v_107.684044_-6.917744",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -134,12 +198,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6843809,
-          -6.9204036
+          107.6843675,
+          -6.9204245
         ]
       },
       "properties": {
-        "id": "v_107.684381_-6.920404",
+        "id": "v_107.684367_-6.920425",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -150,28 +214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6833778,
-          -6.9248645
+          107.6838165,
+          -6.9232967
         ]
       },
       "properties": {
-        "id": "v_107.683378_-6.924864",
-        "name": "Jalan Cinambo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6808518,
-          -6.9291518
-        ]
-      },
-      "properties": {
-        "id": "v_107.680852_-6.929152",
+        "id": "v_107.683817_-6.923297",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -182,12 +230,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6791492,
-          -6.933353
+          107.6829274,
+          -6.9263197
         ]
       },
       "properties": {
-        "id": "v_107.679149_-6.933353",
+        "id": "v_107.682927_-6.926320",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6814464,
+          -6.9288033
+        ]
+      },
+      "properties": {
+        "id": "v_107.681446_-6.928803",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6794904,
+          -6.9310378
+        ]
+      },
+      "properties": {
+        "id": "v_107.679490_-6.931038",
+        "name": "Jalan Cisaranten Kulon",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6793777,
+          -6.9337843
+        ]
+      },
+      "properties": {
+        "id": "v_107.679378_-6.933784",
         "name": "Jalan Cisaranten Kulon",
         "role": "virtual",
         "mode": "bus"
@@ -230,12 +326,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6845037,
-          -6.9375833
+          107.6821521,
+          -6.9377322
         ]
       },
       "properties": {
-        "id": "v_107.684504_-6.937583",
+        "id": "v_107.682152_-6.937732",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6861627,
+          -6.9374498
+        ]
+      },
+      "properties": {
+        "id": "v_107.686163_-6.937450",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6824446,
+          -6.9378809
+        ]
+      },
+      "properties": {
+        "id": "v_107.682445_-6.937881",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -262,12 +390,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6771548,
-          -6.9424783
+          107.6772327,
+          -6.9407701
         ]
       },
       "properties": {
-        "id": "v_107.677155_-6.942478",
+        "id": "v_107.677233_-6.940770",
         "name": "Jalan Cipamokolan",
         "role": "virtual",
         "mode": "bus"
@@ -278,12 +406,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6761572,
-          -6.9469155
+          107.6771381,
+          -6.9435353
         ]
       },
       "properties": {
-        "id": "v_107.676157_-6.946916",
+        "id": "v_107.677138_-6.943535",
         "name": "Jalan Cipamokolan",
         "role": "virtual",
         "mode": "bus"
@@ -294,12 +422,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6765027,
-          -6.9515615
+          107.6761311,
+          -6.9461257
         ]
       },
       "properties": {
-        "id": "v_107.676503_-6.951562",
+        "id": "v_107.676131_-6.946126",
+        "name": "Jalan Cipamokolan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6760613,
+          -6.9489249
+        ]
+      },
+      "properties": {
+        "id": "v_107.676061_-6.948925",
+        "name": "Jalan Cipamokolan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6765038,
+          -6.9516752
+        ]
+      },
+      "properties": {
+        "id": "v_107.676504_-6.951675",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -310,12 +470,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6776036,
-          -6.9560319
+          107.6763347,
+          -6.9549548
         ]
       },
       "properties": {
-        "id": "v_107.677604_-6.956032",
+        "id": "v_107.676335_-6.954955",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -326,12 +486,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.676811,
-          -6.9612474
+          107.6774369,
+          -6.9576215
         ]
       },
       "properties": {
-        "id": "v_107.676811_-6.961247",
+        "id": "v_107.677437_-6.957622",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -342,13 +502,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.672872,
-          -6.9637355
+          107.6770259,
+          -6.9603096
         ]
       },
       "properties": {
-        "id": "v_107.672872_-6.963736",
+        "id": "v_107.677026_-6.960310",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6765372,
+          -6.963101
+        ]
+      },
+      "properties": {
+        "id": "v_107.676537_-6.963101",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6738195,
+          -6.9638334
+        ]
+      },
+      "properties": {
+        "id": "v_107.673819_-6.963833",
         "name": "Jalan Derwati",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6715551,
+          -6.9619861
+        ]
+      },
+      "properties": {
+        "id": "v_107.671555_-6.961986",
+        "name": "Jalan Marga Cinta",
         "role": "virtual",
         "mode": "bus"
       }

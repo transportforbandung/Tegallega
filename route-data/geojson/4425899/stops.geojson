@@ -38,13 +38,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973974,
-          -6.8986245
+          107.5975318,
+          -6.8966067
         ]
       },
       "properties": {
-        "id": "v_107.597397_-6.898625",
+        "id": "v_107.597532_-6.896607",
+        "name": "Jalan Sederhana",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597458,
+          -6.899457
+        ]
+      },
+      "properties": {
+        "id": "v_107.597458_-6.899457",
         "name": "Jalan Pasir Kaliki",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6003645,
+          -6.900192
+        ]
+      },
+      "properties": {
+        "id": "v_107.600364_-6.900192",
+        "name": "Jalan Pasteur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5976493,
+          -6.9004086
+        ]
+      },
+      "properties": {
+        "id": "v_107.597649_-6.900409",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -118,12 +166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5834572,
-          -6.9076247
+          107.5852567,
+          -6.9073414
         ]
       },
       "properties": {
-        "id": "v_107.583457_-6.907625",
+        "id": "v_107.585257_-6.907341",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
         "mode": "bus"
@@ -134,12 +182,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5789413,
-          -6.9083597
+          107.5825276,
+          -6.9077023
         ]
       },
       "properties": {
-        "id": "v_107.578941_-6.908360",
+        "id": "v_107.582528_-6.907702",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5798218,
+          -6.9074031
+        ]
+      },
+      "properties": {
+        "id": "v_107.579822_-6.907403",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5784895,
+          -6.90976
+        ]
+      },
+      "properties": {
+        "id": "v_107.578490_-6.909760",
         "name": "Jalan Garuda",
         "role": "virtual",
         "mode": "bus"
@@ -150,13 +230,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5776241,
-          -6.9135596
+          107.5778207,
+          -6.9127137
         ]
       },
       "properties": {
-        "id": "v_107.577624_-6.913560",
+        "id": "v_107.577821_-6.912714",
         "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5771848,
+          -6.9155032
+        ]
+      },
+      "properties": {
+        "id": "v_107.577185_-6.915503",
+        "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5751233,
+          -6.9173833
+        ]
+      },
+      "properties": {
+        "id": "v_107.575123_-6.917383",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -182,12 +294,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5700698,
-          -6.9196362
+          107.57071,
+          -6.9179149
         ]
       },
       "properties": {
-        "id": "v_107.570070_-6.919636",
+        "id": "v_107.570710_-6.917915",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5697486,
+          -6.9205542
+        ]
+      },
+      "properties": {
+        "id": "v_107.569749_-6.920554",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5682257,
+          -6.9229908
+        ]
+      },
+      "properties": {
+        "id": "v_107.568226_-6.922991",
         "name": "Jalan Raya Cijerah",
         "role": "virtual",
         "mode": "bus"

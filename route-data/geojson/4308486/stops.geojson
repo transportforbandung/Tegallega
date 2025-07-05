@@ -310,6 +310,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6149066,
+          -6.9487921
+        ]
+      },
+      "properties": {
+        "id": "v_107.614907_-6.948792",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.612094,
           -6.9485877
         ]
@@ -374,6 +390,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5991425,
+          -6.9476696
+        ]
+      },
+      "properties": {
+        "id": "v_107.599142_-6.947670",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963147,
+          -6.9475595
+        ]
+      },
+      "properties": {
+        "id": "v_107.596315_-6.947559",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.592997,
           -6.9469193
         ]
@@ -382,6 +430,22 @@
         "id": "3277891129",
         "name": "Seberang Terminal Leuwipanjang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5904261,
+          -6.9460413
+        ]
+      },
+      "properties": {
+        "id": "v_107.590426_-6.946041",
+        "name": "Jalan terdekat",
+        "role": "virtual",
         "mode": "bus"
       }
     },

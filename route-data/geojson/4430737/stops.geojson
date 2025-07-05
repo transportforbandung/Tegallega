@@ -22,12 +22,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6059103,
-          -6.8682113
+          107.6059545,
+          -6.8666121
         ]
       },
       "properties": {
-        "id": "v_107.605910_-6.868211",
+        "id": "v_107.605954_-6.866612",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055874,
+          -6.8701871
+        ]
+      },
+      "properties": {
+        "id": "v_107.605587_-6.870187",
         "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "mode": "bus"
@@ -54,12 +70,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.603606,
-          -6.8800095
+          107.6038662,
+          -6.877964
         ]
       },
       "properties": {
-        "id": "v_107.603606_-6.880009",
+        "id": "v_107.603866_-6.877964",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6038241,
+          -6.8806746
+        ]
+      },
+      "properties": {
+        "id": "v_107.603824_-6.880675",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6049395,
+          -6.8832608
+        ]
+      },
+      "properties": {
+        "id": "v_107.604940_-6.883261",
         "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "mode": "bus"
@@ -94,6 +142,22 @@
         "id": "3462094656",
         "name": "RS Advent",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6011493,
+          -6.8912796
+        ]
+      },
+      "properties": {
+        "id": "v_107.601149_-6.891280",
+        "name": "Jalan Sampurna",
+        "role": "virtual",
         "mode": "bus"
       }
     },

@@ -38,6 +38,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6071865,
+          -6.9145473
+        ]
+      },
+      "properties": {
+        "id": "v_107.607186_-6.914547",
+        "name": "Jalan Perintis Kemerdekaan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -166,12 +182,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5929268,
-          -6.8978439
+          107.5939125,
+          -6.8988957
         ]
       },
       "properties": {
-        "id": "v_107.592927_-6.897844",
+        "id": "v_107.593913_-6.898896",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916961,
+          -6.8969965
+        ]
+      },
+      "properties": {
+        "id": "v_107.591696_-6.896997",
         "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "mode": "bus"
@@ -198,6 +230,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5860686,
+          -6.8933302
+        ]
+      },
+      "properties": {
+        "id": "v_107.586069_-6.893330",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5832389,
           -6.8923414
         ]
@@ -214,6 +262,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5814967,
+          -6.8901644
+        ]
+      },
+      "properties": {
+        "id": "v_107.581497_-6.890164",
+        "name": "Jalan Surya Sumantri",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5813607,
           -6.8859263
         ]
@@ -222,6 +286,22 @@
         "id": "3384993309",
         "name": "Maranatha",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5814041,
+          -6.8831411
+        ]
+      },
+      "properties": {
+        "id": "v_107.581404_-6.883141",
+        "name": "Jalan Surya Sumantri",
+        "role": "virtual",
         "mode": "bus"
       }
     },

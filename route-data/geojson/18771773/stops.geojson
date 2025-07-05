@@ -38,6 +38,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6229895,
+          -6.958689
+        ]
+      },
+      "properties": {
+        "id": "v_107.622990_-6.958689",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6222422,
+          -6.9543881
+        ]
+      },
+      "properties": {
+        "id": "v_107.622242_-6.954388",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6214461,
           -6.9492577
         ]

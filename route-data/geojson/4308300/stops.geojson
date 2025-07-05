@@ -70,6 +70,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6116186,
+          -6.9305702
+        ]
+      },
+      "properties": {
+        "id": "v_107.611619_-6.930570",
+        "name": "Jalan Pungkur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6158192,
           -6.9311439
         ]
@@ -150,6 +166,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6176047,
+          -6.9222986
+        ]
+      },
+      "properties": {
+        "id": "v_107.617605_-6.922299",
+        "name": "Jalan Sunda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6179265,
           -6.9194254
         ]
@@ -206,6 +238,22 @@
         "id": "12809507134",
         "name": "Kantor Kecamatan Sumurbandung",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6175806,
+          -6.9100152
+        ]
+      },
+      "properties": {
+        "id": "v_107.617581_-6.910015",
+        "name": "Jalan Banda",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -406,6 +454,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6023472,
+          -6.9015634
+        ]
+      },
+      "properties": {
+        "id": "v_107.602347_-6.901563",
+        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5973503,
           -6.8989275
         ]
@@ -502,6 +566,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5963984,
+          -6.8809341
+        ]
+      },
+      "properties": {
+        "id": "v_107.596398_-6.880934",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596246,
           -6.8780655
         ]
@@ -550,12 +630,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5935096,
-          -6.8699573
+          107.5940693,
+          -6.8717924
         ]
       },
       "properties": {
-        "id": "v_107.593510_-6.869957",
+        "id": "v_107.594069_-6.871792",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935949,
+          -6.8690472
+        ]
+      },
+      "properties": {
+        "id": "v_107.593595_-6.869047",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "mode": "bus"
@@ -574,6 +670,22 @@
         "id": "12809046293",
         "name": "Gegerkalong Girang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5957352,
+          -6.8631536
+        ]
+      },
+      "properties": {
+        "id": "v_107.595735_-6.863154",
+        "name": "Jalan Dokter Setiabudi",
+        "role": "virtual",
         "mode": "bus"
       }
     },

@@ -150,12 +150,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6393128,
-          -6.9299564
+          107.6411045,
+          -6.931019
         ]
       },
       "properties": {
-        "id": "v_107.639313_-6.929956",
+        "id": "v_107.641104_-6.931019",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6386831,
+          -6.9293013
+        ]
+      },
+      "properties": {
+        "id": "v_107.638683_-6.929301",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6359386,
+          -6.927677
+        ]
+      },
+      "properties": {
+        "id": "v_107.635939_-6.927677",
         "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
@@ -182,6 +214,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6299412,
+          -6.9251288
+        ]
+      },
+      "properties": {
+        "id": "v_107.629941_-6.925129",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6270579,
           -6.924387
         ]
@@ -198,12 +246,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6226711,
-          -6.9231079
+          107.6243612,
+          -6.9238018
         ]
       },
       "properties": {
-        "id": "v_107.622671_-6.923108",
+        "id": "v_107.624361_-6.923802",
         "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
@@ -214,13 +262,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6195149,
-          -6.926592
+          107.6215111,
+          -6.9229149
         ]
       },
       "properties": {
-        "id": "v_107.619515_-6.926592",
+        "id": "v_107.621511_-6.922915",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6197453,
+          -6.9254171
+        ]
+      },
+      "properties": {
+        "id": "v_107.619745_-6.925417",
         "name": "Jalan Burangrang",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190166,
+          -6.9281269
+        ]
+      },
+      "properties": {
+        "id": "v_107.619017_-6.928127",
+        "name": "Jalan Sadakeling",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6160139,
+          -6.9285662
+        ]
+      },
+      "properties": {
+        "id": "v_107.616014_-6.928566",
+        "name": "Jalan Cikawao",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6134302,
+          -6.9273648
+        ]
+      },
+      "properties": {
+        "id": "v_107.613430_-6.927365",
+        "name": "Jalan Cikawao",
         "role": "virtual",
         "mode": "bus"
       }
@@ -238,6 +350,22 @@
         "id": "12809314942",
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6100312,
+          -6.9290167
+        ]
+      },
+      "properties": {
+        "id": "v_107.610031_-6.929017",
+        "name": "Jalan Pungkur",
+        "role": "virtual",
         "mode": "bus"
       }
     },

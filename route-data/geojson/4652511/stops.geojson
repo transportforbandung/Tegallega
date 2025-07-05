@@ -118,6 +118,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6071865,
+          -6.9145473
+        ]
+      },
+      "properties": {
+        "id": "v_107.607186_-6.914547",
+        "name": "Jalan Perintis Kemerdekaan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -262,6 +278,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6010968,
+          -6.90402
+        ]
+      },
+      "properties": {
+        "id": "v_107.601097_-6.904020",
+        "name": "Bunderan Radjiman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5982442,
           -6.9010192
         ]
@@ -310,6 +342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5984316,
+          -6.8951102
+        ]
+      },
+      "properties": {
+        "id": "v_107.598432_-6.895110",
+        "name": "Jalan Sederhana",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5996153,
           -6.8908128
         ]
@@ -318,6 +366,22 @@
         "id": "3249461526",
         "name": "Pasar Sederhana",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5975019,
+          -6.8885472
+        ]
+      },
+      "properties": {
+        "id": "v_107.597502_-6.888547",
+        "name": "Jalan Sukamaju",
+        "role": "virtual",
         "mode": "bus"
       }
     },

@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.594007,
-          -6.9494581
+          107.5942998,
+          -6.9486456
         ]
       },
       "properties": {
-        "id": "v_107.594007_-6.949458",
+        "id": "v_107.594300_-6.948646",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -22,12 +22,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5932949,
-          -6.9539843
+          107.5935936,
+          -6.95131
         ]
       },
       "properties": {
-        "id": "v_107.593295_-6.953984",
+        "id": "v_107.593594_-6.951310",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5932996,
+          -6.9541793
+        ]
+      },
+      "properties": {
+        "id": "v_107.593300_-6.954179",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5931829,
+          -6.9574289
+        ]
+      },
+      "properties": {
+        "id": "v_107.593183_-6.957429",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -54,6 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5951418,
+          -6.9478259
+        ]
+      },
+      "properties": {
+        "id": "v_107.595142_-6.947826",
+        "name": "Jalan Raya Cibaduyut",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5930651,
           -6.9449801
         ]
@@ -62,6 +110,22 @@
         "id": "3115012017",
         "name": "Terminal Leuwipanjang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916513,
+          -6.9425217
+        ]
+      },
+      "properties": {
+        "id": "v_107.591651_-6.942522",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -166,6 +230,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5984843,
+          -6.937651
+        ]
+      },
+      "properties": {
+        "id": "v_107.598484_-6.937651",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6020331,
           -6.9371534
         ]
@@ -206,6 +286,38 @@
         "id": "5355897678",
         "name": "Taman Tegalega 3",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065192,
+          -6.9332778
+        ]
+      },
+      "properties": {
+        "id": "v_107.606519_-6.933278",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605557,
+          -6.9305299
+        ]
+      },
+      "properties": {
+        "id": "v_107.605557_-6.930530",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
         "mode": "bus"
       }
     },

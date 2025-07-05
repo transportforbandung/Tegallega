@@ -118,6 +118,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6071865,
+          -6.9145473
+        ]
+      },
+      "properties": {
+        "id": "v_107.607186_-6.914547",
+        "name": "Jalan Perintis Kemerdekaan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -198,6 +214,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5910708,
+          -6.9070787
+        ]
+      },
+      "properties": {
+        "id": "v_107.591071_-6.907079",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588209,
           -6.9068423
         ]
@@ -214,12 +246,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5834572,
-          -6.9076247
+          107.5852567,
+          -6.9073414
         ]
       },
       "properties": {
-        "id": "v_107.583457_-6.907625",
+        "id": "v_107.585257_-6.907341",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
         "mode": "bus"
@@ -230,13 +262,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5789413,
-          -6.9083597
+          107.5825276,
+          -6.9077023
         ]
       },
       "properties": {
-        "id": "v_107.578941_-6.908360",
+        "id": "v_107.582528_-6.907702",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5798218,
+          -6.9074031
+        ]
+      },
+      "properties": {
+        "id": "v_107.579822_-6.907403",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5784895,
+          -6.90976
+        ]
+      },
+      "properties": {
+        "id": "v_107.578490_-6.909760",
         "name": "Jalan Garuda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5741958,
+          -6.9102903
+        ]
+      },
+      "properties": {
+        "id": "v_107.574196_-6.910290",
+        "name": "Jalan Dadali",
         "role": "virtual",
         "mode": "bus"
       }

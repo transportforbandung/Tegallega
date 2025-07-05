@@ -70,12 +70,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6432943,
-          -6.8956408
+          107.6437076,
+          -6.897601
         ]
       },
       "properties": {
-        "id": "v_107.643294_-6.895641",
+        "id": "v_107.643708_-6.897601",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6427374,
+          -6.8950706
+        ]
+      },
+      "properties": {
+        "id": "v_107.642737_-6.895071",
+        "name": "Jalan Cikutra",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6401385,
+          -6.8938889
+        ]
+      },
+      "properties": {
+        "id": "v_107.640139_-6.893889",
         "name": "Jalan Cikutra",
         "role": "virtual",
         "mode": "bus"
@@ -102,6 +134,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6347529,
+          -6.8961255
+        ]
+      },
+      "properties": {
+        "id": "v_107.634753_-6.896126",
+        "name": "Jalan Pahlawan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.634244,
           -6.9003045
         ]
@@ -118,13 +166,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6317894,
-          -6.9042688
+          107.6332551,
+          -6.9028646
         ]
       },
       "properties": {
-        "id": "v_107.631789_-6.904269",
+        "id": "v_107.633255_-6.902865",
         "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6312587,
+          -6.905028
+        ]
+      },
+      "properties": {
+        "id": "v_107.631259_-6.905028",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6306929,
+          -6.90769
+        ]
+      },
+      "properties": {
+        "id": "v_107.630693_-6.907690",
+        "name": "Jalan Supratman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -358,6 +438,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6411045,
+          -6.931019
+        ]
+      },
+      "properties": {
+        "id": "v_107.641104_-6.931019",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6386831,
+          -6.9293013
+        ]
+      },
+      "properties": {
+        "id": "v_107.638683_-6.929301",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6358171,
           -6.928187
         ]
@@ -366,6 +478,22 @@
         "id": "3248882519",
         "name": "Turangga",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6351695,
+          -6.9308231
+        ]
+      },
+      "properties": {
+        "id": "v_107.635170_-6.930823",
+        "name": "Jalan Turangga",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -390,12 +518,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6292681,
-          -6.9335803
+          107.6310515,
+          -6.9339821
         ]
       },
       "properties": {
-        "id": "v_107.629268_-6.933580",
+        "id": "v_107.631051_-6.933982",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
         "mode": "bus"
@@ -406,12 +534,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6249815,
-          -6.9320775
+          107.6282092,
+          -6.9333101
         ]
       },
       "properties": {
-        "id": "v_107.624982_-6.932078",
+        "id": "v_107.628209_-6.933310",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6255977,
+          -6.9324167
+        ]
+      },
+      "properties": {
+        "id": "v_107.625598_-6.932417",
         "name": "Jalan Lodaya",
         "role": "virtual",
         "mode": "bus"
@@ -422,12 +566,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6206148,
-          -6.9342423
+          107.6229314,
+          -6.9311882
         ]
       },
       "properties": {
-        "id": "v_107.620615_-6.934242",
+        "id": "v_107.622931_-6.931188",
+        "name": "Jalan Lodaya",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6211343,
+          -6.9337683
+        ]
+      },
+      "properties": {
+        "id": "v_107.621134_-6.933768",
         "name": "Jalan Gajah",
         "role": "virtual",
         "mode": "bus"
@@ -438,13 +598,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6165751,
-          -6.9315064
+          107.6183506,
+          -6.9323042
         ]
       },
       "properties": {
-        "id": "v_107.616575_-6.931506",
-        "name": "Jalan Gurame",
+        "id": "v_107.618351_-6.932304",
+        "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
       }
@@ -454,12 +614,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.613029,
-          -6.9345354
+          107.6156957,
+          -6.9316439
         ]
       },
       "properties": {
-        "id": "v_107.613029_-6.934535",
+        "id": "v_107.615696_-6.931644",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6138283,
+          -6.9337409
+        ]
+      },
+      "properties": {
+        "id": "v_107.613828_-6.933741",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115373,
+          -6.9358756
+        ]
+      },
+      "properties": {
+        "id": "v_107.611537_-6.935876",
         "name": "Jalan Mochammad Ramdhan",
         "role": "virtual",
         "mode": "bus"
@@ -494,6 +686,38 @@
         "id": "5355897678",
         "name": "Taman Tegalega 3",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6065192,
+          -6.9332778
+        ]
+      },
+      "properties": {
+        "id": "v_107.606519_-6.933278",
+        "name": "Jalan Mohammad Toha",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605557,
+          -6.9305299
+        ]
+      },
+      "properties": {
+        "id": "v_107.605557_-6.930530",
+        "name": "Jalan Dewi Sartika",
+        "role": "virtual",
         "mode": "bus"
       }
     },

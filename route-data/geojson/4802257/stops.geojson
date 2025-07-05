@@ -22,12 +22,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6058851,
-          -6.8687427
+          107.6058819,
+          -6.8671331
         ]
       },
       "properties": {
-        "id": "v_107.605885_-6.868743",
+        "id": "v_107.605882_-6.867133",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055874,
+          -6.8701871
+        ]
+      },
+      "properties": {
+        "id": "v_107.605587_-6.870187",
         "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "mode": "bus"
@@ -54,12 +70,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.603606,
-          -6.8800095
+          107.6038662,
+          -6.877964
         ]
       },
       "properties": {
-        "id": "v_107.603606_-6.880009",
+        "id": "v_107.603866_-6.877964",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6038241,
+          -6.8806746
+        ]
+      },
+      "properties": {
+        "id": "v_107.603824_-6.880675",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6049395,
+          -6.8832608
+        ]
+      },
+      "properties": {
+        "id": "v_107.604940_-6.883261",
         "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "mode": "bus"
@@ -86,6 +134,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.604194,
+          -6.8899911
+        ]
+      },
+      "properties": {
+        "id": "v_107.604194_-6.889991",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6041814,
+          -6.8929367
+        ]
+      },
+      "properties": {
+        "id": "v_107.604181_-6.892937",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6039451,
           -6.8959031
         ]
@@ -102,12 +182,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038997,
-          -6.9004015
+          107.6040958,
+          -6.8988115
         ]
       },
       "properties": {
-        "id": "v_107.603900_-6.900402",
+        "id": "v_107.604096_-6.898811",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6018357,
+          -6.9003585
+        ]
+      },
+      "properties": {
+        "id": "v_107.601836_-6.900359",
         "name": "Jalan Pasteur",
         "role": "virtual",
         "mode": "bus"
@@ -254,6 +350,22 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980592,
+          -6.91323
+        ]
+      },
+      "properties": {
+        "id": "v_107.598059_-6.913230",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
         "mode": "bus"
       }
     },

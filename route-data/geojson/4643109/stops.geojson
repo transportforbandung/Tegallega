@@ -70,12 +70,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6158704,
-          -6.8817604
+          107.61635,
+          -6.8800793
         ]
       },
       "properties": {
-        "id": "v_107.615870_-6.881760",
+        "id": "v_107.616350_-6.880079",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6150295,
+          -6.8828849
+        ]
+      },
+      "properties": {
+        "id": "v_107.615030_-6.882885",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -94,6 +110,22 @@
         "id": "11739021656",
         "name": "Masjid Baiturrahman",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6158888,
+          -6.8891749
+        ]
+      },
+      "properties": {
+        "id": "v_107.615889_-6.889175",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -310,6 +342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "v_107.612012_-6.921739",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -358,12 +406,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6084036,
-          -6.9320886
+          107.6106978,
+          -6.9323912
         ]
       },
       "properties": {
-        "id": "v_107.608404_-6.932089",
+        "id": "v_107.610698_-6.932391",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607795,
+          -6.9320075
+        ]
+      },
+      "properties": {
+        "id": "v_107.607795_-6.932008",
         "name": "Jalan Ibu Inggit Ganarsih",
         "role": "virtual",
         "mode": "bus"

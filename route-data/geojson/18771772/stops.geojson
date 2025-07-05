@@ -38,12 +38,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6259917,
-          -6.9495692
+          107.6229895,
+          -6.958689
         ]
       },
       "properties": {
-        "id": "v_107.625992_-6.949569",
+        "id": "v_107.622990_-6.958689",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6222422,
+          -6.9543881
+        ]
+      },
+      "properties": {
+        "id": "v_107.622242_-6.954388",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242225,
+          -6.9495008
+        ]
+      },
+      "properties": {
+        "id": "v_107.624223_-6.949501",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"

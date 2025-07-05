@@ -22,6 +22,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.561984,
+          -6.8932335
+        ]
+      },
+      "properties": {
+        "id": "v_107.561984_-6.893234",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5634091,
+          -6.8907915
+        ]
+      },
+      "properties": {
+        "id": "v_107.563409_-6.890791",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.566898,
           -6.8893002
         ]
@@ -38,12 +70,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.571799,
-          -6.8901058
+          107.5698608,
+          -6.8896958
         ]
       },
       "properties": {
-        "id": "v_107.571799_-6.890106",
+        "id": "v_107.569861_-6.889696",
         "name": "Jalan Gunung Batu",
         "role": "virtual",
         "mode": "bus"
@@ -54,12 +86,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5763426,
-          -6.8911426
+          107.5722426,
+          -6.8910315
         ]
       },
       "properties": {
-        "id": "v_107.576343_-6.891143",
+        "id": "v_107.572243_-6.891032",
+        "name": "Jalan Dakota",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5733107,
+          -6.8937105
+        ]
+      },
+      "properties": {
+        "id": "v_107.573311_-6.893711",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5754545,
+          -6.8918515
+        ]
+      },
+      "properties": {
+        "id": "v_107.575455_-6.891851",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5785226,
+          -6.8914458
+        ]
+      },
+      "properties": {
+        "id": "v_107.578523_-6.891446",
         "name": "Jalan Sukaraja",
         "role": "virtual",
         "mode": "bus"
@@ -118,12 +198,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5903993,
-          -6.8932499
+          107.5885046,
+          -6.8932073
         ]
       },
       "properties": {
-        "id": "v_107.590399_-6.893250",
+        "id": "v_107.588505_-6.893207",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916078,
+          -6.8923015
+        ]
+      },
+      "properties": {
+        "id": "v_107.591608_-6.892302",
         "name": "Jalan Sukagalih",
         "role": "virtual",
         "mode": "bus"
@@ -174,6 +270,22 @@
         "id": "29357939",
         "name": "Junction 8 Sukajadi",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5994217,
+          -6.8845695
+        ]
+      },
+      "properties": {
+        "id": "v_107.599422_-6.884569",
+        "name": "Jalan Cemara",
+        "role": "virtual",
         "mode": "bus"
       }
     },

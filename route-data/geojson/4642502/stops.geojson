@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5959866,
+          -6.8620463
+        ]
+      },
+      "properties": {
+        "id": "v_107.595987_-6.862046",
+        "name": "Jalan Dokter Setiabudi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5939201,
           -6.8664168
         ]
@@ -70,6 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5944136,
+          -6.8722322
+        ]
+      },
+      "properties": {
+        "id": "v_107.594414_-6.872232",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5962411,
           -6.8746244
         ]
@@ -86,12 +118,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5980445,
-          -6.8788022
+          107.5974504,
+          -6.877112
         ]
       },
       "properties": {
-        "id": "v_107.598045_-6.878802",
+        "id": "v_107.597450_-6.877112",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "mode": "bus"
@@ -102,13 +134,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.600512,
-          -6.8825853
+          107.5985332,
+          -6.8798525
         ]
       },
       "properties": {
-        "id": "v_107.600512_-6.882585",
+        "id": "v_107.598533_-6.879853",
         "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6000907,
+          -6.8822275
+        ]
+      },
+      "properties": {
+        "id": "v_107.600091_-6.882227",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60158,
+          -6.8845161
+        ]
+      },
+      "properties": {
+        "id": "v_107.601580_-6.884516",
+        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
         "role": "virtual",
         "mode": "bus"
       }
@@ -126,6 +190,22 @@
         "id": "29379224",
         "name": "Jl. Jurang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5998881,
+          -6.8900645
+        ]
+      },
+      "properties": {
+        "id": "v_107.599888_-6.890065",
+        "name": "Jalan Jurang",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -158,6 +238,22 @@
         "id": "3376669082",
         "name": "Cihampelas Eyckman",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040958,
+          -6.8988115
+        ]
+      },
+      "properties": {
+        "id": "v_107.604096_-6.898811",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -502,12 +598,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6442687,
-          -6.9190528
+          107.6441162,
+          -6.9172833
         ]
       },
       "properties": {
-        "id": "v_107.644269_-6.919053",
+        "id": "v_107.644116_-6.917283",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "mode": "bus"
@@ -524,6 +620,22 @@
       },
       "properties": {
         "id": "v_107.644450_-6.924568",
+        "name": "Jalan Layang Kiaracondong",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6443746,
+          -6.9274215
+        ]
+      },
+      "properties": {
+        "id": "v_107.644375_-6.927422",
         "name": "Jalan Layang Kiaracondong",
         "role": "virtual",
         "mode": "bus"
@@ -774,6 +886,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6725823,
+          -6.9384059
+        ]
+      },
+      "properties": {
+        "id": "v_107.672582_-6.938406",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6692698,
           -6.9388175
         ]
@@ -798,6 +926,22 @@
         "id": "12806868625",
         "name": "Metro",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6636177,
+          -6.9419288
+        ]
+      },
+      "properties": {
+        "id": "v_107.663618_-6.941929",
+        "name": "Jalan Rancabolang",
+        "role": "virtual",
         "mode": "bus"
       }
     },

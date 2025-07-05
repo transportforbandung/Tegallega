@@ -70,12 +70,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6158704,
-          -6.8817604
+          107.61635,
+          -6.8800793
         ]
       },
       "properties": {
-        "id": "v_107.615870_-6.881760",
+        "id": "v_107.616350_-6.880079",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6150295,
+          -6.8828849
+        ]
+      },
+      "properties": {
+        "id": "v_107.615030_-6.882885",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -94,6 +110,22 @@
         "id": "11739021656",
         "name": "Masjid Baiturrahman",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6158888,
+          -6.8891749
+        ]
+      },
+      "properties": {
+        "id": "v_107.615889_-6.889175",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -206,6 +238,22 @@
         "id": "11707030829",
         "name": "PUSDAI A",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6232631,
+          -6.9036761
+        ]
+      },
+      "properties": {
+        "id": "v_107.623263_-6.903676",
+        "name": "Jalan Citarum",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -694,12 +742,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.671913,
-          -6.9383912
+          107.6706974,
+          -6.9384772
         ]
       },
       "properties": {
-        "id": "v_107.671913_-6.938391",
+        "id": "v_107.670697_-6.938477",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6735519,
+          -6.9382758
+        ]
+      },
+      "properties": {
+        "id": "v_107.673552_-6.938276",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -742,12 +806,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6844521,
-          -6.937515
+          107.6829267,
+          -6.9376226
         ]
       },
       "properties": {
-        "id": "v_107.684452_-6.937515",
+        "id": "v_107.682927_-6.937623",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6859053,
+          -6.9374047
+        ]
+      },
+      "properties": {
+        "id": "v_107.685905_-6.937405",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6824446,
+          -6.9378809
+        ]
+      },
+      "properties": {
+        "id": "v_107.682445_-6.937881",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -774,13 +870,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6788887,
-          -6.9426017
+          107.6772327,
+          -6.9407701
         ]
       },
       "properties": {
-        "id": "v_107.678889_-6.942602",
+        "id": "v_107.677233_-6.940770",
+        "name": "Jalan Cipamokolan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6791957,
+          -6.9427015
+        ]
+      },
+      "properties": {
+        "id": "v_107.679196_-6.942702",
         "name": "Jalan Riung Hegar Raya",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6819663,
+          -6.9436312
+        ]
+      },
+      "properties": {
+        "id": "v_107.681966_-6.943631",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6837893,
+          -6.9456634
+        ]
+      },
+      "properties": {
+        "id": "v_107.683789_-6.945663",
+        "name": "Jalan Riung Mungpulung II",
         "role": "virtual",
         "mode": "bus"
       }

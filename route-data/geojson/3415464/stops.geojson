@@ -70,6 +70,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6116186,
+          -6.9305702
+        ]
+      },
+      "properties": {
+        "id": "v_107.611619_-6.930570",
+        "name": "Jalan Pungkur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6158192,
           -6.9311439
         ]
@@ -182,12 +198,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6292681,
-          -6.9335803
+          107.6277229,
+          -6.9331834
         ]
       },
       "properties": {
-        "id": "v_107.629268_-6.933580",
+        "id": "v_107.627723_-6.933183",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6306127,
+          -6.9338832
+        ]
+      },
+      "properties": {
+        "id": "v_107.630613_-6.933883",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
         "mode": "bus"
@@ -214,6 +246,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6349255,
+          -6.9317815
+        ]
+      },
+      "properties": {
+        "id": "v_107.634925_-6.931781",
+        "name": "Jalan Turangga",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634256,
+          -6.9267411
+        ]
+      },
+      "properties": {
+        "id": "v_107.634256_-6.926741",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6367954,
           -6.9280668
         ]
@@ -230,12 +294,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6405374,
-          -6.9307832
+          107.6391119,
+          -6.9297496
         ]
       },
       "properties": {
-        "id": "v_107.640537_-6.930783",
+        "id": "v_107.639112_-6.929750",
         "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
@@ -246,12 +310,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6442459,
-          -6.9279591
+          107.6418972,
+          -6.9313006
         ]
       },
       "properties": {
-        "id": "v_107.644246_-6.927959",
+        "id": "v_107.641897_-6.931301",
+        "name": "Jalan Jenderal Gatot Subroto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6439464,
+          -6.9294702
+        ]
+      },
+      "properties": {
+        "id": "v_107.643946_-6.929470",
+        "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6444641,
+          -6.9267038
+        ]
+      },
+      "properties": {
+        "id": "v_107.644464_-6.926704",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "mode": "bus"
@@ -374,6 +470,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6340779,
+          -6.9129877
+        ]
+      },
+      "properties": {
+        "id": "v_107.634078_-6.912988",
+        "name": "Jalan Layang Ahmad Yani - Supratman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6321776,
           -6.9101794
         ]
@@ -446,6 +558,22 @@
         "id": "5841989829",
         "name": "Muararajeun Baru",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6321582,
+          -6.903793
+        ]
+      },
+      "properties": {
+        "id": "v_107.632158_-6.903793",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -542,6 +670,38 @@
         "id": "5832221887",
         "name": "Sukapada",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6469046,
+          -6.9012136
+        ]
+      },
+      "properties": {
+        "id": "v_107.646905_-6.901214",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6497732,
+          -6.9017359
+        ]
+      },
+      "properties": {
+        "id": "v_107.649773_-6.901736",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
         "mode": "bus"
       }
     },

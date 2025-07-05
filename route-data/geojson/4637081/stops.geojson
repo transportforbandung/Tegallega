@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5959866,
+          -6.8620463
+        ]
+      },
+      "properties": {
+        "id": "v_107.595987_-6.862046",
+        "name": "Jalan Dokter Setiabudi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5939201,
           -6.8664168
         ]
@@ -70,6 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5944136,
+          -6.8722322
+        ]
+      },
+      "properties": {
+        "id": "v_107.594414_-6.872232",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5962411,
           -6.8746244
         ]
@@ -86,12 +118,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5980445,
-          -6.8788022
+          107.5974504,
+          -6.877112
         ]
       },
       "properties": {
-        "id": "v_107.598045_-6.878802",
+        "id": "v_107.597450_-6.877112",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5985332,
+          -6.8798525
+        ]
+      },
+      "properties": {
+        "id": "v_107.598533_-6.879853",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "mode": "bus"
@@ -126,6 +174,22 @@
         "id": "1660116948",
         "name": "Gandok",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6082242,
+          -6.8847452
+        ]
+      },
+      "properties": {
+        "id": "v_107.608224_-6.884745",
+        "name": "Jalan Siliwangi",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -214,12 +278,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6143382,
-          -6.9006167
+          107.6121864,
+          -6.9000327
         ]
       },
       "properties": {
-        "id": "v_107.614338_-6.900617",
+        "id": "v_107.612186_-6.900033",
+        "name": "Jalan Sulanjana",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6149941,
+          -6.900621
+        ]
+      },
+      "properties": {
+        "id": "v_107.614994_-6.900621",
         "name": "Jalan Diponegoro",
         "role": "virtual",
         "mode": "bus"
@@ -302,6 +382,22 @@
         "id": "5841989829",
         "name": "Muararajeun Baru",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6321582,
+          -6.903793
+        ]
+      },
+      "properties": {
+        "id": "v_107.632158_-6.903793",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -398,6 +494,38 @@
         "id": "5832221887",
         "name": "Sukapada",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6469046,
+          -6.9012136
+        ]
+      },
+      "properties": {
+        "id": "v_107.646905_-6.901214",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6497732,
+          -6.9017359
+        ]
+      },
+      "properties": {
+        "id": "v_107.649773_-6.901736",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
         "mode": "bus"
       }
     },

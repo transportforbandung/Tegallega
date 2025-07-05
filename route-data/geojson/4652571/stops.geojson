@@ -54,6 +54,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6087199,
+          -6.9226665
+        ]
+      },
+      "properties": {
+        "id": "v_107.608720_-6.922667",
+        "name": "Jalan Dalem Kaum",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6118585,
+          -6.9230332
+        ]
+      },
+      "properties": {
+        "id": "v_107.611858_-6.923033",
+        "name": "Jalan Dalem Kaum",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -62,6 +94,22 @@
         "id": "1956195997",
         "name": "Jalan Jati",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6151523,
+          -6.928135
+        ]
+      },
+      "properties": {
+        "id": "v_107.615152_-6.928135",
+        "name": "Jalan Cikawao",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -150,6 +198,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6231803,
+          -6.9366396
+        ]
+      },
+      "properties": {
+        "id": "v_107.623180_-6.936640",
+        "name": "Jalan Pelajar Pejuang 45",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.625925,
           -6.9402599
         ]
@@ -174,6 +238,22 @@
         "id": "12808948215",
         "name": "Kliningan Buahbatu",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.630216,
+          -6.9447298
+        ]
+      },
+      "properties": {
+        "id": "v_107.630216_-6.944730",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -238,6 +318,22 @@
         "id": "12626499689",
         "name": "Bluebird B",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6387229,
+          -6.9618482
+        ]
+      },
+      "properties": {
+        "id": "v_107.638723_-6.961848",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
         "mode": "bus"
       }
     },

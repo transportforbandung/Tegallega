@@ -54,12 +54,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5946486,
-          -6.8923756
+          107.5961792,
+          -6.8929236
         ]
       },
       "properties": {
-        "id": "v_107.594649_-6.892376",
+        "id": "v_107.596179_-6.892924",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5933159,
+          -6.8925186
+        ]
+      },
+      "properties": {
+        "id": "v_107.593316_-6.892519",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5904249,
+          -6.8922693
+        ]
+      },
+      "properties": {
+        "id": "v_107.590425_-6.892269",
         "name": "Jalan Sukagalih",
         "role": "virtual",
         "mode": "bus"
@@ -86,12 +118,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5924064,
-          -6.8973127
+          107.5910064,
+          -6.8965137
         ]
       },
       "properties": {
-        "id": "v_107.592406_-6.897313",
+        "id": "v_107.591006_-6.896514",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5935309,
+          -6.8982345
+        ]
+      },
+      "properties": {
+        "id": "v_107.593531_-6.898235",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5956579,
+          -6.8999532
+        ]
+      },
+      "properties": {
+        "id": "v_107.595658_-6.899953",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5929268,
+          -6.8978439
+        ]
+      },
+      "properties": {
+        "id": "v_107.592927_-6.897844",
         "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "mode": "bus"
@@ -110,6 +190,22 @@
         "id": "12628813994",
         "name": "Griya Pasteur 1",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5860686,
+          -6.8933302
+        ]
+      },
+      "properties": {
+        "id": "v_107.586069_-6.893330",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -150,6 +246,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5756474,
+          -6.8913072
+        ]
+      },
+      "properties": {
+        "id": "v_107.575647_-6.891307",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5726156,
           -6.8935189
         ]
@@ -182,12 +294,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5674492,
-          -6.8894061
+          107.5695663,
+          -6.8896411
         ]
       },
       "properties": {
-        "id": "v_107.567449_-6.889406",
+        "id": "v_107.569566_-6.889641",
         "name": "Jalan Gunung Batu",
         "role": "virtual",
         "mode": "bus"
@@ -198,12 +310,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5631369,
-          -6.8912219
+          107.5666744,
+          -6.889252
         ]
       },
       "properties": {
-        "id": "v_107.563137_-6.891222",
+        "id": "v_107.566674_-6.889252",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5639524,
+          -6.8897605
+        ]
+      },
+      "properties": {
+        "id": "v_107.563952_-6.889761",
+        "name": "Jalan Gunung Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5622165,
+          -6.8924934
+        ]
+      },
+      "properties": {
+        "id": "v_107.562217_-6.892493",
         "name": "Jalan Gunung Batu",
         "role": "virtual",
         "mode": "bus"

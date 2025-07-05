@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6247143,
+          -6.9215815
+        ]
+      },
+      "properties": {
+        "id": "v_107.624714_-6.921582",
+        "name": "Jalan Samoja Dalam",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.623843,
           -6.9255559
         ]
@@ -70,13 +86,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6179937,
-          -6.9319531
+          107.6211343,
+          -6.9337683
         ]
       },
       "properties": {
-        "id": "v_107.617994_-6.931953",
-        "name": "Jalan Sadakeling",
+        "id": "v_107.621134_-6.933768",
+        "name": "Jalan Gajah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6183506,
+          -6.9323042
+        ]
+      },
+      "properties": {
+        "id": "v_107.618351_-6.932304",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6156957,
+          -6.9316439
+        ]
+      },
+      "properties": {
+        "id": "v_107.615696_-6.931644",
+        "name": "Jalan Mochammad Ramdhan",
         "role": "virtual",
         "mode": "bus"
       }
@@ -92,6 +140,22 @@
       },
       "properties": {
         "id": "v_107.613828_-6.933741",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115373,
+          -6.9358756
+        ]
+      },
+      "properties": {
+        "id": "v_107.611537_-6.935876",
         "name": "Jalan Mochammad Ramdhan",
         "role": "virtual",
         "mode": "bus"
@@ -166,13 +230,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5964545,
-          -6.9328118
+          107.5959697,
+          -6.9344586
         ]
       },
       "properties": {
-        "id": "v_107.596454_-6.932812",
+        "id": "v_107.595970_-6.934459",
         "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596765,
+          -6.9316642
+        ]
+      },
+      "properties": {
+        "id": "v_107.596765_-6.931664",
+        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5975851,
+          -6.9290648
+        ]
+      },
+      "properties": {
+        "id": "v_107.597585_-6.929065",
+        "name": "Jalan Kopo",
         "role": "virtual",
         "mode": "bus"
       }
@@ -222,6 +318,22 @@
         "id": "12806765750",
         "name": "Karanganyar",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5962644,
+          -6.9211577
+        ]
+      },
+      "properties": {
+        "id": "v_107.596264_-6.921158",
+        "name": "Jalan Cibadak",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -302,6 +414,22 @@
         "id": "11711275763",
         "name": "Kemenag Kanwil Jabar",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5743538,
+          -6.9173939
+        ]
+      },
+      "properties": {
+        "id": "v_107.574354_-6.917394",
+        "name": "Bunderan Cibeureum",
+        "role": "virtual",
         "mode": "bus"
       }
     },

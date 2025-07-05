@@ -54,6 +54,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6087276,
+          -6.8849119
+        ]
+      },
+      "properties": {
+        "id": "v_107.608728_-6.884912",
+        "name": "Jalan Siliwangi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6060982,
+          -6.8841856
+        ]
+      },
+      "properties": {
+        "id": "v_107.606098_-6.884186",
+        "name": "Jalan Siliwangi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6040408,
           -6.8869867
         ]
@@ -70,6 +102,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.604194,
+          -6.8899911
+        ]
+      },
+      "properties": {
+        "id": "v_107.604194_-6.889991",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6041814,
+          -6.8929367
+        ]
+      },
+      "properties": {
+        "id": "v_107.604181_-6.892937",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6039451,
           -6.8959031
         ]
@@ -78,6 +142,22 @@
         "id": "3376669082",
         "name": "Cihampelas Eyckman",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040958,
+          -6.8988115
+        ]
+      },
+      "properties": {
+        "id": "v_107.604096_-6.898811",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -110,6 +190,22 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6075461,
+          -6.9076136
+        ]
+      },
+      "properties": {
+        "id": "v_107.607546_-6.907614",
+        "name": "Jalan Wastukencana",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -182,6 +278,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5980592,
+          -6.91323
+        ]
+      },
+      "properties": {
+        "id": "v_107.598059_-6.913230",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5988546,
           -6.916282
         ]
@@ -214,6 +326,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6022556,
+          -6.9173444
+        ]
+      },
+      "properties": {
+        "id": "v_107.602256_-6.917344",
+        "name": "Jalan Dulatip",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6020569,
           -6.9205571
         ]
@@ -222,6 +350,54 @@
         "id": "11711275750",
         "name": "KEB Hana Bank",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5985204,
+          -6.9201398
+        ]
+      },
+      "properties": {
+        "id": "v_107.598520_-6.920140",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5986598,
+          -6.9231557
+        ]
+      },
+      "properties": {
+        "id": "v_107.598660_-6.923156",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6017833,
+          -6.9235754
+        ]
+      },
+      "properties": {
+        "id": "v_107.601783_-6.923575",
+        "name": "Jalan Kalipah Apo",
+        "role": "virtual",
         "mode": "bus"
       }
     },

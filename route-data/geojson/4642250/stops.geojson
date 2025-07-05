@@ -22,12 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6199983,
-          -6.8719092
+          107.620462,
+          -6.8697081
         ]
       },
       "properties": {
-        "id": "v_107.619998_-6.871909",
+        "id": "v_107.620462_-6.869708",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -38,12 +38,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6181983,
-          -6.8763036
+          107.6198876,
+          -6.8725481
         ]
       },
       "properties": {
-        "id": "v_107.618198_-6.876304",
+        "id": "v_107.619888_-6.872548",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6187714,
+          -6.8753042
+        ]
+      },
+      "properties": {
+        "id": "v_107.618771_-6.875304",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.617015,
+          -6.8778557
+        ]
+      },
+      "properties": {
+        "id": "v_107.617015_-6.877856",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -70,6 +102,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6150052,
+          -6.8829165
+        ]
+      },
+      "properties": {
+        "id": "v_107.615005_-6.882917",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6137012,
           -6.8858131
         ]
@@ -86,12 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6133416,
-          -6.8903787
+          107.6135369,
+          -6.8887363
         ]
       },
       "properties": {
-        "id": "v_107.613342_-6.890379",
+        "id": "v_107.613537_-6.888736",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -102,12 +150,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6129594,
-          -6.894937
+          107.6132329,
+          -6.8915009
         ]
       },
       "properties": {
-        "id": "v_107.612959_-6.894937",
+        "id": "v_107.613233_-6.891501",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -118,12 +166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6127597,
-          -6.8995115
+          107.6130097,
+          -6.8942684
         ]
       },
       "properties": {
-        "id": "v_107.612760_-6.899512",
+        "id": "v_107.613010_-6.894268",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -134,12 +182,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61091,
-          -6.9042157
+          107.6128492,
+          -6.8972718
         ]
       },
       "properties": {
-        "id": "v_107.610910_-6.904216",
+        "id": "v_107.612849_-6.897272",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -150,12 +198,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6106227,
-          -6.9088624
+          107.6126934,
+          -6.9000677
         ]
       },
       "properties": {
-        "id": "v_107.610623_-6.908862",
+        "id": "v_107.612693_-6.900068",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6114407,
+          -6.9028466
+        ]
+      },
+      "properties": {
+        "id": "v_107.611441_-6.902847",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6106131,
+          -6.9054949
+        ]
+      },
+      "properties": {
+        "id": "v_107.610613_-6.905495",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6106156,
+          -6.9082067
+        ]
+      },
+      "properties": {
+        "id": "v_107.610616_-6.908207",
         "name": "Jalan Merdeka",
         "role": "virtual",
         "mode": "bus"
@@ -166,13 +262,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6103417,
-          -6.9136128
+          107.6105511,
+          -6.9114294
         ]
       },
       "properties": {
-        "id": "v_107.610342_-6.913613",
+        "id": "v_107.610551_-6.911429",
         "name": "Jalan Merdeka",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6091994,
+          -6.9138624
+        ]
+      },
+      "properties": {
+        "id": "v_107.609199_-6.913862",
+        "name": "Jalan Perintis Kemerdekaan",
         "role": "virtual",
         "mode": "bus"
       }

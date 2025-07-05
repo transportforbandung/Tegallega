@@ -54,6 +54,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6464296,
+          -6.900967
+        ]
+      },
+      "properties": {
+        "id": "v_107.646430_-6.900967",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6426735,
           -6.8997726
         ]
@@ -150,6 +166,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6332551,
+          -6.9028646
+        ]
+      },
+      "properties": {
+        "id": "v_107.633255_-6.902865",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6312587,
+          -6.905028
+        ]
+      },
+      "properties": {
+        "id": "v_107.631259_-6.905028",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6301163,
           -6.9080655
         ]
@@ -206,6 +254,22 @@
         "id": "12962149421",
         "name": "Aceh Taman Pramuka",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622453,
+          -6.9095218
+        ]
+      },
+      "properties": {
+        "id": "v_107.622453_-6.909522",
+        "name": "Jalan Aceh",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -310,6 +374,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "v_107.612012_-6.921739",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -358,12 +438,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6084036,
-          -6.9320886
+          107.6106978,
+          -6.9323912
         ]
       },
       "properties": {
-        "id": "v_107.608404_-6.932089",
+        "id": "v_107.610698_-6.932391",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607795,
+          -6.9320075
+        ]
+      },
+      "properties": {
+        "id": "v_107.607795_-6.932008",
         "name": "Jalan Ibu Inggit Ganarsih",
         "role": "virtual",
         "mode": "bus"

@@ -38,6 +38,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.638552,
+          -6.9621002
+        ]
+      },
+      "properties": {
+        "id": "v_107.638552_-6.962100",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.639482,
           -6.9576866
         ]
@@ -78,6 +94,22 @@
         "id": "12626499693",
         "name": "JAPNAS",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6343379,
+          -6.9490065
+        ]
+      },
+      "properties": {
+        "id": "v_107.634338_-6.949007",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -134,12 +166,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6225387,
-          -6.9367463
+          107.62345,
+          -6.937746
         ]
       },
       "properties": {
-        "id": "v_107.622539_-6.936746",
+        "id": "v_107.623450_-6.937746",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6214868,
+          -6.9356769
+        ]
+      },
+      "properties": {
+        "id": "v_107.621487_-6.935677",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6194953,
+          -6.9335548
+        ]
+      },
+      "properties": {
+        "id": "v_107.619495_-6.933555",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -214,12 +278,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6084036,
-          -6.9320886
+          107.6106978,
+          -6.9323912
         ]
       },
       "properties": {
-        "id": "v_107.608404_-6.932089",
+        "id": "v_107.610698_-6.932391",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607795,
+          -6.9320075
+        ]
+      },
+      "properties": {
+        "id": "v_107.607795_-6.932008",
         "name": "Jalan Ibu Inggit Ganarsih",
         "role": "virtual",
         "mode": "bus"

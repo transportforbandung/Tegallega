@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5959866,
+          -6.8620463
+        ]
+      },
+      "properties": {
+        "id": "v_107.595987_-6.862046",
+        "name": "Jalan Dokter Setiabudi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5939201,
           -6.8664168
         ]
@@ -70,6 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5944136,
+          -6.8722322
+        ]
+      },
+      "properties": {
+        "id": "v_107.594414_-6.872232",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5962411,
           -6.8746244
         ]
@@ -86,12 +118,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5980445,
-          -6.8788022
+          107.5974504,
+          -6.877112
         ]
       },
       "properties": {
-        "id": "v_107.598045_-6.878802",
+        "id": "v_107.597450_-6.877112",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5985332,
+          -6.8798525
+        ]
+      },
+      "properties": {
+        "id": "v_107.598533_-6.879853",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "mode": "bus"
@@ -134,6 +182,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.604194,
+          -6.8899911
+        ]
+      },
+      "properties": {
+        "id": "v_107.604194_-6.889991",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6041814,
+          -6.8929367
+        ]
+      },
+      "properties": {
+        "id": "v_107.604181_-6.892937",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6039451,
           -6.8959031
         ]
@@ -142,6 +222,22 @@
         "id": "3376669082",
         "name": "Cihampelas Eyckman",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040958,
+          -6.8988115
+        ]
+      },
+      "properties": {
+        "id": "v_107.604096_-6.898811",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -214,6 +310,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.612472,
+          -6.9097787
+        ]
+      },
+      "properties": {
+        "id": "v_107.612472_-6.909779",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6138205,
           -6.9124068
         ]
@@ -254,6 +366,22 @@
         "id": "3374033500",
         "name": "Tamblong",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "v_107.612012_-6.921739",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -310,12 +438,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6084036,
-          -6.9320886
+          107.6106978,
+          -6.9323912
         ]
       },
       "properties": {
-        "id": "v_107.608404_-6.932089",
+        "id": "v_107.610698_-6.932391",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607795,
+          -6.9320075
+        ]
+      },
+      "properties": {
+        "id": "v_107.607795_-6.932008",
         "name": "Jalan Ibu Inggit Ganarsih",
         "role": "virtual",
         "mode": "bus"

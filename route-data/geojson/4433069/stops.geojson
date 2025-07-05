@@ -38,12 +38,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6871235,
-          -6.937537
+          107.6883969,
+          -6.9374526
         ]
       },
       "properties": {
-        "id": "v_107.687123_-6.937537",
+        "id": "v_107.688397_-6.937453",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6852061,
+          -6.9376909
+        ]
+      },
+      "properties": {
+        "id": "v_107.685206_-6.937691",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6824446,
+          -6.9378809
+        ]
+      },
+      "properties": {
+        "id": "v_107.682445_-6.937881",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -358,6 +390,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6289001,
+          -6.9399782
+        ]
+      },
+      "properties": {
+        "id": "v_107.628900_-6.939978",
+        "name": "Jalan Kliningan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6272124,
+          -6.9378376
+        ]
+      },
+      "properties": {
+        "id": "v_107.627212_-6.937838",
+        "name": "Jalan Karawitan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6269745,
           -6.9337673
         ]
@@ -390,13 +454,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6235032,
-          -6.9269791
+          107.6240469,
+          -6.9288822
         ]
       },
       "properties": {
-        "id": "v_107.623503_-6.926979",
-        "name": "Jalan Palasari",
+        "id": "v_107.624047_-6.928882",
+        "name": "Jalan Talaga Bodas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623714,
+          -6.925252
+        ]
+      },
+      "properties": {
+        "id": "v_107.623714_-6.925252",
+        "name": "Jalan Malabar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6246232,
+          -6.9226045
+        ]
+      },
+      "properties": {
+        "id": "v_107.624623_-6.922605",
+        "name": "Jalan Malabar",
         "role": "virtual",
         "mode": "bus"
       }
@@ -638,6 +734,22 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980592,
+          -6.91323
+        ]
+      },
+      "properties": {
+        "id": "v_107.598059_-6.913230",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
         "mode": "bus"
       }
     },

@@ -22,13 +22,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5992232,
-          -6.8812425
+          107.5973545,
+          -6.8808747
         ]
       },
       "properties": {
-        "id": "v_107.599223_-6.881242",
+        "id": "v_107.597354_-6.880875",
         "name": "Jalan Karang Sari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6000907,
+          -6.8822275
+        ]
+      },
+      "properties": {
+        "id": "v_107.600091_-6.882227",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60158,
+          -6.8845161
+        ]
+      },
+      "properties": {
+        "id": "v_107.601580_-6.884516",
+        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
         "role": "virtual",
         "mode": "bus"
       }
@@ -46,6 +78,22 @@
         "id": "29379224",
         "name": "Jl. Jurang",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5998881,
+          -6.8900645
+        ]
+      },
+      "properties": {
+        "id": "v_107.599888_-6.890065",
+        "name": "Jalan Jurang",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -78,6 +126,22 @@
         "id": "12809082541",
         "name": "Paskal RSHS",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6003645,
+          -6.900192
+        ]
+      },
+      "properties": {
+        "id": "v_107.600364_-6.900192",
+        "name": "Jalan Pasteur",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -230,6 +294,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5980592,
+          -6.91323
+        ]
+      },
+      "properties": {
+        "id": "v_107.598059_-6.913230",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5988546,
           -6.916282
         ]
@@ -262,6 +342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6022556,
+          -6.9173444
+        ]
+      },
+      "properties": {
+        "id": "v_107.602256_-6.917344",
+        "name": "Jalan Dulatip",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6020569,
           -6.9205571
         ]
@@ -278,12 +374,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5987785,
-          -6.9236837
+          107.5985204,
+          -6.9201398
         ]
       },
       "properties": {
-        "id": "v_107.598778_-6.923684",
+        "id": "v_107.598520_-6.920140",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5986598,
+          -6.9231557
+        ]
+      },
+      "properties": {
+        "id": "v_107.598660_-6.923156",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5995204,
+          -6.9258084
+        ]
+      },
+      "properties": {
+        "id": "v_107.599520_-6.925808",
         "name": "Jalan Astana Anyar",
         "role": "virtual",
         "mode": "bus"

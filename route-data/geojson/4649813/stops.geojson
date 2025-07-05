@@ -38,12 +38,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.571799,
-          -6.8901058
+          107.5698608,
+          -6.8896958
         ]
       },
       "properties": {
-        "id": "v_107.571799_-6.890106",
+        "id": "v_107.569861_-6.889696",
         "name": "Jalan Gunung Batu",
         "role": "virtual",
         "mode": "bus"
@@ -54,12 +54,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5763426,
-          -6.8911426
+          107.5722426,
+          -6.8910315
         ]
       },
       "properties": {
-        "id": "v_107.576343_-6.891143",
+        "id": "v_107.572243_-6.891032",
+        "name": "Jalan Dakota",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5733107,
+          -6.8937105
+        ]
+      },
+      "properties": {
+        "id": "v_107.573311_-6.893711",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5754545,
+          -6.8918515
+        ]
+      },
+      "properties": {
+        "id": "v_107.575455_-6.891851",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5785226,
+          -6.8914458
+        ]
+      },
+      "properties": {
+        "id": "v_107.578523_-6.891446",
         "name": "Jalan Sukaraja",
         "role": "virtual",
         "mode": "bus"
@@ -134,12 +182,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5924064,
-          -6.8973127
+          107.5907946,
+          -6.8964009
         ]
       },
       "properties": {
-        "id": "v_107.592406_-6.897313",
+        "id": "v_107.590795_-6.896401",
         "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "mode": "bus"
@@ -150,13 +198,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5960113,
-          -6.9000567
+          107.5932178,
+          -6.8979319
         ]
       },
       "properties": {
-        "id": "v_107.596011_-6.900057",
+        "id": "v_107.593218_-6.897932",
         "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5954259,
+          -6.8997986
+        ]
+      },
+      "properties": {
+        "id": "v_107.595426_-6.899799",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5985704,
+          -6.900207
+        ]
+      },
+      "properties": {
+        "id": "v_107.598570_-6.900207",
+        "name": "Jalan Pasteur",
         "role": "virtual",
         "mode": "bus"
       }
@@ -206,6 +286,22 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6075461,
+          -6.9076136
+        ]
+      },
+      "properties": {
+        "id": "v_107.607546_-6.907614",
+        "name": "Jalan Wastukencana",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -270,6 +366,22 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980592,
+          -6.91323
+        ]
+      },
+      "properties": {
+        "id": "v_107.598059_-6.913230",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
         "mode": "bus"
       }
     },

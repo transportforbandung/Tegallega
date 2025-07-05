@@ -310,6 +310,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6169111,
+          -6.890724
+        ]
+      },
+      "properties": {
+        "id": "v_107.616911_-6.890724",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6150918,
           -6.8870114
         ]
@@ -358,6 +374,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6087276,
+          -6.8849119
+        ]
+      },
+      "properties": {
+        "id": "v_107.608728_-6.884912",
+        "name": "Jalan Siliwangi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6060982,
+          -6.8841856
+        ]
+      },
+      "properties": {
+        "id": "v_107.606098_-6.884186",
+        "name": "Jalan Siliwangi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6040408,
           -6.8869867
         ]
@@ -374,12 +422,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042355,
-          -6.8916244
+          107.604194,
+          -6.8899911
         ]
       },
       "properties": {
-        "id": "v_107.604236_-6.891624",
+        "id": "v_107.604194_-6.889991",
         "name": "Jalan Cihampelas",
         "role": "virtual",
         "mode": "bus"
@@ -390,12 +438,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024711,
-          -6.8957932
+          107.6041814,
+          -6.8929367
         ]
       },
       "properties": {
-        "id": "v_107.602471_-6.895793",
+        "id": "v_107.604181_-6.892937",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039637,
+          -6.8957293
+        ]
+      },
+      "properties": {
+        "id": "v_107.603964_-6.895729",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6011223,
+          -6.8958109
+        ]
+      },
+      "properties": {
+        "id": "v_107.601122_-6.895811",
         "name": "Jalan Profesor Christiaan Eijkman",
         "role": "virtual",
         "mode": "bus"
@@ -414,6 +494,22 @@
         "id": "12809082541",
         "name": "Paskal RSHS",
         "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6003645,
+          -6.900192
+        ]
+      },
+      "properties": {
+        "id": "v_107.600364_-6.900192",
+        "name": "Jalan Pasteur",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -486,6 +582,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5910708,
+          -6.9070787
+        ]
+      },
+      "properties": {
+        "id": "v_107.591071_-6.907079",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588209,
           -6.9068423
         ]
@@ -502,13 +614,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5834572,
-          -6.9076247
+          107.5852567,
+          -6.9073414
         ]
       },
       "properties": {
-        "id": "v_107.583457_-6.907625",
+        "id": "v_107.585257_-6.907341",
         "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5825276,
+          -6.9077023
+        ]
+      },
+      "properties": {
+        "id": "v_107.582528_-6.907702",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5798218,
+          -6.9074031
+        ]
+      },
+      "properties": {
+        "id": "v_107.579822_-6.907403",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5813863,
+          -6.9097015
+        ]
+      },
+      "properties": {
+        "id": "v_107.581386_-6.909701",
+        "name": "Jalan Ciroyom",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5845003,
+          -6.911786
+        ]
+      },
+      "properties": {
+        "id": "v_107.584500_-6.911786",
+        "name": "Jalan Ciroyom",
         "role": "virtual",
         "mode": "bus"
       }

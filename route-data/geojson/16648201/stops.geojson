@@ -22,12 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6976627,
-          -6.9208368
+          107.6983691,
+          -6.9186772
         ]
       },
       "properties": {
-        "id": "v_107.697663_-6.920837",
+        "id": "v_107.698369_-6.918677",
         "name": "Jalan Rumah Sakit",
         "role": "virtual",
         "mode": "bus"
@@ -38,12 +38,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6956949,
-          -6.925036
+          107.6974662,
+          -6.9214314
         ]
       },
       "properties": {
-        "id": "v_107.695695_-6.925036",
+        "id": "v_107.697466_-6.921431",
         "name": "Jalan Rumah Sakit",
         "role": "virtual",
         "mode": "bus"
@@ -54,12 +54,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6941072,
-          -6.9292778
+          107.69621,
+          -6.9239046
         ]
       },
       "properties": {
-        "id": "v_107.694107_-6.929278",
+        "id": "v_107.696210_-6.923905",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6949163,
+          -6.9270848
+        ]
+      },
+      "properties": {
+        "id": "v_107.694916_-6.927085",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6938799,
+          -6.9298858
+        ]
+      },
+      "properties": {
+        "id": "v_107.693880_-6.929886",
+        "name": "Jalan Rumah Sakit",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6930017,
+          -6.9325813
+        ]
+      },
+      "properties": {
+        "id": "v_107.693002_-6.932581",
         "name": "Jalan Rumah Sakit",
         "role": "virtual",
         "mode": "bus"
@@ -86,12 +134,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6871235,
-          -6.937537
+          107.6883969,
+          -6.9374526
         ]
       },
       "properties": {
-        "id": "v_107.687123_-6.937537",
+        "id": "v_107.688397_-6.937453",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6852061,
+          -6.9376909
+        ]
+      },
+      "properties": {
+        "id": "v_107.685206_-6.937691",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6824446,
+          -6.9378809
+        ]
+      },
+      "properties": {
+        "id": "v_107.682445_-6.937881",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "mode": "bus"
@@ -438,12 +518,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6211069,
-          -6.9447309
+          107.6200002,
+          -6.9491604
         ]
       },
       "properties": {
-        "id": "v_107.621107_-6.944731",
+        "id": "v_107.620000_-6.949160",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6211978,
+          -6.9457709
+        ]
+      },
+      "properties": {
+        "id": "v_107.621198_-6.945771",
         "name": "Jalan Pasir Salam",
         "role": "virtual",
         "mode": "bus"
@@ -454,12 +550,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6166291,
-          -6.9435002
+          107.6193253,
+          -6.9437206
         ]
       },
       "properties": {
-        "id": "v_107.616629_-6.943500",
+        "id": "v_107.619325_-6.943721",
         "name": "Jalan Pasir Salam",
         "role": "virtual",
         "mode": "bus"
@@ -470,13 +566,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6160568,
-          -6.9390126
+          107.6161533,
+          -6.9434381
         ]
       },
       "properties": {
-        "id": "v_107.616057_-6.939013",
+        "id": "v_107.616153_-6.943438",
+        "name": "Jalan Pasir Salam",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6160256,
+          -6.9401671
+        ]
+      },
+      "properties": {
+        "id": "v_107.616026_-6.940167",
         "name": "Jalan Pasirluyu Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6138239,
+          -6.9378694
+        ]
+      },
+      "properties": {
+        "id": "v_107.613824_-6.937869",
+        "name": "Jalan BKR",
         "role": "virtual",
         "mode": "bus"
       }
@@ -566,12 +694,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5979756,
-          -6.9275908
+          107.5986352,
+          -6.9299972
         ]
       },
       "properties": {
-        "id": "v_107.597976_-6.927591",
+        "id": "v_107.598635_-6.929997",
+        "name": "Jalan Panjunan",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980791,
+          -6.9272681
+        ]
+      },
+      "properties": {
+        "id": "v_107.598079_-6.927268",
         "name": "Jalan Kopo",
         "role": "virtual",
         "mode": "bus"
@@ -582,12 +726,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5933578,
-          -6.9261911
+          107.5953448,
+          -6.9264031
         ]
       },
       "properties": {
-        "id": "v_107.593358_-6.926191",
+        "id": "v_107.595345_-6.926403",
         "name": "Jalan Pasir Koja",
         "role": "virtual",
         "mode": "bus"
@@ -598,12 +742,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5887765,
-          -6.9258124
+          107.5919281,
+          -6.9260427
         ]
       },
       "properties": {
-        "id": "v_107.588776_-6.925812",
+        "id": "v_107.591928_-6.926043",
+        "name": "Jalan Pasir Koja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5891087,
+          -6.9257996
+        ]
+      },
+      "properties": {
+        "id": "v_107.589109_-6.925800",
+        "name": "Jalan Pasir Koja",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586442,
+          -6.9264095
+        ]
+      },
+      "properties": {
+        "id": "v_107.586442_-6.926410",
         "name": "Jalan Pasir Koja",
         "role": "virtual",
         "mode": "bus"
