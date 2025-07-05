@@ -1,0 +1,40 @@
+name: Direct Graph Generation
+
+on:
+    workflow_dispatch:
+
+jobs:
+  building-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: 21
+
+      - name: Download OTP JAR
+        run: |
+          mkdir otp
+          curl -L https://github.com/opentripplanner/OpenTripPlanner/releases/download/v2.7.0/otp-shaded-2.7.0.jar -o otp/otp-shaded.jar
+
+      - name: Build Graph
+        run: |
+          java -Xmx4G -jar otp/otp-shaded.jar --build otp-data --save
+
+      - name: Commit updated graph.obj
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -f otp-deploy/graph.obj ]; then
+              rm -f otp-deploy/graph.obj
+              git add otp-deploy/graph.obj
+              git commit -m "Update graph.obj from OTP build" || echo "No changes to commit"
+              git push
+          else
+              echo "No new graph.obj generated — skipping commit"
+          fi
