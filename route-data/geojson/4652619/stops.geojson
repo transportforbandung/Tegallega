@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6379256,
-          -6.9655493
+          107.6378871,
+          -6.9657129
         ]
       },
       "properties": {
-        "id": "virtual_107.6379_-6.9655",
-        "name": "Buah Batu",
+        "id": "virtual_107.6379_-6.9657",
+        "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
       }
@@ -22,13 +22,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6379736,
-          -6.965341
+          107.6379682,
+          -6.9653663
         ]
       },
       "properties": {
-        "id": "virtual_107.6380_-6.9653",
-        "name": "Buah Batu",
+        "id": "virtual_107.6380_-6.9654",
+        "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
       }
@@ -38,13 +38,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6379796,
-          -6.965312
+          107.6379746,
+          -6.9653313
         ]
       },
       "properties": {
         "id": "virtual_107.6380_-6.9653",
-        "name": "Buah Batu",
+        "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
       }
@@ -60,7 +60,7 @@
       },
       "properties": {
         "id": "virtual_107.6380_-6.9653",
-        "name": "Buah Batu",
+        "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
       }

@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024135,
-          -6.9161558
+          107.6024001,
+          -6.9161478
         ]
       },
       "properties": {
-        "id": "virtual_107.6024_-6.9162",
+        "id": "virtual_107.6024_-6.9161",
         "name": "Jalan Suniaraja",
         "role": "virtual",
         "mode": "bus"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6025153,
-          -6.9161423
+          107.6025166,
+          -6.916137
         ]
       },
       "properties": {
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6027054,
-          -6.916124
+          107.6027081,
+          -6.91612
         ]
       },
       "properties": {
@@ -54,8 +54,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6031066,
-          -6.9160901
+          107.6031079,
+          -6.9160834
         ]
       },
       "properties": {
@@ -1030,8 +1030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6088785,
-          -6.9103019
+          107.6088855,
+          -6.9102984
         ]
       },
       "properties": {
@@ -1062,8 +1062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6087817,
-          -6.9101077
+          107.6087639,
+          -6.910086
         ]
       },
       "properties": {
@@ -2812,6 +2812,22 @@
       },
       "properties": {
         "id": "virtual_107.5982_-6.9011",
+        "name": "Jalan Doktor Louis Otten",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5982442,
+          -6.9010192
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5982_-6.9010",
         "name": "Jalan Doktor Louis Otten",
         "role": "virtual",
         "mode": "bus"

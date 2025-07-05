@@ -91,8 +91,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024135,
-          -6.9161558
+          107.6024001,
+          -6.9161478
         ]
       },
       "properties": {
@@ -100,10 +100,8 @@
         "role": "stop",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "highway": "bus_stop",
         "name": "Stasiun Hall",
-        "public_transport": "stop_position",
-        "ref": "Stasiun Hall/Kebon Jati"
+        "public_transport": "stop_position"
       }
     },
     {
@@ -168,7 +166,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6115213,
+          107.6115254,
           -6.9024821
         ]
       },
@@ -185,7 +183,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6127613,
+          107.6127786,
           -6.8975185
         ]
       },
@@ -202,8 +200,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6129072,
-          -6.8944564
+          107.6129302,
+          -6.8944643
         ]
       },
       "properties": {
@@ -219,15 +217,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6150582,
-          -6.8869095
+          107.6149671,
+          -6.8866267
         ]
       },
       "properties": {
         "id": 11739021656,
         "role": "stop",
         "bus": "yes",
-        "name": "UNIKOM",
+        "name": "Masjid Baiturrahman",
         "public_transport": "stop_position"
       }
     },

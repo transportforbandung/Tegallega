@@ -1558,6 +1558,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5973563,
+          -6.8969183
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5974_-6.8969",
+        "name": "Jalan Pasir Kaliki",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5973743,
           -6.8978579
         ]
@@ -1590,12 +1606,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973907,
-          -6.8982584
+          107.5973829,
+          -6.8982378
         ]
       },
       "properties": {
-        "id": "virtual_107.5974_-6.8983",
+        "id": "virtual_107.5974_-6.8982",
         "name": "Jalan Pasir Kaliki",
         "role": "virtual",
         "mode": "bus"
@@ -1606,8 +1622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973964,
-          -6.898353
+          107.5973873,
+          -6.8983517
         ]
       },
       "properties": {
@@ -1622,7 +1638,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5974078,
+          107.5973974,
           -6.8986245
         ]
       },
@@ -1638,8 +1654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5974091,
-          -6.8987152
+          107.5974,
+          -6.8987139
         ]
       },
       "properties": {
@@ -3590,12 +3606,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6044529,
-          -6.9075468
+          107.6044521,
+          -6.9072879
         ]
       },
       "properties": {
-        "id": "virtual_107.6045_-6.9075",
+        "id": "virtual_107.6045_-6.9073",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604458,
+          -6.9073889
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6045_-6.9074",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044661,
+          -6.9077123
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6045_-6.9077",
         "name": "Jalan Cicendo",
         "role": "virtual",
         "mode": "bus"
@@ -3703,7 +3751,7 @@
         "type": "Point",
         "coordinates": [
           107.6043042,
-          -6.9094556
+          -6.9094657
         ]
       },
       "properties": {
@@ -3718,7 +3766,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60428,
+          107.6042851,
           -6.9095101
         ]
       },
@@ -3734,8 +3782,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042537,
-          -6.9095705
+          107.6042598,
+          -6.9095715
         ]
       },
       "properties": {
@@ -3750,8 +3798,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042108,
-          -6.9096813
+          107.6042199,
+          -6.9096823
         ]
       },
       "properties": {
@@ -3782,7 +3830,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041381,
+          107.60413,
           -6.9100304
         ]
       },
@@ -3798,7 +3846,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041233,
+          107.6041131,
           -6.910177
         ]
       },
@@ -3814,8 +3862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041021,
-          -6.9104022
+          107.604095,
+          -6.9104032
         ]
       },
       "properties": {
@@ -3830,8 +3878,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040857,
-          -6.9106877
+          107.6040749,
+          -6.9106747
         ]
       },
       "properties": {
@@ -3846,8 +3894,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040756,
-          -6.9108629
+          107.6040736,
+          -6.9106984
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9107",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040635,
+          -6.9108642
         ]
       },
       "properties": {
@@ -3862,8 +3926,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040107,
-          -6.9119067
+          107.6040608,
+          -6.9109088
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9109",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039986,
+          -6.911908
         ]
       },
       "properties": {
@@ -3878,8 +3958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6039615,
-          -6.9124737
+          107.6039597,
+          -6.9124977
         ]
       },
       "properties": {
@@ -3942,8 +4022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041134,
-          -6.9126882
+          107.6041426,
+          -6.9127091
         ]
       },
       "properties": {
@@ -3958,12 +4038,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6046943,
-          -6.9127387
+          107.604692,
+          -6.9127619
         ]
       },
       "properties": {
-        "id": "virtual_107.6047_-6.9127",
+        "id": "virtual_107.6047_-6.9128",
         "name": "Jalan Aceh",
         "role": "virtual",
         "mode": "bus"

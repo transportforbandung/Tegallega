@@ -55,7 +55,7 @@
         "type": "Point",
         "coordinates": [
           107.6144033,
-          -6.8948278
+          -6.8948409
         ]
       },
       "properties": {
@@ -5880,6 +5880,22 @@
         "coordinates": [
           107.6794782,
           -6.9049937
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6795_-6.9050",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6794622,
+          -6.9049915
         ]
       },
       "properties": {

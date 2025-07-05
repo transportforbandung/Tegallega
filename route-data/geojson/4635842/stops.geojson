@@ -3702,6 +3702,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6255307,
+          -6.9102542
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6255_-6.9103",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6255822,
           -6.9102655
         ]

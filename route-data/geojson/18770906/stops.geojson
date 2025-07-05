@@ -24,7 +24,7 @@
         "type": "Point",
         "coordinates": [
           107.6134343,
-          -6.8948051
+          -6.8948263
         ]
       },
       "properties": {
@@ -40,7 +40,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128497,
+          107.6128416,
           -6.897514
         ]
       },
@@ -57,8 +57,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6116031,
-          -6.902518
+          107.6115838,
+          -6.9025069
         ]
       },
       "properties": {
@@ -74,15 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6106299,
-          -6.9065922
+          107.6106208,
+          -6.9065902
         ]
       },
       "properties": {
         "id": 10653503634,
         "role": "stop",
         "bus": "yes",
-        "name": "The-One-O-One B",
+        "name": "Hotel The-One-O-One B",
         "network": "Trans Metro Pasundan",
         "public_transport": "stop_position",
         "shelter": "no"
@@ -153,10 +153,8 @@
         "id": 29354702,
         "role": "stop",
         "bus": "yes",
-        "highway": "bus_stop",
         "name": "Pasar Baru",
-        "public_transport": "stop_position",
-        "ref": "Pasar Baru"
+        "public_transport": "stop_position"
       }
     },
     {

@@ -2758,6 +2758,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6794622,
+          -6.9049915
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6795_-6.9050",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6793999,
           -6.9049829
         ]
@@ -9062,8 +9078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6139978,
-          -6.8948556
+          107.6139998,
+          -6.8949464
         ]
       },
       "properties": {
@@ -9079,7 +9095,7 @@
         "type": "Point",
         "coordinates": [
           107.613998,
-          -6.8948183
+          -6.8948395
         ]
       },
       "properties": {
@@ -9095,7 +9111,7 @@
         "type": "Point",
         "coordinates": [
           107.6144033,
-          -6.8948278
+          -6.8948409
         ]
       },
       "properties": {
@@ -9111,7 +9127,7 @@
         "type": "Point",
         "coordinates": [
           107.6143207,
-          -6.8948258
+          -6.8948409
         ]
       },
       "properties": {

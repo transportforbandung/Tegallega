@@ -3990,8 +3990,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612608,
-          -6.9002447
+          107.6125952,
+          -6.9002401
         ]
       },
       "properties": {
@@ -4118,8 +4118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612514,
-          -6.9002016
+          107.6125222,
+          -6.9002051
         ]
       },
       "properties": {
@@ -5366,12 +5366,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6080565,
-          -6.8901357
+          107.6080495,
+          -6.8905569
         ]
       },
       "properties": {
-        "id": "virtual_107.6081_-6.8901",
+        "id": "virtual_107.6080_-6.8906",
         "name": "Jalan Taman Sari",
         "role": "virtual",
         "mode": "bus"
@@ -7366,8 +7366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5967179,
-          -6.8868081
+          107.5967027,
+          -6.8868139
         ]
       },
       "properties": {
@@ -7382,8 +7382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5967163,
-          -6.886755
+          107.5967016,
+          -6.8867916
         ]
       },
       "properties": {
@@ -7447,11 +7447,11 @@
         "type": "Point",
         "coordinates": [
           107.5964138,
-          -6.8856839
+          -6.8856254
         ]
       },
       "properties": {
-        "id": "virtual_107.5964_-6.8857",
+        "id": "virtual_107.5964_-6.8856",
         "name": "Jalan Sukajadi",
         "role": "virtual",
         "mode": "bus"
@@ -7462,8 +7462,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5966003,
-          -6.8848888
+          107.5964457,
+          -6.8854301
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.8854",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5965693,
+          -6.8848932
         ]
       },
       "properties": {
@@ -7478,8 +7494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5965454,
-          -6.8842075
+          107.5965291,
+          -6.8842065
         ]
       },
       "properties": {
@@ -7494,8 +7510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5965376,
-          -6.8840228
+          107.5965234,
+          -6.8840238
         ]
       },
       "properties": {
@@ -7510,8 +7526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5965236,
-          -6.8836426
+          107.5965088,
+          -6.8836453
         ]
       },
       "properties": {
@@ -7526,8 +7542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5965196,
-          -6.8835611
+          107.5965062,
+          -6.8835624
         ]
       },
       "properties": {
@@ -7542,8 +7558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5964799,
-          -6.8826319
+          107.5964741,
+          -6.8826331
         ]
       },
       "properties": {
@@ -7558,8 +7574,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5964757,
-          -6.8825286
+          107.5964702,
+          -6.8825274
         ]
       },
       "properties": {

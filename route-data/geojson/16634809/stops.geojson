@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024135,
-          -6.9161558
+          107.6024001,
+          -6.9161478
         ]
       },
       "properties": {
-        "id": "virtual_107.6024_-6.9162",
+        "id": "virtual_107.6024_-6.9161",
         "name": "Jalan Suniaraja",
         "role": "virtual",
         "mode": "bus"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6025153,
-          -6.9161423
+          107.6025166,
+          -6.916137
         ]
       },
       "properties": {
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6027054,
-          -6.916124
+          107.6027081,
+          -6.91612
         ]
       },
       "properties": {
@@ -54,8 +54,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6031066,
-          -6.9160901
+          107.6031079,
+          -6.9160834
         ]
       },
       "properties": {
@@ -1126,8 +1126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6072824,
-          -6.9212236
+          107.6072565,
+          -6.9212135
         ]
       },
       "properties": {
@@ -1142,29 +1142,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6072498,
-          -6.9211778
+          107.6072035,
+          -6.9211727
         ]
       },
       "properties": {
         "id": "virtual_107.6072_-6.9212",
         "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6072416,
-          -6.9211767
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6072_-6.9212",
-        "name": "Jalan Asia Afrika",
         "role": "virtual",
         "mode": "bus"
       }

@@ -2646,22 +2646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6444128,
-          -6.9275396
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6444_-6.9275",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6444038,
           -6.9275926
         ]
@@ -3798,8 +3782,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6418448,
-          -6.9461499
+          107.641854,
+          -6.9460903
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6419_-6.9461",
+        "name": "Jalan Terusan Kiara Condong",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6418396,
+          -6.9461298
         ]
       },
       "properties": {
@@ -3814,12 +3814,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6417791,
-          -6.9464007
+          107.6418037,
+          -6.9461774
         ]
       },
       "properties": {
-        "id": "virtual_107.6418_-6.9464",
+        "id": "virtual_107.6418_-6.9462",
         "name": "Jalan Terusan Kiara Condong",
         "role": "virtual",
         "mode": "bus"
@@ -4598,8 +4598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6426794,
-          -6.9545674
+          107.6426693,
+          -6.9545964
         ]
       },
       "properties": {
@@ -4614,8 +4614,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6427106,
-          -6.9545734
+          107.6427176,
+          -6.9546077
         ]
       },
       "properties": {
@@ -4630,8 +4630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6427603,
-          -6.9545838
+          107.6427549,
+          -6.9546141
         ]
       },
       "properties": {
@@ -4646,8 +4646,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.643475,
-          -6.9546928
+          107.6429084,
+          -6.9546453
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6429_-6.9546",
+        "name": "Jalan Marga Cinta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6431186,
+          -6.9546799
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6431_-6.9547",
+        "name": "Jalan Marga Cinta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6433057,
+          -6.9547025
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6433_-6.9547",
+        "name": "Jalan Marga Cinta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6434955,
+          -6.9547201
         ]
       },
       "properties": {
@@ -4662,8 +4710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6437312,
-          -6.9547345
+          107.6437319,
+          -6.9547412
         ]
       },
       "properties": {
@@ -4726,8 +4774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6440119,
-          -6.9547655
+          107.6440039,
+          -6.9547648
         ]
       },
       "properties": {
@@ -4742,7 +4790,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6444196,
+          107.6444102,
           -6.954799
         ]
       },
@@ -4998,8 +5046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6484942,
-          -6.9551334
+          107.6484855,
+          -6.9551321
         ]
       },
       "properties": {
@@ -5046,8 +5094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6492088,
-          -6.9551921
+          107.6492014,
+          -6.9551914
         ]
       },
       "properties": {

@@ -91,8 +91,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973907,
-          -6.8982584
+          107.5973829,
+          -6.8982378
         ]
       },
       "properties": {
@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6044529,
-          -6.9075468
+          107.6044661,
+          -6.9077123
         ]
       },
       "properties": {
@@ -235,10 +235,8 @@
         "id": 29354702,
         "role": "stop",
         "bus": "yes",
-        "highway": "bus_stop",
         "name": "Pasar Baru",
-        "public_transport": "stop_position",
-        "ref": "Pasar Baru"
+        "public_transport": "stop_position"
       }
     },
     {

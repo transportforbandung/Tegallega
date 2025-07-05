@@ -5686,13 +5686,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6138085,
-          -6.9429911
+          107.616011,
+          -6.9410846
         ]
       },
       "properties": {
-        "id": "virtual_107.6138_-6.9430",
-        "name": "Jalan Kembar Timur II",
+        "id": "virtual_107.6160_-6.9411",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5702,13 +5702,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6155897,
-          -6.9429954
+          107.6160054,
+          -6.9414844
         ]
       },
       "properties": {
-        "id": "virtual_107.6156_-6.9430",
-        "name": "Jalan Kembar Timur II",
+        "id": "virtual_107.6160_-6.9415",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5718,13 +5718,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.613818,
-          -6.9425506
+          107.6160002,
+          -6.9418508
         ]
       },
       "properties": {
-        "id": "virtual_107.6138_-6.9426",
-        "name": "Jalan Kembar Timur Raya",
+        "id": "virtual_107.6160_-6.9419",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5734,13 +5734,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6133458,
-          -6.9425478
+          107.6159928,
+          -6.9423798
         ]
       },
       "properties": {
-        "id": "virtual_107.6133_-6.9425",
-        "name": "Jalan Kembar Timur I",
+        "id": "virtual_107.6160_-6.9424",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5750,13 +5750,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6133411,
-          -6.9431426
+          107.6160946,
+          -6.9380178
         ]
       },
       "properties": {
-        "id": "virtual_107.6133_-6.9431",
-        "name": "Jalan Kembar VIII",
+        "id": "virtual_107.6161_-6.9380",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5766,13 +5766,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6133436,
-          -6.9429331
+          107.6160922,
+          -6.9380609
         ]
       },
       "properties": {
-        "id": "virtual_107.6133_-6.9429",
-        "name": "Jalan Kembar VIII",
+        "id": "virtual_107.6161_-6.9381",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5782,13 +5782,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128194,
-          -6.9431725
+          107.6160662,
+          -6.9385192
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9432",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6161_-6.9385",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5798,13 +5798,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128304,
-          -6.9416064
+          107.6160662,
+          -6.9385676
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9416",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6161_-6.9386",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5814,13 +5814,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128271,
-          -6.9407769
+          107.6160568,
+          -6.9390126
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9408",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6161_-6.9390",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5830,13 +5830,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128168,
-          -6.9401736
+          107.6160487,
+          -6.9392991
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9402",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6160_-6.9393",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5846,13 +5846,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128043,
-          -6.9397452
+          107.6160478,
+          -6.9393324
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9397",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6160_-6.9393",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5862,13 +5862,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128011,
-          -6.9390617
+          107.6160438,
+          -6.9394735
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9391",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6160_-6.9395",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5878,13 +5878,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612817,
-          -6.9385745
+          107.616039,
+          -6.9396466
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9386",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6160_-6.9396",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5894,13 +5894,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128167,
-          -6.9385146
+          107.6160256,
+          -6.9401671
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9385",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6160_-6.9402",
+        "name": "Jalan Pasirluyu Barat",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5910,13 +5910,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6128126,
-          -6.9381902
+          107.6138239,
+          -6.9378694
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9382",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6138_-6.9379",
+        "name": "Jalan BKR",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5926,13 +5926,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612771,
-          -6.9378872
+          107.6132552,
+          -6.9378454
         ]
       },
       "properties": {
-        "id": "virtual_107.6128_-6.9379",
-        "name": "Jalan Sriwijaya",
+        "id": "virtual_107.6133_-6.9378",
+        "name": "Jalan BKR",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6128951,
+          -6.9378373
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6129_-6.9378",
+        "name": "Jalan BKR",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6128117,
+          -6.9378367
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6128_-6.9378",
+        "name": "Jalan BKR",
         "role": "virtual",
         "mode": "bus"
       }
@@ -5948,7 +5980,7 @@
       },
       "properties": {
         "id": "virtual_107.6128_-6.9378",
-        "name": "Jalan Sriwijaya",
+        "name": "Jalan BKR",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8604,7 +8636,7 @@
       },
       "properties": {
         "id": "virtual_107.5767_-6.9175",
-        "name": "Jalan terdekat",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8620,7 +8652,7 @@
       },
       "properties": {
         "id": "virtual_107.5759_-6.9174",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8636,7 +8668,7 @@
       },
       "properties": {
         "id": "virtual_107.5756_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8652,7 +8684,7 @@
       },
       "properties": {
         "id": "virtual_107.5754_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8668,7 +8700,7 @@
       },
       "properties": {
         "id": "virtual_107.5750_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8684,7 +8716,7 @@
       },
       "properties": {
         "id": "virtual_107.5748_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8700,7 +8732,7 @@
       },
       "properties": {
         "id": "virtual_107.5747_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8716,7 +8748,7 @@
       },
       "properties": {
         "id": "virtual_107.5747_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8732,7 +8764,7 @@
       },
       "properties": {
         "id": "virtual_107.5746_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }

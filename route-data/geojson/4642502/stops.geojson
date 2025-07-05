@@ -4806,8 +4806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6103621,
-          -6.9069583
+          107.6103896,
+          -6.9069656
         ]
       },
       "properties": {
@@ -4838,8 +4838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6105477,
-          -6.9069871
+          107.6105447,
+          -6.9069881
         ]
       },
       "properties": {
@@ -4854,7 +4854,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6106152,
+          107.6106132,
           -6.9069907
         ]
       },
@@ -5014,8 +5014,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6114258,
-          -6.9070427
+          107.6114489,
+          -6.9070444
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6114_-6.9070",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6113975,
+          -6.9070401
         ]
       },
       "properties": {
@@ -5196,6 +5212,22 @@
       },
       "properties": {
         "id": "virtual_107.6150_-6.9064",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6144094,
+          -6.9064746
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6144_-6.9065",
         "name": "Jalan L.L. RE. Martadinata",
         "role": "virtual",
         "mode": "bus"
@@ -5430,8 +5462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6195139,
-          -6.905927
+          107.6195027,
+          -6.905928
         ]
       },
       "properties": {
@@ -5574,12 +5606,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6183784,
+          -6.9060981
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6184_-6.9061",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6174531,
           -6.906135
         ]
       },
       "properties": {
         "id": "virtual_107.6175_-6.9061",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6173687,
+          -6.9061407
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6174_-6.9061",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6173359,
+          -6.9061429
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6173_-6.9061",
         "name": "Jalan L.L. RE. Martadinata",
         "role": "virtual",
         "mode": "bus"
@@ -5702,6 +5782,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6207244,
+          -6.9058792
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6207_-6.9059",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6213811,
           -6.9060399
         ]
@@ -5814,6 +5910,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6256861,
+          -6.9097089
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6257_-6.9097",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6253641,
           -6.9093848
         ]
@@ -5910,6 +6022,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6250154,
+          -6.9090547
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6250_-6.9091",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6249642,
           -6.9090084
         ]
@@ -5944,6 +6072,22 @@
         "coordinates": [
           107.6246431,
           -6.9087403
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6246_-6.9087",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624592,
+          -6.9086974
         ]
       },
       "properties": {
@@ -9926,7 +10070,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6420783,
+          107.6420681,
           -6.9451287
         ]
       },

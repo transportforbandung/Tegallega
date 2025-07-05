@@ -5238,22 +5238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6444128,
-          -6.9275396
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6444_-6.9275",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6444038,
           -6.9275926
         ]

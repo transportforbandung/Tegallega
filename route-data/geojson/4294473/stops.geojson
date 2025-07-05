@@ -1302,8 +1302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6137895,
-          -6.8852356
+          107.6137772,
+          -6.8852339
         ]
       },
       "properties": {
@@ -1318,8 +1318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6137831,
-          -6.8852912
+          107.6137627,
+          -6.8852895
         ]
       },
       "properties": {
@@ -1334,8 +1334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6136854,
-          -6.8852776
+          107.613679,
+          -6.885277
         ]
       },
       "properties": {
@@ -1910,12 +1910,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6080565,
-          -6.8901357
+          107.6080495,
+          -6.8905569
         ]
       },
       "properties": {
-        "id": "virtual_107.6081_-6.8901",
+        "id": "virtual_107.6080_-6.8906",
         "name": "Jalan Taman Sari",
         "role": "virtual",
         "mode": "bus"
@@ -4838,12 +4838,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6044529,
-          -6.9075468
+          107.6044521,
+          -6.9072879
         ]
       },
       "properties": {
-        "id": "virtual_107.6045_-6.9075",
+        "id": "virtual_107.6045_-6.9073",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604458,
+          -6.9073889
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6045_-6.9074",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044661,
+          -6.9077123
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6045_-6.9077",
         "name": "Jalan Cicendo",
         "role": "virtual",
         "mode": "bus"
@@ -4951,7 +4983,7 @@
         "type": "Point",
         "coordinates": [
           107.6043042,
-          -6.9094556
+          -6.9094657
         ]
       },
       "properties": {
@@ -4966,7 +4998,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60428,
+          107.6042851,
           -6.9095101
         ]
       },
@@ -4982,8 +5014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042537,
-          -6.9095705
+          107.6042598,
+          -6.9095715
         ]
       },
       "properties": {
@@ -4998,8 +5030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042108,
-          -6.9096813
+          107.6042199,
+          -6.9096823
         ]
       },
       "properties": {
@@ -5030,7 +5062,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041381,
+          107.60413,
           -6.9100304
         ]
       },
@@ -5046,7 +5078,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041233,
+          107.6041131,
           -6.910177
         ]
       },
@@ -5062,8 +5094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041021,
-          -6.9104022
+          107.604095,
+          -6.9104032
         ]
       },
       "properties": {
@@ -5078,8 +5110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040857,
-          -6.9106877
+          107.6040749,
+          -6.9106747
         ]
       },
       "properties": {
@@ -5094,8 +5126,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040756,
-          -6.9108629
+          107.6040736,
+          -6.9106984
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9107",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040635,
+          -6.9108642
         ]
       },
       "properties": {
@@ -5110,8 +5158,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040107,
-          -6.9119067
+          107.6040608,
+          -6.9109088
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9109",
+        "name": "Jalan Cicendo",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039986,
+          -6.911908
         ]
       },
       "properties": {
@@ -5126,8 +5190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6039615,
-          -6.9124737
+          107.6039597,
+          -6.9124977
         ]
       },
       "properties": {
@@ -5158,8 +5222,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6039141,
-          -6.912591
+          107.6039118,
+          -6.9126003
         ]
       },
       "properties": {
@@ -5174,8 +5238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038637,
-          -6.912628
+          107.6038567,
+          -6.9126442
         ]
       },
       "properties": {
@@ -5190,8 +5254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038068,
-          -6.9126542
+          107.6037823,
+          -6.9126588
         ]
       },
       "properties": {
@@ -5206,8 +5270,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6037423,
+          -6.9126555
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6037_-6.9127",
+        "name": "Jalan Kebon Kawung",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6036069,
-          -6.9126386
+          -6.9126444
         ]
       },
       "properties": {
@@ -5222,8 +5302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6032421,
-          -6.9126106
+          107.6032433,
+          -6.9126176
         ]
       },
       "properties": {
@@ -5318,8 +5398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6022827,
-          -6.9125558
+          107.6022742,
+          -6.9125566
         ]
       },
       "properties": {
@@ -5686,8 +5766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5978317,
-          -6.9099424
+          107.5978086,
+          -6.909947
         ]
       },
       "properties": {
@@ -5702,8 +5782,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5978292,
-          -6.9098535
+          107.5978015,
+          -6.9098566
         ]
       },
       "properties": {
@@ -5718,8 +5798,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5978012,
-          -6.909452
+          107.5977774,
+          -6.9094546
         ]
       },
       "properties": {
@@ -5734,12 +5814,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5977548,
-          -6.9089032
+          107.5977427,
+          -6.9089045
         ]
       },
       "properties": {
-        "id": "virtual_107.5978_-6.9089",
+        "id": "virtual_107.5977_-6.9089",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -5750,8 +5830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5976971,
-          -6.9081996
+          107.5976909,
+          -6.9082042
         ]
       },
       "properties": {
@@ -5766,8 +5846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5976895,
-          -6.9081074
+          107.5976849,
+          -6.9081059
         ]
       },
       "properties": {
@@ -5782,8 +5862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5976818,
-          -6.9080152
+          107.5976772,
+          -6.9080121
         ]
       },
       "properties": {
@@ -5814,12 +5894,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.597594,
-          -6.9072079
+          107.5975909,
+          -6.9072507
         ]
       },
       "properties": {
-        "id": "virtual_107.5976_-6.9072",
+        "id": "virtual_107.5976_-6.9073",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -5830,12 +5910,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975702,
-          -6.9070244
+          107.597581,
+          -6.9071682
         ]
       },
       "properties": {
-        "id": "virtual_107.5976_-6.9070",
+        "id": "virtual_107.5976_-6.9072",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -7948,7 +8028,7 @@
       },
       "properties": {
         "id": "virtual_107.5763_-6.9175",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -7964,7 +8044,7 @@
       },
       "properties": {
         "id": "virtual_107.5760_-6.9175",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -7980,7 +8060,7 @@
       },
       "properties": {
         "id": "virtual_107.5758_-6.9175",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -7996,7 +8076,7 @@
       },
       "properties": {
         "id": "virtual_107.5756_-6.9174",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8012,7 +8092,7 @@
       },
       "properties": {
         "id": "virtual_107.5755_-6.9174",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8028,7 +8108,7 @@
       },
       "properties": {
         "id": "virtual_107.5751_-6.9174",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8044,7 +8124,7 @@
       },
       "properties": {
         "id": "virtual_107.5750_-6.9174",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8060,7 +8140,7 @@
       },
       "properties": {
         "id": "virtual_107.5748_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8076,7 +8156,7 @@
       },
       "properties": {
         "id": "virtual_107.5747_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8092,7 +8172,7 @@
       },
       "properties": {
         "id": "virtual_107.5747_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8108,7 +8188,7 @@
       },
       "properties": {
         "id": "virtual_107.5746_-6.9173",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8236,7 +8316,7 @@
       },
       "properties": {
         "id": "virtual_107.5741_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8252,7 +8332,7 @@
       },
       "properties": {
         "id": "virtual_107.5740_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8268,7 +8348,7 @@
       },
       "properties": {
         "id": "virtual_107.5740_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8284,7 +8364,7 @@
       },
       "properties": {
         "id": "virtual_107.5739_-6.9172",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8300,7 +8380,7 @@
       },
       "properties": {
         "id": "virtual_107.5738_-6.9171",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8316,7 +8396,7 @@
       },
       "properties": {
         "id": "virtual_107.5736_-6.9170",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8332,7 +8412,7 @@
       },
       "properties": {
         "id": "virtual_107.5735_-6.9169",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8348,7 +8428,7 @@
       },
       "properties": {
         "id": "virtual_107.5732_-6.9166",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8364,7 +8444,7 @@
       },
       "properties": {
         "id": "virtual_107.5730_-6.9165",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8380,7 +8460,7 @@
       },
       "properties": {
         "id": "virtual_107.5726_-6.9161",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8396,7 +8476,7 @@
       },
       "properties": {
         "id": "virtual_107.5724_-6.9160",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8412,7 +8492,7 @@
       },
       "properties": {
         "id": "virtual_107.5723_-6.9159",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8428,7 +8508,7 @@
       },
       "properties": {
         "id": "virtual_107.5723_-6.9159",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8444,7 +8524,7 @@
       },
       "properties": {
         "id": "virtual_107.5722_-6.9158",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8460,7 +8540,7 @@
       },
       "properties": {
         "id": "virtual_107.5722_-6.9157",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8476,7 +8556,7 @@
       },
       "properties": {
         "id": "virtual_107.5721_-6.9156",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8492,7 +8572,7 @@
       },
       "properties": {
         "id": "virtual_107.5721_-6.9156",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8508,7 +8588,7 @@
       },
       "properties": {
         "id": "virtual_107.5719_-6.9153",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8524,7 +8604,7 @@
       },
       "properties": {
         "id": "virtual_107.5719_-6.9153",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8540,7 +8620,7 @@
       },
       "properties": {
         "id": "virtual_107.5718_-6.9151",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8556,7 +8636,7 @@
       },
       "properties": {
         "id": "virtual_107.5717_-6.9150",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }
@@ -8572,7 +8652,7 @@
       },
       "properties": {
         "id": "virtual_107.5715_-6.9147",
-        "name": "Jalan Jenderal Sudirman",
+        "name": "Jalan Jendral Sudirman",
         "role": "virtual",
         "mode": "bus"
       }

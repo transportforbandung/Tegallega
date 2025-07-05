@@ -5238,8 +5238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6088785,
-          -6.9103019
+          107.6088855,
+          -6.9102984
         ]
       },
       "properties": {
@@ -5270,8 +5270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6087817,
-          -6.9101077
+          107.6087639,
+          -6.910086
         ]
       },
       "properties": {
@@ -5302,8 +5302,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6092078,
-          -6.910294
+          107.609,
+          -6.9103037
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6090_-6.9103",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6091291,
+          -6.9103088
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6091_-6.9103",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092148,
+          -6.9103044
         ]
       },
       "properties": {

@@ -838,8 +838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5979724,
-          -6.9065929
+          107.5979786,
+          -6.9065883
         ]
       },
       "properties": {
@@ -854,12 +854,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5982086,
-          -6.9066577
+          107.5982101,
+          -6.9066424
         ]
       },
       "properties": {
-        "id": "virtual_107.5982_-6.9067",
+        "id": "virtual_107.5982_-6.9066",
         "name": "Jalan Pajajaran",
         "role": "virtual",
         "mode": "bus"
@@ -870,8 +870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5983319,
-          -6.9066735
+          107.5983334,
+          -6.9066643
         ]
       },
       "properties": {
@@ -886,8 +886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5988139,
-          -6.9067333
+          107.5987941,
+          -6.906746
         ]
       },
       "properties": {
@@ -902,24 +902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.598834,
-          -6.9067352
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.5988_-6.9067",
-        "name": "Jalan Pajajaran",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5992128,
-          -6.9067863
+          107.5992067,
+          -6.9068065
         ]
       },
       "properties": {
@@ -1158,12 +1142,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042739,
-          -6.9071474
+          107.6042719,
+          -6.9071615
         ]
       },
       "properties": {
-        "id": "virtual_107.6043_-6.9071",
+        "id": "virtual_107.6043_-6.9072",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6043341,
+          -6.9071602
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6043_-6.9072",
         "name": "Jalan Pajajaran",
         "role": "virtual",
         "mode": "bus"
@@ -2406,8 +2406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6088785,
-          -6.9103019
+          107.6088855,
+          -6.9102984
         ]
       },
       "properties": {
@@ -2438,8 +2438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6087817,
-          -6.9101077
+          107.6087639,
+          -6.910086
         ]
       },
       "properties": {
@@ -2470,8 +2470,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6092078,
-          -6.910294
+          107.609,
+          -6.9103037
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6090_-6.9103",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6091291,
+          -6.9103088
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6091_-6.9103",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092148,
+          -6.9103044
         ]
       },
       "properties": {

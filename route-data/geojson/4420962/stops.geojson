@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024135,
-          -6.9161558
+          107.6024001,
+          -6.9161478
         ]
       },
       "properties": {
-        "id": "virtual_107.6024_-6.9162",
+        "id": "virtual_107.6024_-6.9161",
         "name": "Jalan Suniaraja",
         "role": "virtual",
         "mode": "bus"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6025153,
-          -6.9161423
+          107.6025166,
+          -6.916137
         ]
       },
       "properties": {
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6027054,
-          -6.916124
+          107.6027081,
+          -6.91612
         ]
       },
       "properties": {
@@ -54,8 +54,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6031066,
-          -6.9160901
+          107.6031079,
+          -6.9160834
         ]
       },
       "properties": {
@@ -774,12 +774,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6046943,
-          -6.9127387
+          107.604692,
+          -6.9127619
         ]
       },
       "properties": {
-        "id": "virtual_107.6047_-6.9127",
+        "id": "virtual_107.6047_-6.9128",
         "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
@@ -934,8 +934,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6041134,
-          -6.9126882
+          107.6041426,
+          -6.9127091
         ]
       },
       "properties": {
@@ -950,8 +950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038068,
-          -6.9126542
+          107.6037823,
+          -6.9126588
         ]
       },
       "properties": {
@@ -966,8 +966,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6037423,
+          -6.9126555
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6037_-6.9127",
+        "name": "Jalan Kebon Kawung",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6036069,
-          -6.9126386
+          -6.9126444
         ]
       },
       "properties": {
@@ -982,8 +998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6032421,
-          -6.9126106
+          107.6032433,
+          -6.9126176
         ]
       },
       "properties": {
@@ -1078,8 +1094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6022827,
-          -6.9125558
+          107.6022742,
+          -6.9125566
         ]
       },
       "properties": {
@@ -1446,8 +1462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5978317,
-          -6.9099424
+          107.5978086,
+          -6.909947
         ]
       },
       "properties": {
@@ -1462,8 +1478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5978292,
-          -6.9098535
+          107.5978015,
+          -6.9098566
         ]
       },
       "properties": {
@@ -1478,8 +1494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5978012,
-          -6.909452
+          107.5977774,
+          -6.9094546
         ]
       },
       "properties": {
@@ -1494,12 +1510,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5977548,
-          -6.9089032
+          107.5977427,
+          -6.9089045
         ]
       },
       "properties": {
-        "id": "virtual_107.5978_-6.9089",
+        "id": "virtual_107.5977_-6.9089",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -1510,8 +1526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5976971,
-          -6.9081996
+          107.5976909,
+          -6.9082042
         ]
       },
       "properties": {
@@ -1526,8 +1542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5976895,
-          -6.9081074
+          107.5976849,
+          -6.9081059
         ]
       },
       "properties": {
@@ -1542,8 +1558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5976818,
-          -6.9080152
+          107.5976772,
+          -6.9080121
         ]
       },
       "properties": {
@@ -1574,12 +1590,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.597594,
-          -6.9072079
+          107.5975909,
+          -6.9072507
         ]
       },
       "properties": {
-        "id": "virtual_107.5976_-6.9072",
+        "id": "virtual_107.5976_-6.9073",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -1590,12 +1606,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975702,
-          -6.9070244
+          107.597581,
+          -6.9071682
         ]
       },
       "properties": {
-        "id": "virtual_107.5976_-6.9070",
+        "id": "virtual_107.5976_-6.9072",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -1831,7 +1847,7 @@
         "type": "Point",
         "coordinates": [
           107.5975537,
-          -6.9049318
+          -6.9049333
         ]
       },
       "properties": {
@@ -1846,12 +1862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.597551,
+          107.5975448,
           -6.904529
         ]
       },
       "properties": {
-        "id": "virtual_107.5976_-6.9045",
+        "id": "virtual_107.5975_-6.9045",
         "name": "Jalan HOS. Cokroaminoto",
         "role": "virtual",
         "mode": "bus"
@@ -1862,7 +1878,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975498,
+          107.5975406,
           -6.9043005
         ]
       },
@@ -1878,8 +1894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975482,
-          -6.9039909
+          107.5975343,
+          -6.9039924
         ]
       },
       "properties": {
@@ -1894,8 +1910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975316,
-          -6.9034975
+          107.5975116,
+          -6.9035067
         ]
       },
       "properties": {
@@ -1910,8 +1926,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975108,
-          -6.9033873
+          107.5974908,
+          -6.9034505
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5975_-6.9035",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5974789,
+          -6.9033926
         ]
       },
       "properties": {
@@ -1926,8 +1958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5974975,
-          -6.9033164
+          107.5974727,
+          -6.9033217
         ]
       },
       "properties": {
@@ -1942,8 +1974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5974754,
-          -6.9026854
+          107.5974521,
+          -6.9026867
         ]
       },
       "properties": {
@@ -1974,8 +2006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5974203,
-          -6.9017217
+          107.5974213,
+          -6.9017168
         ]
       },
       "properties": {
@@ -1990,23 +2022,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5974176,
-          -6.9016482
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.5974_-6.9016",
-        "name": "Jalan HOS. Cokroaminoto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.597413,
+          107.597414,
           -6.9015643
         ]
       },
@@ -2023,22 +2039,6 @@
         "type": "Point",
         "coordinates": [
           107.5974073,
-          -6.901439
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.5974_-6.9014",
-        "name": "Jalan HOS. Cokroaminoto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5974024,
           -6.9013528
         ]
       },
@@ -2134,7 +2134,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.597335,
+          107.597337,
           -6.9005593
         ]
       },
@@ -2150,8 +2150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973225,
-          -6.9005358
+          107.5973264,
+          -6.9005339
         ]
       },
       "properties": {
@@ -2166,7 +2166,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973055,
+          107.5973114,
           -6.9005063
         ]
       },
@@ -2182,8 +2182,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5972901,
-          -6.9004841
+          107.597294,
+          -6.9004822
         ]
       },
       "properties": {
@@ -2198,8 +2198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.597272,
-          -6.9004674
+          107.5972749,
+          -6.9004625
         ]
       },
       "properties": {
@@ -2214,12 +2214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5972465,
-          -6.9004455
+          107.5972583,
+          -6.9004445
         ]
       },
       "properties": {
-        "id": "virtual_107.5972_-6.9004",
+        "id": "virtual_107.5973_-6.9004",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -2230,8 +2230,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5972277,
-          -6.9004315
+          107.5972355,
+          -6.9004276
         ]
       },
       "properties": {
@@ -4246,8 +4246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5764933,
-          -6.8822343
+          107.576498,
+          -6.8822436
         ]
       },
       "properties": {
@@ -4262,8 +4262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5755803,
-          -6.8825133
+          107.5755756,
+          -6.88252
         ]
       },
       "properties": {

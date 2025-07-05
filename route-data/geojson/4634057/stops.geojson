@@ -2982,8 +2982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6418934,
-          -6.9443381
+          107.6418944,
+          -6.9443088
         ]
       },
       "properties": {
@@ -6246,6 +6246,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6290686,
+          -6.9133503
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6291_-6.9134",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6289845,
           -6.913192
         ]
@@ -9222,12 +9238,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6150582,
-          -6.8869095
+          107.6149493,
+          -6.8865743
         ]
       },
       "properties": {
-        "id": "virtual_107.6151_-6.8869",
+        "id": "virtual_107.6149_-6.8866",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6149671,
+          -6.8866267
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6150_-6.8866",
         "name": "Jalan Dipatiukur",
         "role": "virtual",
         "mode": "bus"
@@ -9254,12 +9286,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6151092,
+          -6.8870641
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6151_-6.8871",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6152406,
           -6.8874631
         ]
       },
       "properties": {
         "id": "virtual_107.6152_-6.8875",
+        "name": "Jalan Dipatiukur",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6152794,
+          -6.8875681
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6153_-6.8876",
         "name": "Jalan Dipatiukur",
         "role": "virtual",
         "mode": "bus"
@@ -9334,8 +9398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6137831,
-          -6.8852912
+          107.6137627,
+          -6.8852895
         ]
       },
       "properties": {
@@ -9350,8 +9414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6136854,
-          -6.8852776
+          107.613679,
+          -6.885277
         ]
       },
       "properties": {

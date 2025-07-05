@@ -1590,6 +1590,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6794622,
+          -6.9049915
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6795_-6.9050",
+        "name": "Jalan Abdul Haris Nasution",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6793999,
           -6.9049829
         ]
@@ -6598,6 +6614,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6290686,
+          -6.9133503
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6291_-6.9134",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6289845,
           -6.913192
         ]
@@ -6710,7 +6742,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6282733,
+          107.6282645,
           -6.9122224
         ]
       },
@@ -6726,8 +6758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6281737,
-          -6.9121136
+          107.6281542,
+          -6.9121048
         ]
       },
       "properties": {
@@ -7046,6 +7078,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6256861,
+          -6.9097089
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6257_-6.9097",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6253641,
           -6.9093848
         ]
@@ -7142,6 +7190,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6250154,
+          -6.9090547
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6250_-6.9091",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6249642,
           -6.9090084
         ]
@@ -7176,6 +7240,22 @@
         "coordinates": [
           107.6246431,
           -6.9087403
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6246_-6.9087",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624592,
+          -6.9086974
         ]
       },
       "properties": {
@@ -8822,8 +8902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612608,
-          -6.9002447
+          107.6125952,
+          -6.9002401
         ]
       },
       "properties": {
@@ -8950,8 +9030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612514,
-          -6.9002016
+          107.6125222,
+          -6.9002051
         ]
       },
       "properties": {
@@ -10486,8 +10566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6129531,
-          -6.8937553
+          107.6129903,
+          -6.8937658
         ]
       },
       "properties": {
@@ -10502,8 +10582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6129607,
-          -6.8936636
+          107.6129969,
+          -6.8936674
         ]
       },
       "properties": {
@@ -10518,12 +10598,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6129816,
-          -6.893449
+          107.6130155,
+          -6.8934536
         ]
       },
       "properties": {
-        "id": "virtual_107.6130_-6.8934",
+        "id": "virtual_107.6130_-6.8935",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"
@@ -10534,8 +10614,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6130148,
-          -6.8931321
+          107.6130379,
+          -6.8931344
         ]
       },
       "properties": {
@@ -10550,8 +10630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6130562,
-          -6.8926611
+          107.6130739,
+          -6.8926629
         ]
       },
       "properties": {
@@ -10566,8 +10646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6130864,
-          -6.8923918
+          107.6130997,
+          -6.8923927
         ]
       },
       "properties": {
@@ -10582,7 +10662,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6131472,
+          107.6131411,
           -6.8918412
         ]
       },
@@ -10598,7 +10678,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6131855,
+          107.6131662,
           -6.8914961
         ]
       },
@@ -10614,12 +10694,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6132746,
-          -6.8915039
+          107.6132329,
+          -6.8915009
         ]
       },
       "properties": {
-        "id": "virtual_107.6133_-6.8915",
+        "id": "virtual_107.6132_-6.8915",
         "name": "Teuku Umar",
         "role": "virtual",
         "mode": "bus"
