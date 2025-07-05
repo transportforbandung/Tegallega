@@ -39,7 +39,7 @@ jobs:
       - name: Check for route changes
         id: changes_check
         run: |
-          if git diff-index --quiet HEAD -- 'route-data/geojson'; then
+          if git diff --quiet 'route-data/geojson'; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
@@ -48,10 +48,11 @@ jobs:
       - name: Commit route changes
         if: ${{ steps.changes_check.outputs.has_changes == 'true' }}
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add route-data/geojson
           git commit -m "Automated update: Refreshed route data"
+          git pull --rebase
           git push
 
   generate-gtfs:
@@ -87,7 +88,6 @@ jobs:
           git lfs install
           git lfs track "gtfs/stop_times.txt"
           echo "gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text" >> .gitattributes
-          git add .gitattributes
 
       - name: Package GTFS feed
         run: |
@@ -98,9 +98,12 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@users.noreply.github.com"
-          git add gtfs otp-deploy/gtfs.zip
-          if ! git diff --cached --quiet; then
+          git add .gitattributes gtfs otp-deploy/gtfs.zip
+          if git diff --cached --quiet; then
+            echo "No GTFS changes to commit"
+          else
             git commit -m "Auto-generated GTFS feed and gtfs.zip"
+            git pull --rebase
             git push
           fi
 
@@ -113,6 +116,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          lfs: true
 
       - name: Set up Java
         uses: actions/setup-java@v3
@@ -126,19 +130,19 @@ jobs:
           curl -L https://github.com/opentripplanner/OpenTripPlanner/releases/download/v2.7.0/otp-shaded-2.7.0.jar -o otp/otp-shaded.jar
 
       - name: Build graph
-        run: java -Xmx4G -jar otp/otp-shaded.jar --build --save ./otp-data
+        run: |
+          java -Xmx4G -jar otp/otp-shaded.jar --build otp-data --save
+          mv otp-data/graph.obj otp-deploy/
 
       - name: Commit graph.obj
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ -f graph.obj ]]; then
-            mv graph.obj otp-deploy/
-            git add otp-deploy/graph.obj
-            if ! git diff --cached --quiet; then
-              git commit -m "Update graph.obj from OTP build"
-              git push
-            fi
+          git add otp-deploy/graph.obj
+          if git diff --cached --quiet; then
+            echo "No changes to graph.obj"
           else
-            echo "No graph.obj generated"
+            git commit -m "Update graph.obj from OTP build"
+            git pull --rebase
+            git push
           fi
