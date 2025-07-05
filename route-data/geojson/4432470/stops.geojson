@@ -22,12 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6632047,
-          -6.9451341
+          107.6633416,
+          -6.9439847
         ]
       },
       "properties": {
-        "id": "v_107.663205_-6.945134",
+        "id": "v_107.663342_-6.943985",
         "name": "Jalan Rancabolang",
         "role": "virtual",
         "mode": "bus"
@@ -38,44 +38,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6634816,
-          -6.943703
+          107.6636575,
+          -6.9416161
         ]
       },
       "properties": {
-        "id": "v_107.663482_-6.943703",
-        "name": "Jalan Rancabolang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6636072,
-          -6.9420781
-        ]
-      },
-      "properties": {
-        "id": "v_107.663607_-6.942078",
-        "name": "Jalan Rancabolang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6637681,
-          -6.9406529
-        ]
-      },
-      "properties": {
-        "id": "v_107.663768_-6.940653",
+        "id": "v_107.663657_-6.941616",
         "name": "Jalan Rancabolang",
         "role": "virtual",
         "mode": "bus"
@@ -94,22 +62,6 @@
         "id": "12806868626",
         "name": "Rancabolang",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6619105,
-          -6.9394464
-        ]
-      },
-      "properties": {
-        "id": "v_107.661911_-6.939446",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -182,22 +134,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6553771,
-          -6.9412355
-        ]
-      },
-      "properties": {
-        "id": "v_107.655377_-6.941236",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6529256,
           -6.9420012
         ]
@@ -222,38 +158,6 @@
         "id": "12806868637",
         "name": "Kantor Pos Sekejati",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6493065,
-          -6.9431604
-        ]
-      },
-      "properties": {
-        "id": "v_107.649306_-6.943160",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6478515,
-          -6.9436201
-        ]
-      },
-      "properties": {
-        "id": "v_107.647852_-6.943620",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -358,12 +262,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6423875,
-          -6.9366422
+          107.642469,
+          -6.9354704
         ]
       },
       "properties": {
-        "id": "v_107.642387_-6.936642",
+        "id": "v_107.642469_-6.935470",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "mode": "bus"
@@ -374,12 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6424964,
-          -6.9351047
+          107.6428453,
+          -6.9332036
         ]
       },
       "properties": {
-        "id": "v_107.642496_-6.935105",
+        "id": "v_107.642845_-6.933204",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "mode": "bus"
@@ -390,12 +294,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6427458,
-          -6.9336408
+          107.6437923,
+          -6.9310014
         ]
       },
       "properties": {
-        "id": "v_107.642746_-6.933641",
+        "id": "v_107.643792_-6.931001",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "mode": "bus"
@@ -406,60 +310,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6430775,
-          -6.9319479
+          107.6442602,
+          -6.9286941
         ]
       },
       "properties": {
-        "id": "v_107.643078_-6.931948",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.643874,
-          -6.930719
-        ]
-      },
-      "properties": {
-        "id": "v_107.643874_-6.930719",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6440269,
-          -6.9293584
-        ]
-      },
-      "properties": {
-        "id": "v_107.644027_-6.929358",
-        "name": "Jalan Layang Kiaracondong",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6443237,
-          -6.9277143
-        ]
-      },
-      "properties": {
-        "id": "v_107.644324_-6.927714",
+        "id": "v_107.644260_-6.928694",
         "name": "Jalan Layang Kiaracondong",
         "role": "virtual",
         "mode": "bus"
@@ -486,22 +342,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6444607,
-          -6.9248034
-        ]
-      },
-      "properties": {
-        "id": "v_107.644461_-6.924803",
-        "name": "Jalan Layang Kiaracondong",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6441456,
           -6.9194414
         ]
@@ -510,22 +350,6 @@
         "id": "12806853452",
         "name": "Daese Garmin",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6440177,
-          -6.9178882
-        ]
-      },
-      "properties": {
-        "id": "v_107.644018_-6.917888",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -558,22 +382,6 @@
         "id": "11735248700",
         "name": "Flyover Antapani",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.641333,
-          -6.91402
-        ]
-      },
-      "properties": {
-        "id": "v_107.641333_-6.914020",
-        "name": "Jalan Jakarta",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -630,22 +438,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6348698,
-          -6.9142738
-        ]
-      },
-      "properties": {
-        "id": "v_107.634870_-6.914274",
-        "name": "Jalan Layang Ahmad Yani - Supratman",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6340779,
           -6.9129877
         ]
@@ -653,22 +445,6 @@
       "properties": {
         "id": "v_107.634078_-6.912988",
         "name": "Jalan Layang Ahmad Yani - Supratman",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6331914,
-          -6.9117162
-        ]
-      },
-      "properties": {
-        "id": "v_107.633191_-6.911716",
-        "name": "Jalan Jakarta",
         "role": "virtual",
         "mode": "bus"
       }
@@ -918,22 +694,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6144094,
-          -6.9064746
-        ]
-      },
-      "properties": {
-        "id": "v_107.614409_-6.906475",
-        "name": "Jalan L.L. RE. Martadinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6119393,
           -6.9070669
         ]
@@ -1062,38 +822,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6073442,
-          -6.9076324
-        ]
-      },
-      "properties": {
-        "id": "v_107.607344_-6.907632",
-        "name": "Jalan Pajajaran",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6058415,
-          -6.9071486
-        ]
-      },
-      "properties": {
-        "id": "v_107.605841_-6.907149",
-        "name": "Jalan Pajajaran",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6044125,
           -6.9064803
         ]
@@ -1126,28 +854,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.602896,
-          -6.9032304
+          107.6024265,
+          -6.9024472
         ]
       },
       "properties": {
-        "id": "v_107.602896_-6.903230",
-        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6023472,
-          -6.9015634
-        ]
-      },
-      "properties": {
-        "id": "v_107.602347_-6.901563",
+        "id": "v_107.602427_-6.902447",
         "name": "Jalan Raden Adipati Aria Wiranatakusumah",
         "role": "virtual",
         "mode": "bus"
@@ -1174,28 +886,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5999891,
-          -6.9003576
+          107.5991415,
+          -6.9003667
         ]
       },
       "properties": {
-        "id": "v_107.599989_-6.900358",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5985681,
-          -6.9003769
-        ]
-      },
-      "properties": {
-        "id": "v_107.598568_-6.900377",
+        "id": "v_107.599142_-6.900367",
         "name": "Jalan Pasteur",
         "role": "virtual",
         "mode": "bus"
@@ -1254,28 +950,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5971398,
-          -6.8945401
+          107.5970769,
+          -6.893622
         ]
       },
       "properties": {
-        "id": "v_107.597140_-6.894540",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5970391,
-          -6.8930157
-        ]
-      },
-      "properties": {
-        "id": "v_107.597039_-6.893016",
+        "id": "v_107.597077_-6.893622",
         "name": "Jalan Sukajadi",
         "role": "virtual",
         "mode": "bus"
@@ -1302,22 +982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5969028,
-          -6.8899793
-        ]
-      },
-      "properties": {
-        "id": "v_107.596903_-6.889979",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.5967776,
           -6.8878725
         ]
@@ -1326,22 +990,6 @@
         "id": "1746711065",
         "name": "Polsek Sukajadi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5964324,
-          -6.88604
-        ]
-      },
-      "properties": {
-        "id": "v_107.596432_-6.886040",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -1366,28 +1014,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5964601,
-          -6.8821498
+          107.5964257,
+          -6.8813836
         ]
       },
       "properties": {
-        "id": "v_107.596460_-6.882150",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5963847,
-          -6.8806684
-        ]
-      },
-      "properties": {
-        "id": "v_107.596385_-6.880668",
+        "id": "v_107.596426_-6.881384",
         "name": "Jalan Sukajadi",
         "role": "virtual",
         "mode": "bus"
@@ -1446,12 +1078,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5948065,
-          -6.8727176
+          107.5940693,
+          -6.8717924
         ]
       },
       "properties": {
-        "id": "v_107.594807_-6.872718",
+        "id": "v_107.594069_-6.871792",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "mode": "bus"
@@ -1462,60 +1094,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.593895,
-          -6.8715029
+          107.593554,
+          -6.8694388
         ]
       },
       "properties": {
-        "id": "v_107.593895_-6.871503",
-        "name": "Jalan Dokter Danudirja Setiabudhi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.593506,
-          -6.8701005
-        ]
-      },
-      "properties": {
-        "id": "v_107.593506_-6.870101",
-        "name": "Jalan Dokter Danudirja Setiabudhi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5936323,
-          -6.8686837
-        ]
-      },
-      "properties": {
-        "id": "v_107.593632_-6.868684",
-        "name": "Jalan Dokter Danudirja Setiabudhi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5938847,
-          -6.8666866
-        ]
-      },
-      "properties": {
-        "id": "v_107.593885_-6.866687",
+        "id": "v_107.593554_-6.869439",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "mode": "bus"
@@ -1542,44 +1126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5943977,
-          -6.8638456
+          107.5955819,
+          -6.8632153
         ]
       },
       "properties": {
-        "id": "v_107.594398_-6.863846",
-        "name": "Jalan Dokter Setiabudi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5956823,
-          -6.8631776
-        ]
-      },
-      "properties": {
-        "id": "v_107.595682_-6.863178",
-        "name": "Jalan Dokter Setiabudi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5955484,
-          -6.8617416
-        ]
-      },
-      "properties": {
-        "id": "v_107.595548_-6.861742",
+        "id": "v_107.595582_-6.863215",
         "name": "Jalan Dokter Setiabudi",
         "role": "virtual",
         "mode": "bus"

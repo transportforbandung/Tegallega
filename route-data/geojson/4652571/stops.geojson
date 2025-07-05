@@ -54,22 +54,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6063778,
-          -6.922496
-        ]
-      },
-      "properties": {
-        "id": "v_107.606378_-6.922496",
-        "name": "Jalan Dewi Sartika",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6084422,
           -6.9226352
         ]
@@ -86,45 +70,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6098141,
-          -6.9227936
+          107.6107335,
+          -6.9229004
         ]
       },
       "properties": {
-        "id": "v_107.609814_-6.922794",
+        "id": "v_107.610733_-6.922900",
         "name": "Jalan Dalem Kaum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6113765,
-          -6.922975
-        ]
-      },
-      "properties": {
-        "id": "v_107.611377_-6.922975",
-        "name": "Jalan Dalem Kaum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.611699,
-          -6.9246866
-        ]
-      },
-      "properties": {
-        "id": "v_107.611699_-6.924687",
-        "name": "Jalan Lengkong Besar",
         "role": "virtual",
         "mode": "bus"
       }
@@ -150,12 +102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6134302,
-          -6.9273648
+          107.6144957,
+          -6.9278316
         ]
       },
       "properties": {
-        "id": "v_107.613430_-6.927365",
+        "id": "v_107.614496_-6.927832",
         "name": "Jalan Cikawao",
         "role": "virtual",
         "mode": "bus"
@@ -166,44 +118,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6151523,
-          -6.928135
+          107.6171591,
+          -6.9291037
         ]
       },
       "properties": {
-        "id": "v_107.615152_-6.928135",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6164635,
-          -6.9287163
-        ]
-      },
-      "properties": {
-        "id": "v_107.616463_-6.928716",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6170464,
-          -6.9299362
-        ]
-      },
-      "properties": {
-        "id": "v_107.617046_-6.929936",
+        "id": "v_107.617159_-6.929104",
         "name": "Jalan Sadakeling",
         "role": "virtual",
         "mode": "bus"
@@ -262,28 +182,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6219116,
-          -6.9328188
+          107.6228829,
+          -6.9335325
         ]
       },
       "properties": {
-        "id": "v_107.621912_-6.932819",
-        "name": "Jalan Kyai Haji Ahmad Dahlan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6232495,
-          -6.9338032
-        ]
-      },
-      "properties": {
-        "id": "v_107.623250_-6.933803",
+        "id": "v_107.622883_-6.933533",
         "name": "Jalan Kyai Haji Ahmad Dahlan",
         "role": "virtual",
         "mode": "bus"
@@ -326,12 +230,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6242435,
-          -6.9356055
+          107.6237206,
+          -6.9361054
         ]
       },
       "properties": {
-        "id": "v_107.624244_-6.935606",
+        "id": "v_107.623721_-6.936105",
         "name": "Jalan Pelajar Pejuang 45",
         "role": "virtual",
         "mode": "bus"
@@ -342,44 +246,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6231803,
-          -6.9366396
+          107.6243051,
+          -6.9385814
         ]
       },
       "properties": {
-        "id": "v_107.623180_-6.936640",
-        "name": "Jalan Pelajar Pejuang 45",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6239237,
-          -6.9381835
-        ]
-      },
-      "properties": {
-        "id": "v_107.623924_-6.938184",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6248837,
-          -6.9391749
-        ]
-      },
-      "properties": {
-        "id": "v_107.624884_-6.939175",
+        "id": "v_107.624305_-6.938581",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -398,22 +270,6 @@
         "id": "12808948214",
         "name": "Selontongan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6270904,
-          -6.9414742
-        ]
-      },
-      "properties": {
-        "id": "v_107.627090_-6.941474",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -454,28 +310,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6312283,
-          -6.9457923
+          107.6320775,
+          -6.9466684
         ]
       },
       "properties": {
-        "id": "v_107.631228_-6.945792",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6322352,
-          -6.9468242
-        ]
-      },
-      "properties": {
-        "id": "v_107.632235_-6.946824",
+        "id": "v_107.632077_-6.946668",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -510,22 +350,6 @@
         "id": "12626499694",
         "name": "Swadarma BNI",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6368785,
-          -6.9514617
-        ]
-      },
-      "properties": {
-        "id": "v_107.636878_-6.951462",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -582,28 +406,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6392201,
-          -6.9597843
+          107.6390142,
+          -6.9607769
         ]
       },
       "properties": {
-        "id": "v_107.639220_-6.959784",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6387229,
-          -6.9618482
-        ]
-      },
-      "properties": {
-        "id": "v_107.638723_-6.961848",
+        "id": "v_107.639014_-6.960777",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"

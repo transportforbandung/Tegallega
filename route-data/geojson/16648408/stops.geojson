@@ -22,22 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5766744,
-          -6.9134545
-        ]
-      },
-      "properties": {
-        "id": "v_107.576674_-6.913455",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.5781901,
           -6.9137773
         ]
@@ -46,38 +30,6 @@
         "id": "11735239264",
         "name": "Rajawali 1",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5797157,
-          -6.9141156
-        ]
-      },
-      "properties": {
-        "id": "v_107.579716_-6.914116",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5811424,
-          -6.9144359
-        ]
-      },
-      "properties": {
-        "id": "v_107.581142_-6.914436",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -118,44 +70,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5869745,
-          -6.9161187
+          107.5875979,
+          -6.9161866
         ]
       },
       "properties": {
-        "id": "v_107.586974_-6.916119",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5884105,
-          -6.9162695
-        ]
-      },
-      "properties": {
-        "id": "v_107.588410_-6.916270",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5900726,
-          -6.9164713
-        ]
-      },
-      "properties": {
-        "id": "v_107.590073_-6.916471",
+        "id": "v_107.587598_-6.916187",
         "name": "Jalan Rajawali Timur",
         "role": "virtual",
         "mode": "bus"
@@ -182,12 +102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5933422,
-          -6.9165018
+          107.5942457,
+          -6.9164499
         ]
       },
       "properties": {
-        "id": "v_107.593342_-6.916502",
+        "id": "v_107.594246_-6.916450",
         "name": "Jalan Kebon Jati",
         "role": "virtual",
         "mode": "bus"
@@ -278,28 +198,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042904,
-          -6.9182779
+          107.6042559,
+          -6.9187767
         ]
       },
       "properties": {
-        "id": "v_107.604290_-6.918278",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6041935,
-          -6.9196695
-        ]
-      },
-      "properties": {
-        "id": "v_107.604193_-6.919670",
+        "id": "v_107.604256_-6.918777",
         "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
@@ -342,12 +246,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038504,
-          -6.9245193
+          107.6037853,
+          -6.9255254
         ]
       },
       "properties": {
-        "id": "v_107.603850_-6.924519",
+        "id": "v_107.603785_-6.925525",
         "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
@@ -374,22 +278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6035279,
-          -6.9295503
-        ]
-      },
-      "properties": {
-        "id": "v_107.603528_-6.929550",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6039218,
           -6.9314959
         ]
@@ -398,38 +286,6 @@
         "id": "11739021642",
         "name": "Jalan Ibu Inggit Garnasih",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6054273,
-          -6.9316877
-        ]
-      },
-      "properties": {
-        "id": "v_107.605427_-6.931688",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6055781,
-          -6.930239
-        ]
-      },
-      "properties": {
-        "id": "v_107.605578_-6.930239",
-        "name": "Jalan Dewi Sartika",
-        "role": "virtual",
         "mode": "bus"
       }
     },

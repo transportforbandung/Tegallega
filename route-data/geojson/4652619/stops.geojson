@@ -38,44 +38,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6383128,
-          -6.963242
+          107.6385351,
+          -6.9621689
         ]
       },
       "properties": {
-        "id": "v_107.638313_-6.963242",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6386544,
-          -6.96173
-        ]
-      },
-      "properties": {
-        "id": "v_107.638654_-6.961730",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6390287,
-          -6.9602311
-        ]
-      },
-      "properties": {
-        "id": "v_107.639029_-6.960231",
+        "id": "v_107.638535_-6.962169",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -102,22 +70,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6392458,
-          -6.956081
-        ]
-      },
-      "properties": {
-        "id": "v_107.639246_-6.956081",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.638933,
           -6.9541863
         ]
@@ -126,22 +78,6 @@
         "id": "35138340",
         "name": "Pasar Kordon A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6380692,
-          -6.9528378
-        ]
-      },
-      "properties": {
-        "id": "v_107.638069_-6.952838",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -166,44 +102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6355108,
-          -6.9502109
+          107.634757,
+          -6.9494368
         ]
       },
       "properties": {
-        "id": "v_107.635511_-6.950211",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6343379,
-          -6.9490065
-        ]
-      },
-      "properties": {
-        "id": "v_107.634338_-6.949007",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6332967,
-          -6.9479888
-        ]
-      },
-      "properties": {
-        "id": "v_107.633297_-6.947989",
+        "id": "v_107.634757_-6.949437",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -230,28 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6308527,
-          -6.9454952
+          107.6299147,
+          -6.9445213
         ]
       },
       "properties": {
-        "id": "v_107.630853_-6.945495",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6290045,
-          -6.9435762
-        ]
-      },
-      "properties": {
-        "id": "v_107.629004_-6.943576",
+        "id": "v_107.629915_-6.944521",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -278,22 +166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6270043,
-          -6.9414824
-        ]
-      },
-      "properties": {
-        "id": "v_107.627004_-6.941482",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6256577,
           -6.9400594
         ]
@@ -310,12 +182,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6241963,
-          -6.938526
+          107.6240828,
+          -6.9384102
         ]
       },
       "properties": {
-        "id": "v_107.624196_-6.938526",
+        "id": "v_107.624083_-6.938410",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -326,28 +198,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6230889,
-          -6.9373646
+          107.6225387,
+          -6.9367463
         ]
       },
       "properties": {
-        "id": "v_107.623089_-6.937365",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6219887,
-          -6.9361965
-        ]
-      },
-      "properties": {
-        "id": "v_107.621989_-6.936197",
+        "id": "v_107.622539_-6.936746",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -374,28 +230,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6194953,
-          -6.9335548
+          107.6191727,
+          -6.9332024
         ]
       },
       "properties": {
-        "id": "v_107.619495_-6.933555",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6183506,
-          -6.9323042
-        ]
-      },
-      "properties": {
-        "id": "v_107.618351_-6.932304",
+        "id": "v_107.619173_-6.933202",
         "name": "Jalan Buah Batu",
         "role": "virtual",
         "mode": "bus"
@@ -438,44 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6164323,
-          -6.9288073
-        ]
-      },
-      "properties": {
-        "id": "v_107.616432_-6.928807",
-        "name": "Jalan Karapitan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6151523,
           -6.928135
         ]
       },
       "properties": {
         "id": "v_107.615152_-6.928135",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6138049,
-          -6.9275287
-        ]
-      },
-      "properties": {
-        "id": "v_107.613805_-6.927529",
         "name": "Jalan Cikawao",
         "role": "virtual",
         "mode": "bus"
@@ -518,28 +326,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6121586,
-          -6.9316762
+          107.6115743,
+          -6.9323207
         ]
       },
       "properties": {
-        "id": "v_107.612159_-6.931676",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6106978,
-          -6.9323912
-        ]
-      },
-      "properties": {
-        "id": "v_107.610698_-6.932391",
+        "id": "v_107.611574_-6.932321",
         "name": "Jalan Ibu Inggit Ganarsih",
         "role": "virtual",
         "mode": "bus"
@@ -566,45 +358,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6067023,
-          -6.9318619
+          107.6060299,
+          -6.931773
         ]
       },
       "properties": {
-        "id": "v_107.606702_-6.931862",
+        "id": "v_107.606030_-6.931773",
         "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6055016,
-          -6.9311384
-        ]
-      },
-      "properties": {
-        "id": "v_107.605502_-6.931138",
-        "name": "Jalan Dewi Sartika",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.605655,
-          -6.9290349
-        ]
-      },
-      "properties": {
-        "id": "v_107.605655_-6.929035",
-        "name": "Jalan Dewi Sartika",
         "role": "virtual",
         "mode": "bus"
       }

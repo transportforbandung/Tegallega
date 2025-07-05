@@ -38,44 +38,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6226842,
-          -6.9573235
+          107.6228629,
+          -6.958171
         ]
       },
       "properties": {
-        "id": "v_107.622684_-6.957324",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6229895,
-          -6.958689
-        ]
-      },
-      "properties": {
-        "id": "v_107.622990_-6.958689",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6230051,
-          -6.9601519
-        ]
-      },
-      "properties": {
-        "id": "v_107.623005_-6.960152",
+        "id": "v_107.622863_-6.958171",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"
@@ -102,60 +70,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6224015,
-          -6.9558653
+          107.6215728,
+          -6.9520553
         ]
       },
       "properties": {
-        "id": "v_107.622401_-6.955865",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6221272,
-          -6.9539556
-        ]
-      },
-      "properties": {
-        "id": "v_107.622127_-6.953956",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6216278,
-          -6.9526653
-        ]
-      },
-      "properties": {
-        "id": "v_107.621628_-6.952665",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6216217,
-          -6.9511554
-        ]
-      },
-      "properties": {
-        "id": "v_107.621622_-6.951155",
+        "id": "v_107.621573_-6.952055",
         "name": "Jalan terdekat",
         "role": "virtual",
         "mode": "bus"

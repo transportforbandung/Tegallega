@@ -38,28 +38,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6035279,
-          -6.9295503
+          107.6034762,
+          -6.930325
         ]
       },
       "properties": {
-        "id": "v_107.603528_-6.929550",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.603397,
-          -6.9314278
-        ]
-      },
-      "properties": {
-        "id": "v_107.603397_-6.931428",
+        "id": "v_107.603476_-6.930325",
         "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "mode": "bus"
@@ -86,45 +70,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.603219,
-          -6.9353262
+          107.6031624,
+          -6.9363928
         ]
       },
       "properties": {
-        "id": "v_107.603219_-6.935326",
+        "id": "v_107.603162_-6.936393",
         "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6031322,
-          -6.9367751
-        ]
-      },
-      "properties": {
-        "id": "v_107.603132_-6.936775",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.601703,
-          -6.9372304
-        ]
-      },
-      "properties": {
-        "id": "v_107.601703_-6.937230",
-        "name": "Jalan Peta",
         "role": "virtual",
         "mode": "bus"
       }
@@ -150,29 +102,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5984434,
-          -6.9377562
+          107.5975831,
+          -6.9378255
         ]
       },
       "properties": {
-        "id": "v_107.598443_-6.937756",
+        "id": "v_107.597583_-6.937825",
         "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5969723,
-          -6.9383546
-        ]
-      },
-      "properties": {
-        "id": "v_107.596972_-6.938355",
-        "name": "Jalan Leuwi Panjang",
         "role": "virtual",
         "mode": "bus"
       }
@@ -198,28 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5964954,
-          -6.9414186
+          107.5961146,
+          -6.942194
         ]
       },
       "properties": {
-        "id": "v_107.596495_-6.941419",
-        "name": "Jalan Leuwi Panjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.595975,
-          -6.942858
-        ]
-      },
-      "properties": {
-        "id": "v_107.595975_-6.942858",
+        "id": "v_107.596115_-6.942194",
         "name": "Jalan Leuwi Panjang",
         "role": "virtual",
         "mode": "bus"
@@ -246,12 +166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5953773,
-          -6.945973
+          107.5952938,
+          -6.9469212
         ]
       },
       "properties": {
-        "id": "v_107.595377_-6.945973",
+        "id": "v_107.595294_-6.946921",
         "name": "Jalan Leuwi Panjang",
         "role": "virtual",
         "mode": "bus"
@@ -262,28 +182,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5952613,
-          -6.9473935
+          107.594111,
+          -6.9491645
         ]
       },
       "properties": {
-        "id": "v_107.595261_-6.947394",
-        "name": "Jalan Leuwi Panjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5943671,
-          -6.9484982
-        ]
-      },
-      "properties": {
-        "id": "v_107.594367_-6.948498",
+        "id": "v_107.594111_-6.949165",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -294,12 +198,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5939029,
-          -6.9498072
+          107.5935268,
+          -6.9517653
         ]
       },
       "properties": {
-        "id": "v_107.593903_-6.949807",
+        "id": "v_107.593527_-6.951765",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -310,12 +214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.593606,
-          -6.9512253
+          107.5932996,
+          -6.9541793
         ]
       },
       "properties": {
-        "id": "v_107.593606_-6.951225",
+        "id": "v_107.593300_-6.954179",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -326,60 +230,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5933754,
-          -6.9525559
+          107.5931279,
+          -6.9564338
         ]
       },
       "properties": {
-        "id": "v_107.593375_-6.952556",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5932949,
-          -6.9539843
-        ]
-      },
-      "properties": {
-        "id": "v_107.593295_-6.953984",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5934458,
-          -6.9553814
-        ]
-      },
-      "properties": {
-        "id": "v_107.593446_-6.955381",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5930924,
-          -6.9567466
-        ]
-      },
-      "properties": {
-        "id": "v_107.593092_-6.956747",
+        "id": "v_107.593128_-6.956434",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"

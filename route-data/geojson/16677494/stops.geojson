@@ -22,28 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5937705,
-          -6.950365
+          107.5936724,
+          -6.9508306
         ]
       },
       "properties": {
-        "id": "v_107.593771_-6.950365",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5935268,
-          -6.9517653
-        ]
-      },
-      "properties": {
-        "id": "v_107.593527_-6.951765",
+        "id": "v_107.593672_-6.950831",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -70,12 +54,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5933935,
-          -6.9546193
+          107.5933754,
+          -6.9556357
         ]
       },
       "properties": {
-        "id": "v_107.593394_-6.954619",
+        "id": "v_107.593375_-6.955636",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -86,60 +70,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5932482,
-          -6.9560037
+          107.5932071,
+          -6.9579567
         ]
       },
       "properties": {
-        "id": "v_107.593248_-6.956004",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5931829,
-          -6.9574289
-        ]
-      },
-      "properties": {
-        "id": "v_107.593183_-6.957429",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5934817,
-          -6.9587587
-        ]
-      },
-      "properties": {
-        "id": "v_107.593482_-6.958759",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5935846,
-          -6.9601313
-        ]
-      },
-      "properties": {
-        "id": "v_107.593585_-6.960131",
+        "id": "v_107.593207_-6.957957",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
         "mode": "bus"
@@ -182,22 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5952669,
-          -6.9462117
-        ]
-      },
-      "properties": {
-        "id": "v_107.595267_-6.946212",
-        "name": "Jalan Leuwi Panjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.5930651,
           -6.9449801
         ]
@@ -214,12 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5921208,
-          -6.9439946
+          107.5910845,
+          -6.9435862
         ]
       },
       "properties": {
-        "id": "v_107.592121_-6.943995",
+        "id": "v_107.591084_-6.943586",
         "name": "Jalan Keluar Terminal Leuwipanjang",
         "role": "virtual",
         "mode": "bus"
@@ -230,44 +150,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5916513,
-          -6.9425217
+          107.5922389,
+          -6.9415903
         ]
       },
       "properties": {
-        "id": "v_107.591651_-6.942522",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5924641,
-          -6.9412448
-        ]
-      },
-      "properties": {
-        "id": "v_107.592464_-6.941245",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5932148,
-          -6.9400962
-        ]
-      },
-      "properties": {
-        "id": "v_107.593215_-6.940096",
+        "id": "v_107.592239_-6.941590",
         "name": "Jalan Kyai Haji Wahid Hasyim",
         "role": "virtual",
         "mode": "bus"
@@ -326,22 +214,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5919994,
-          -6.9351204
-        ]
-      },
-      "properties": {
-        "id": "v_107.591999_-6.935120",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.5905268,
           -6.933574
         ]
@@ -358,28 +230,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5892057,
-          -6.9318954
+          107.5887036,
+          -6.9312262
         ]
       },
       "properties": {
-        "id": "v_107.589206_-6.931895",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5882717,
-          -6.9306532
-        ]
-      },
-      "properties": {
-        "id": "v_107.588272_-6.930653",
+        "id": "v_107.588704_-6.931226",
         "name": "Jalan Peta",
         "role": "virtual",
         "mode": "bus"
@@ -406,54 +262,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5880867,
-          -6.9302251
-        ]
-      },
-      "properties": {
-        "id": "v_107.588087_-6.930225",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5892718,
-          -6.9317765
-        ]
-      },
-      "properties": {
-        "id": "v_107.589272_-6.931776",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5918144,
-          -6.9348252
-        ]
-      },
-      "properties": {
-        "id": "v_107.591814_-6.934825",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.5956524,
           -6.9372267
         ]
@@ -470,44 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5970266,
-          -6.9376757
+          107.5980158,
+          -6.9377065
         ]
       },
       "properties": {
-        "id": "v_107.597027_-6.937676",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5984843,
-          -6.937651
-        ]
-      },
-      "properties": {
-        "id": "v_107.598484_-6.937651",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6001982,
-          -6.9373255
-        ]
-      },
-      "properties": {
-        "id": "v_107.600198_-6.937326",
+        "id": "v_107.598016_-6.937706",
         "name": "Jalan Peta",
         "role": "virtual",
         "mode": "bus"
@@ -566,28 +342,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6064216,
-          -6.9346941
+          107.6064644,
+          -6.934149
         ]
       },
       "properties": {
-        "id": "v_107.606422_-6.934694",
-        "name": "Jalan Mohammad Toha",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6065192,
-          -6.9332778
-        ]
-      },
-      "properties": {
-        "id": "v_107.606519_-6.933278",
+        "id": "v_107.606464_-6.934149",
         "name": "Jalan Mohammad Toha",
         "role": "virtual",
         "mode": "bus"
@@ -605,38 +365,6 @@
       "properties": {
         "id": "v_107.606628_-6.931852",
         "name": "Jalan Mohammad Toha",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6055192,
-          -6.9309578
-        ]
-      },
-      "properties": {
-        "id": "v_107.605519_-6.930958",
-        "name": "Jalan Dewi Sartika",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.605655,
-          -6.9290349
-        ]
-      },
-      "properties": {
-        "id": "v_107.605655_-6.929035",
-        "name": "Jalan Dewi Sartika",
         "role": "virtual",
         "mode": "bus"
       }
