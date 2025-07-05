@@ -301,8 +301,8 @@ async function processAngkotStops(relation, fullCoords) {
     ...virtualStops
   ].sort((a, b) => a.fractionalIndex - b.fractionalIndex);
 
-  // 5a. Remove virtual stops within 150m of real stops
-  const bufferDistance = 150; // meters
+  // 5a. Remove virtual stops within 250m of real stops
+  const bufferDistance = 250; // meters
   const stopsAfterRealBuffer = [];
   const realStopCoords = new Set(
     projectedRealStops.map(s => s.coordinate.join(','))
@@ -327,7 +327,7 @@ async function processAngkotStops(relation, fullCoords) {
     }
   }
 
-  // 5b. Ensure minimum 150m spacing between virtual stops
+  // 5b. Ensure minimum 250m spacing between virtual stops
   const finalStops = [];
   let lastStop = null;
 
