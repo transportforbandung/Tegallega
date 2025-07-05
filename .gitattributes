@@ -5,3 +5,4 @@ otp-data/gtfs.zip filter=lfs diff=lfs merge=lfs -text
 gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
 gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
 gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
+gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
