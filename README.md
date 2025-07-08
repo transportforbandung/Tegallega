@@ -7,4 +7,6 @@ The ETL data pipeline for Transport for Bandung's Linraya transit web app. It ex
 * Using OTP and OSM's road data, OTP builds a routable graph.obj for deployment into OTP server.
 
 ## Build and test graph
-'java -Xmx4G -jar otp-shaded-2.7.0.jar --build --serve .'
+```
+java -Xmx4G -jar otp-shaded-2.7.0.jar --build --serve .
+```
