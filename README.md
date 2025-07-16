@@ -4,7 +4,7 @@ The ETL data pipeline for Transport for Bandung's Linraya transit web app. It ex
 ## Workflow
 * Extract public transport network's GeoJSON data from OpenStreetMap
 * Transform it into GTFS, using additional information (timetable, number of trips, etc.) from Transport for Bandung
-* Using OTP and OSM's road data, OTP builds a routable graph.obj for deployment into OTP server.
+* Using GTFS and OSM's road data, OTP builds a routable graph.obj for deployment into OTP server.
 
 ## Build and test graph
 ```
