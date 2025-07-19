@@ -345,28 +345,34 @@ async function processAngkotStops(relation, fullCoords) {
     const projection = projectPointToLineString(stop.geometry.coordinates, fullCoords);
     return {
       ...stop,
-      fractionalIndex: projection.fractionalIndex,
-      distance: projection.distance
+      _projection: projection // Store projection data separately
     };
-  }).sort((a, b) => a.fractionalIndex - b.fractionalIndex);
+  }).sort((a, b) => a._projection.fractionalIndex - b._projection.fractionalIndex);
 
   // Final cleanup - ensure no stops are too close together
   const finalStops = [];
   let lastStop = null;
   
   for (const stop of projectedStops) {
-    if (!lastStop || 
-        haversineDistance(lastStop.geometry.coordinates, stop.geometry.coordinates) >= MIN_DISTANCE * 1000 ||
-        stop.properties.isReal) {
-      finalStops.push(stop);
+    const shouldAdd = !lastStop || 
+      haversineDistance(
+        lastStop.geometry.coordinates, 
+        stop.geometry.coordinates
+      ) >= MIN_DISTANCE * 1000 ||
+      stop.properties.isReal;
+    
+    if (shouldAdd) {
+      // Create clean stop object without projection data
+      finalStops.push({
+        type: 'Feature',
+        geometry: stop.geometry,
+        properties: stop.properties
+      });
       lastStop = stop;
     }
   }
 
-  return {
-    type: 'FeatureCollection',
-    features: finalStops
-  };
+  return finalStops;
 }
 
 // Main route processing function
@@ -375,61 +381,66 @@ async function processRoute(route) {
   const dir = path.join(__dirname, '..', 'route-data', 'geojson', relationId);
 
   try {
+    // Create output directory
     await mkdirp(dir);
-    console.log(`Processing route ${relationId}...`);
+    console.log(`Processing route ${relationId} (${mode})...`);
 
+    // Fetch relation data from Overpass
     const relation = await getRelationDetails(relationId);
     const ways = await getOrderedWays(relation);
-    const fullCoords = stitchWays(ways);
     
-    const wayFeature = {
-      type: 'Feature',
-      geometry: {
-        type: 'LineString',
-        coordinates: fullCoords
-      },
-      properties: {
-        id: ways[0]?.id
-      }
-    };
+    if (ways.length === 0) {
+      throw new Error(`No ways found for relation ${relationId}`);
+    }
 
+    // Process route geometry
+    const fullCoords = stitchWays(ways);
     const waysGeoJSON = {
       type: 'FeatureCollection',
-      features: [wayFeature]
+      features: [{
+        type: 'Feature',
+        geometry: {
+          type: 'LineString',
+          coordinates: fullCoords
+        },
+        properties: {
+          id: ways[0]?.id,
+          relationId: relationId.toString()
+        }
+      }]
     };
 
+    // Write ways file
     fs.writeFileSync(
       path.join(dir, 'ways.geojson'),
       JSON.stringify(waysGeoJSON, null, 2)
     );
 
+    // Process stops based on route type
     let stopsGeoJSON;
-
     if (mode === 'angkot') {
       console.log(`Processing angkot route ${relationId} with real + virtual stops`);
       
-      const finalStops = await processAngkotStops(relation, fullCoords);
+      const stops = await processAngkotStops(relation, fullCoords);
       
       stopsGeoJSON = {
         type: 'FeatureCollection',
-        features: finalStops.map(stop => ({
+        features: stops.map(stop => ({
           type: 'Feature',
-          geometry: {
-            type: 'Point',
-            coordinates: stop.coordinate
-          },
+          geometry: stop.geometry,
           properties: {
-            id: stop.isReal 
-                 ? stop.id.toString() 
-                 : `v_${stop.coordinate[0].toFixed(6)}_${stop.coordinate[1].toFixed(6)}`,
-            name: stop.name,
-            role: stop.isReal ? stop.role : 'virtual',
+            id: stop.properties.id,
+            name: stop.properties.name,
+            role: stop.properties.role,
+            isReal: stop.properties.isReal,
             mode: 'bus'
           }
         }))
       };
     } else {
+      // For non-angkot routes (trains, etc.)
       const stopNodes = await getOrderedStops(relation);
+      
       stopsGeoJSON = {
         type: 'FeatureCollection',
         features: stopNodes.map(node => ({
@@ -439,7 +450,8 @@ async function processRoute(route) {
             coordinates: [node.lon, node.lat]
           },
           properties: {
-            id: node.id,
+            id: node.id.toString(),
+            name: node.tags?.name || 'Unknown',
             role: node.role,
             ...node.tags
           }
@@ -447,14 +459,16 @@ async function processRoute(route) {
       };
     }
 
+    // Write stops file
     fs.writeFileSync(
       path.join(dir, 'stops.geojson'),
       JSON.stringify(stopsGeoJSON, null, 2)
     );
 
     console.log(`Successfully processed route ${relationId}`);
+    return true;
   } catch (error) {
-    console.error(`Failed to process route ${relationId}:`, error.message);
+    console.error(`Error processing route ${relationId}:`, error.message);
     throw error;
   }
 }
