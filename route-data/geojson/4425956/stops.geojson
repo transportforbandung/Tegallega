@@ -550,6 +550,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.626856,
+          -6.9412299
+        ]
+      },
+      "properties": {
+        "id": "12986852693",
+        "name": "Griya Buah Batu",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6282283,
           -6.9426596
         ]
@@ -918,12 +934,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.682184,
-          -6.9646421
+          107.6821746,
+          -6.9646581
         ]
       },
       "properties": {
-        "id": "v_107.682184_-6.964642",
+        "id": "v_107.682175_-6.964658",
         "name": "Jalan Derwati",
         "role": "virtual",
         "mode": "bus"

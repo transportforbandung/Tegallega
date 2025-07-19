@@ -278,6 +278,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.626856,
+          -6.9412299
+        ]
+      },
+      "properties": {
+        "id": "12986852693",
+        "name": "Griya Buah Batu",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6282283,
           -6.9426596
         ]

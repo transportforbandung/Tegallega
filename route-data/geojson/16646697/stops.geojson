@@ -23,7 +23,7 @@
         "type": "Point",
         "coordinates": [
           107.6832053,
-          -6.9648031
+          -6.9648151
         ]
       },
       "properties": {
@@ -118,12 +118,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6690383,
-          -6.961653
+          107.6670034,
+          -6.9612891
         ]
       },
       "properties": {
-        "id": "v_107.669038_-6.961653",
+        "id": "v_107.667003_-6.961289",
+        "name": "Jalan Marga Cinta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6693046,
+          -6.9616978
+        ]
+      },
+      "properties": {
+        "id": "v_107.669305_-6.961698",
         "name": "Jalan Marga Cinta",
         "role": "virtual",
         "mode": "bus"
@@ -150,14 +166,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6664238,
-          -6.9611563
+          107.6658266,
+          -6.961004
         ]
       },
       "properties": {
-        "id": "2258306743",
-        "name": "Pasar Ciwastra",
-        "role": "stop",
+        "id": "v_107.665827_-6.961004",
+        "name": "Jalan Marga Cinta",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -557,6 +573,22 @@
       "properties": {
         "id": "1980677053",
         "name": "ISBI Bandung",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6266613,
+          -6.9411196
+        ]
+      },
+      "properties": {
+        "id": "12986852694",
+        "name": "Seberang Griya Buah Batu",
         "role": "stop",
         "mode": "bus"
       }

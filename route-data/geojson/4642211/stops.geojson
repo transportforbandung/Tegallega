@@ -246,14 +246,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6268326,
-          -6.9019273
+          107.6248367,
+          -6.9017565
         ]
       },
       "properties": {
-        "id": "v_107.626833_-6.901927",
-        "name": "Jalan Supratman",
-        "role": "virtual",
+        "id": "12984617475",
+        "name": "Tugu PKK Citarum",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -262,14 +262,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6241445,
-          -6.9026263
+          107.6225407,
+          -6.9045542
         ]
       },
       "properties": {
-        "id": "v_107.624144_-6.902626",
-        "name": "Jalan Citarum",
-        "role": "virtual",
+        "id": "12984617474",
+        "name": "Seberang SMAN 20 Bandung",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -278,28 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.622561,
-          -6.9045292
+          107.6211584,
+          -6.9063753
         ]
       },
       "properties": {
-        "id": "v_107.622561_-6.904529",
-        "name": "Jalan Citarum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6211731,
-          -6.9063395
-        ]
-      },
-      "properties": {
-        "id": "v_107.621173_-6.906339",
+        "id": "v_107.621158_-6.906375",
         "name": "Jalan Lombok",
         "role": "virtual",
         "mode": "bus"
@@ -310,12 +294,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6194288,
-          -6.9077763
+          107.6190132,
+          -6.9087672
         ]
       },
       "properties": {
-        "id": "v_107.619429_-6.907776",
+        "id": "v_107.619013_-6.908767",
         "name": "Jalan Lombok",
         "role": "virtual",
         "mode": "bus"

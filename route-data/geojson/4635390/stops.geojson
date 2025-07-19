@@ -588,7 +588,7 @@
       },
       "properties": {
         "id": "3248882519",
-        "name": "Turangga",
+        "name": "Grha Wiksa Praniti",
         "role": "stop",
         "mode": "bus"
       }
@@ -598,12 +598,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6352415,
-          -6.9305405
+          107.6352273,
+          -6.9305365
         ]
       },
       "properties": {
-        "id": "v_107.635242_-6.930541",
+        "id": "v_107.635227_-6.930536",
         "name": "Jalan Turangga",
         "role": "virtual",
         "mode": "bus"
@@ -614,13 +614,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6339321,
-          -6.9342955
+          107.6337591,
+          -6.93438
         ]
       },
       "properties": {
         "id": "3376171452",
-        "name": "Turangga",
+        "name": "Simpang Turangga Martanegara",
         "role": "stop",
         "mode": "bus"
       }
@@ -646,12 +646,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6290522,
-          -6.9335308
+          107.6290573,
+          -6.933508
         ]
       },
       "properties": {
-        "id": "v_107.629052_-6.933531",
+        "id": "v_107.629057_-6.933508",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
         "mode": "bus"

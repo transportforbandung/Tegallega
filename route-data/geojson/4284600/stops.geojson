@@ -278,14 +278,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6235062,
-          -6.9033792
+          107.6248367,
+          -6.9017565
         ]
       },
       "properties": {
-        "id": "v_107.623506_-6.903379",
-        "name": "Jalan Citarum",
-        "role": "virtual",
+        "id": "12984617475",
+        "name": "Tugu PKK Citarum",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6225407,
+          -6.9045542
+        ]
+      },
+      "properties": {
+        "id": "12984617474",
+        "name": "Seberang SMAN 20 Bandung",
+        "role": "stop",
         "mode": "bus"
       }
     },

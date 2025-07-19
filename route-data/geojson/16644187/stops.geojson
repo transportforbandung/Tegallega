@@ -518,14 +518,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6230578,
-          -6.928673
+          107.622579,
+          -6.9304538
         ]
       },
       "properties": {
-        "id": "v_107.623058_-6.928673",
-        "name": "Jalan Palasari",
-        "role": "virtual",
+        "id": "2607816747",
+        "name": "Simpang Pasar Palasari",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6231948,
+          -6.9281529
+        ]
+      },
+      "properties": {
+        "id": "12986852698",
+        "name": "Universitas Aisyiyah",
+        "role": "stop",
         "mode": "bus"
       }
     },

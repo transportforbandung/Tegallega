@@ -422,14 +422,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6287265,
-          -6.9404408
+          107.6288279,
+          -6.9401215
         ]
       },
       "properties": {
-        "id": "v_107.628726_-6.940441",
-        "name": "Jalan Kliningan",
-        "role": "virtual",
+        "id": "12986852696",
+        "name": "SMKN 8 Bandung",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -438,12 +438,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.628054,
-          -6.9382632
+          107.6276384,
+          -6.9380482
         ]
       },
       "properties": {
-        "id": "v_107.628054_-6.938263",
+        "id": "v_107.627638_-6.938048",
         "name": "Jalan Karawitan",
         "role": "virtual",
         "mode": "bus"
@@ -454,12 +454,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6259616,
-          -6.9367403
+          107.6255853,
+          -6.9363597
         ]
       },
       "properties": {
-        "id": "v_107.625962_-6.936740",
+        "id": "v_107.625585_-6.936360",
         "name": "Jalan Karawitan",
         "role": "virtual",
         "mode": "bus"
@@ -502,14 +502,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6244608,
-          -6.9289886
+          107.6248423,
+          -6.929086
         ]
       },
       "properties": {
-        "id": "v_107.624461_-6.928989",
-        "name": "Jalan Talaga Bodas",
-        "role": "virtual",
+        "id": "12981961714",
+        "name": "Seberang Jalan Terusan Galunggung",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -518,14 +518,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6236147,
-          -6.9265547
+          107.6231948,
+          -6.9281529
         ]
       },
       "properties": {
-        "id": "v_107.623615_-6.926555",
-        "name": "Jalan Palasari",
-        "role": "virtual",
+        "id": "12986852698",
+        "name": "Universitas Aisyiyah",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -534,12 +534,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6240444,
-          -6.924334
+          107.623714,
+          -6.925252
         ]
       },
       "properties": {
-        "id": "v_107.624044_-6.924334",
+        "id": "v_107.623714_-6.925252",
         "name": "Jalan Malabar",
         "role": "virtual",
         "mode": "bus"
@@ -550,14 +550,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6247378,
-          -6.9220759
+          107.6245629,
+          -6.9228364
         ]
       },
       "properties": {
-        "id": "v_107.624738_-6.922076",
+        "id": "v_107.624563_-6.922836",
         "name": "Jalan Malabar",
         "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62446,
+          -6.9204704
+        ]
+      },
+      "properties": {
+        "id": "12986852700",
+        "name": "Jalan Malabar",
+        "role": "stop",
         "mode": "bus"
       }
     },

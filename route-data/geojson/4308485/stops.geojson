@@ -38,14 +38,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6259572,
-          -6.9010164
+          107.6265006,
+          -6.9013156
         ]
       },
       "properties": {
-        "id": "5832220639",
-        "name": "Unknown",
-        "role": "stop",
+        "id": "v_107.626501_-6.901316",
+        "name": "Jalan Supratman",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -742,12 +742,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.682184,
-          -6.9646421
+          107.6821746,
+          -6.9646581
         ]
       },
       "properties": {
-        "id": "v_107.682184_-6.964642",
+        "id": "v_107.682175_-6.964658",
         "name": "Jalan Derwati",
         "role": "virtual",
         "mode": "bus"

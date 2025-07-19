@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6059915,
-          -6.926739
-        ]
-      },
-      "properties": {
-        "id": "12626529705",
-        "name": "ITC Kebon Kalapa",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6058121,
           -6.9276265
         ]
@@ -30,6 +14,22 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6059915,
+          -6.926739
+        ]
+      },
+      "properties": {
+        "id": "12626529705",
+        "name": "ITC Kebon Kalapa",
+        "role": "stop",
         "mode": "bus"
       }
     },

@@ -310,14 +310,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6081093,
-          -6.8923018
+          107.608426,
+          -6.8935213
         ]
       },
       "properties": {
-        "id": "v_107.608109_-6.892302",
-        "name": "Jalan Taman Sari",
-        "role": "virtual",
+        "id": "13009862614",
+        "name": "Ganesha Tamansari",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -358,14 +358,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.611925,
-          -6.8999352
+          107.6106103,
+          -6.8996659
         ]
       },
       "properties": {
-        "id": "v_107.611925_-6.899935",
-        "name": "Jalan Sulanjana",
-        "role": "virtual",
+        "id": "12986852691",
+        "name": "Sulanjana Rangga Malela",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -374,12 +374,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6143382,
-          -6.9006167
+          107.6128598,
+          -6.9003542
         ]
       },
       "properties": {
-        "id": "v_107.614338_-6.900617",
+        "id": "v_107.612860_-6.900354",
         "name": "Jalan Diponegoro",
         "role": "virtual",
         "mode": "bus"
@@ -390,12 +390,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6167683,
-          -6.9013466
+          107.6154093,
+          -6.900922
         ]
       },
       "properties": {
-        "id": "v_107.616768_-6.901347",
+        "id": "v_107.615409_-6.900922",
         "name": "Jalan Diponegoro",
         "role": "virtual",
         "mode": "bus"
@@ -438,14 +438,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6259572,
-          -6.9010164
+          107.6265006,
+          -6.9013156
         ]
       },
       "properties": {
-        "id": "5832220639",
-        "name": "Unknown",
-        "role": "stop",
+        "id": "v_107.626501_-6.901316",
+        "name": "Jalan Supratman",
+        "role": "virtual",
         "mode": "bus"
       }
     },

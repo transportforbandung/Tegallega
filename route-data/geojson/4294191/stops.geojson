@@ -102,28 +102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5957657,
-          -6.9229321
+          107.5973482,
+          -6.9231019
         ]
       },
       "properties": {
-        "id": "2723584288",
-        "name": "Pasar Ulekan Pagarsih",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5932972,
-          -6.92265
-        ]
-      },
-      "properties": {
-        "id": "v_107.593297_-6.922650",
+        "id": "v_107.597348_-6.923102",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"
@@ -134,12 +118,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5906715,
-          -6.9223995
+          107.5949294,
+          -6.9228384
         ]
       },
       "properties": {
-        "id": "v_107.590671_-6.922400",
+        "id": "v_107.594929_-6.922838",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926679,
+          -6.922586
+        ]
+      },
+      "properties": {
+        "id": "v_107.592668_-6.922586",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5898681,
+          -6.9223157
+        ]
+      },
+      "properties": {
+        "id": "v_107.589868_-6.922316",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"

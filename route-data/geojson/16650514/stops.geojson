@@ -230,14 +230,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6374286,
-          -6.9283966
+          107.6355011,
+          -6.9274337
         ]
       },
       "properties": {
-        "id": "v_107.637429_-6.928397",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
+        "id": "12981961719",
+        "name": "SD Kartika X-1",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -390,14 +390,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6137563,
-          -6.9275081
+          107.6129922,
+          -6.9290293
         ]
       },
       "properties": {
-        "id": "v_107.613756_-6.927508",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
+        "id": "3374033505",
+        "name": "UNPAS Lengkong Besar",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -454,14 +454,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6058121,
-          -6.9276265
+          107.6062469,
+          -6.9274175
         ]
       },
       "properties": {
-        "id": "3374033509",
-        "name": "Terminal Abdul Muis/Kebon Kalapa",
-        "role": "stop_exit_only",
+        "id": "v_107.606247_-6.927417",
+        "name": "Jalan Pungkur",
+        "role": "virtual",
         "mode": "bus"
       }
     }

@@ -86,12 +86,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5763485,
-          -6.9302683
+          107.577385,
+          -6.9298665
         ]
       },
       "properties": {
-        "id": "v_107.576348_-6.930268",
+        "id": "13011497995",
+        "name": "Simpang Tol Pasirkoja",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5795965,
+          -6.9290134
+        ]
+      },
+      "properties": {
+        "id": "v_107.579596_-6.929013",
         "name": "Jalan Pasir Koja",
         "role": "virtual",
         "mode": "bus"
@@ -102,28 +118,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5785391,
-          -6.9294213
+          107.5818743,
+          -6.9281378
         ]
       },
       "properties": {
-        "id": "v_107.578539_-6.929421",
-        "name": "Jalan Pasir Koja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5806882,
-          -6.9285922
-        ]
-      },
-      "properties": {
-        "id": "v_107.580688_-6.928592",
+        "id": "v_107.581874_-6.928138",
         "name": "Jalan Pasir Koja",
         "role": "virtual",
         "mode": "bus"
@@ -454,14 +454,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6093278,
-          -6.906026
+          107.6092299,
+          -6.9067838
         ]
       },
       "properties": {
-        "id": "5825246687",
-        "name": "Unknown",
-        "role": "stop",
+        "id": "v_107.609230_-6.906784",
+        "name": "Jalan L.L. RE. Martadinata",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -470,13 +470,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6095436,
-          -6.9034354
+          107.6094626,
+          -6.9043424
         ]
       },
       "properties": {
-        "id": "v_107.609544_-6.903435",
+        "id": "v_107.609463_-6.904342",
         "name": "Jalan Purnawarman",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092198,
+          -6.9020964
+        ]
+      },
+      "properties": {
+        "id": "v_107.609220_-6.902096",
+        "name": "Jalan Harian Banga",
         "role": "virtual",
         "mode": "bus"
       }
@@ -811,9 +827,9 @@
         ]
       },
       "properties": {
-        "id": "312523735",
-        "name": "Cigadung/Rancakendal",
-        "role": "stop",
+        "id": "v_107.623690_-6.878025",
+        "name": "Jalan Cigadung Raya Barat",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -886,29 +902,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6262405,
-          -6.8651084
+          107.6254995,
+          -6.8664818
         ]
       },
       "properties": {
-        "id": "5825396969",
-        "name": "Unknown",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6246534,
-          -6.8634784
-        ]
-      },
-      "properties": {
-        "id": "v_107.624653_-6.863478",
-        "name": "Jalan Ir. H. Djuanda",
+        "id": "v_107.625500_-6.866482",
+        "name": "Jalan Raya Golf",
         "role": "virtual",
         "mode": "bus"
       }
@@ -918,12 +918,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6225451,
-          -6.8650353
+          107.6264034,
+          -6.8643002
         ]
       },
       "properties": {
-        "id": "v_107.622545_-6.865035",
+        "id": "v_107.626403_-6.864300",
+        "name": "Jalan Raya Golf",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6241423,
+          -6.8638781
+        ]
+      },
+      "properties": {
+        "id": "v_107.624142_-6.863878",
         "name": "Jalan Ir. H. Djuanda",
         "role": "virtual",
         "mode": "bus"

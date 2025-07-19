@@ -102,12 +102,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5740811,
-          -6.943886
+          107.5740771,
+          -6.9438953
         ]
       },
       "properties": {
-        "id": "v_107.574081_-6.943886",
+        "id": "v_107.574077_-6.943895",
         "name": "Jalan Caringin",
         "role": "virtual",
         "mode": "bus"
@@ -118,12 +118,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5720848,
-          -6.9427229
+          107.5720665,
+          -6.942735
         ]
       },
       "properties": {
-        "id": "v_107.572085_-6.942723",
+        "id": "v_107.572067_-6.942735",
         "name": "Jalan Caringin",
         "role": "virtual",
         "mode": "bus"
@@ -150,12 +150,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.569212,
-          -6.9389331
+          107.5694356,
+          -6.9386026
         ]
       },
       "properties": {
-        "id": "v_107.569212_-6.938933",
+        "id": "v_107.569436_-6.938603",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -166,12 +166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5702728,
-          -6.9367285
+          107.5703771,
+          -6.936519
         ]
       },
       "properties": {
-        "id": "v_107.570273_-6.936729",
+        "id": "v_107.570377_-6.936519",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -182,12 +182,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5713606,
-          -6.9346901
+          107.5714529,
+          -6.9343765
         ]
       },
       "properties": {
-        "id": "v_107.571361_-6.934690",
+        "id": "v_107.571453_-6.934376",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -198,12 +198,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5721343,
-          -6.9323418
+          107.5722218,
+          -6.9322437
         ]
       },
       "properties": {
-        "id": "v_107.572134_-6.932342",
+        "id": "v_107.572222_-6.932244",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -214,12 +214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5731824,
-          -6.9299829
+          107.5731665,
+          -6.9299759
         ]
       },
       "properties": {
-        "id": "v_107.573182_-6.929983",
+        "id": "v_107.573166_-6.929976",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -662,8 +662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6082182,
-          -6.903986
+          107.6081315,
+          -6.9043332
         ]
       },
       "properties": {

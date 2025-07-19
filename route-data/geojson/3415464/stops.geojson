@@ -198,13 +198,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6249815,
-          -6.9320775
+          107.6244842,
+          -6.9318518
         ]
       },
       "properties": {
-        "id": "3376171449",
-        "name": "Jl. Lodaya",
+        "id": "v_107.624484_-6.931852",
+        "name": "Jalan Lodaya",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6267581,
+          -6.9329183
+        ]
+      },
+      "properties": {
+        "id": "v_107.626758_-6.932918",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6290573,
+          -6.933508
+        ]
+      },
+      "properties": {
+        "id": "v_107.629057_-6.933508",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6326798,
+          -6.9342443
+        ]
+      },
+      "properties": {
+        "id": "11042827767",
+        "name": "Riau Martanegara",
         "role": "stop",
         "mode": "bus"
       }
@@ -214,14 +262,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6272027,
-          -6.9330478
+          107.6348134,
+          -6.9321597
         ]
       },
       "properties": {
-        "id": "v_107.627203_-6.933048",
-        "name": "Jalan Raden Adipati Aria Martanegara",
-        "role": "virtual",
+        "id": "12981961718",
+        "name": "Seberang STIE Pasundan",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -230,14 +278,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6297626,
-          -6.9336931
+          107.6355011,
+          -6.9274337
         ]
       },
       "properties": {
-        "id": "v_107.629763_-6.933693",
-        "name": "Jalan Raden Adipati Aria Martanegara",
-        "role": "virtual",
+        "id": "12981961719",
+        "name": "SD Kartika X-1",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -246,60 +294,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6321764,
-          -6.9342353
+          107.6334031,
+          -6.9262659
         ]
       },
       "properties": {
-        "id": "v_107.632176_-6.934235",
-        "name": "Jalan Raden Adipati Aria Martanegara",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6345471,
-          -6.9331037
-        ]
-      },
-      "properties": {
-        "id": "v_107.634547_-6.933104",
-        "name": "Jalan Turangga",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6351695,
-          -6.9308231
-        ]
-      },
-      "properties": {
-        "id": "v_107.635170_-6.930823",
-        "name": "Jalan Turangga",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.634256,
-          -6.9267411
-        ]
-      },
-      "properties": {
-        "id": "v_107.634256_-6.926741",
+        "id": "v_107.633403_-6.926266",
         "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"

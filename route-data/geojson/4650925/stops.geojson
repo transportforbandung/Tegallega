@@ -6,13 +6,157 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5740641,
-          -6.9279358
+          107.5508272,
+          -6.9324632
         ]
       },
       "properties": {
-        "id": "29380518",
-        "name": "Holis/Bojong",
+        "id": "3385219353",
+        "name": "Terminal Bumi Asri",
+        "role": "stop_entry_only",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.551319,
+          -6.9301039
+        ]
+      },
+      "properties": {
+        "id": "v_107.551319_-6.930104",
+        "name": "Jalan Dirgantara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5517856,
+          -6.9278971
+        ]
+      },
+      "properties": {
+        "id": "v_107.551786_-6.927897",
+        "name": "Jalan Dirgantara",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5548453,
+          -6.9279848
+        ]
+      },
+      "properties": {
+        "id": "v_107.554845_-6.927985",
+        "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5568329,
+          -6.9291972
+        ]
+      },
+      "properties": {
+        "id": "v_107.556833_-6.929197",
+        "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5587134,
+          -6.9304542
+        ]
+      },
+      "properties": {
+        "id": "v_107.558713_-6.930454",
+        "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.561215,
+          -6.93171
+        ]
+      },
+      "properties": {
+        "id": "v_107.561215_-6.931710",
+        "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5635486,
+          -6.9324642
+        ]
+      },
+      "properties": {
+        "id": "v_107.563549_-6.932464",
+        "name": "Jalan Gempol",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.564958,
+          -6.9306005
+        ]
+      },
+      "properties": {
+        "id": "v_107.564958_-6.930600",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5661172,
+          -6.9268211
+        ]
+      },
+      "properties": {
+        "id": "12809314934",
+        "name": "Simpang Bojong Raya",
         "role": "stop",
         "mode": "bus"
       }
@@ -22,12 +166,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5747803,
+          107.5685351,
+          -6.9275379
+        ]
+      },
+      "properties": {
+        "id": "v_107.568535_-6.927538",
+        "name": "Jalan Bojong Raya",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5712431,
+          -6.9277519
+        ]
+      },
+      "properties": {
+        "id": "v_107.571243_-6.927752",
+        "name": "Jalan Bojong Raya",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5740256,
+          -6.9279327
+        ]
+      },
+      "properties": {
+        "id": "v_107.574026_-6.927933",
+        "name": "Jalan Bojong Raya",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5747857,
           -6.925664
         ]
       },
       "properties": {
-        "id": "v_107.574780_-6.925664",
+        "id": "v_107.574786_-6.925664",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -174,182 +366,6 @@
         "id": "3244745033",
         "name": "Terminal Ciroyom",
         "role": "stop_exit_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5508272,
-          -6.9324632
-        ]
-      },
-      "properties": {
-        "id": "3385219353",
-        "name": "Terminal Bumi Asri",
-        "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.551319,
-          -6.9301039
-        ]
-      },
-      "properties": {
-        "id": "v_107.551319_-6.930104",
-        "name": "Jalan Dirgantara",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5517856,
-          -6.9278971
-        ]
-      },
-      "properties": {
-        "id": "v_107.551786_-6.927897",
-        "name": "Jalan Dirgantara",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5548453,
-          -6.9279848
-        ]
-      },
-      "properties": {
-        "id": "v_107.554845_-6.927985",
-        "name": "Jalan Gempol",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5580796,
-          -6.9299747
-        ]
-      },
-      "properties": {
-        "id": "3110267088",
-        "name": "Gempol Sari",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5600557,
-          -6.9312664
-        ]
-      },
-      "properties": {
-        "id": "v_107.560056_-6.931266",
-        "name": "Jalan Gempol",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5624059,
-          -6.9321088
-        ]
-      },
-      "properties": {
-        "id": "v_107.562406_-6.932109",
-        "name": "Jalan Gempol",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5647812,
-          -6.9310607
-        ]
-      },
-      "properties": {
-        "id": "v_107.564781_-6.931061",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5657238,
-          -6.9266742
-        ]
-      },
-      "properties": {
-        "id": "3252892639",
-        "name": "Cijerah",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5685351,
-          -6.9275379
-        ]
-      },
-      "properties": {
-        "id": "v_107.568535_-6.927538",
-        "name": "Jalan Bojong Raya",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5712431,
-          -6.9277519
-        ]
-      },
-      "properties": {
-        "id": "v_107.571243_-6.927752",
-        "name": "Jalan Bojong Raya",
-        "role": "virtual",
         "mode": "bus"
       }
     }

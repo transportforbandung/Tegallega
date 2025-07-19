@@ -134,28 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5957657,
-          -6.9229321
+          107.5937922,
+          -6.9227097
         ]
       },
       "properties": {
-        "id": "2723584288",
-        "name": "Pasar Ulekan Pagarsih",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5980444,
-          -6.923212
-        ]
-      },
-      "properties": {
-        "id": "v_107.598044_-6.923212",
+        "id": "v_107.593792_-6.922710",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "mode": "bus"
@@ -166,12 +150,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6003445,
-          -6.9234206
+          107.5960633,
+          -6.922964
         ]
       },
       "properties": {
-        "id": "v_107.600345_-6.923421",
+        "id": "v_107.596063_-6.922964",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5985311,
+          -6.9232621
+        ]
+      },
+      "properties": {
+        "id": "v_107.598531_-6.923262",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6012031,
+          -6.9235159
+        ]
+      },
+      "properties": {
+        "id": "v_107.601203_-6.923516",
         "name": "Jalan Kalipah Apo",
         "role": "virtual",
         "mode": "bus"
@@ -182,14 +198,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038724,
-          -6.923931
+          107.6034842,
+          -6.923785
         ]
       },
       "properties": {
-        "id": "2250562868",
-        "name": "Otista/Kalipah Apo",
-        "role": "stop",
+        "id": "v_107.603484_-6.923785",
+        "name": "Jalan Kalipah Apo",
+        "role": "virtual",
         "mode": "bus"
       }
     },

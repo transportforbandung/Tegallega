@@ -54,14 +54,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6262405,
-          -6.8651084
+          107.6262707,
+          -6.8650332
         ]
       },
       "properties": {
-        "id": "5825396969",
-        "name": "Unknown",
-        "role": "stop",
+        "id": "v_107.626271_-6.865033",
+        "name": "Jalan Raya Golf",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -134,28 +134,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6236902,
-          -6.8780245
+          107.6232017,
+          -6.8760158
         ]
       },
       "properties": {
-        "id": "312523735",
-        "name": "Cigadung/Rancakendal",
-        "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6247733,
-          -6.8802625
-        ]
-      },
-      "properties": {
-        "id": "v_107.624773_-6.880262",
+        "id": "v_107.623202_-6.876016",
         "name": "Jalan Cigadung Raya Barat",
         "role": "virtual",
         "mode": "bus"
@@ -166,12 +150,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6259609,
-          -6.8822696
+          107.6238709,
+          -6.8785247
         ]
       },
       "properties": {
-        "id": "v_107.625961_-6.882270",
+        "id": "v_107.623871_-6.878525",
         "name": "Jalan Cigadung Raya Barat",
         "role": "virtual",
         "mode": "bus"
@@ -182,12 +166,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.628287,
-          -6.8826272
+          107.6251295,
+          -6.8808881
         ]
       },
       "properties": {
-        "id": "v_107.628287_-6.882627",
+        "id": "v_107.625129_-6.880888",
+        "name": "Jalan Cigadung Raya Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6263229,
+          -6.8828675
+        ]
+      },
+      "properties": {
+        "id": "v_107.626323_-6.882867",
+        "name": "Jalan Cigadung Raya Barat",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6288224,
+          -6.8827995
+        ]
+      },
+      "properties": {
+        "id": "v_107.628822_-6.882799",
         "name": "Jalan Cigadung Raya Tengah",
         "role": "virtual",
         "mode": "bus"
@@ -198,12 +214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6291786,
-          -6.8847796
+          107.6295837,
+          -6.8853227
         ]
       },
       "properties": {
-        "id": "v_107.629179_-6.884780",
+        "id": "v_107.629584_-6.885323",
         "name": "Jalan Cigadung Raya Tengah",
         "role": "virtual",
         "mode": "bus"
@@ -214,12 +230,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6301961,
-          -6.8868025
+          107.6300646,
+          -6.8875281
         ]
       },
       "properties": {
-        "id": "v_107.630196_-6.886802",
+        "id": "v_107.630065_-6.887528",
         "name": "Jalan Cigadung Raya Timur",
         "role": "virtual",
         "mode": "bus"
@@ -230,12 +246,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6300861,
-          -6.8892284
+          107.6302631,
+          -6.8897876
         ]
       },
       "properties": {
-        "id": "v_107.630086_-6.889228",
+        "id": "v_107.630263_-6.889788",
         "name": "Jalan Cigadung Raya Timur",
         "role": "virtual",
         "mode": "bus"
@@ -246,12 +262,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6305783,
-          -6.8915677
+          107.6307475,
+          -6.8921556
         ]
       },
       "properties": {
-        "id": "v_107.630578_-6.891568",
+        "id": "v_107.630747_-6.892156",
         "name": "Jalan Cikondang",
         "role": "virtual",
         "mode": "bus"

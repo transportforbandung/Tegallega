@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6252309,
-          -6.8885561
+          107.6252153,
+          -6.8885275
         ]
       },
       "properties": {
-        "id": "v_107.625231_-6.888556",
+        "id": "v_107.625215_-6.888528",
         "name": "Jalan Sadang Tengah",
         "role": "virtual",
         "mode": "bus"
@@ -214,14 +214,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6081093,
-          -6.8923018
+          107.608426,
+          -6.8935213
         ]
       },
       "properties": {
-        "id": "v_107.608109_-6.892302",
-        "name": "Jalan Taman Sari",
-        "role": "virtual",
+        "id": "13009862614",
+        "name": "Ganesha Tamansari",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -806,12 +806,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5740641,
-          -6.9279358
+          107.5740256,
+          -6.9279327
         ]
       },
       "properties": {
-        "id": "v_107.574064_-6.927936",
+        "id": "v_107.574026_-6.927933",
         "name": "Jalan Bojong Raya",
         "role": "virtual",
         "mode": "bus"
@@ -822,12 +822,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5729759,
-          -6.9303354
+          107.5730042,
+          -6.9302651
         ]
       },
       "properties": {
-        "id": "v_107.572976_-6.930335",
+        "id": "v_107.573004_-6.930265",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -838,12 +838,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5720069,
-          -6.9326094
+          107.5721282,
+          -6.9323741
         ]
       },
       "properties": {
-        "id": "v_107.572007_-6.932609",
+        "id": "v_107.572128_-6.932374",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -854,12 +854,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5712005,
-          -6.9351636
+          107.5713626,
+          -6.9346901
         ]
       },
       "properties": {
-        "id": "v_107.571201_-6.935164",
+        "id": "v_107.571363_-6.934690",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -870,8 +870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.570011,
-          -6.9375575
+          107.5700313,
+          -6.9375676
         ]
       },
       "properties": {
@@ -886,12 +886,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5687197,
+          107.5687314,
           -6.9396904
         ]
       },
       "properties": {
-        "id": "v_107.568720_-6.939690",
+        "id": "v_107.568731_-6.939690",
         "name": "Jalan Holis",
         "role": "virtual",
         "mode": "bus"
@@ -902,12 +902,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5706806,
-          -6.9409891
+          107.5706744,
+          -6.9409677
         ]
       },
       "properties": {
-        "id": "v_107.570681_-6.940989",
+        "id": "v_107.570674_-6.940968",
         "name": "Jalan Caringin",
         "role": "virtual",
         "mode": "bus"
@@ -918,12 +918,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5721412,
-          -6.942763
+          107.572131,
+          -6.9427751
         ]
       },
       "properties": {
-        "id": "v_107.572141_-6.942763",
+        "id": "v_107.572131_-6.942775",
         "name": "Jalan Caringin",
         "role": "virtual",
         "mode": "bus"
@@ -934,12 +934,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5741661,
-          -6.94392
+          107.5741843,
+          -6.9439409
         ]
       },
       "properties": {
-        "id": "v_107.574166_-6.943920",
+        "id": "v_107.574184_-6.943941",
         "name": "Jalan Caringin",
         "role": "virtual",
         "mode": "bus"
@@ -950,12 +950,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5764178,
-          -6.9442142
+          107.5764995,
+          -6.9437736
         ]
       },
       "properties": {
-        "id": "v_107.576418_-6.944214",
+        "id": "v_107.576499_-6.943774",
         "name": "Jalan Caringin",
         "role": "virtual",
         "mode": "bus"

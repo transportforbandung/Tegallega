@@ -166,6 +166,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6266613,
+          -6.9411196
+        ]
+      },
+      "properties": {
+        "id": "12986852694",
+        "name": "Seberang Griya Buah Batu",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6256577,
           -6.9400594
         ]

@@ -246,14 +246,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5740641,
-          -6.9279358
+          107.5755137,
+          -6.9269292
         ]
       },
       "properties": {
-        "id": "29380518",
-        "name": "Holis/Bojong",
-        "role": "stop",
+        "id": "v_107.575514_-6.926929",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -262,12 +262,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5716644,
-          -6.927755
+          107.5750637,
+          -6.9246314
         ]
       },
       "properties": {
-        "id": "v_107.571664_-6.927755",
+        "id": "v_107.575064_-6.924631",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.574334,
+          -6.9271457
+        ]
+      },
+      "properties": {
+        "id": "v_107.574334_-6.927146",
+        "name": "Jalan Holis",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.571962,
+          -6.9277513
+        ]
+      },
+      "properties": {
+        "id": "v_107.571962_-6.927751",
         "name": "Jalan Bojong Raya",
         "role": "virtual",
         "mode": "bus"
@@ -278,12 +310,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5686754,
-          -6.927557
+          107.5695446,
+          -6.9277102
         ]
       },
       "properties": {
-        "id": "v_107.568675_-6.927557",
+        "id": "v_107.569545_-6.927710",
         "name": "Jalan Bojong Raya",
         "role": "virtual",
         "mode": "bus"

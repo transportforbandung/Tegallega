@@ -166,13 +166,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6199354,
-          -6.9233089
+          107.6207372,
+          -6.9227844
         ]
       },
       "properties": {
-        "id": "v_107.619935_-6.923309",
-        "name": "Jalan Burangrang",
+        "id": "v_107.620737_-6.922784",
+        "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
       }
@@ -182,13 +182,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6203215,
-          -6.9257401
+          107.6231884,
+          -6.9233836
         ]
       },
       "properties": {
-        "id": "v_107.620322_-6.925740",
-        "name": "Jalan Halimun",
+        "id": "v_107.623188_-6.923384",
+        "name": "Jalan Jenderal Gatot Subroto",
         "role": "virtual",
         "mode": "bus"
       }
@@ -198,14 +198,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6226412,
-          -6.9263649
+          107.623843,
+          -6.9255559
         ]
       },
       "properties": {
-        "id": "v_107.622641_-6.926365",
-        "name": "Jalan Halimun",
-        "role": "virtual",
+        "id": "12806717338",
+        "name": "SMK Pariwisata Telkom",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -214,14 +214,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6230243,
-          -6.9286215
+          107.6234197,
+          -6.9272967
         ]
       },
       "properties": {
-        "id": "v_107.623024_-6.928622",
-        "name": "Jalan Talaga Bodas",
-        "role": "virtual",
+        "id": "9189908949",
+        "name": "Yayasan Muslimah",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623871,
+          -6.9288374
+        ]
+      },
+      "properties": {
+        "id": "12981961713",
+        "name": "Seberang Hotel Harmony Inn",
+        "role": "stop",
         "mode": "bus"
       }
     },
@@ -263,11 +279,11 @@
         "type": "Point",
         "coordinates": [
           107.6297626,
-          -6.9336931
+          -6.9336792
         ]
       },
       "properties": {
-        "id": "v_107.629763_-6.933693",
+        "id": "v_107.629763_-6.933679",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
         "mode": "bus"
@@ -326,14 +342,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6290093,
-          -6.9395855
+          107.6287964,
+          -6.9402159
         ]
       },
       "properties": {
-        "id": "v_107.629009_-6.939585",
-        "name": "Jalan Kliningan",
-        "role": "virtual",
+        "id": "12986852697",
+        "name": "Seberang SMKN 8 Bandung",
+        "role": "stop",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6285303,
+          -6.9412408
+        ]
+      },
+      "properties": {
+        "id": "12986852695",
+        "name": "SMKN 4 Bandung",
+        "role": "stop",
         "mode": "bus"
       }
     },

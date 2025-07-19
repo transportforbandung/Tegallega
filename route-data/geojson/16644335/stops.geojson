@@ -70,14 +70,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.622434,
-          -6.9309756
+          107.6227649,
+          -6.9298044
         ]
       },
       "properties": {
-        "id": "2607816747",
-        "name": "Unknown",
-        "role": "stop",
+        "id": "v_107.622765_-6.929804",
+        "name": "Jalan Palasari",
+        "role": "virtual",
         "mode": "bus"
       }
     },
@@ -86,12 +86,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6211343,
-          -6.9337683
+          107.6220445,
+          -6.9323308
         ]
       },
       "properties": {
-        "id": "v_107.621134_-6.933768",
+        "id": "v_107.622045_-6.932331",
+        "name": "Jalan Palasari",
+        "role": "virtual",
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6206148,
+          -6.9342423
+        ]
+      },
+      "properties": {
+        "id": "v_107.620615_-6.934242",
         "name": "Jalan Gajah",
         "role": "virtual",
         "mode": "bus"
