@@ -202,7 +202,7 @@ def generate_trips(routes, shapes):
             'dist': shape['shape_dist_traveled']
         })
     
-    # Sort each shape's points by distance
+    # Sort each shape's points by distance (should be sequential but ensure)
     for shape_id in shapes_dict:
         shapes_dict[shape_id].sort(key=lambda pt: pt['dist'])
     
@@ -323,7 +323,7 @@ def generate_trips(routes, shapes):
                         })
                         stop_seq += 1
         
-        # Process bus routes normally
+       # Process bus routes normally
         else:
             stop_file = os.path.join(ROUTE_DATA_DIR, str(route_id), 'stops.geojson')
             
@@ -334,21 +334,24 @@ def generate_trips(routes, shapes):
             with open(stop_file) as f:
                 stop_data = json.load(f)
             
-            # Extract stop sequence with coordinates
+            # Extract stop sequence with coordinates and real/virtual status
             stops = []
             for feature in stop_data['features']:
                 props = feature['properties']
                 coords = feature['geometry']['coordinates']
                 stops.append({
-                    'stop_id': props.get('id', f"stop_{len(stops)+1}"),
+                    'stop_id': props['id'],
                     'lon': coords[0],
-                    'lat': coords[1]
+                    'lat': coords[1],
+                    'is_real': props.get('isReal', False)  # Track real vs virtual
                 })
             
-            # Project stops onto the route shape and sort
+            # NEW: Prioritize real stops when projecting to shape
             shape_id = route.get('shape_id')
             if shape_id and shape_id in shapes_dict:
                 shape_points = shapes_dict[shape_id]
+                
+                # First project all stops
                 for stop in stops:
                     min_dist = float('inf')
                     closest_dist = 0
@@ -358,10 +361,14 @@ def generate_trips(routes, shapes):
                         if d < min_dist:
                             min_dist = d
                             closest_dist = pt['dist']
-                    stop['shape_dist'] = closest_dist  # Temporary storage
+                    stop['shape_dist'] = closest_dist
+                    stop['min_dist'] = min_dist
                 
-                # Sort stops by distance along shape
-                stops.sort(key=lambda s: s['shape_dist'])
+                # Sort stops primarily by shape distance, secondarily by real status
+                stops.sort(key=lambda s: (
+                    s['shape_dist'],
+                    0 if s['is_real'] else 1  # Real stops come first at same position
+                ))
             
             # Precompute segment times between stops
             segment_times = [0]  # Start with 0 for first stop
