@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12626529705",
         "name": "ITC Kebon Kalapa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11898859975",
         "name": "Grand Yogya Kepatihan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "11711275743",
         "name": "Alun-Alun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12808912264",
         "name": "Pos Banceuy",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12626529706",
         "name": "Banceuy",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,22 +116,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6068306,
-          -6.9152963
-        ]
-      },
-      "properties": {
-        "id": "v_107.606831_-6.915296",
-        "name": "Jalan Stasiun Timur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +133,7 @@
         "id": "293384756",
         "name": "Stasiun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +150,7 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +167,7 @@
         "id": "11739021629",
         "name": "SMAN 6 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +184,7 @@
         "id": "12806120202",
         "name": "SDN 013 Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,22 +201,7 @@
         "id": "11138593907",
         "name": "Padjajaran 2",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5915994,
-          -6.9071068
-        ]
-      },
-      "properties": {
-        "id": "v_107.591599_-6.907107",
-        "name": "Jalan Pajajaran",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +218,7 @@
         "id": "3377329064",
         "name": "Husein Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -246,94 +227,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5857779,
-          -6.9072569
+          107.5791651,
+          -6.907794
         ]
       },
       "properties": {
-        "id": "v_107.585778_-6.907257",
+        "id": "virtual_107.5792_-6.9078",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5834572,
-          -6.9076247
-        ]
-      },
-      "properties": {
-        "id": "v_107.583457_-6.907625",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5809663,
-          -6.9076194
-        ]
-      },
-      "properties": {
-        "id": "v_107.580966_-6.907619",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.578868,
-          -6.9085429
-        ]
-      },
-      "properties": {
-        "id": "v_107.578868_-6.908543",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5781807,
-          -6.9110965
-        ]
-      },
-      "properties": {
-        "id": "v_107.578181_-6.911097",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5741958,
-          -6.9102903
-        ]
-      },
-      "properties": {
-        "id": "v_107.574196_-6.910290",
-        "name": "Jalan Dadali",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -350,6 +252,7 @@
         "id": "11711326972",
         "name": "Plaza Telkom Rajawali",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

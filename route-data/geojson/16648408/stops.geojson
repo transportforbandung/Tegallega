@@ -14,6 +14,7 @@
         "id": "11711326972",
         "name": "Plaza Telkom Rajawali",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "11735239264",
         "name": "Rajawali 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11735239266",
         "name": "Dunguscariang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,22 +65,7 @@
         "id": "1911635044",
         "name": "Yayasan LPPN",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5875979,
-          -6.9161866
-        ]
-      },
-      "properties": {
-        "id": "v_107.587598_-6.916187",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,22 +82,7 @@
         "id": "11735239268",
         "name": "SMA Trinitas",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5942457,
-          -6.9164499
-        ]
-      },
-      "properties": {
-        "id": "v_107.594246_-6.916450",
-        "name": "Jalan Kebon Jati",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +99,7 @@
         "id": "11735248671",
         "name": "Rumah Sakit Kebon Jati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +116,7 @@
         "id": "25434237",
         "name": "GKI Kebonjati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +133,7 @@
         "id": "11735248674",
         "name": "SMA Pasundan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +150,7 @@
         "id": "1013407725",
         "name": "Stasiun Hall",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,22 +167,7 @@
         "id": "29354702",
         "name": "Pasar Baru",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6042559,
-          -6.9187767
-        ]
-      },
-      "properties": {
-        "id": "v_107.604256_-6.918777",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +184,7 @@
         "id": "10778322188",
         "name": "Dalem Kaum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,22 +201,7 @@
         "id": "11739021639",
         "name": "Toko Mas ABC",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6037853,
-          -6.9255254
-        ]
-      },
-      "properties": {
-        "id": "v_107.603785_-6.925525",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +218,7 @@
         "id": "11739021641",
         "name": "Simpang Ijan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +235,7 @@
         "id": "11739021642",
         "name": "Jalan Ibu Inggit Garnasih",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +252,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

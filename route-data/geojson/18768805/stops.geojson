@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 35131593,
+        "id": "35131593",
+        "name": "Bundaran Cibiru",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Bundaran Cibiru",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12806516349,
+        "id": "12806516349",
+        "name": "Panyileukan",
         "role": "stop",
         "bus": "yes",
-        "name": "Panyileukan",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12806516346,
+        "id": "12806516346",
+        "name": "Cimincrang",
         "role": "stop",
         "bus": "yes",
-        "name": "Cimincrang",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 12806516345,
+        "id": "12806516345",
+        "name": "Shakti",
         "role": "stop",
         "bus": "yes",
-        "name": "Shakti",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12806516344,
+        "id": "12806516344",
+        "name": "Barat Simpang Gedebage",
         "role": "stop",
         "bus": "yes",
-        "name": "Barat Simpang Gedebage",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 12806868621,
+        "id": "12806868621",
+        "name": "SMKN 6 Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "SMKN 6 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 12806868622,
+        "id": "12806868622",
+        "name": "Cipamokolan",
         "role": "stop",
         "bus": "yes",
-        "name": "Cipamokolan",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12806868623,
+        "id": "12806868623",
+        "name": "Aria Graha",
         "role": "stop",
         "bus": "yes",
-        "name": "Aria Graha",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 3375689668,
+        "id": "3375689668",
+        "name": "RS Al Islam",
         "role": "stop",
         "bus": "yes",
-        "name": "RS Al Islam",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12806868625,
+        "id": "12806868625",
+        "name": "Metro",
         "role": "stop",
         "bus": "yes",
-        "name": "Metro",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 12806868626,
+        "id": "12806868626",
+        "name": "Rancabolang",
         "role": "stop",
         "bus": "yes",
-        "name": "Rancabolang",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 12806868627,
+        "id": "12806868627",
+        "name": "SMKN 7 Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "SMKN 7 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 12806868632,
+        "id": "12806868632",
+        "name": "Gagak Rimang",
         "role": "stop",
         "bus": "yes",
-        "name": "Gagak Rimang",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 3272226033,
+        "id": "3272226033",
+        "name": "Metro Indah Mall",
         "role": "stop",
         "bus": "yes",
-        "name": "Metro Indah Mall",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 12806868633,
+        "id": "12806868633",
+        "name": "BPN Kanwil Jabar",
         "role": "stop",
         "bus": "yes",
-        "name": "BPN Kanwil Jabar",
         "public_transport": "stop_position"
       }
     },
@@ -266,10 +266,10 @@
         ]
       },
       "properties": {
-        "id": 12806851397,
+        "id": "12806851397",
+        "name": "Cidurian Selatan",
         "role": "stop",
         "bus": "yes",
-        "name": "Cidurian Selatan",
         "public_transport": "stop_position"
       }
     },
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "id": 12806868637,
+        "id": "12806868637",
+        "name": "Kantor Pos Sekejati",
         "role": "stop",
         "bus": "yes",
-        "name": "Kantor Pos Sekejati",
         "public_transport": "stop_position"
       }
     },
@@ -300,10 +300,10 @@
         ]
       },
       "properties": {
-        "id": 12806868639,
+        "id": "12806868639",
+        "name": "Disnaker Jabar",
         "role": "stop",
         "bus": "yes",
-        "name": "Disnaker Jabar",
         "public_transport": "stop_position"
       }
     },
@@ -317,10 +317,10 @@
         ]
       },
       "properties": {
-        "id": 12806868640,
+        "id": "12806868640",
+        "name": "UNINUS",
         "role": "stop",
         "bus": "yes",
-        "name": "UNINUS",
         "public_transport": "stop_position"
       }
     },
@@ -334,10 +334,10 @@
         ]
       },
       "properties": {
-        "id": 12806868670,
+        "id": "12806868670",
+        "name": "Tenth Avenue",
         "role": "stop",
         "bus": "yes",
-        "name": "Tenth Avenue",
         "public_transport": "stop_position"
       }
     },
@@ -351,10 +351,10 @@
         ]
       },
       "properties": {
-        "id": 12806868674,
+        "id": "12806868674",
+        "name": "Sekelimus Tengah",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekelimus Tengah",
         "public_transport": "stop_position"
       }
     },
@@ -368,10 +368,10 @@
         ]
       },
       "properties": {
-        "id": 12806868677,
+        "id": "12806868677",
+        "name": "Sekelimus Barat",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekelimus Barat",
         "public_transport": "stop_position"
       }
     },
@@ -385,11 +385,11 @@
         ]
       },
       "properties": {
-        "id": 2614138793,
+        "id": "2614138793",
+        "name": "Medal Sekarwangi",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Medal Sekarwangi",
         "public_transport": "stop_position"
       }
     },
@@ -403,10 +403,10 @@
         ]
       },
       "properties": {
-        "id": 12626499697,
+        "id": "12626499697",
+        "name": "Bangunan Mart A",
         "role": "stop",
         "bus": "yes",
-        "name": "Bangunan Mart A",
         "public_transport": "stop_position"
       }
     },
@@ -420,10 +420,10 @@
         ]
       },
       "properties": {
-        "id": 12626499700,
+        "id": "12626499700",
+        "name": "LPKIA A",
         "role": "stop",
         "bus": "yes",
-        "name": "LPKIA A",
         "public_transport": "stop_position"
       }
     },
@@ -437,10 +437,10 @@
         ]
       },
       "properties": {
-        "id": 12808867752,
+        "id": "12808867752",
+        "name": "STIE Inaba",
         "role": "stop",
         "bus": "yes",
-        "name": "STIE Inaba",
         "public_transport": "stop_position"
       }
     },
@@ -454,11 +454,11 @@
         ]
       },
       "properties": {
-        "id": 3384018111,
+        "id": "3384018111",
+        "name": "PT LEN Industri A",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "PT LEN Industri A",
         "public_transport": "stop_position"
       }
     },
@@ -472,10 +472,10 @@
         ]
       },
       "properties": {
-        "id": 12808867754,
+        "id": "12808867754",
+        "name": "Mengger Girang",
         "role": "stop",
         "bus": "yes",
-        "name": "Mengger Girang",
         "public_transport": "stop_position"
       }
     },
@@ -489,10 +489,10 @@
         ]
       },
       "properties": {
-        "id": 12626529703,
+        "id": "12626529703",
+        "name": "PLN UP3 Bandung A",
         "role": "stop",
         "bus": "yes",
-        "name": "PLN UP3 Bandung A",
         "public_transport": "stop_position"
       }
     },
@@ -506,10 +506,10 @@
         ]
       },
       "properties": {
-        "id": 11707031627,
+        "id": "11707031627",
+        "name": "Simpang By Pass Soekarno Hatta B",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang By Pass Soekarno Hatta B",
         "public_transport": "stop_position"
       }
     },
@@ -523,10 +523,10 @@
         ]
       },
       "properties": {
-        "id": 12808867758,
+        "id": "12808867758",
+        "name": "Ampera Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Ampera Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -540,10 +540,10 @@
         ]
       },
       "properties": {
-        "id": 12808867763,
+        "id": "12808867763",
+        "name": "Karasak Lama",
         "role": "stop",
         "bus": "yes",
-        "name": "Karasak Lama",
         "public_transport": "stop_position"
       }
     },
@@ -557,11 +557,11 @@
         ]
       },
       "properties": {
-        "id": 3277891129,
+        "id": "3277891129",
+        "name": "Seberang Terminal Leuwipanjang",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Seberang Terminal Leuwipanjang",
         "public_transport": "stop_position"
       }
     },
@@ -575,10 +575,10 @@
         ]
       },
       "properties": {
-        "id": 12633822769,
+        "id": "12633822769",
+        "name": "Pasar Caringin",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Caringin",
         "public_transport": "stop_position"
       }
     },
@@ -592,10 +592,10 @@
         ]
       },
       "properties": {
-        "id": 12808867766,
+        "id": "12808867766",
+        "name": "Griya Sumbersari",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Sumbersari",
         "public_transport": "stop_position"
       }
     },
@@ -609,10 +609,10 @@
         ]
       },
       "properties": {
-        "id": 12808867768,
+        "id": "12808867768",
+        "name": "Holis 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Holis 2",
         "public_transport": "stop_position"
       }
     },
@@ -626,10 +626,10 @@
         ]
       },
       "properties": {
-        "id": 2604179157,
+        "id": "2604179157",
+        "name": "Optik Krida",
         "role": "stop",
         "bus": "yes",
-        "name": "Optik Krida",
         "public_transport": "stop_position"
       }
     },
@@ -643,10 +643,10 @@
         ]
       },
       "properties": {
-        "id": 11954573590,
+        "id": "11954573590",
+        "name": "Batas Kota",
         "role": "stop",
         "bus": "yes",
-        "name": "Batas Kota",
         "public_transport": "stop_position"
       }
     },
@@ -660,10 +660,10 @@
         ]
       },
       "properties": {
-        "id": 11711326971,
+        "id": "11711326971",
+        "name": "Rajawali Barat",
         "role": "stop",
         "bus": "yes",
-        "name": "Rajawali Barat",
         "public_transport": "stop_position"
       }
     },
@@ -677,10 +677,10 @@
         ]
       },
       "properties": {
-        "id": 11711326972,
+        "id": "11711326972",
+        "name": "Plaza Telkom Rajawali",
         "role": "stop",
         "bus": "yes",
-        "name": "Plaza Telkom Rajawali",
         "public_transport": "stop_position"
       }
     },
@@ -694,10 +694,10 @@
         ]
       },
       "properties": {
-        "id": 12627968405,
+        "id": "12627968405",
+        "name": "Terminal Elang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Elang",
         "public_transport": "stop_position"
       }
     }

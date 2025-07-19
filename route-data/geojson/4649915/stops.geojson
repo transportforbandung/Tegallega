@@ -14,54 +14,7 @@
         "id": "1666231924",
         "name": "Pangkalan Angkot Cimindi",
         "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5618094,
-          -6.8935667
-        ]
-      },
-      "properties": {
-        "id": "v_107.561809_-6.893567",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5630081,
-          -6.8913999
-        ]
-      },
-      "properties": {
-        "id": "v_107.563008_-6.891400",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5641647,
-          -6.8894459
-        ]
-      },
-      "properties": {
-        "id": "v_107.564165_-6.889446",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +31,7 @@
         "id": "2317306703",
         "name": "Seberang Gateway Pasteur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -86,94 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5695663,
-          -6.8896411
+          107.57491160000001,
+          -6.89288905
         ]
       },
       "properties": {
-        "id": "v_107.569566_-6.889641",
-        "name": "Jalan Gunung Batu",
+        "id": "virtual_107.5749_-6.8929",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.571799,
-          -6.8901058
-        ]
-      },
-      "properties": {
-        "id": "v_107.571799_-6.890106",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5725513,
-          -6.8929057
-        ]
-      },
-      "properties": {
-        "id": "v_107.572551_-6.892906",
-        "name": "Jalan Dakota",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5748149,
-          -6.8931333
-        ]
-      },
-      "properties": {
-        "id": "v_107.574815_-6.893133",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5759728,
-          -6.8911239
-        ]
-      },
-      "properties": {
-        "id": "v_107.575973_-6.891124",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5785226,
-          -6.8914458
-        ]
-      },
-      "properties": {
-        "id": "v_107.578523_-6.891446",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -190,6 +65,7 @@
         "id": "1658426541",
         "name": "BPJS Pasteur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +82,7 @@
         "id": "12013144935",
         "name": "Mall d'Botanica",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +99,7 @@
         "id": "2958261155",
         "name": "Djundjunan 3",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -230,62 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5880398,
-          -6.8931831
+          107.5917709,
+          -6.8923188
         ]
       },
       "properties": {
-        "id": "v_107.588040_-6.893183",
-        "name": "Jalan Sukagalih",
+        "id": "virtual_107.5918_-6.8923",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5903993,
-          -6.8932499
-        ]
-      },
-      "properties": {
-        "id": "v_107.590399_-6.893250",
-        "name": "Jalan Sukagalih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.592568,
-          -6.8924285
-        ]
-      },
-      "properties": {
-        "id": "v_107.592568_-6.892429",
-        "name": "Jalan Sukagalih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5948625,
-          -6.8923714
-        ]
-      },
-      "properties": {
-        "id": "v_107.594863_-6.892371",
-        "name": "Jalan Sukagalih",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -302,6 +133,7 @@
         "id": "29357741",
         "name": "Sukagalih PVJ",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +150,7 @@
         "id": "1746711065",
         "name": "Polsek Sukajadi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,22 +167,7 @@
         "id": "29357939",
         "name": "Junction 8 Sukajadi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5989322,
-          -6.8844885
-        ]
-      },
-      "properties": {
-        "id": "v_107.598932_-6.884488",
-        "name": "Jalan Cemara",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +184,7 @@
         "id": "29379224",
         "name": "Jl. Jurang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +201,7 @@
         "id": "3249461526",
         "name": "Pasar Sederhana",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

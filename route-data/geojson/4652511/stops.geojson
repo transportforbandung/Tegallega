@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12626529705",
         "name": "ITC Kebon Kalapa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11898859975",
         "name": "Grand Yogya Kepatihan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "11711275743",
         "name": "Alun-Alun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12808912264",
         "name": "Pos Banceuy",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12626529706",
         "name": "Banceuy",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,22 +116,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6068306,
-          -6.9152963
-        ]
-      },
-      "properties": {
-        "id": "v_107.606831_-6.915296",
-        "name": "Jalan Stasiun Timur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +133,7 @@
         "id": "293384756",
         "name": "Stasiun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +150,7 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +167,7 @@
         "id": "11739021629",
         "name": "SMAN 6 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +184,7 @@
         "id": "12806120202",
         "name": "SDN 013 Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +201,7 @@
         "id": "2012498684",
         "name": "Taman Adipura",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +218,7 @@
         "id": "11138593915",
         "name": "SDN Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +235,7 @@
         "id": "25500626",
         "name": "GOR Padjajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +252,7 @@
         "id": "11739021630",
         "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,38 +269,7 @@
         "id": "3269294966",
         "name": "Abdul Rivai",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6014033,
-          -6.9046523
-        ]
-      },
-      "properties": {
-        "id": "v_107.601403_-6.904652",
-        "name": "Jalan Dokter Gunawan Mangunkusumo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6001443,
-          -6.9026808
-        ]
-      },
-      "properties": {
-        "id": "v_107.600144_-6.902681",
-        "name": "Jalan Doktor Louis Otten",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +286,7 @@
         "id": "1700556149",
         "name": "Taman Westhoff",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +303,7 @@
         "id": "5639376088",
         "name": "Garunggang Kulon",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,22 +320,7 @@
         "id": "12825997250",
         "name": "SPBU Paskal",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5984316,
-          -6.8951102
-        ]
-      },
-      "properties": {
-        "id": "v_107.598432_-6.895110",
-        "name": "Jalan Sederhana",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,22 +337,7 @@
         "id": "3249461526",
         "name": "Pasar Sederhana",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5975019,
-          -6.8885472
-        ]
-      },
-      "properties": {
-        "id": "v_107.597502_-6.888547",
-        "name": "Jalan Sukamaju",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +354,7 @@
         "id": "29357939",
         "name": "Junction 8 Sukajadi",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

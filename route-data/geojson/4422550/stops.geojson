@@ -14,6 +14,7 @@
         "id": "3780800108",
         "name": "Pasar Induk Gedebage",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "3380490528",
         "name": "Pasar Cimol Gedebage",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "12806516343",
         "name": "Seberang Jalan Pasar Induk",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -54,78 +57,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6943409,
-          -6.9286441
+          107.69688525000001,
+          -6.92269875
         ]
       },
       "properties": {
-        "id": "v_107.694341_-6.928644",
-        "name": "Jalan Rumah Sakit",
+        "id": "virtual_107.6969_-6.9227",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6954953,
-          -6.9255578
-        ]
-      },
-      "properties": {
-        "id": "v_107.695495_-6.925558",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6964386,
-          -6.9235041
-        ]
-      },
-      "properties": {
-        "id": "v_107.696439_-6.923504",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6974662,
-          -6.9214314
-        ]
-      },
-      "properties": {
-        "id": "v_107.697466_-6.921431",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6982012,
-          -6.9190868
-        ]
-      },
-      "properties": {
-        "id": "v_107.698201_-6.919087",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -142,22 +82,7 @@
         "id": "12638331186",
         "name": "RSUD Ujungberung",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6978409,
-          -6.9140523
-        ]
-      },
-      "properties": {
-        "id": "v_107.697841_-6.914052",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +99,7 @@
         "id": "2477149675",
         "name": "SDN Andir Kidul",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -182,30 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6932002,
-          -6.9128981
+          107.69073225,
+          -6.91173885
         ]
       },
       "properties": {
-        "id": "v_107.693200_-6.912898",
-        "name": "Jalan Abdul Haris Nasution",
+        "id": "virtual_107.6907_-6.9117",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6910003,
-          -6.9120482
-        ]
-      },
-      "properties": {
-        "id": "v_107.691000_-6.912048",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -222,6 +133,7 @@
         "id": "12806309257",
         "name": "Seberang SMAN 24 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +150,7 @@
         "id": "11047579523",
         "name": "Pusjatan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +167,7 @@
         "id": "3251007173",
         "name": "Gerbang Pusjatan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -262,46 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6835798,
-          -6.9061801
+          107.67987785,
+          -6.90505145
         ]
       },
       "properties": {
-        "id": "v_107.683580_-6.906180",
-        "name": "Jalan Abdul Haris Nasution",
+        "id": "virtual_107.6799_-6.9051",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6813524,
-          -6.9052663
-        ]
-      },
-      "properties": {
-        "id": "v_107.681352_-6.905266",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6788554,
-          -6.904916
-        ]
-      },
-      "properties": {
-        "id": "v_107.678855_-6.904916",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -318,6 +201,7 @@
         "id": "12806309250",
         "name": "Seberang Borma Pasirimpun",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +218,7 @@
         "id": "35135540",
         "name": "Lapas Sukamiskin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +235,7 @@
         "id": "12806309247",
         "name": "Komplek Sarimas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -358,78 +244,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6698686,
-          -6.90423
+          107.66535725,
+          -6.9040152
         ]
       },
       "properties": {
-        "id": "v_107.669869_-6.904230",
-        "name": "Jalan Abdul Haris Nasution",
+        "id": "virtual_107.6654_-6.9040",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6674966,
-          -6.904197
-        ]
-      },
-      "properties": {
-        "id": "v_107.667497_-6.904197",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6650321,
-          -6.9039795
-        ]
-      },
-      "properties": {
-        "id": "v_107.665032_-6.903980",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6625205,
-          -6.9037038
-        ]
-      },
-      "properties": {
-        "id": "v_107.662520_-6.903704",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6605793,
-          -6.9024754
-        ]
-      },
-      "properties": {
-        "id": "v_107.660579_-6.902475",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -446,6 +269,7 @@
         "id": "5832221936",
         "name": "Depan Terminal Cicaheum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +286,7 @@
         "id": "5832221932",
         "name": "Padasuka",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +303,7 @@
         "id": "5832221930",
         "name": "Cimuncang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +320,7 @@
         "id": "12814754615",
         "name": "Sukapada 2",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -502,62 +329,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6437015,
-          -6.8978073
+          107.6420237,
+          -6.8946702
         ]
       },
       "properties": {
-        "id": "v_107.643702_-6.897807",
+        "id": "virtual_107.6420_-6.8947",
         "name": "Jalan Cikutra",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6431237,
-          -6.8954477
-        ]
-      },
-      "properties": {
-        "id": "v_107.643124_-6.895448",
-        "name": "Jalan Cikutra",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6410661,
-          -6.8941877
-        ]
-      },
-      "properties": {
-        "id": "v_107.641066_-6.894188",
-        "name": "Jalan Cikutra",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6386049,
-          -6.8936628
-        ]
-      },
-      "properties": {
-        "id": "v_107.638605_-6.893663",
-        "name": "Jalan Cikutra",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -574,22 +354,7 @@
         "id": "3248882521",
         "name": "Pahlawan Sidomukti",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6348789,
-          -6.8956164
-        ]
-      },
-      "properties": {
-        "id": "v_107.634879_-6.895616",
-        "name": "Jalan Pahlawan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +371,7 @@
         "id": "12628835703",
         "name": "BKKBN",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,6 +388,7 @@
         "id": "12814754609",
         "name": "Simpang Jalaprang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -638,6 +405,7 @@
         "id": "5832220641",
         "name": "SMPN 63 Kota Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -654,6 +422,7 @@
         "id": "12814754605",
         "name": "Taman Pusdai",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -662,30 +431,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.623733,
-          -6.8992253
+          107.6203377,
+          -6.89846265
         ]
       },
       "properties": {
-        "id": "v_107.623733_-6.899225",
-        "name": "Jalan Surapati",
+        "id": "virtual_107.6203_-6.8985",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6203928,
-          -6.8984596
-        ]
-      },
-      "properties": {
-        "id": "v_107.620393_-6.898460",
-        "name": "Jalan Dederuk",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -702,6 +456,7 @@
         "id": "11707030825",
         "name": "Panatayudha B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -718,6 +473,7 @@
         "id": "12637472327",
         "name": "Surya Kencana",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

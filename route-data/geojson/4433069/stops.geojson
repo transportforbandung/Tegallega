@@ -14,22 +14,7 @@
         "id": "3780800108",
         "name": "Pasar Induk Gedebage",
         "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6950088,
-          -6.9369819
-        ]
-      },
-      "properties": {
-        "id": "v_107.695009_-6.936982",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +31,7 @@
         "id": "12806516344",
         "name": "Barat Simpang Gedebage",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -54,46 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6883969,
-          -6.9374526
+          107.6871235,
+          -6.937537
         ]
       },
       "properties": {
-        "id": "v_107.688397_-6.937453",
+        "id": "virtual_107.6871_-6.9375",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.686101,
-          -6.9376237
-        ]
-      },
-      "properties": {
-        "id": "v_107.686101_-6.937624",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6824446,
-          -6.9378809
-        ]
-      },
-      "properties": {
-        "id": "v_107.682445_-6.937881",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -110,6 +65,7 @@
         "id": "12806868621",
         "name": "SMKN 6 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +82,7 @@
         "id": "12806868622",
         "name": "Cipamokolan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +99,7 @@
         "id": "12806868623",
         "name": "Aria Graha",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +116,7 @@
         "id": "3375689668",
         "name": "RS Al Islam",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +133,7 @@
         "id": "12806868625",
         "name": "Metro",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +150,7 @@
         "id": "12806868626",
         "name": "Rancabolang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +167,7 @@
         "id": "12806868627",
         "name": "SMKN 7 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +184,7 @@
         "id": "12806868632",
         "name": "Gagak Rimang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +201,7 @@
         "id": "3272226033",
         "name": "Metro Indah Mall",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +218,7 @@
         "id": "12806868633",
         "name": "BPN Kanwil Jabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +235,7 @@
         "id": "12806851397",
         "name": "Cidurian Selatan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +252,7 @@
         "id": "12806868637",
         "name": "Kantor Pos Sekejati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +269,7 @@
         "id": "12806868639",
         "name": "Disnaker Jabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +286,7 @@
         "id": "12806868640",
         "name": "UNINUS",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +303,7 @@
         "id": "12806868670",
         "name": "Tenth Avenue",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +320,7 @@
         "id": "12806868674",
         "name": "Sekelimus Tengah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +337,7 @@
         "id": "12806868677",
         "name": "Sekelimus Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,22 +354,7 @@
         "id": "12808948218",
         "name": "Guntursari Wetan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6299147,
-          -6.9445213
-        ]
-      },
-      "properties": {
-        "id": "v_107.629915_-6.944521",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +371,7 @@
         "id": "1980677053",
         "name": "ISBI Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,38 +388,7 @@
         "id": "12986852696",
         "name": "SMKN 8 Bandung",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6276384,
-          -6.9380482
-        ]
-      },
-      "properties": {
-        "id": "v_107.627638_-6.938048",
-        "name": "Jalan Karawitan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6255853,
-          -6.9363597
-        ]
-      },
-      "properties": {
-        "id": "v_107.625585_-6.936360",
-        "name": "Jalan Karawitan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +405,7 @@
         "id": "12806868635",
         "name": "Golkar Jawa Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +422,7 @@
         "id": "12809462424",
         "name": "Kangkung Kaler",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +439,7 @@
         "id": "12981961714",
         "name": "Seberang Jalan Terusan Galunggung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,38 +456,7 @@
         "id": "12986852698",
         "name": "Universitas Aisyiyah",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.623714,
-          -6.925252
-        ]
-      },
-      "properties": {
-        "id": "v_107.623714_-6.925252",
-        "name": "Jalan Malabar",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6245629,
-          -6.9228364
-        ]
-      },
-      "properties": {
-        "id": "v_107.624563_-6.922836",
-        "name": "Jalan Malabar",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,6 +473,7 @@
         "id": "12986852700",
         "name": "Jalan Malabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,6 +490,7 @@
         "id": "11735248683",
         "name": "Kantor Pos Kosambi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +507,7 @@
         "id": "3277420346",
         "name": "Seberang Pasar Kosambi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,22 +524,7 @@
         "id": "11735248705",
         "name": "Ketapang",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6177938,
-          -6.9221539
-        ]
-      },
-      "properties": {
-        "id": "v_107.617794_-6.922154",
-        "name": "Jalan terdekat",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -654,6 +541,7 @@
         "id": "10280072517",
         "name": "Gereja Sidang Kristus",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -670,22 +558,7 @@
         "id": "12806120211",
         "name": "Yogya Sunda",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6184073,
-          -6.9156491
-        ]
-      },
-      "properties": {
-        "id": "v_107.618407_-6.915649",
-        "name": "Jalan Sumbawa",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -702,6 +575,7 @@
         "id": "12806120207",
         "name": "Balai Bahasa Jawa Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -718,6 +592,7 @@
         "id": "12806120209",
         "name": "Taman Musik",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -734,6 +609,7 @@
         "id": "3374033495",
         "name": "SMAN 3 dan 5",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -750,6 +626,7 @@
         "id": "12809521950",
         "name": "Taman Lalu Lintas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -766,6 +643,7 @@
         "id": "3376669065",
         "name": "Taman Sejarah Balai Kota Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -782,6 +660,7 @@
         "id": "11739021637",
         "name": "Merdeka",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -798,6 +677,7 @@
         "id": "12825997248",
         "name": "Taman Vanda",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -814,22 +694,7 @@
         "id": "11735248675",
         "name": "Bank Indonesia",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.606675,
-          -6.9147337
-        ]
-      },
-      "properties": {
-        "id": "v_107.606675_-6.914734",
-        "name": "Jalan Kebon Jukut",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -846,6 +711,7 @@
         "id": "293384756",
         "name": "Stasiun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -862,22 +728,7 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5982527,
-          -6.912368
-        ]
-      },
-      "properties": {
-        "id": "v_107.598253_-6.912368",
-        "name": "Jalan Kebon Kawung",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -894,6 +745,7 @@
         "id": "25434237",
         "name": "GKI Kebonjati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -910,6 +762,7 @@
         "id": "11735248674",
         "name": "SMA Pasundan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -926,6 +779,7 @@
         "id": "1013407725",
         "name": "Stasiun Hall",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

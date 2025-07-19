@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,22 +31,7 @@
         "id": "11739021641",
         "name": "Simpang Ijan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6034762,
-          -6.930325
-        ]
-      },
-      "properties": {
-        "id": "v_107.603476_-6.930325",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,22 +48,7 @@
         "id": "11739021644",
         "name": "Taman Tegallega",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6031624,
-          -6.9363928
-        ]
-      },
-      "properties": {
-        "id": "v_107.603162_-6.936393",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +65,7 @@
         "id": "12806765747",
         "name": "Muara",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -102,30 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975831,
-          -6.9378255
+          107.5953773,
+          -6.945973
         ]
       },
       "properties": {
-        "id": "v_107.597583_-6.937825",
-        "name": "Jalan Peta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5966221,
-          -6.9399458
-        ]
-      },
-      "properties": {
-        "id": "v_107.596622_-6.939946",
+        "id": "virtual_107.5954_-6.9460",
         "name": "Jalan Leuwi Panjang",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -134,110 +91,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5961146,
-          -6.942194
+          107.5933988,
+          -6.9524241
         ]
       },
       "properties": {
-        "id": "v_107.596115_-6.942194",
-        "name": "Jalan Leuwi Panjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5956449,
-          -6.9446452
-        ]
-      },
-      "properties": {
-        "id": "v_107.595645_-6.944645",
-        "name": "Jalan Leuwi Panjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5952938,
-          -6.9469212
-        ]
-      },
-      "properties": {
-        "id": "v_107.595294_-6.946921",
-        "name": "Jalan Leuwi Panjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.594111,
-          -6.9491645
-        ]
-      },
-      "properties": {
-        "id": "v_107.594111_-6.949165",
+        "id": "virtual_107.5934_-6.9524",
         "name": "Jalan Raya Cibaduyut",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5935268,
-          -6.9517653
-        ]
-      },
-      "properties": {
-        "id": "v_107.593527_-6.951765",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5932996,
-          -6.9541793
-        ]
-      },
-      "properties": {
-        "id": "v_107.593300_-6.954179",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5931279,
-          -6.9564338
-        ]
-      },
-      "properties": {
-        "id": "v_107.593128_-6.956434",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -254,6 +116,7 @@
         "id": "5348748788",
         "name": "TVRI Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +133,7 @@
         "id": "11338633720",
         "name": "Terminal Cibaduyut",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

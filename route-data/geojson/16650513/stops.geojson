@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12626529705",
         "name": "ITC Kebon Kalapa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,38 +48,7 @@
         "id": "11898859975",
         "name": "Grand Yogya Kepatihan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084422,
-          -6.9226352
-        ]
-      },
-      "properties": {
-        "id": "v_107.608442_-6.922635",
-        "name": "Jalan Dalem Kaum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6107335,
-          -6.9229004
-        ]
-      },
-      "properties": {
-        "id": "v_107.610733_-6.922900",
-        "name": "Jalan Dalem Kaum",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,54 +65,7 @@
         "id": "1956195997",
         "name": "Jalan Jati",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6144957,
-          -6.9278316
-        ]
-      },
-      "properties": {
-        "id": "v_107.614496_-6.927832",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6171591,
-          -6.9291037
-        ]
-      },
-      "properties": {
-        "id": "v_107.617159_-6.929104",
-        "name": "Jalan Sadakeling",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6192084,
-          -6.9280005
-        ]
-      },
-      "properties": {
-        "id": "v_107.619208_-6.928000",
-        "name": "Jalan Sadakeling",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,22 +82,7 @@
         "id": "5853120078",
         "name": "Sekolah BPI",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6224136,
-          -6.9230333
-        ]
-      },
-      "properties": {
-        "id": "v_107.622414_-6.923033",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +99,7 @@
         "id": "12806717340",
         "name": "Aneka Jeans",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -198,46 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6291126,
-          -6.924851
+          107.63210665,
+          -6.92558745
         ]
       },
       "properties": {
-        "id": "v_107.629113_-6.924851",
-        "name": "Jalan Jenderal Gatot Subroto",
+        "id": "virtual_107.6321_-6.9256",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6313583,
-          -6.9254032
-        ]
-      },
-      "properties": {
-        "id": "v_107.631358_-6.925403",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6335757,
-          -6.9262906
-        ]
-      },
-      "properties": {
-        "id": "v_107.633576_-6.926291",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -254,6 +133,7 @@
         "id": "11365366019",
         "name": "Trans Studio Mall",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -262,94 +142,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6389116,
-          -6.9295348
+          107.6439317,
+          -6.9298097
         ]
       },
       "properties": {
-        "id": "v_107.638912_-6.929535",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6410724,
-          -6.9309989
-        ]
-      },
-      "properties": {
-        "id": "v_107.641072_-6.930999",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6435367,
-          -6.9312959
-        ]
-      },
-      "properties": {
-        "id": "v_107.643537_-6.931296",
+        "id": "virtual_107.6439_-6.9298",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6440965,
-          -6.9289532
-        ]
-      },
-      "properties": {
-        "id": "v_107.644097_-6.928953",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6444641,
-          -6.9267038
-        ]
-      },
-      "properties": {
-        "id": "v_107.644464_-6.926704",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6443956,
-          -6.9244413
-        ]
-      },
-      "properties": {
-        "id": "v_107.644396_-6.924441",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -366,6 +167,7 @@
         "id": "12806853451",
         "name": "Seberang Griya Kiaracondong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +184,7 @@
         "id": "12806853452",
         "name": "Daese Garmin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +201,7 @@
         "id": "12806853456",
         "name": "Gerbang Timur Kiara Artha Park",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +218,7 @@
         "id": "11735248700",
         "name": "Flyover Antapani",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +235,7 @@
         "id": "3375793691",
         "name": "WUJ Jalan Banten",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +252,7 @@
         "id": "11735248701",
         "name": "STMIK",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +269,7 @@
         "id": "11735248702",
         "name": "GOR KONI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +286,7 @@
         "id": "11735248693",
         "name": "Cikaso",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,22 +303,7 @@
         "id": "11735248694",
         "name": "Awi Bitung",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6416573,
-          -6.9095608
-        ]
-      },
-      "properties": {
-        "id": "v_107.641657_-6.909561",
-        "name": "Jalan Jenderal Ahmad Yani",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +320,7 @@
         "id": "3248969440",
         "name": "BTM",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

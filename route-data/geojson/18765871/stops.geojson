@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 12626357383,
+        "id": "12626357383",
+        "name": "Hotel Soreang B",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Hotel Soreang B",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12626357398,
+        "id": "12626357398",
+        "name": "Sumber Sari Junction",
         "role": "stop",
         "bus": "yes",
-        "name": "Sumber Sari Junction",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12626357399,
+        "id": "12626357399",
+        "name": "Pasar Induk Caringin",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Induk Caringin",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 11295303565,
+        "id": "11295303565",
+        "name": "Leuwipanjang Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Leuwipanjang Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 3277886379,
+        "id": "3277886379",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"
       }
     }

@@ -14,6 +14,7 @@
         "id": "3373712056",
         "name": "Terminal Dago",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12819940049",
         "name": "SPBU Dago Atas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,22 +48,7 @@
         "id": "12816172252",
         "name": "Seberang Poltekesos",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6187714,
-          -6.8753042
-        ]
-      },
-      "properties": {
-        "id": "v_107.618771_-6.875304",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +65,7 @@
         "id": "12820358786",
         "name": "Kanayakan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -86,46 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6164799,
-          -6.8795713
+          107.6147746,
+          -6.88318575
         ]
       },
       "properties": {
-        "id": "v_107.616480_-6.879571",
-        "name": "Jalan Ir. H. Djuanda",
+        "id": "virtual_107.6148_-6.8832",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6158704,
-          -6.8817604
-        ]
-      },
-      "properties": {
-        "id": "v_107.615870_-6.881760",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6142403,
-          -6.8837915
-        ]
-      },
-      "properties": {
-        "id": "v_107.614240_-6.883792",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -142,22 +99,7 @@
         "id": "11739021656",
         "name": "Masjid Baiturrahman",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6158021,
-          -6.8889815
-        ]
-      },
-      "properties": {
-        "id": "v_107.615802_-6.888981",
-        "name": "Jalan Dipatiukur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +116,7 @@
         "id": "11707030824",
         "name": "UNPAD Dipatiukur (4D)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,22 +133,7 @@
         "id": "3375793673",
         "name": "UNPAD Dipatiukur",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6160516,
-          -6.8948686
-        ]
-      },
-      "properties": {
-        "id": "v_107.616052_-6.894869",
-        "name": "Jalan Hasanudin",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +150,7 @@
         "id": "11104718106",
         "name": "Rumah Sakit Santo Borromeus B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +167,7 @@
         "id": "12820212473",
         "name": "STMIK LIKMI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +184,7 @@
         "id": "10778322181",
         "name": "Kartikasari B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +201,7 @@
         "id": "11873654244",
         "name": "Danamon Cikapayang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +218,7 @@
         "id": "12819940051",
         "name": "Superindo Dago",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +235,7 @@
         "id": "10778322182",
         "name": "Taman Radio B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +252,7 @@
         "id": "10653503634",
         "name": "Hotel The-One-O-One B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,22 +269,7 @@
         "id": "11739021633",
         "name": "Bandung Indah Plaza",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6129452,
-          -6.9099668
-        ]
-      },
-      "properties": {
-        "id": "v_107.612945_-6.909967",
-        "name": "Jalan Aceh",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +286,7 @@
         "id": "12809521950",
         "name": "Taman Lalu Lintas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +303,7 @@
         "id": "12887182816",
         "name": "SMP Negeri 2 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,38 +320,7 @@
         "id": "3374033500",
         "name": "Tamblong",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6120718,
-          -6.9213137
-        ]
-      },
-      "properties": {
-        "id": "v_107.612072_-6.921314",
-        "name": "Jalan Tamblong",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6117934,
-          -6.9237378
-        ]
-      },
-      "properties": {
-        "id": "v_107.611793_-6.923738",
-        "name": "Jalan Lengkong Besar",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +337,7 @@
         "id": "1956195997",
         "name": "Jalan Jati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +354,7 @@
         "id": "3374033505",
         "name": "UNPAS Lengkong Besar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,54 +371,7 @@
         "id": "12809314942",
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6115743,
-          -6.9323207
-        ]
-      },
-      "properties": {
-        "id": "v_107.611574_-6.932321",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084036,
-          -6.9320886
-        ]
-      },
-      "properties": {
-        "id": "v_107.608404_-6.932089",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6060299,
-          -6.931773
-        ]
-      },
-      "properties": {
-        "id": "v_107.606030_-6.931773",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,6 +388,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

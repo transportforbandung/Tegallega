@@ -14,6 +14,7 @@
         "id": "12638331186",
         "name": "RSUD Ujungberung",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -22,14 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6985608,
-          -6.9182368
+          107.69639643333333,
+          -6.923577133333334
         ]
       },
       "properties": {
-        "id": "v_107.698561_-6.918237",
-        "name": "Jalan Rumah Sakit",
+        "id": "virtual_107.6964_-6.9236",
+        "name": "Jalan terdekat",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -38,110 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6976627,
-          -6.9208368
+          107.69329333333333,
+          -6.931560566666667
         ]
       },
       "properties": {
-        "id": "v_107.697663_-6.920837",
-        "name": "Jalan Rumah Sakit",
+        "id": "virtual_107.6933_-6.9316",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6967262,
-          -6.9229736
-        ]
-      },
-      "properties": {
-        "id": "v_107.696726_-6.922974",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6956949,
-          -6.925036
-        ]
-      },
-      "properties": {
-        "id": "v_107.695695_-6.925036",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6945747,
-          -6.9280103
-        ]
-      },
-      "properties": {
-        "id": "v_107.694575_-6.928010",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6937198,
-          -6.9303085
-        ]
-      },
-      "properties": {
-        "id": "v_107.693720_-6.930308",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6930017,
-          -6.9325813
-        ]
-      },
-      "properties": {
-        "id": "v_107.693002_-6.932581",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6927921,
-          -6.9349278
-        ]
-      },
-      "properties": {
-        "id": "v_107.692792_-6.934928",
-        "name": "Jalan Rumah Sakit",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -158,6 +65,7 @@
         "id": "12806516344",
         "name": "Barat Simpang Gedebage",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -166,46 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6883969,
-          -6.9374526
+          107.6871235,
+          -6.937537
         ]
       },
       "properties": {
-        "id": "v_107.688397_-6.937453",
+        "id": "virtual_107.6871_-6.9375",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.686101,
-          -6.9376237
-        ]
-      },
-      "properties": {
-        "id": "v_107.686101_-6.937624",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6824446,
-          -6.9378809
-        ]
-      },
-      "properties": {
-        "id": "v_107.682445_-6.937881",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -222,6 +99,7 @@
         "id": "12806868621",
         "name": "SMKN 6 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +116,7 @@
         "id": "12806868622",
         "name": "Cipamokolan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +133,7 @@
         "id": "12806868623",
         "name": "Aria Graha",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +150,7 @@
         "id": "3375689668",
         "name": "RS Al Islam",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +167,7 @@
         "id": "12806868625",
         "name": "Metro",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +184,7 @@
         "id": "12806868626",
         "name": "Rancabolang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +201,7 @@
         "id": "12806868627",
         "name": "SMKN 7 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +218,7 @@
         "id": "12806868632",
         "name": "Gagak Rimang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +235,7 @@
         "id": "3272226033",
         "name": "Metro Indah Mall",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +252,7 @@
         "id": "12806868633",
         "name": "BPN Kanwil Jabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +269,7 @@
         "id": "12806851397",
         "name": "Cidurian Selatan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +286,7 @@
         "id": "12806868637",
         "name": "Kantor Pos Sekejati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +303,7 @@
         "id": "12806868639",
         "name": "Disnaker Jabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +320,7 @@
         "id": "12806868640",
         "name": "UNINUS",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +337,7 @@
         "id": "12806868670",
         "name": "Tenth Avenue",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +354,7 @@
         "id": "12806868674",
         "name": "Sekelimus Tengah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +371,7 @@
         "id": "12806868677",
         "name": "Sekelimus Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +388,7 @@
         "id": "2614138793",
         "name": "Medal Sekarwangi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +405,7 @@
         "id": "12626499697",
         "name": "Bangunan Mart A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +422,7 @@
         "id": "12626499700",
         "name": "LPKIA A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,6 +439,7 @@
         "id": "12808867752",
         "name": "STIE Inaba",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -550,14 +448,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6203693,
-          -6.9491853
+          107.62094733333333,
+          -6.943829466666667
         ]
       },
       "properties": {
-        "id": "v_107.620369_-6.949185",
-        "name": "Jalan Soekarno-Hatta",
+        "id": "virtual_107.6209_-6.9438",
+        "name": "Jalan terdekat",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -566,94 +465,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6211978,
-          -6.9457709
+          107.61600913333334,
+          -6.941217866666666
         ]
       },
       "properties": {
-        "id": "v_107.621198_-6.945771",
-        "name": "Jalan Pasir Salam",
+        "id": "virtual_107.6160_-6.9412",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6201767,
-          -6.943697
-        ]
-      },
-      "properties": {
-        "id": "v_107.620177_-6.943697",
-        "name": "Jalan Pasir Salam",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6177533,
-          -6.943647
-        ]
-      },
-      "properties": {
-        "id": "v_107.617753_-6.943647",
-        "name": "Jalan Pasir Salam",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6160002,
-          -6.9418508
-        ]
-      },
-      "properties": {
-        "id": "v_107.616000_-6.941851",
-        "name": "Jalan Pasirluyu Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6160438,
-          -6.9394735
-        ]
-      },
-      "properties": {
-        "id": "v_107.616044_-6.939474",
-        "name": "Jalan Pasirluyu Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6138239,
-          -6.9378694
-        ]
-      },
-      "properties": {
-        "id": "v_107.613824_-6.937869",
-        "name": "Jalan BKR",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -670,6 +490,7 @@
         "id": "3376171471",
         "name": "Masjid An Nur PT INTI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -686,6 +507,7 @@
         "id": "10815723012",
         "name": "Simpang Mohamad Toha Biddokkes",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -702,6 +524,7 @@
         "id": "11739021646",
         "name": "Taman Tegallega",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -718,6 +541,7 @@
         "id": "11739021654",
         "name": "Pintu Masuk Terminal Tegallega",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -734,6 +558,7 @@
         "id": "3383341282",
         "name": "Pasar Astana Anyar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -742,126 +567,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5986352,
-          -6.9299972
+          107.5917633,
+          -6.9260265
         ]
       },
       "properties": {
-        "id": "v_107.598635_-6.929997",
-        "name": "Jalan Panjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5979226,
-          -6.9278179
-        ]
-      },
-      "properties": {
-        "id": "v_107.597923_-6.927818",
-        "name": "Jalan Kopo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5960199,
-          -6.9264972
-        ]
-      },
-      "properties": {
-        "id": "v_107.596020_-6.926497",
+        "id": "virtual_107.5918_-6.9260",
         "name": "Jalan Pasir Koja",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5933578,
-          -6.9261911
-        ]
-      },
-      "properties": {
-        "id": "v_107.593358_-6.926191",
-        "name": "Jalan Pasir Koja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5907126,
-          -6.9259066
-        ]
-      },
-      "properties": {
-        "id": "v_107.590713_-6.925907",
-        "name": "Jalan Pasir Koja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5882726,
-          -6.9258633
-        ]
-      },
-      "properties": {
-        "id": "v_107.588273_-6.925863",
-        "name": "Jalan Pasir Koja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5858295,
-          -6.9267077
-        ]
-      },
-      "properties": {
-        "id": "v_107.585830_-6.926708",
-        "name": "Jalan Pasir Koja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5856433,
-          -6.924304
-        ]
-      },
-      "properties": {
-        "id": "v_107.585643_-6.924304",
-        "name": "Jalan Jamika",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -878,6 +592,7 @@
         "id": "2325452491",
         "name": "Unknown",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -894,6 +609,7 @@
         "id": "11711275757",
         "name": "Toko Ambon",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -910,6 +626,7 @@
         "id": "11954573588",
         "name": "SDN Raya Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -926,22 +643,7 @@
         "id": "11711275763",
         "name": "Kemenag Kanwil Jabar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5748109,
-          -6.9172338
-        ]
-      },
-      "properties": {
-        "id": "v_107.574811_-6.917234",
-        "name": "Jalan Jendral Sudirman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -958,6 +660,7 @@
         "id": "12013198354",
         "name": "Terminal Elang",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

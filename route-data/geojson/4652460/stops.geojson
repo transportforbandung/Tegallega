@@ -14,6 +14,7 @@
         "id": "29357939",
         "name": "Junction 8 Sukajadi",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -22,78 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5989322,
-          -6.8844885
+          107.6004343,
+          -6.8842009
         ]
       },
       "properties": {
-        "id": "v_107.598932_-6.884488",
+        "id": "virtual_107.6004_-6.8842",
         "name": "Jalan Cemara",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.60158,
-          -6.8845161
-        ]
-      },
-      "properties": {
-        "id": "v_107.601580_-6.884516",
-        "name": "Jalan Cemara",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6021499,
-          -6.8872977
-        ]
-      },
-      "properties": {
-        "id": "v_107.602150_-6.887298",
-        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6024306,
-          -6.8897621
-        ]
-      },
-      "properties": {
-        "id": "v_107.602431_-6.889762",
-        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6025732,
-          -6.8920405
-        ]
-      },
-      "properties": {
-        "id": "v_107.602573_-6.892041",
-        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -110,38 +48,7 @@
         "id": "3376669085",
         "name": "Masjid Besar Cipaganti",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6005885,
-          -6.8961348
-        ]
-      },
-      "properties": {
-        "id": "v_107.600589_-6.896135",
-        "name": "Jalan Profesor Christiaan Eijkman",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5982533,
-          -6.8959337
-        ]
-      },
-      "properties": {
-        "id": "v_107.598253_-6.895934",
-        "name": "Jalan Profesor Christiaan Eijkman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,22 +65,7 @@
         "id": "12809082541",
         "name": "Paskal RSHS",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5985704,
-          -6.900207
-        ]
-      },
-      "properties": {
-        "id": "v_107.598570_-6.900207",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +82,7 @@
         "id": "12809237524",
         "name": "GKI Pasteur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +99,7 @@
         "id": "12809237525",
         "name": "Linggawastu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,22 +116,7 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6076183,
-          -6.907233
-        ]
-      },
-      "properties": {
-        "id": "v_107.607618_-6.907233",
-        "name": "Jalan Wastukencana",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +133,7 @@
         "id": "12809237527",
         "name": "Pajajaran Timur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,38 +150,7 @@
         "id": "3376669069",
         "name": "Kimia Farma",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.60413,
-          -6.9100304
-        ]
-      },
-      "properties": {
-        "id": "v_107.604130_-6.910030",
-        "name": "Jalan Cicendo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6039597,
-          -6.9124977
-        ]
-      },
-      "properties": {
-        "id": "v_107.603960_-6.912498",
-        "name": "Jalan Cicendo",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +167,7 @@
         "id": "11711326974",
         "name": "Perintis Kemerdekaan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +184,7 @@
         "id": "11735248675",
         "name": "Bank Indonesia",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +201,7 @@
         "id": "1849525838",
         "name": "Lembong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +218,7 @@
         "id": "10801865379",
         "name": "Telkom Lembong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,38 +235,7 @@
         "id": "3374033500",
         "name": "Tamblong",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6120718,
-          -6.9213137
-        ]
-      },
-      "properties": {
-        "id": "v_107.612072_-6.921314",
-        "name": "Jalan Tamblong",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6117934,
-          -6.9237378
-        ]
-      },
-      "properties": {
-        "id": "v_107.611793_-6.923738",
-        "name": "Jalan Lengkong Besar",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +252,7 @@
         "id": "1956195997",
         "name": "Jalan Jati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +269,7 @@
         "id": "3374033505",
         "name": "UNPAS Lengkong Besar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,54 +286,7 @@
         "id": "12809314942",
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6115743,
-          -6.9323207
-        ]
-      },
-      "properties": {
-        "id": "v_107.611574_-6.932321",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084036,
-          -6.9320886
-        ]
-      },
-      "properties": {
-        "id": "v_107.608404_-6.932089",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6060299,
-          -6.931773
-        ]
-      },
-      "properties": {
-        "id": "v_107.606030_-6.931773",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +303,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

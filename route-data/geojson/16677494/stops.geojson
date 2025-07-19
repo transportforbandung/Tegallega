@@ -6,86 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5942998,
-          -6.9486456
-        ]
-      },
-      "properties": {
-        "id": "v_107.594300_-6.948646",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5936724,
-          -6.9508306
-        ]
-      },
-      "properties": {
-        "id": "v_107.593672_-6.950831",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.593305,
-          -6.9532368
-        ]
-      },
-      "properties": {
-        "id": "v_107.593305_-6.953237",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5933754,
-          -6.9556357
-        ]
-      },
-      "properties": {
-        "id": "v_107.593375_-6.955636",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5932071,
-          -6.9579567
-        ]
-      },
-      "properties": {
-        "id": "v_107.593207_-6.957957",
-        "name": "Jalan Raya Cibaduyut",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.5937757,
           -6.9617658
         ]
@@ -94,6 +14,7 @@
         "id": "11338633720",
         "name": "Terminal Cibaduyut",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -102,14 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5951418,
-          -6.9478259
+          107.5952184,
+          -6.9469031
         ]
       },
       "properties": {
-        "id": "v_107.595142_-6.947826",
-        "name": "Jalan Raya Cibaduyut",
+        "id": "virtual_107.5952_-6.9469",
+        "name": "Jalan Leuwi Panjang",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -126,38 +48,7 @@
         "id": "3115012017",
         "name": "Terminal Leuwipanjang",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5910845,
-          -6.9435862
-        ]
-      },
-      "properties": {
-        "id": "v_107.591084_-6.943586",
-        "name": "Jalan Keluar Terminal Leuwipanjang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5922389,
-          -6.9415903
-        ]
-      },
-      "properties": {
-        "id": "v_107.592239_-6.941590",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +65,7 @@
         "id": "12628901396",
         "name": "SDN Babakan Tarogong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +82,7 @@
         "id": "12809314941",
         "name": "Barat Simpang Imanuel",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +99,7 @@
         "id": "12626357384",
         "name": "Hotel Grand Pasundan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,22 +116,7 @@
         "id": "12626357385",
         "name": "Bumi Kopo Kencana",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5887036,
-          -6.9312262
-        ]
-      },
-      "properties": {
-        "id": "v_107.588704_-6.931226",
-        "name": "Jalan Peta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +133,7 @@
         "id": "12626357386",
         "name": "Festival Citylink",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,22 +150,7 @@
         "id": "11739021652",
         "name": "Rumah Sakit Immanuel A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5980158,
-          -6.9377065
-        ]
-      },
-      "properties": {
-        "id": "v_107.598016_-6.937706",
-        "name": "Jalan Peta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +167,7 @@
         "id": "12628930762",
         "name": "Muara A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +184,7 @@
         "id": "12806765746",
         "name": "Taman Tegalega/Sri Baduga",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,38 +201,7 @@
         "id": "5355897678",
         "name": "Taman Tegalega 3",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6064644,
-          -6.934149
-        ]
-      },
-      "properties": {
-        "id": "v_107.606464_-6.934149",
-        "name": "Jalan Mohammad Toha",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6066275,
-          -6.9318519
-        ]
-      },
-      "properties": {
-        "id": "v_107.606628_-6.931852",
-        "name": "Jalan Mohammad Toha",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +218,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

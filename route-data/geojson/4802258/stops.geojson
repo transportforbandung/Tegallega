@@ -14,6 +14,7 @@
         "id": "1013407725",
         "name": "Stasiun Hall",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11711326974",
         "name": "Perintis Kemerdekaan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "11739064594",
         "name": "SMK Negeri 1 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12809274346",
         "name": "Masjid Al-Ukhuwwah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12809274348",
         "name": "Wastukencana Purnawarman",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +116,7 @@
         "id": "11739021630",
         "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,54 +133,7 @@
         "id": "3269294966",
         "name": "Abdul Rivai",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6024265,
-          -6.9024472
-        ]
-      },
-      "properties": {
-        "id": "v_107.602427_-6.902447",
-        "name": "Jalan Raden Adipati Aria Wiranatakusumah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6014571,
-          -6.9003605
-        ]
-      },
-      "properties": {
-        "id": "v_107.601457_-6.900360",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5991415,
-          -6.9003667
-        ]
-      },
-      "properties": {
-        "id": "v_107.599142_-6.900367",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +150,7 @@
         "id": "5639376088",
         "name": "Garunggang Kulon",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +167,7 @@
         "id": "12825997250",
         "name": "SPBU Paskal",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,22 +184,7 @@
         "id": "29357744",
         "name": "Cibarengkok",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5970769,
-          -6.893622
-        ]
-      },
-      "properties": {
-        "id": "v_107.597077_-6.893622",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +201,7 @@
         "id": "29357741",
         "name": "Sukagalih PVJ",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +218,7 @@
         "id": "1746711065",
         "name": "Polsek Sukajadi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,38 +235,7 @@
         "id": "3380200149",
         "name": "Mandiri Sukajadi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5964257,
-          -6.8813836
-        ]
-      },
-      "properties": {
-        "id": "v_107.596426_-6.881384",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5986782,
-          -6.8811214
-        ]
-      },
-      "properties": {
-        "id": "v_107.598678_-6.881121",
-        "name": "Jalan Karang Sari",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +252,7 @@
         "id": "6165179774",
         "name": "Setiabudi Hegarmanah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -342,30 +261,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6042247,
-          -6.8844139
+          107.6038795,
+          -6.880847
         ]
       },
       "properties": {
-        "id": "v_107.604225_-6.884414",
-        "name": "Jalan Dokter Setiabudi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6040603,
-          -6.8813934
-        ]
-      },
-      "properties": {
-        "id": "v_107.604060_-6.881393",
+        "id": "virtual_107.6039_-6.8808",
         "name": "Jalan Ciumbuleuit",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -374,94 +278,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6037148,
-          -6.8786367
+          107.6051692,
+          -6.8721462
         ]
       },
       "properties": {
-        "id": "v_107.603715_-6.878637",
+        "id": "virtual_107.6052_-6.8721",
         "name": "Jalan Ciumbuleuit",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6042432,
-          -6.8762898
-        ]
-      },
-      "properties": {
-        "id": "v_107.604243_-6.876290",
-        "name": "Jalan Ciumbuleuit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6048246,
-          -6.8736699
-        ]
-      },
-      "properties": {
-        "id": "v_107.604825_-6.873670",
-        "name": "Jalan Ciumbuleuit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6053805,
-          -6.8711463
-        ]
-      },
-      "properties": {
-        "id": "v_107.605380_-6.871146",
-        "name": "Jalan Ciumbuleuit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6058851,
-          -6.8687427
-        ]
-      },
-      "properties": {
-        "id": "v_107.605885_-6.868743",
-        "name": "Jalan Ciumbuleuit",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6060767,
-          -6.8659161
-        ]
-      },
-      "properties": {
-        "id": "v_107.606077_-6.865916",
-        "name": "Jalan Ciumbuleuit",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -478,6 +303,7 @@
         "id": "319706142",
         "name": "RSAU dr. Salamun",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

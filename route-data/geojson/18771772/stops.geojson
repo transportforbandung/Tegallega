@@ -14,6 +14,7 @@
         "id": "12629197818",
         "name": "Overpass Mengger",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -22,78 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6223888,
-          -6.9559496
+          107.6215962,
+          -6.9523569
         ]
       },
       "properties": {
-        "id": "v_107.622389_-6.955950",
+        "id": "virtual_107.6216_-6.9524",
         "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6228629,
-          -6.958171
-        ]
-      },
-      "properties": {
-        "id": "v_107.622863_-6.958171",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6222422,
-          -6.9543881
-        ]
-      },
-      "properties": {
-        "id": "v_107.622242_-6.954388",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6215728,
-          -6.9520553
-        ]
-      },
-      "properties": {
-        "id": "v_107.621573_-6.952055",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6239296,
-          -6.9494823
-        ]
-      },
-      "properties": {
-        "id": "v_107.623930_-6.949482",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -110,6 +48,7 @@
         "id": "2744242982",
         "name": "Pasirluyu Selatan/Sukaati",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

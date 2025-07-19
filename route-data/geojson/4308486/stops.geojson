@@ -14,22 +14,7 @@
         "id": "12633822765",
         "name": "Seberang Kiara Artha",
         "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6440375,
-          -6.9165764
-        ]
-      },
-      "properties": {
-        "id": "v_107.644037_-6.916576",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +31,7 @@
         "id": "12806853454",
         "name": "SDN 083 Babakan Surabaya Selatan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,22 +48,7 @@
         "id": "12806853450",
         "name": "Griya Kiaracondong",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6445077,
-          -6.9245514
-        ]
-      },
-      "properties": {
-        "id": "v_107.644508_-6.924551",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +65,7 @@
         "id": "12806853449",
         "name": "Jalan PSM",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +82,7 @@
         "id": "12806853447",
         "name": "Honda Daya Motor Kiaracondong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,22 +99,7 @@
         "id": "12806853446",
         "name": "SDN 38 Kiaracondong",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6425875,
-          -6.9357551
-        ]
-      },
-      "properties": {
-        "id": "v_107.642588_-6.935755",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +116,7 @@
         "id": "12806853442",
         "name": "Kebon Kangkung 11",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +133,7 @@
         "id": "12806853440",
         "name": "Den Jasa Ang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +150,7 @@
         "id": "12806853435",
         "name": "SPBU Kebon Kangkung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +167,7 @@
         "id": "12806868670",
         "name": "Tenth Avenue",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +184,7 @@
         "id": "12806868674",
         "name": "Sekelimus Tengah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +201,7 @@
         "id": "12806868677",
         "name": "Sekelimus Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +218,7 @@
         "id": "2614138793",
         "name": "Medal Sekarwangi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +235,7 @@
         "id": "12626499697",
         "name": "Bangunan Mart A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +252,7 @@
         "id": "12626499700",
         "name": "LPKIA A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +269,7 @@
         "id": "12808867752",
         "name": "STIE Inaba",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +286,7 @@
         "id": "2744242982",
         "name": "Pasirluyu Selatan/Sukaati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +303,7 @@
         "id": "3384018111",
         "name": "PT LEN Industri A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,22 +320,7 @@
         "id": "12808867754",
         "name": "Mengger Girang",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6149066,
-          -6.9487921
-        ]
-      },
-      "properties": {
-        "id": "v_107.614907_-6.948792",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +337,7 @@
         "id": "12626529703",
         "name": "PLN UP3 Bandung A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +354,7 @@
         "id": "11707031627",
         "name": "Simpang By Pass Soekarno Hatta B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +371,7 @@
         "id": "12808867758",
         "name": "Ampera Soekarno Hatta",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,22 +388,7 @@
         "id": "12808867763",
         "name": "Karasak Lama",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5998819,
-          -6.9477177
-        ]
-      },
-      "properties": {
-        "id": "v_107.599882_-6.947718",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -459,9 +402,10 @@
         ]
       },
       "properties": {
-        "id": "v_107.597437_-6.947648",
+        "id": "virtual_107.5974_-6.9476",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -478,22 +422,7 @@
         "id": "3277891129",
         "name": "Seberang Terminal Leuwipanjang",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5906079,
-          -6.9461252
-        ]
-      },
-      "properties": {
-        "id": "v_107.590608_-6.946125",
-        "name": "Jalan Soekarno-Hatta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +439,7 @@
         "id": "11295303565",
         "name": "Leuwipanjang Soekarno Hatta",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

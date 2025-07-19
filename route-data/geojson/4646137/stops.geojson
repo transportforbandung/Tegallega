@@ -14,6 +14,7 @@
         "id": "7484309659",
         "name": "Barat Simpang Kopo Caringin",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -22,126 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5855655,
-          -6.9462201
+          107.5766163,
+          -6.9432104
         ]
       },
       "properties": {
-        "id": "v_107.585566_-6.946220",
+        "id": "virtual_107.5766_-6.9432",
         "name": "Jalan Caringin",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5832827,
-          -6.9454884
-        ]
-      },
-      "properties": {
-        "id": "v_107.583283_-6.945488",
-        "name": "Jalan Caringin",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.581029,
-          -6.9446823
-        ]
-      },
-      "properties": {
-        "id": "v_107.581029_-6.944682",
-        "name": "Jalan Caringin",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5784825,
-          -6.9437716
-        ]
-      },
-      "properties": {
-        "id": "v_107.578483_-6.943772",
-        "name": "Jalan Caringin",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5763286,
-          -6.9444805
-        ]
-      },
-      "properties": {
-        "id": "v_107.576329_-6.944481",
-        "name": "Jalan Caringin",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5740771,
-          -6.9438953
-        ]
-      },
-      "properties": {
-        "id": "v_107.574077_-6.943895",
-        "name": "Jalan Caringin",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5720665,
-          -6.942735
-        ]
-      },
-      "properties": {
-        "id": "v_107.572067_-6.942735",
-        "name": "Jalan Caringin",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5704485,
-          -6.9408221
-        ]
-      },
-      "properties": {
-        "id": "v_107.570448_-6.940822",
-        "name": "Jalan Caringin",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -155,9 +45,10 @@
         ]
       },
       "properties": {
-        "id": "v_107.569436_-6.938603",
+        "id": "virtual_107.5694_-6.9386",
         "name": "Jalan Holis",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -166,142 +57,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5703771,
-          -6.936519
+          107.571962,
+          -6.9277513
         ]
       },
       "properties": {
-        "id": "v_107.570377_-6.936519",
-        "name": "Jalan Holis",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5714529,
-          -6.9343765
-        ]
-      },
-      "properties": {
-        "id": "v_107.571453_-6.934376",
-        "name": "Jalan Holis",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5722218,
-          -6.9322437
-        ]
-      },
-      "properties": {
-        "id": "v_107.572222_-6.932244",
-        "name": "Jalan Holis",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5731665,
-          -6.9299759
-        ]
-      },
-      "properties": {
-        "id": "v_107.573166_-6.929976",
-        "name": "Jalan Holis",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5734714,
-          -6.9277435
-        ]
-      },
-      "properties": {
-        "id": "v_107.573471_-6.927744",
+        "id": "virtual_107.5720_-6.9278",
         "name": "Jalan Bojong Raya",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5707645,
-          -6.9277483
-        ]
-      },
-      "properties": {
-        "id": "v_107.570764_-6.927748",
-        "name": "Jalan Bojong Raya",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5676039,
-          -6.9273562
-        ]
-      },
-      "properties": {
-        "id": "v_107.567604_-6.927356",
-        "name": "Jalan Bojong Raya",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5662228,
-          -6.9255204
-        ]
-      },
-      "properties": {
-        "id": "v_107.566223_-6.925520",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5679081,
-          -6.9238625
-        ]
-      },
-      "properties": {
-        "id": "v_107.567908_-6.923863",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -318,6 +82,7 @@
         "id": "12809314930",
         "name": "SDN 061 Cijerah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -326,46 +91,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.570031,
-          -6.9197761
+          107.5707702,
+          -6.9176068
         ]
       },
       "properties": {
-        "id": "v_107.570031_-6.919776",
-        "name": "Jalan Raya Cijerah",
+        "id": "virtual_107.5708_-6.9176",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5707809,
-          -6.9175368
-        ]
-      },
-      "properties": {
-        "id": "v_107.570781_-6.917537",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5713267,
-          -6.9151148
-        ]
-      },
-      "properties": {
-        "id": "v_107.571327_-6.915115",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -382,6 +116,7 @@
         "id": "11954573590",
         "name": "Batas Kota",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,22 +133,7 @@
         "id": "11711326971",
         "name": "Rajawali Barat",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5725782,
-          -6.9118819
-        ]
-      },
-      "properties": {
-        "id": "v_107.572578_-6.911882",
-        "name": "Jalan Rajawali Barat",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +150,7 @@
         "id": "11711326972",
         "name": "Plaza Telkom Rajawali",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -438,94 +159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5775341,
-          -6.9136343
+          107.5797772,
+          -6.9074113
         ]
       },
       "properties": {
-        "id": "v_107.577534_-6.913634",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5781807,
-          -6.9110965
-        ]
-      },
-      "properties": {
-        "id": "v_107.578181_-6.911097",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5786836,
-          -6.9088312
-        ]
-      },
-      "properties": {
-        "id": "v_107.578684_-6.908831",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5805286,
-          -6.907483
-        ]
-      },
-      "properties": {
-        "id": "v_107.580529_-6.907483",
+        "id": "virtual_107.5798_-6.9074",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5830117,
-          -6.907607
-        ]
-      },
-      "properties": {
-        "id": "v_107.583012_-6.907607",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5854,
-          -6.9072563
-        ]
-      },
-      "properties": {
-        "id": "v_107.585400_-6.907256",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -542,6 +184,7 @@
         "id": "3377321681",
         "name": "Pintu Masuk Bandara Husein Sastranegara",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -558,6 +201,7 @@
         "id": "7547053355",
         "name": "Pajajaran 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -566,62 +210,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.595037,
-          -6.9066943
+          107.60098755,
+          -6.903623700000001
         ]
       },
       "properties": {
-        "id": "v_107.595037_-6.906694",
-        "name": "Jalan Pajajaran",
+        "id": "virtual_107.6010_-6.9036",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5962164,
-          -6.9046946
-        ]
-      },
-      "properties": {
-        "id": "v_107.596216_-6.904695",
-        "name": "Jalan Astina",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5984276,
-          -6.9039816
-        ]
-      },
-      "properties": {
-        "id": "v_107.598428_-6.903982",
-        "name": "Jalan Dokter Radjiman Wedyodiningrat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.600786,
-          -6.9039172
-        ]
-      },
-      "properties": {
-        "id": "v_107.600786_-6.903917",
-        "name": "Jalan Dokter Radjiman Wedyodiningrat",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -638,6 +235,7 @@
         "id": "12809237525",
         "name": "Linggawastu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -654,6 +252,7 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -670,22 +269,7 @@
         "id": "29392595",
         "name": "UNISBA",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6083923,
-          -6.9016206
-        ]
-      },
-      "properties": {
-        "id": "v_107.608392_-6.901621",
-        "name": "Jalan Taman Sari",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -702,6 +286,7 @@
         "id": "1969331852",
         "name": "Balubur Town Square",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -718,6 +303,7 @@
         "id": "3376871368",
         "name": "Pelesiran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -734,6 +320,7 @@
         "id": "12813237928",
         "name": "Lapangan Sipil",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -750,6 +337,7 @@
         "id": "2035856554",
         "name": "Gerbang Depan ITB",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -766,86 +354,7 @@
         "id": "12813237913",
         "name": "Ganesha Ciungwanara",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6131662,
-          -6.8914961
-        ]
-      },
-      "properties": {
-        "id": "v_107.613166_-6.891496",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6134064,
-          -6.8892526
-        ]
-      },
-      "properties": {
-        "id": "v_107.613406_-6.889253",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.613564,
-          -6.8870071
-        ]
-      },
-      "properties": {
-        "id": "v_107.613564_-6.887007",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6138089,
-          -6.884725
-        ]
-      },
-      "properties": {
-        "id": "v_107.613809_-6.884725",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6151252,
-          -6.8825877
-        ]
-      },
-      "properties": {
-        "id": "v_107.615125_-6.882588",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -859,73 +368,10 @@
         ]
       },
       "properties": {
-        "id": "v_107.615519_-6.884955",
+        "id": "virtual_107.6155_-6.8850",
         "name": "Jalan Tubagus Ismail",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6180496,
-          -6.8850537
-        ]
-      },
-      "properties": {
-        "id": "v_107.618050_-6.885054",
-        "name": "Jalan Tubagus Ismail",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6204462,
-          -6.8850956
-        ]
-      },
-      "properties": {
-        "id": "v_107.620446_-6.885096",
-        "name": "Jalan Tubagus Ismail",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6227592,
-          -6.8857715
-        ]
-      },
-      "properties": {
-        "id": "v_107.622759_-6.885771",
-        "name": "Jalan Tubagus Ismail",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6238695,
-          -6.8877444
-        ]
-      },
-      "properties": {
-        "id": "v_107.623869_-6.887744",
-        "name": "Jalan Tubagus Ismail",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -942,6 +388,7 @@
         "id": "3252929646",
         "name": "Terminal Sadang Serang",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

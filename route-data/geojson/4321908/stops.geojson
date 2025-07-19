@@ -14,6 +14,7 @@
         "id": "3249461526",
         "name": "Pasar Sederhana",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,22 +31,7 @@
         "id": "29379371",
         "name": "Makmur",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6009465,
-          -6.8954647
-        ]
-      },
-      "properties": {
-        "id": "v_107.600947_-6.895465",
-        "name": "Jalan Makmur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,70 +48,7 @@
         "id": "29357744",
         "name": "Cibarengkok",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5970391,
-          -6.8930157
-        ]
-      },
-      "properties": {
-        "id": "v_107.597039_-6.893016",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5948625,
-          -6.8923714
-        ]
-      },
-      "properties": {
-        "id": "v_107.594863_-6.892371",
-        "name": "Jalan Sukagalih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5925975,
-          -6.8924332
-        ]
-      },
-      "properties": {
-        "id": "v_107.592597_-6.892433",
-        "name": "Jalan Sukagalih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5903791,
-          -6.8929326
-        ]
-      },
-      "properties": {
-        "id": "v_107.590379_-6.892933",
-        "name": "Jalan Cipedes Selatan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,86 +65,7 @@
         "id": "12628813992",
         "name": "Griya Pasteur 2",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5904656,
-          -6.8962229
-        ]
-      },
-      "properties": {
-        "id": "v_107.590466_-6.896223",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5926529,
-          -6.8974821
-        ]
-      },
-      "properties": {
-        "id": "v_107.592653_-6.897482",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5944451,
-          -6.8989736
-        ]
-      },
-      "properties": {
-        "id": "v_107.594445_-6.898974",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5925774,
-          -6.8975709
-        ]
-      },
-      "properties": {
-        "id": "v_107.592577_-6.897571",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5904922,
-          -6.8963655
-        ]
-      },
-      "properties": {
-        "id": "v_107.590492_-6.896365",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,22 +82,7 @@
         "id": "12628813994",
         "name": "Griya Pasteur 1",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5864173,
-          -6.8935998
-        ]
-      },
-      "properties": {
-        "id": "v_107.586417_-6.893600",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,22 +99,7 @@
         "id": "12628813991",
         "name": "Warung Cepot",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5809344,
-          -6.8924376
-        ]
-      },
-      "properties": {
-        "id": "v_107.580934_-6.892438",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,22 +116,7 @@
         "id": "12809283847",
         "name": "SDN Sukaraja",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5763426,
-          -6.8911426
-        ]
-      },
-      "properties": {
-        "id": "v_107.576343_-6.891143",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +133,7 @@
         "id": "1396428138",
         "name": "Simpang Dakota",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +150,7 @@
         "id": "12809283844",
         "name": "Borma Dakota",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -358,78 +159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5698999,
-          -6.889704
+          107.5634433,
+          -6.8907249
         ]
       },
       "properties": {
-        "id": "v_107.569900_-6.889704",
-        "name": "Jalan Gunung Batu",
+        "id": "virtual_107.5634_-6.8907",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5674492,
-          -6.8894061
-        ]
-      },
-      "properties": {
-        "id": "v_107.567449_-6.889406",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5648671,
-          -6.8888505
-        ]
-      },
-      "properties": {
-        "id": "v_107.564867_-6.888851",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5634775,
-          -6.8906583
-        ]
-      },
-      "properties": {
-        "id": "v_107.563478_-6.890658",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5621967,
-          -6.8925303
-        ]
-      },
-      "properties": {
-        "id": "v_107.562197_-6.892530",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -446,6 +184,7 @@
         "id": "1666231924",
         "name": "Pangkalan Angkot Cimindi",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "11739021641",
         "name": "Simpang Ijan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "3383341282",
         "name": "Pasar Astana Anyar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "2325452881",
         "name": "Jalan Panjunan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12806765749",
         "name": "Simpang Astanaanyar Pasirkoja",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12809227879",
         "name": "Jalan Haji Safari",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -102,62 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5973482,
-          -6.9231019
+          107.59384115,
+          -6.922715
         ]
       },
       "properties": {
-        "id": "v_107.597348_-6.923102",
-        "name": "Jalan Pagarsih Barat",
+        "id": "virtual_107.5938_-6.9227",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5949294,
-          -6.9228384
-        ]
-      },
-      "properties": {
-        "id": "v_107.594929_-6.922838",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5926679,
-          -6.922586
-        ]
-      },
-      "properties": {
-        "id": "v_107.592668_-6.922586",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5898681,
-          -6.9223157
-        ]
-      },
-      "properties": {
-        "id": "v_107.589868_-6.922316",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -174,22 +133,7 @@
         "id": "2325452491",
         "name": "Unknown",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5836371,
-          -6.9219375
-        ]
-      },
-      "properties": {
-        "id": "v_107.583637_-6.921938",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +150,7 @@
         "id": "1911634972",
         "name": "Pasar Cangkring/Situ Aksan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +167,7 @@
         "id": "1911634983",
         "name": "Jalan Suryani",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +184,7 @@
         "id": "1911634927",
         "name": "RS Priangan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +201,7 @@
         "id": "6442840898",
         "name": "Simpang Holis Soekarno Hatta",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

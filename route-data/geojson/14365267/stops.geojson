@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 3277886379,
+        "id": "3277886379",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12626357384,
+        "id": "12626357384",
+        "name": "Hotel Grand Pasundan",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Grand Pasundan",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12626357385,
+        "id": "12626357385",
+        "name": "Bumi Kopo Kencana",
         "role": "stop",
         "bus": "yes",
-        "name": "Bumi Kopo Kencana",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 12626357386,
+        "id": "12626357386",
+        "name": "Festival Citylink",
         "role": "stop",
         "bus": "yes",
-        "name": "Festival Citylink",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12626357387,
+        "id": "12626357387",
+        "name": "Simpang Pasir Koja",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Pasir Koja",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 12626357388,
+        "id": "12626357388",
+        "name": "SPBU Pasir Koja",
         "role": "stop",
         "bus": "yes",
-        "name": "SPBU Pasir Koja",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 12626357389,
+        "id": "12626357389",
+        "name": "Hotel Soreang A",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Soreang A",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12626357390,
+        "id": "12626357390",
+        "name": "Mall Pelayanan Publik",
         "role": "stop",
         "bus": "yes",
-        "name": "Mall Pelayanan Publik",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 12626357392,
+        "id": "12626357392",
+        "name": "Plaza Pemkab Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Plaza Pemkab Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12626357393,
+        "id": "12626357393",
+        "name": "Simpang Desa Soreang",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Desa Soreang",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 12626357394,
+        "id": "12626357394",
+        "name": "Pasar Ikan Modern",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Ikan Modern",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 12626357395,
+        "id": "12626357395",
+        "name": "RSUD Otto Iskandar Dinata",
         "role": "stop",
         "bus": "yes",
-        "name": "RSUD Otto Iskandar Dinata",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 12626357396,
+        "id": "12626357396",
+        "name": "Samsat Soreang",
         "role": "stop",
         "bus": "yes",
-        "name": "Samsat Soreang",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 12626357397,
+        "id": "12626357397",
+        "name": "Geo Dipa Energi",
         "role": "stop",
         "bus": "yes",
-        "name": "Geo Dipa Energi",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 12626357383,
+        "id": "12626357383",
+        "name": "Hotel Soreang B",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Hotel Soreang B",
         "public_transport": "stop_position"
       }
     }

@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 10314211362,
+        "id": "10314211362",
+        "name": "Padalarang",
         "role": "stop_entry_only",
         "local_ref": "1",
-        "name": "Padalarang",
         "network": "KAI",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -33,10 +33,10 @@
         ]
       },
       "properties": {
-        "id": 7835804492,
+        "id": "7835804492",
+        "name": "Gadobangkong",
         "role": "stop",
         "local_ref": "1",
-        "name": "Gadobangkong",
         "network": "KAI Commuter",
         "operator": "KAI Commuter",
         "public_transport": "stop_position",
@@ -55,9 +55,9 @@
         ]
       },
       "properties": {
-        "id": 3370786092,
-        "role": "stop",
+        "id": "3370786092",
         "name": "Cimahi",
+        "role": "stop",
         "network": "KAI",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -76,9 +76,9 @@
         ]
       },
       "properties": {
-        "id": 3370786794,
-        "role": "stop",
+        "id": "3370786794",
         "name": "Cimindi",
+        "role": "stop",
         "operator": "PT KAI",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -96,9 +96,9 @@
         ]
       },
       "properties": {
-        "id": 3370786798,
-        "role": "stop",
+        "id": "3370786798",
         "name": "Ciroyom",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B15;C15",
@@ -116,10 +116,10 @@
         ]
       },
       "properties": {
-        "id": 10312881283,
+        "id": "10312881283",
+        "name": "Bandung",
         "role": "stop",
         "local_ref": "4",
-        "name": "Bandung",
         "name:ja": "バンドン",
         "network": "KAI Commuter",
         "operator": "Kereta Api Indonesia",
@@ -139,10 +139,10 @@
         ]
       },
       "properties": {
-        "id": 1228645053,
+        "id": "1228645053",
+        "name": "Cikudapateuh",
         "role": "stop",
         "local_ref": "1",
-        "name": "Cikudapateuh",
         "network": "KAI Commuter",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -160,9 +160,9 @@
         ]
       },
       "properties": {
-        "id": 11549081619,
-        "role": "stop",
+        "id": "11549081619",
         "name": "Kiaracondong",
+        "role": "stop",
         "network": "KAI Commuter",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -181,9 +181,9 @@
         ]
       },
       "properties": {
-        "id": 11549081662,
-        "role": "stop",
+        "id": "11549081662",
         "name": "Gedebage",
+        "role": "stop",
         "network": "KAI Commuter",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -201,9 +201,9 @@
         ]
       },
       "properties": {
-        "id": 10694286157,
-        "role": "stop",
+        "id": "10694286157",
         "name": "Cimekar",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B20;C20",
@@ -220,9 +220,9 @@
         ]
       },
       "properties": {
-        "id": 10693253652,
-        "role": "stop",
+        "id": "10693253652",
         "name": "Rancaekek",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B21;C21",
@@ -239,9 +239,9 @@
         ]
       },
       "properties": {
-        "id": 10693478235,
-        "role": "stop",
+        "id": "10693478235",
         "name": "Haurpugur",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B22;C22",
@@ -258,9 +258,9 @@
         ]
       },
       "properties": {
-        "id": 11407574339,
-        "role": "stop_exit_only",
+        "id": "11407574339",
         "name": "Cicalengka",
+        "role": "stop_exit_only",
         "public_transport": "stop_position",
         "railway": "stop",
         "railway:ref": "CCL",

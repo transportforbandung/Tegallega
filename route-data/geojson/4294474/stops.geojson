@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.611754,
-          -6.8821299
-        ]
-      },
-      "properties": {
-        "id": "v_107.611754_-6.882130",
-        "name": "Jalan Cisitu Lama",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.6120393,
           -6.8796599
         ]
@@ -30,6 +14,7 @@
         "id": "11313188130",
         "name": "Pusdiklat Geologi Cisitu",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +31,7 @@
         "id": "12813270569",
         "name": "Sumur Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,54 +48,7 @@
         "id": "3376871360",
         "name": "Babakan Siliwangi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6091599,
-          -6.8847557
-        ]
-      },
-      "properties": {
-        "id": "v_107.609160_-6.884756",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6068836,
-          -6.8846722
-        ]
-      },
-      "properties": {
-        "id": "v_107.606884_-6.884672",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6050556,
-          -6.8833278
-        ]
-      },
-      "properties": {
-        "id": "v_107.605056_-6.883328",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,38 +65,7 @@
         "id": "12811652377",
         "name": "SDN 065 Cihampelas",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.604194,
-          -6.8899911
-        ]
-      },
-      "properties": {
-        "id": "v_107.604194_-6.889991",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6042347,
-          -6.8922554
-        ]
-      },
-      "properties": {
-        "id": "v_107.604235_-6.892255",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,38 +82,7 @@
         "id": "3376669082",
         "name": "Cihampelas Eyckman",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6040729,
-          -6.8985571
-        ]
-      },
-      "properties": {
-        "id": "v_107.604073_-6.898557",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.604264,
-          -6.9008715
-        ]
-      },
-      "properties": {
-        "id": "v_107.604264_-6.900872",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +99,7 @@
         "id": "12809237525",
         "name": "Linggawastu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,22 +116,7 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6076183,
-          -6.907233
-        ]
-      },
-      "properties": {
-        "id": "v_107.607618_-6.907233",
-        "name": "Jalan Wastukencana",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +133,7 @@
         "id": "12809237527",
         "name": "Pajajaran Timur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,22 +150,7 @@
         "id": "3376669069",
         "name": "Kimia Farma",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.60413,
-          -6.9100304
-        ]
-      },
-      "properties": {
-        "id": "v_107.604130_-6.910030",
-        "name": "Jalan Cicendo",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +167,7 @@
         "id": "293384756",
         "name": "Stasiun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,22 +184,7 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5982527,
-          -6.912368
-        ]
-      },
-      "properties": {
-        "id": "v_107.598253_-6.912368",
-        "name": "Jalan Kebon Kawung",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +201,7 @@
         "id": "25434237",
         "name": "GKI Kebonjati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,22 +218,7 @@
         "id": "11735248674",
         "name": "SMA Pasundan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6019595,
-          -6.9161867
-        ]
-      },
-      "properties": {
-        "id": "v_107.601960_-6.916187",
-        "name": "Jalan Kebon Jati",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,70 +235,7 @@
         "id": "11711275750",
         "name": "KEB Hana Bank",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5997986,
-          -6.9202943
-        ]
-      },
-      "properties": {
-        "id": "v_107.599799_-6.920294",
-        "name": "Jalan Jendral Sudirman",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5985679,
-          -6.9225334
-        ]
-      },
-      "properties": {
-        "id": "v_107.598568_-6.922533",
-        "name": "Jalan Astana Anyar",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6006406,
-          -6.9234513
-        ]
-      },
-      "properties": {
-        "id": "v_107.600641_-6.923451",
-        "name": "Jalan Kalipah Apo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6034842,
-          -6.923785
-        ]
-      },
-      "properties": {
-        "id": "v_107.603484_-6.923785",
-        "name": "Jalan Kalipah Apo",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,22 +252,7 @@
         "id": "11739021641",
         "name": "Simpang Ijan",
         "role": "stop_exit_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6034762,
-          -6.930325
-        ]
-      },
-      "properties": {
-        "id": "v_107.603476_-6.930325",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +269,7 @@
         "id": "3246190447",
         "name": "Terminal Tegallega",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

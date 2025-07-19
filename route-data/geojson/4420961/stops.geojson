@@ -14,6 +14,7 @@
         "id": "1013407725",
         "name": "Stasiun Hall",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11711326974",
         "name": "Perintis Kemerdekaan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "11739064594",
         "name": "SMK Negeri 1 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12809274346",
         "name": "Masjid Al-Ukhuwwah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12809274348",
         "name": "Wastukencana Purnawarman",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +116,7 @@
         "id": "11739021630",
         "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,38 +133,7 @@
         "id": "3269294966",
         "name": "Abdul Rivai",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6015193,
-          -6.9048777
-        ]
-      },
-      "properties": {
-        "id": "v_107.601519_-6.904878",
-        "name": "Jalan Dokter Cipto Mangunkusumo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6001443,
-          -6.9026808
-        ]
-      },
-      "properties": {
-        "id": "v_107.600144_-6.902681",
-        "name": "Jalan Doktor Louis Otten",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +150,7 @@
         "id": "1700556149",
         "name": "Taman Westhoff",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +167,7 @@
         "id": "12809082539",
         "name": "Djunjunan Paskal",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -198,46 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5945616,
-          -6.8994829
+          107.5928001,
+          -6.897744899999999
         ]
       },
       "properties": {
-        "id": "v_107.594562_-6.899483",
-        "name": "Jalan Dr. Djunjunan",
+        "id": "virtual_107.5928_-6.8977",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5929268,
-          -6.8978439
-        ]
-      },
-      "properties": {
-        "id": "v_107.592927_-6.897844",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5904922,
-          -6.8963655
-        ]
-      },
-      "properties": {
-        "id": "v_107.590492_-6.896365",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -254,22 +201,7 @@
         "id": "12628813994",
         "name": "Griya Pasteur 1",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5864173,
-          -6.8935998
-        ]
-      },
-      "properties": {
-        "id": "v_107.586417_-6.893600",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,22 +218,7 @@
         "id": "12628813991",
         "name": "Warung Cepot",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5809344,
-          -6.8924376
-        ]
-      },
-      "properties": {
-        "id": "v_107.580934_-6.892438",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,22 +235,7 @@
         "id": "12809283847",
         "name": "SDN Sukaraja",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5763426,
-          -6.8911426
-        ]
-      },
-      "properties": {
-        "id": "v_107.576343_-6.891143",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +252,7 @@
         "id": "1396428138",
         "name": "Simpang Dakota",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +269,7 @@
         "id": "12809283844",
         "name": "Borma Dakota",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +286,7 @@
         "id": "12809283842",
         "name": "Mentor",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +303,7 @@
         "id": "3250402136",
         "name": "Gunung Batu",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11735248698,
+        "id": "11735248698",
+        "name": "Depan Terminal Antapani",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Depan Terminal Antapani",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 3378630365,
+        "id": "3378630365",
+        "name": "Seberang Borma Antapani",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Borma Antapani",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11735248700,
+        "id": "11735248700",
+        "name": "Flyover Antapani",
         "role": "stop",
         "bus": "yes",
-        "name": "Flyover Antapani",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 3375793691,
+        "id": "3375793691",
+        "name": "WUJ Jalan Banten",
         "role": "stop",
         "bus": "yes",
-        "name": "WUJ Jalan Banten",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 11735248701,
+        "id": "11735248701",
+        "name": "STMIK",
         "role": "stop",
         "bus": "yes",
-        "name": "STMIK",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 11735248702,
+        "id": "11735248702",
+        "name": "GOR KONI",
         "role": "stop",
         "bus": "yes",
-        "name": "GOR KONI",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 3375794694,
+        "id": "3375794694",
+        "name": "DPRD Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "DPRD Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 3476292190,
+        "id": "3476292190",
+        "name": "Dishub Jabar",
         "role": "stop",
         "bus": "yes",
-        "name": "Dishub Jabar",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 11707030859,
+        "id": "11707030859",
+        "name": "Bandung Creative Hub B",
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Creative Hub B",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12947493617,
+        "id": "12947493617",
+        "name": "Seberang Hotel Grand Tebu",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Hotel Grand Tebu",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 3376430783,
+        "id": "3376430783",
+        "name": "Tugu Tunas Taman Pramuka",
         "role": "stop",
         "bus": "yes",
-        "name": "Tugu Tunas Taman Pramuka",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 12947493616,
+        "id": "12947493616",
+        "name": "Riau Aceh",
         "role": "stop",
         "bus": "yes",
-        "name": "Riau Aceh",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 12809507149,
+        "id": "12809507149",
+        "name": "bjb Riau",
         "role": "stop",
         "bus": "yes",
-        "name": "bjb Riau",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 12947493614,
+        "id": "12947493614",
+        "name": "HKBP Riau",
         "role": "stop",
         "bus": "yes",
-        "name": "HKBP Riau",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 12809507147,
+        "id": "12809507147",
+        "name": "Riau Cihapit",
         "role": "stop",
         "bus": "yes",
-        "name": "Riau Cihapit",
         "public_transport": "stop_position"
       }
     },
@@ -266,10 +266,10 @@
         ]
       },
       "properties": {
-        "id": 12809507143,
+        "id": "12809507143",
+        "name": "Pengadilan Negeri Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Pengadilan Negeri Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "id": 12947493613,
+        "id": "12947493613",
+        "name": "De Pavilijoen",
         "role": "stop",
         "bus": "yes",
-        "name": "De Pavilijoen",
         "public_transport": "stop_position"
       }
     },
@@ -300,10 +300,10 @@
         ]
       },
       "properties": {
-        "id": 12947493612,
+        "id": "12947493612",
+        "name": "Sekolah Taruna Bakti",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekolah Taruna Bakti",
         "public_transport": "stop_position"
       }
     },
@@ -317,12 +317,12 @@
         ]
       },
       "properties": {
-        "id": 3375794699,
+        "id": "3375794699",
+        "name": "Simpang Banda Riau",
         "role": "stop",
         "bus": "yes",
         "crossing": "traffic_signals",
         "highway": "traffic_signals",
-        "name": "Simpang Banda Riau",
         "public_transport": "stop_position"
       }
     },
@@ -336,10 +336,10 @@
         ]
       },
       "properties": {
-        "id": 12825997245,
+        "id": "12825997245",
+        "name": "Hotel Santika",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Santika",
         "public_transport": "stop_position"
       }
     },
@@ -353,10 +353,10 @@
         ]
       },
       "properties": {
-        "id": 11739021633,
+        "id": "11739021633",
+        "name": "Bandung Indah Plaza",
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Indah Plaza",
         "public_transport": "stop_position"
       }
     },
@@ -370,10 +370,10 @@
         ]
       },
       "properties": {
-        "id": 3376669065,
+        "id": "3376669065",
+        "name": "Taman Sejarah Balai Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Sejarah Balai Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -387,11 +387,11 @@
         ]
       },
       "properties": {
-        "id": 11739021637,
+        "id": "11739021637",
+        "name": "Merdeka",
         "role": "stop",
         "alt_name": "Santa Angela",
         "bus": "yes",
-        "name": "Merdeka",
         "public_transport": "stop_position"
       }
     },
@@ -405,10 +405,10 @@
         ]
       },
       "properties": {
-        "id": 12806120224,
+        "id": "12806120224",
+        "name": "SDN Merdeka 5",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Merdeka 5",
         "public_transport": "stop_position"
       }
     },
@@ -422,10 +422,10 @@
         ]
       },
       "properties": {
-        "id": 10801865379,
+        "id": "10801865379",
+        "name": "Telkom Lembong",
         "role": "stop",
         "bus": "yes",
-        "name": "Telkom Lembong",
         "public_transport": "stop_position"
       }
     },
@@ -439,10 +439,10 @@
         ]
       },
       "properties": {
-        "id": 3374033500,
+        "id": "3374033500",
+        "name": "Tamblong",
         "role": "stop",
         "bus": "yes",
-        "name": "Tamblong",
         "public_transport": "stop_position"
       }
     },
@@ -456,10 +456,10 @@
         ]
       },
       "properties": {
-        "id": 11735248711,
+        "id": "11735248711",
+        "name": "Gedung Keuangan Negara/KM 0",
         "role": "stop",
         "bus": "yes",
-        "name": "Gedung Keuangan Negara/KM 0",
         "public_transport": "stop_position"
       }
     },
@@ -473,10 +473,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -490,10 +490,10 @@
         ]
       },
       "properties": {
-        "id": 11735248713,
+        "id": "11735248713",
+        "name": "Simpang Sudirman",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Sudirman",
         "public_transport": "stop_position"
       }
     },
@@ -507,10 +507,10 @@
         ]
       },
       "properties": {
-        "id": 11711275750,
+        "id": "11711275750",
+        "name": "KEB Hana Bank",
         "role": "stop",
         "bus": "yes",
-        "name": "KEB Hana Bank",
         "public_transport": "stop_position"
       }
     },
@@ -524,10 +524,10 @@
         ]
       },
       "properties": {
-        "id": 12809269114,
+        "id": "12809269114",
+        "name": "Seberang SMAN 4 Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang SMAN 4 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -541,10 +541,10 @@
         ]
       },
       "properties": {
-        "id": 25434237,
+        "id": "25434237",
+        "name": "GKI Kebonjati",
         "role": "stop",
         "bus": "yes",
-        "name": "GKI Kebonjati",
         "public_transport": "stop_position"
       }
     },
@@ -558,10 +558,10 @@
         ]
       },
       "properties": {
-        "id": 11735248674,
+        "id": "11735248674",
+        "name": "SMA Pasundan",
         "role": "stop",
         "bus": "yes",
-        "name": "SMA Pasundan",
         "public_transport": "stop_position"
       }
     },
@@ -575,11 +575,11 @@
         ]
       },
       "properties": {
-        "id": 1013407725,
+        "id": "1013407725",
+        "name": "Stasiun Hall",
         "role": "stop_exit_only",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "name": "Stasiun Hall",
         "public_transport": "stop_position"
       }
     }

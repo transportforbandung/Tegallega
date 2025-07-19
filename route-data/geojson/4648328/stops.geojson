@@ -14,6 +14,7 @@
         "id": "3383628375",
         "name": "SMPN 51 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12813271267",
         "name": "SDN 069 Cipamokolan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "2518053983",
         "name": "Simpang Derwati",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -54,94 +57,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6766137,
-          -6.9640677
+          107.6740264,
+          -6.963850750000001
         ]
       },
       "properties": {
-        "id": "v_107.676614_-6.964068",
-        "name": "Jalan Derwati",
+        "id": "virtual_107.6740_-6.9639",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.672872,
-          -6.9637355
-        ]
-      },
-      "properties": {
-        "id": "v_107.672872_-6.963736",
-        "name": "Jalan Derwati",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6751648,
-          -6.9639429
-        ]
-      },
-      "properties": {
-        "id": "v_107.675165_-6.963943",
-        "name": "Jalan Derwati",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6726232,
-          -6.9622086
-        ]
-      },
-      "properties": {
-        "id": "v_107.672623_-6.962209",
-        "name": "Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6690383,
-          -6.961653
-        ]
-      },
-      "properties": {
-        "id": "v_107.669038_-6.961653",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6635892,
-          -6.9604055
-        ]
-      },
-      "properties": {
-        "id": "v_107.663589_-6.960406",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -158,6 +82,7 @@
         "id": "2258306743",
         "name": "Pasar Ciwastra",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -166,126 +91,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6635389,
-          -6.9603888
+          107.6550246,
+          -6.955785499999999
         ]
       },
       "properties": {
-        "id": "v_107.663539_-6.960389",
-        "name": "Jalan Marga Cinta",
+        "id": "virtual_107.6550_-6.9558",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6601626,
-          -6.9592328
-        ]
-      },
-      "properties": {
-        "id": "v_107.660163_-6.959233",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6623281,
-          -6.9600393
-        ]
-      },
-      "properties": {
-        "id": "v_107.662328_-6.960039",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6599136,
-          -6.9591016
-        ]
-      },
-      "properties": {
-        "id": "v_107.659914_-6.959102",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6547786,
-          -6.9557545
-        ]
-      },
-      "properties": {
-        "id": "v_107.654779_-6.955755",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6566595,
-          -6.9570854
-        ]
-      },
-      "properties": {
-        "id": "v_107.656660_-6.957085",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.658828,
-          -6.9585837
-        ]
-      },
-      "properties": {
-        "id": "v_107.658828_-6.958584",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6547179,
-          -6.9557504
-        ]
-      },
-      "properties": {
-        "id": "v_107.654718_-6.955750",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -302,6 +116,7 @@
         "id": "3383643778",
         "name": "Borma Margacinta",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -310,174 +125,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6541837,
-          -6.9557004
+          107.6416833,
+          -6.95438495
         ]
       },
       "properties": {
-        "id": "v_107.654184_-6.955700",
-        "name": "Jalan Marga Cinta",
+        "id": "virtual_107.6417_-6.9544",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6438361,
-          -6.9547511
-        ]
-      },
-      "properties": {
-        "id": "v_107.643836_-6.954751",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6463012,
-          -6.9549534
-        ]
-      },
-      "properties": {
-        "id": "v_107.646301_-6.954953",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6487472,
-          -6.9551542
-        ]
-      },
-      "properties": {
-        "id": "v_107.648747_-6.955154",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6438176,
-          -6.9547496
-        ]
-      },
-      "properties": {
-        "id": "v_107.643818_-6.954750",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6404231,
-          -6.9541579
-        ]
-      },
-      "properties": {
-        "id": "v_107.640423_-6.954158",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6426693,
-          -6.9545964
-        ]
-      },
-      "properties": {
-        "id": "v_107.642669_-6.954596",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6403362,
-          -6.954148
-        ]
-      },
-      "properties": {
-        "id": "v_107.640336_-6.954148",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6408664,
-          -6.9519251
-        ]
-      },
-      "properties": {
-        "id": "v_107.640866_-6.951925",
-        "name": "Jalan Terusan Kiara Condong",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6412977,
-          -6.9496917
-        ]
-      },
-      "properties": {
-        "id": "v_107.641298_-6.949692",
-        "name": "Jalan Terusan Kiara Condong",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6416396,
-          -6.9472937
-        ]
-      },
-      "properties": {
-        "id": "v_107.641640_-6.947294",
-        "name": "Jalan Terusan Kiara Condong",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -494,6 +150,7 @@
         "id": "12806853434",
         "name": "Jalan H. Basuki",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +167,7 @@
         "id": "12806853438",
         "name": "Borma Kiaracondong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +184,7 @@
         "id": "12806853441",
         "name": "Seberang Jalan Sekejati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,6 +201,7 @@
         "id": "12806853444",
         "name": "KPP Madya Dua Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -550,78 +210,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.642469,
-          -6.9354704
+          107.644121,
+          -6.928891
         ]
       },
       "properties": {
-        "id": "v_107.642469_-6.935470",
-        "name": "Jalan H. Ibrahim Adjie",
+        "id": "virtual_107.6441_-6.9289",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6428453,
-          -6.9332036
-        ]
-      },
-      "properties": {
-        "id": "v_107.642845_-6.933204",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6437923,
-          -6.9310014
-        ]
-      },
-      "properties": {
-        "id": "v_107.643792_-6.931001",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.64417,
-          -6.9287415
-        ]
-      },
-      "properties": {
-        "id": "v_107.644170_-6.928742",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6444244,
-          -6.9252812
-        ]
-      },
-      "properties": {
-        "id": "v_107.644424_-6.925281",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -638,6 +235,7 @@
         "id": "12806853451",
         "name": "Seberang Griya Kiaracondong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -654,6 +252,7 @@
         "id": "12806853452",
         "name": "Daese Garmin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -670,6 +269,7 @@
         "id": "12806853456",
         "name": "Gerbang Timur Kiara Artha Park",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -686,6 +286,7 @@
         "id": "11735248700",
         "name": "Flyover Antapani",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -702,6 +303,7 @@
         "id": "3375793691",
         "name": "WUJ Jalan Banten",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -718,6 +320,7 @@
         "id": "11735248701",
         "name": "STMIK",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -734,22 +337,7 @@
         "id": "11735248702",
         "name": "GOR KONI",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6340779,
-          -6.9129877
-        ]
-      },
-      "properties": {
-        "id": "v_107.634078_-6.912988",
-        "name": "Jalan Layang Ahmad Yani - Supratman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -766,6 +354,7 @@
         "id": "12811695428",
         "name": "Supratman 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -782,6 +371,7 @@
         "id": "2519917307",
         "name": "Pussenif",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -798,6 +388,7 @@
         "id": "11707030832",
         "name": "SMPN 14 Bandung (Lapangan Supratman A)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -814,6 +405,7 @@
         "id": "11707030833",
         "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -830,6 +422,7 @@
         "id": "12887162310",
         "name": "Seberang Telkom Supratman",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -846,22 +439,7 @@
         "id": "5842007854",
         "name": "Ciliwung",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6268326,
-          -6.9019273
-        ]
-      },
-      "properties": {
-        "id": "v_107.626833_-6.901927",
-        "name": "Jalan Supratman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -878,6 +456,7 @@
         "id": "11707030828",
         "name": "PUSDAI B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -894,6 +473,7 @@
         "id": "11707030827",
         "name": "Lapangan Gasibu B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -910,6 +490,7 @@
         "id": "1666155324",
         "name": "Lapangan Gasibu A",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

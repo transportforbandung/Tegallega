@@ -14,6 +14,7 @@
         "id": "3249461526",
         "name": "Pasar Sederhana",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "29379371",
         "name": "Makmur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -38,78 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6009465,
-          -6.8954647
+          107.59870765,
+          -6.9002081
         ]
       },
       "properties": {
-        "id": "v_107.600947_-6.895465",
-        "name": "Jalan Makmur",
+        "id": "virtual_107.5987_-6.9002",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.597854,
-          -6.8962946
-        ]
-      },
-      "properties": {
-        "id": "v_107.597854_-6.896295",
-        "name": "Jalan Sederhana",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5973974,
-          -6.8986245
-        ]
-      },
-      "properties": {
-        "id": "v_107.597397_-6.898625",
-        "name": "Jalan Pasir Kaliki",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5991384,
-          -6.900205
-        ]
-      },
-      "properties": {
-        "id": "v_107.599138_-6.900205",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5974913,
-          -6.9019914
-        ]
-      },
-      "properties": {
-        "id": "v_107.597491_-6.901991",
-        "name": "Jalan HOS. Cokroaminoto",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -126,6 +65,7 @@
         "id": "3377321687",
         "name": "Depan Istana Plaza",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +82,7 @@
         "id": "11138593907",
         "name": "Padjajaran 2",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +99,7 @@
         "id": "7547053355",
         "name": "Pajajaran 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +116,7 @@
         "id": "3377329064",
         "name": "Husein Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -182,14 +125,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5857779,
-          -6.9072569
+          107.5798772,
+          -6.9073964
         ]
       },
       "properties": {
-        "id": "v_107.585778_-6.907257",
+        "id": "virtual_107.5799_-6.9074",
         "name": "Jalan Abdul Rahman Saleh",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -198,110 +142,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5834572,
-          -6.9076247
+          107.5768707,
+          -6.91682
         ]
       },
       "properties": {
-        "id": "v_107.583457_-6.907625",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5809663,
-          -6.9076194
-        ]
-      },
-      "properties": {
-        "id": "v_107.580966_-6.907619",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.578868,
-          -6.9085429
-        ]
-      },
-      "properties": {
-        "id": "v_107.578868_-6.908543",
+        "id": "virtual_107.5769_-6.9168",
         "name": "Jalan Garuda",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5781807,
-          -6.9110965
-        ]
-      },
-      "properties": {
-        "id": "v_107.578181_-6.911097",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5776241,
-          -6.9135596
-        ]
-      },
-      "properties": {
-        "id": "v_107.577624_-6.913560",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5771079,
-          -6.9158293
-        ]
-      },
-      "properties": {
-        "id": "v_107.577108_-6.915829",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5754537,
-          -6.9174221
-        ]
-      },
-      "properties": {
-        "id": "v_107.575454_-6.917422",
-        "name": "Jalan Jendral Sudirman",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -318,6 +167,7 @@
         "id": "2604179157",
         "name": "Optik Krida",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -326,62 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5707809,
-          -6.9175368
+          107.56881645,
+          -6.9217823
         ]
       },
       "properties": {
-        "id": "v_107.570781_-6.917537",
-        "name": "Jalan Raya Cijerah",
+        "id": "virtual_107.5688_-6.9218",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.570031,
-          -6.9197761
-        ]
-      },
-      "properties": {
-        "id": "v_107.570031_-6.919776",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5691156,
-          -6.921845
-        ]
-      },
-      "properties": {
-        "id": "v_107.569116_-6.921845",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5679081,
-          -6.9238625
-        ]
-      },
-      "properties": {
-        "id": "v_107.567908_-6.923863",
-        "name": "Jalan Raya Cijerah",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -398,6 +201,7 @@
         "id": "3115995953",
         "name": "Cijerah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +218,7 @@
         "id": "1387999370",
         "name": "Puskesmas Melong Asih",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

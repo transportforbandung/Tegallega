@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "id": 12063631330,
-        "role": "stop_entry_only",
+        "id": "12063631330",
         "name": "Purwakarta",
+        "role": "stop_entry_only",
         "network": "KAI Commuter",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -31,9 +31,9 @@
         ]
       },
       "properties": {
-        "id": 10698966828,
-        "role": "stop",
+        "id": "10698966828",
         "name": "Ciganea",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B03;C03",
@@ -50,9 +50,9 @@
         ]
       },
       "properties": {
-        "id": 10694595400,
-        "role": "stop",
+        "id": "10694595400",
         "name": "Sukatani",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B04;C04",
@@ -69,9 +69,9 @@
         ]
       },
       "properties": {
-        "id": 10314211391,
-        "role": "stop",
+        "id": "10314211391",
         "name": "Plered",
+        "role": "stop",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -89,9 +89,9 @@
         ]
       },
       "properties": {
-        "id": 10314211392,
-        "role": "stop",
+        "id": "10314211392",
         "name": "Cikadongdong",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B05;C05",
@@ -108,9 +108,9 @@
         ]
       },
       "properties": {
-        "id": 3448590009,
-        "role": "stop",
+        "id": "3448590009",
         "name": "Rendeh",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B07;C07",
@@ -127,9 +127,9 @@
         ]
       },
       "properties": {
-        "id": 10694595345,
-        "role": "stop",
+        "id": "10694595345",
         "name": "Maswati",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B08;C08",
@@ -146,9 +146,9 @@
         ]
       },
       "properties": {
-        "id": 10694595317,
-        "role": "stop",
+        "id": "10694595317",
         "name": "Sasaksaat",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B08;C08",
@@ -165,9 +165,9 @@
         ]
       },
       "properties": {
-        "id": 11432455981,
-        "role": "stop",
+        "id": "11432455981",
         "name": "Cilame",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B09;C09",
@@ -184,10 +184,10 @@
         ]
       },
       "properties": {
-        "id": 10314211366,
+        "id": "10314211366",
+        "name": "Padalarang",
         "role": "stop",
         "local_ref": "3",
-        "name": "Padalarang",
         "network": "KAI",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -206,10 +206,10 @@
         ]
       },
       "properties": {
-        "id": 7835804492,
+        "id": "7835804492",
+        "name": "Gadobangkong",
         "role": "stop",
         "local_ref": "1",
-        "name": "Gadobangkong",
         "network": "KAI Commuter",
         "operator": "KAI Commuter",
         "public_transport": "stop_position",
@@ -228,9 +228,9 @@
         ]
       },
       "properties": {
-        "id": 3370786092,
-        "role": "stop",
+        "id": "3370786092",
         "name": "Cimahi",
+        "role": "stop",
         "network": "KAI",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -249,9 +249,9 @@
         ]
       },
       "properties": {
-        "id": 3370786794,
-        "role": "stop",
+        "id": "3370786794",
         "name": "Cimindi",
+        "role": "stop",
         "operator": "PT KAI",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -269,9 +269,9 @@
         ]
       },
       "properties": {
-        "id": 3370786798,
-        "role": "stop",
+        "id": "3370786798",
         "name": "Ciroyom",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B15;C15",
@@ -289,10 +289,10 @@
         ]
       },
       "properties": {
-        "id": 10312881283,
+        "id": "10312881283",
+        "name": "Bandung",
         "role": "stop",
         "local_ref": "4",
-        "name": "Bandung",
         "name:ja": "バンドン",
         "network": "KAI Commuter",
         "operator": "Kereta Api Indonesia",
@@ -312,10 +312,10 @@
         ]
       },
       "properties": {
-        "id": 1228645053,
+        "id": "1228645053",
+        "name": "Cikudapateuh",
         "role": "stop",
         "local_ref": "1",
-        "name": "Cikudapateuh",
         "network": "KAI Commuter",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -333,9 +333,9 @@
         ]
       },
       "properties": {
-        "id": 11549081619,
-        "role": "stop",
+        "id": "11549081619",
         "name": "Kiaracondong",
+        "role": "stop",
         "network": "KAI Commuter",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -354,9 +354,9 @@
         ]
       },
       "properties": {
-        "id": 11549081662,
-        "role": "stop",
+        "id": "11549081662",
         "name": "Gedebage",
+        "role": "stop",
         "network": "KAI Commuter",
         "public_transport": "stop_position",
         "railway": "stop",
@@ -374,9 +374,9 @@
         ]
       },
       "properties": {
-        "id": 10694286157,
-        "role": "stop",
+        "id": "10694286157",
         "name": "Cimekar",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B20;C20",
@@ -393,9 +393,9 @@
         ]
       },
       "properties": {
-        "id": 10693253652,
-        "role": "stop",
+        "id": "10693253652",
         "name": "Rancaekek",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B21;C21",
@@ -412,9 +412,9 @@
         ]
       },
       "properties": {
-        "id": 10693478235,
-        "role": "stop",
+        "id": "10693478235",
         "name": "Haurpugur",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "B22;C22",
@@ -431,9 +431,9 @@
         ]
       },
       "properties": {
-        "id": 11874360196,
-        "role": "stop",
+        "id": "11874360196",
         "name": "Cicalengka",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "railway:ref": "CCL",
@@ -451,9 +451,9 @@
         ]
       },
       "properties": {
-        "id": 9961298138,
-        "role": "stop",
+        "id": "9961298138",
         "name": "Nagreg",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "C24",
@@ -470,9 +470,9 @@
         ]
       },
       "properties": {
-        "id": 535300018,
-        "role": "stop",
+        "id": "535300018",
         "name": "Leles",
+        "role": "stop",
         "network": "KAI",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -491,9 +491,9 @@
         ]
       },
       "properties": {
-        "id": 7206399183,
-        "role": "stop",
+        "id": "7206399183",
         "name": "Karangsari",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "C27",
@@ -510,9 +510,9 @@
         ]
       },
       "properties": {
-        "id": 10694286200,
-        "role": "stop",
+        "id": "10694286200",
         "name": "Leuwigoong",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "C28",
@@ -529,9 +529,9 @@
         ]
       },
       "properties": {
-        "id": 10314211373,
-        "role": "stop",
+        "id": "10314211373",
         "name": "Cibatu",
+        "role": "stop",
         "network": "KAI",
         "operator": "Kereta Api Indonesia",
         "public_transport": "stop_position",
@@ -550,9 +550,9 @@
         ]
       },
       "properties": {
-        "id": 9961235587,
-        "role": "stop",
+        "id": "9961235587",
         "name": "Pasirjengkol",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "C30",
@@ -569,9 +569,9 @@
         ]
       },
       "properties": {
-        "id": 9961258726,
-        "role": "stop",
+        "id": "9961258726",
         "name": "Wanaraja",
+        "role": "stop",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "C31",
@@ -588,9 +588,9 @@
         ]
       },
       "properties": {
-        "id": 10694286203,
-        "role": "stop_exit_only",
+        "id": "10694286203",
         "name": "Garut",
+        "role": "stop_exit_only",
         "public_transport": "stop_position",
         "railway": "stop",
         "ref": "C32",

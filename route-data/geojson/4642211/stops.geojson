@@ -14,6 +14,7 @@
         "id": "3252929646",
         "name": "Terminal Sadang Serang",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -22,94 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6274597,
-          -6.8921769
+          107.62818,
+          -6.89227055
         ]
       },
       "properties": {
-        "id": "v_107.627460_-6.892177",
-        "name": "Jalan Sadang Serang",
+        "id": "virtual_107.6282_-6.8923",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6298288,
-          -6.8919403
-        ]
-      },
-      "properties": {
-        "id": "v_107.629829_-6.891940",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6275863,
-          -6.892264
-        ]
-      },
-      "properties": {
-        "id": "v_107.627586_-6.892264",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.630431,
-          -6.8920872
-        ]
-      },
-      "properties": {
-        "id": "v_107.630431_-6.892087",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6332532,
-          -6.8922846
-        ]
-      },
-      "properties": {
-        "id": "v_107.633253_-6.892285",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6309022,
-          -6.8922127
-        ]
-      },
-      "properties": {
-        "id": "v_107.630902_-6.892213",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -126,38 +48,7 @@
         "id": "3248882521",
         "name": "Pahlawan Sidomukti",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6348789,
-          -6.8956164
-        ]
-      },
-      "properties": {
-        "id": "v_107.634879_-6.895616",
-        "name": "Jalan Pahlawan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6341816,
-          -6.8977908
-        ]
-      },
-      "properties": {
-        "id": "v_107.634182_-6.897791",
-        "name": "Jalan Pahlawan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,38 +65,7 @@
         "id": "12819917451",
         "name": "Griya Pahlawan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6338639,
-          -6.9025511
-        ]
-      },
-      "properties": {
-        "id": "v_107.633864_-6.902551",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6320385,
-          -6.9039297
-        ]
-      },
-      "properties": {
-        "id": "v_107.632038_-6.903930",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +82,7 @@
         "id": "12887162310",
         "name": "Seberang Telkom Supratman",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +99,7 @@
         "id": "5842007854",
         "name": "Ciliwung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +116,7 @@
         "id": "12984617475",
         "name": "Tugu PKK Citarum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,38 +133,7 @@
         "id": "12984617474",
         "name": "Seberang SMAN 20 Bandung",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6211584,
-          -6.9063753
-        ]
-      },
-      "properties": {
-        "id": "v_107.621158_-6.906375",
-        "name": "Jalan Lombok",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6190132,
-          -6.9087672
-        ]
-      },
-      "properties": {
-        "id": "v_107.619013_-6.908767",
-        "name": "Jalan Lombok",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +150,7 @@
         "id": "12887179699",
         "name": "Stadion Siliwangi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +167,7 @@
         "id": "3374033495",
         "name": "SMAN 3 dan 5",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +184,7 @@
         "id": "12809521950",
         "name": "Taman Lalu Lintas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +201,7 @@
         "id": "3376669065",
         "name": "Taman Sejarah Balai Kota Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +218,7 @@
         "id": "11739021637",
         "name": "Merdeka",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +235,7 @@
         "id": "12825997248",
         "name": "Taman Vanda",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +252,7 @@
         "id": "11735248675",
         "name": "Bank Indonesia",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +269,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

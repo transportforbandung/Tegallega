@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 4608003593,
+        "id": "4608003593",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "name:ar": "محطه باصات بندوق",
         "public_transport": "stop_position"
       }
@@ -29,10 +29,10 @@
         ]
       },
       "properties": {
-        "id": 12628901396,
+        "id": "12628901396",
+        "name": "SDN Babakan Tarogong",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Babakan Tarogong",
         "public_transport": "stop_position"
       }
     },
@@ -46,10 +46,10 @@
         ]
       },
       "properties": {
-        "id": 12626529705,
+        "id": "12626529705",
+        "name": "ITC Kebon Kalapa",
         "role": "stop",
         "bus": "yes",
-        "name": "ITC Kebon Kalapa",
         "public_transport": "stop_position"
       }
     },
@@ -63,10 +63,10 @@
         ]
       },
       "properties": {
-        "id": 11898859975,
+        "id": "11898859975",
+        "name": "Grand Yogya Kepatihan",
         "role": "stop",
         "bus": "yes",
-        "name": "Grand Yogya Kepatihan",
         "public_transport": "stop_position"
       }
     },
@@ -80,10 +80,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -97,10 +97,10 @@
         ]
       },
       "properties": {
-        "id": 12808912264,
+        "id": "12808912264",
+        "name": "Pos Banceuy",
         "role": "stop",
         "bus": "yes",
-        "name": "Pos Banceuy",
         "public_transport": "stop_position"
       }
     },
@@ -114,10 +114,10 @@
         ]
       },
       "properties": {
-        "id": 12823636734,
+        "id": "12823636734",
+        "name": "Rumah Sakit Murni Teguh",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Murni Teguh",
         "public_transport": "stop_position"
       }
     },
@@ -131,10 +131,10 @@
         ]
       },
       "properties": {
-        "id": 11735248705,
+        "id": "11735248705",
+        "name": "Ketapang",
         "role": "stop",
         "bus": "yes",
-        "name": "Ketapang",
         "public_transport": "stop_position"
       }
     },
@@ -148,10 +148,10 @@
         ]
       },
       "properties": {
-        "id": 11735248679,
+        "id": "11735248679",
+        "name": "Pasar Kosambi",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kosambi",
         "public_transport": "stop_position"
       }
     },
@@ -165,10 +165,10 @@
         ]
       },
       "properties": {
-        "id": 11735248685,
+        "id": "11735248685",
+        "name": "Segitiga Mas",
         "role": "stop",
         "bus": "yes",
-        "name": "Segitiga Mas",
         "public_transport": "stop_position"
       }
     },
@@ -182,10 +182,10 @@
         ]
       },
       "properties": {
-        "id": 11735248686,
+        "id": "11735248686",
+        "name": "Jaya Plaza",
         "role": "stop",
         "bus": "yes",
-        "name": "Jaya Plaza",
         "public_transport": "stop_position"
       }
     },
@@ -199,10 +199,10 @@
         ]
       },
       "properties": {
-        "id": 11735248689,
+        "id": "11735248689",
+        "name": "Dinas Pendidikan Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Dinas Pendidikan Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -216,10 +216,10 @@
         ]
       },
       "properties": {
-        "id": 5391666887,
+        "id": "5391666887",
+        "name": "Jalan Mangga",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Mangga",
         "public_transport": "stop_position"
       }
     },
@@ -233,10 +233,10 @@
         ]
       },
       "properties": {
-        "id": 11735248691,
+        "id": "11735248691",
+        "name": "Sekolah Agustinus",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekolah Agustinus",
         "public_transport": "stop_position"
       }
     },
@@ -250,10 +250,10 @@
         ]
       },
       "properties": {
-        "id": 3375793690,
+        "id": "3375793690",
+        "name": "A.Yani Supratman",
         "role": "stop",
         "bus": "yes",
-        "name": "A.Yani Supratman",
         "public_transport": "stop_position"
       }
     },
@@ -267,10 +267,10 @@
         ]
       },
       "properties": {
-        "id": 11735248693,
+        "id": "11735248693",
+        "name": "Cikaso",
         "role": "stop",
         "bus": "yes",
-        "name": "Cikaso",
         "public_transport": "stop_position"
       }
     },
@@ -284,10 +284,10 @@
         ]
       },
       "properties": {
-        "id": 11735248694,
+        "id": "11735248694",
+        "name": "Awi Bitung",
         "role": "stop",
         "bus": "yes",
-        "name": "Awi Bitung",
         "public_transport": "stop_position"
       }
     },
@@ -301,10 +301,10 @@
         ]
       },
       "properties": {
-        "id": 11735248708,
+        "id": "11735248708",
+        "name": "Cimuncang",
         "role": "stop",
         "bus": "yes",
-        "name": "Cimuncang",
         "public_transport": "stop_position"
       }
     },
@@ -318,10 +318,10 @@
         ]
       },
       "properties": {
-        "id": 5832221935,
+        "id": "5832221935",
+        "name": "Seberang Terminal Cicaheum",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Terminal Cicaheum",
         "public_transport": "stop_position"
       }
     },
@@ -335,10 +335,10 @@
         ]
       },
       "properties": {
-        "id": 12806309242,
+        "id": "12806309242",
+        "name": "SDN Cikadut",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Cikadut",
         "public_transport": "stop_position"
       }
     },
@@ -352,10 +352,10 @@
         ]
       },
       "properties": {
-        "id": 12806309246,
+        "id": "12806309246",
+        "name": "Gang H.M. Syarief",
         "role": "stop",
         "bus": "yes",
-        "name": "Gang H.M. Syarief",
         "public_transport": "stop_position"
       }
     },
@@ -369,10 +369,10 @@
         ]
       },
       "properties": {
-        "id": 12806309248,
+        "id": "12806309248",
+        "name": "Borma Pasirimpun",
         "role": "stop",
         "bus": "yes",
-        "name": "Borma Pasirimpun",
         "public_transport": "stop_position"
       }
     },
@@ -386,10 +386,10 @@
         ]
       },
       "properties": {
-        "id": 11047579524,
+        "id": "11047579524",
+        "name": "UPTD Laboratorium Lingkungan Hidup",
         "role": "stop",
         "bus": "yes",
-        "name": "UPTD Laboratorium Lingkungan Hidup",
         "public_transport": "stop_position"
       }
     },
@@ -403,10 +403,10 @@
         ]
       },
       "properties": {
-        "id": 12806516361,
+        "id": "12806516361",
+        "name": "SDN Ciporeat",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Ciporeat",
         "public_transport": "stop_position"
       }
     },
@@ -420,10 +420,10 @@
         ]
       },
       "properties": {
-        "id": 12806516359,
+        "id": "12806516359",
+        "name": "Seberang Borma Cipadung",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Borma Cipadung",
         "public_transport": "stop_position"
       }
     },
@@ -437,10 +437,10 @@
         ]
       },
       "properties": {
-        "id": 12806516356,
+        "id": "12806516356",
+        "name": "SDN Cipadung",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Cipadung",
         "public_transport": "stop_position"
       }
     },
@@ -454,11 +454,11 @@
         ]
       },
       "properties": {
-        "id": 35131607,
+        "id": "35131607",
+        "name": "UIN SGD/Cipadung",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "UIN SGD/Cipadung",
         "public_transport": "stop_position",
         "ref": "UIN SGD/Cipadung"
       }
@@ -473,10 +473,10 @@
         ]
       },
       "properties": {
-        "id": 12014389702,
+        "id": "12014389702",
+        "name": "Pangkalan DAMRI Cibiru",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Pangkalan DAMRI Cibiru",
         "public_transport": "stop_position"
       }
     }
