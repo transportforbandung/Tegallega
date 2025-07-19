@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 5509730969,
+        "id": "5509730969",
+        "name": "Tatar Subanglarang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Tatar Subanglarang",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 11489094686,
+        "id": "11489094686",
+        "name": "Kamandaka",
         "role": "stop",
         "bus": "yes",
-        "name": "Kamandaka",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11489094682,
+        "id": "11489094682",
+        "name": "Jingganagara",
         "role": "stop",
         "bus": "yes",
-        "name": "Jingganagara",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 11489094684,
+        "id": "11489094684",
+        "name": "CBCS/BAIS",
         "role": "stop",
         "bus": "yes",
-        "name": "CBCS/BAIS",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12881302236,
+        "id": "12881302236",
+        "name": "Timur IKEA Kota Baru Parahyangan",
         "role": "stop",
         "bus": "yes",
-        "name": "Timur IKEA Kota Baru Parahyangan",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 11955383184,
+        "id": "11955383184",
+        "name": "Parahyangan Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Parahyangan Timur",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 11955383185,
+        "id": "11955383185",
+        "name": "Rumah Sakit Cahaya Kawaluyaan",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Cahaya Kawaluyaan",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 11955383187,
+        "id": "11955383187",
+        "name": "Masjid Al Irsyad",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Al Irsyad",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 11955383188,
+        "id": "11955383188",
+        "name": "Tatar Wangsakerta A",
         "role": "stop",
         "bus": "yes",
-        "name": "Tatar Wangsakerta A",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 11955383190,
+        "id": "11955383190",
+        "name": "Bale Pare A",
         "role": "stop",
         "bus": "yes",
-        "name": "Bale Pare A",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 1658426541,
+        "id": "1658426541",
+        "name": "BPJS Pasteur",
         "role": "stop",
         "bus": "yes",
-        "name": "BPJS Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 12013144935,
+        "id": "12013144935",
+        "name": "Mall d'Botanica",
         "role": "stop",
         "bus": "yes",
-        "name": "Mall d'Botanica",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 2958261155,
+        "id": "2958261155",
+        "name": "Djundjunan 3",
         "role": "stop",
         "bus": "yes",
-        "name": "Djundjunan 3",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 12628813992,
+        "id": "12628813992",
+        "name": "Griya Pasteur 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Pasteur 2",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 12809237524,
+        "id": "12809237524",
+        "name": "GKI Pasteur",
         "role": "stop",
         "bus": "yes",
-        "name": "GKI Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -266,10 +266,10 @@
         ]
       },
       "properties": {
-        "id": 12809237525,
+        "id": "12809237525",
+        "name": "Linggawastu",
         "role": "stop",
         "bus": "yes",
-        "name": "Linggawastu",
         "public_transport": "stop_position"
       }
     },
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "id": 3376669071,
+        "id": "3376669071",
+        "name": "Pasar Kembang Wastukencana",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kembang Wastukencana",
         "public_transport": "stop_position"
       }
     },
@@ -300,10 +300,10 @@
         ]
       },
       "properties": {
-        "id": 11739021634,
+        "id": "11739021634",
+        "name": "Riau XL",
         "role": "stop",
         "bus": "yes",
-        "name": "Riau XL",
         "public_transport": "stop_position"
       }
     },
@@ -317,10 +317,10 @@
         ]
       },
       "properties": {
-        "id": 11739021633,
+        "id": "11739021633",
+        "name": "Bandung Indah Plaza",
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Indah Plaza",
         "public_transport": "stop_position"
       }
     },
@@ -334,10 +334,10 @@
         ]
       },
       "properties": {
-        "id": 3376669065,
+        "id": "3376669065",
+        "name": "Taman Sejarah Balai Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Sejarah Balai Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -351,11 +351,11 @@
         ]
       },
       "properties": {
-        "id": 11739021637,
+        "id": "11739021637",
+        "name": "Merdeka",
         "role": "stop",
         "alt_name": "Santa Angela",
         "bus": "yes",
-        "name": "Merdeka",
         "public_transport": "stop_position"
       }
     },
@@ -369,10 +369,10 @@
         ]
       },
       "properties": {
-        "id": 12825997248,
+        "id": "12825997248",
+        "name": "Taman Vanda",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Vanda",
         "public_transport": "stop_position"
       }
     },
@@ -386,10 +386,10 @@
         ]
       },
       "properties": {
-        "id": 11735248675,
+        "id": "11735248675",
+        "name": "Bank Indonesia",
         "role": "stop",
         "bus": "yes",
-        "name": "Bank Indonesia",
         "public_transport": "stop_position"
       }
     },
@@ -403,10 +403,10 @@
         ]
       },
       "properties": {
-        "id": 1849525838,
+        "id": "1849525838",
+        "name": "Lembong",
         "role": "stop",
         "bus": "yes",
-        "name": "Lembong",
         "public_transport": "stop_position",
         "shelter": "yes",
         "source": "POI_WRI_Survey_2023"
@@ -422,10 +422,10 @@
         ]
       },
       "properties": {
-        "id": 10801865379,
+        "id": "10801865379",
+        "name": "Telkom Lembong",
         "role": "stop",
         "bus": "yes",
-        "name": "Telkom Lembong",
         "public_transport": "stop_position"
       }
     },
@@ -439,10 +439,10 @@
         ]
       },
       "properties": {
-        "id": 3374033500,
+        "id": "3374033500",
+        "name": "Tamblong",
         "role": "stop",
         "bus": "yes",
-        "name": "Tamblong",
         "public_transport": "stop_position"
       }
     },
@@ -456,10 +456,10 @@
         ]
       },
       "properties": {
-        "id": 11735248711,
+        "id": "11735248711",
+        "name": "Gedung Keuangan Negara/KM 0",
         "role": "stop",
         "bus": "yes",
-        "name": "Gedung Keuangan Negara/KM 0",
         "public_transport": "stop_position"
       }
     },
@@ -473,10 +473,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     }

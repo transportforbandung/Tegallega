@@ -11,11 +11,11 @@
         ]
       },
       "properties": {
-        "id": 1013407725,
+        "id": "1013407725",
+        "name": "Stasiun Hall",
         "role": "stop_entry_only",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "name": "Stasiun Hall",
         "public_transport": "stop_position"
       }
     },
@@ -29,10 +29,10 @@
         ]
       },
       "properties": {
-        "id": 11262097619,
+        "id": "11262097619",
+        "name": "Stasiun Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Timur",
         "public_transport": "stop_position"
       }
     },
@@ -46,10 +46,10 @@
         ]
       },
       "properties": {
-        "id": 11711326974,
+        "id": "11711326974",
+        "name": "Perintis Kemerdekaan",
         "role": "stop",
         "bus": "yes",
-        "name": "Perintis Kemerdekaan",
         "public_transport": "stop_position"
       }
     },
@@ -63,11 +63,11 @@
         ]
       },
       "properties": {
-        "id": 11739064594,
+        "id": "11739064594",
+        "name": "SMK Negeri 1 Bandung",
         "role": "stop",
         "alt_name": "Balai Kota",
         "bus": "yes",
-        "name": "SMK Negeri 1 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -81,10 +81,10 @@
         ]
       },
       "properties": {
-        "id": 12809274346,
+        "id": "12809274346",
+        "name": "Masjid Al-Ukhuwwah",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Al-Ukhuwwah",
         "public_transport": "stop_position"
       }
     },
@@ -98,10 +98,10 @@
         ]
       },
       "properties": {
-        "id": 12809274348,
+        "id": "12809274348",
+        "name": "Wastukencana Purnawarman",
         "role": "stop",
         "bus": "yes",
-        "name": "Wastukencana Purnawarman",
         "public_transport": "stop_position"
       }
     },
@@ -115,10 +115,10 @@
         ]
       },
       "properties": {
-        "id": 11739021630,
+        "id": "11739021630",
+        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
         "bus": "yes",
-        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "public_transport": "stop_position"
       }
     },
@@ -132,10 +132,10 @@
         ]
       },
       "properties": {
-        "id": 3269294966,
+        "id": "3269294966",
+        "name": "Abdul Rivai",
         "role": "stop",
         "bus": "yes",
-        "name": "Abdul Rivai",
         "public_transport": "stop_position"
       }
     },
@@ -149,11 +149,11 @@
         ]
       },
       "properties": {
-        "id": 1700556149,
+        "id": "1700556149",
+        "name": "Taman Westhoff",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Taman Westhoff",
         "public_transport": "stop_position"
       }
     },
@@ -167,10 +167,10 @@
         ]
       },
       "properties": {
-        "id": 12809082539,
+        "id": "12809082539",
+        "name": "Djunjunan Paskal",
         "role": "stop",
         "bus": "yes",
-        "name": "Djunjunan Paskal",
         "public_transport": "stop_position"
       }
     },
@@ -184,10 +184,10 @@
         ]
       },
       "properties": {
-        "id": 12628813994,
+        "id": "12628813994",
+        "name": "Griya Pasteur 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Pasteur 1",
         "public_transport": "stop_position"
       }
     },
@@ -201,10 +201,10 @@
         ]
       },
       "properties": {
-        "id": 12628813991,
+        "id": "12628813991",
+        "name": "Warung Cepot",
         "role": "stop",
         "bus": "yes",
-        "name": "Warung Cepot",
         "public_transport": "stop_position"
       }
     },
@@ -218,10 +218,10 @@
         ]
       },
       "properties": {
-        "id": 12809283847,
+        "id": "12809283847",
+        "name": "SDN Sukaraja",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Sukaraja",
         "public_transport": "stop_position"
       }
     },
@@ -235,10 +235,10 @@
         ]
       },
       "properties": {
-        "id": 1396428138,
+        "id": "1396428138",
+        "name": "Simpang Dakota",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Dakota",
         "public_transport": "stop_position"
       }
     },
@@ -252,10 +252,10 @@
         ]
       },
       "properties": {
-        "id": 12809283844,
+        "id": "12809283844",
+        "name": "Borma Dakota",
         "role": "stop",
         "bus": "yes",
-        "name": "Borma Dakota",
         "public_transport": "stop_position"
       }
     },
@@ -269,10 +269,10 @@
         ]
       },
       "properties": {
-        "id": 12809283842,
+        "id": "12809283842",
+        "name": "Mentor",
         "role": "stop",
         "bus": "yes",
-        "name": "Mentor",
         "public_transport": "stop_position"
       }
     },
@@ -286,10 +286,10 @@
         ]
       },
       "properties": {
-        "id": 3250402136,
+        "id": "3250402136",
+        "name": "Gunung Batu",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Gunung Batu",
         "public_transport": "stop_position"
       }
     }

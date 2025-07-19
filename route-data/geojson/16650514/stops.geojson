@@ -14,6 +14,7 @@
         "id": "3248969440",
         "name": "BTM",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,22 +31,7 @@
         "id": "12633822765",
         "name": "Seberang Kiara Artha",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6440375,
-          -6.9165764
-        ]
-      },
-      "properties": {
-        "id": "v_107.644037_-6.916576",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +48,7 @@
         "id": "12806853454",
         "name": "SDN 083 Babakan Surabaya Selatan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,22 +65,7 @@
         "id": "12806853450",
         "name": "Griya Kiaracondong",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6445077,
-          -6.9245514
-        ]
-      },
-      "properties": {
-        "id": "v_107.644508_-6.924551",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +82,7 @@
         "id": "12806853449",
         "name": "Jalan PSM",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +99,7 @@
         "id": "12806853447",
         "name": "Honda Daya Motor Kiaracondong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,22 +116,7 @@
         "id": "12806853446",
         "name": "SDN 38 Kiaracondong",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6425875,
-          -6.9357551
-        ]
-      },
-      "properties": {
-        "id": "v_107.642588_-6.935755",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +133,7 @@
         "id": "12806853442",
         "name": "Kebon Kangkung 11",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +150,7 @@
         "id": "12806853444",
         "name": "KPP Madya Dua Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -198,30 +159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6414267,
-          -6.9311304
+          107.6414056,
+          -6.9311364
         ]
       },
       "properties": {
-        "id": "v_107.641427_-6.931130",
-        "name": "Jalan Jenderal Gatot Subroto",
+        "id": "virtual_107.6414_-6.9311",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6393128,
-          -6.9299564
-        ]
-      },
-      "properties": {
-        "id": "v_107.639313_-6.929956",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -238,6 +184,7 @@
         "id": "12981961719",
         "name": "SD Kartika X-1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,22 +201,7 @@
         "id": "12813438858",
         "name": "Asrama Pussenkav",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6300352,
-          -6.925151
-        ]
-      },
-      "properties": {
-        "id": "v_107.630035_-6.925151",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +218,7 @@
         "id": "12806717342",
         "name": "Sumber Rasa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -294,94 +227,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6243612,
-          -6.9238018
+          107.6196664,
+          -6.9258058
         ]
       },
       "properties": {
-        "id": "v_107.624361_-6.923802",
-        "name": "Jalan Jenderal Gatot Subroto",
+        "id": "virtual_107.6197_-6.9258",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6219829,
-          -6.9229788
-        ]
-      },
-      "properties": {
-        "id": "v_107.621983_-6.922979",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6199392,
-          -6.9240798
-        ]
-      },
-      "properties": {
-        "id": "v_107.619939_-6.924080",
-        "name": "Jalan Burangrang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6195149,
-          -6.926592
-        ]
-      },
-      "properties": {
-        "id": "v_107.619515_-6.926592",
-        "name": "Jalan Burangrang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6181288,
-          -6.9283719
-        ]
-      },
-      "properties": {
-        "id": "v_107.618129_-6.928372",
-        "name": "Jalan Sadakeling",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6158375,
-          -6.9284478
-        ]
-      },
-      "properties": {
-        "id": "v_107.615837_-6.928448",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -398,6 +252,7 @@
         "id": "3374033505",
         "name": "UNPAS Lengkong Besar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,54 +269,7 @@
         "id": "12809314942",
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6106762,
-          -6.929646
-        ]
-      },
-      "properties": {
-        "id": "v_107.610676_-6.929646",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.608899,
-          -6.9278672
-        ]
-      },
-      "properties": {
-        "id": "v_107.608899_-6.927867",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6062469,
-          -6.9274175
-        ]
-      },
-      "properties": {
-        "id": "v_107.606247_-6.927417",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     }

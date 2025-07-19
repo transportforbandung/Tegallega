@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11711326973,
+        "id": "11711326973",
+        "name": "Terminal Elang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Elang",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 11735239264,
+        "id": "11735239264",
+        "name": "Rajawali 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Rajawali 1",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11735239266,
+        "id": "11735239266",
+        "name": "Dunguscariang",
         "role": "stop",
         "bus": "yes",
-        "name": "Dunguscariang",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 1911635044,
+        "id": "1911635044",
+        "name": "Yayasan LPPN",
         "role": "stop",
         "bus": "yes",
-        "name": "Yayasan LPPN",
         "network": "Angkot Kota Bandung",
         "public_transport": "stop_position"
       }
@@ -80,10 +80,10 @@
         ]
       },
       "properties": {
-        "id": 11735239268,
+        "id": "11735239268",
+        "name": "SMA Trinitas",
         "role": "stop",
         "bus": "yes",
-        "name": "SMA Trinitas",
         "public_transport": "stop_position"
       }
     },
@@ -97,10 +97,10 @@
         ]
       },
       "properties": {
-        "id": 11735248671,
+        "id": "11735248671",
+        "name": "Rumah Sakit Kebon Jati",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Kebon Jati",
         "public_transport": "stop_position"
       }
     },
@@ -114,10 +114,10 @@
         ]
       },
       "properties": {
-        "id": 25434237,
+        "id": "25434237",
+        "name": "GKI Kebonjati",
         "role": "stop",
         "bus": "yes",
-        "name": "GKI Kebonjati",
         "public_transport": "stop_position"
       }
     },
@@ -131,10 +131,10 @@
         ]
       },
       "properties": {
-        "id": 11735248674,
+        "id": "11735248674",
+        "name": "SMA Pasundan",
         "role": "stop",
         "bus": "yes",
-        "name": "SMA Pasundan",
         "public_transport": "stop_position"
       }
     },
@@ -148,11 +148,11 @@
         ]
       },
       "properties": {
-        "id": 1013407725,
+        "id": "1013407725",
+        "name": "Stasiun Hall",
         "role": "stop",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "name": "Stasiun Hall",
         "public_transport": "stop_position"
       }
     },
@@ -166,10 +166,10 @@
         ]
       },
       "properties": {
-        "id": 11262097619,
+        "id": "11262097619",
+        "name": "Stasiun Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Timur",
         "public_transport": "stop_position"
       }
     },
@@ -183,10 +183,10 @@
         ]
       },
       "properties": {
-        "id": 11711326974,
+        "id": "11711326974",
+        "name": "Perintis Kemerdekaan",
         "role": "stop",
         "bus": "yes",
-        "name": "Perintis Kemerdekaan",
         "public_transport": "stop_position"
       }
     },
@@ -200,10 +200,10 @@
         ]
       },
       "properties": {
-        "id": 11735248675,
+        "id": "11735248675",
+        "name": "Bank Indonesia",
         "role": "stop",
         "bus": "yes",
-        "name": "Bank Indonesia",
         "public_transport": "stop_position"
       }
     },
@@ -217,10 +217,10 @@
         ]
       },
       "properties": {
-        "id": 1849525838,
+        "id": "1849525838",
+        "name": "Lembong",
         "role": "stop",
         "bus": "yes",
-        "name": "Lembong",
         "public_transport": "stop_position",
         "shelter": "yes",
         "source": "POI_WRI_Survey_2023"
@@ -236,10 +236,10 @@
         ]
       },
       "properties": {
-        "id": 10801865379,
+        "id": "10801865379",
+        "name": "Telkom Lembong",
         "role": "stop",
         "bus": "yes",
-        "name": "Telkom Lembong",
         "public_transport": "stop_position"
       }
     },
@@ -253,10 +253,10 @@
         ]
       },
       "properties": {
-        "id": 11735248678,
+        "id": "11735248678",
+        "name": "RSU Bungsu",
         "role": "stop",
         "bus": "yes",
-        "name": "RSU Bungsu",
         "public_transport": "stop_position"
       }
     },
@@ -270,10 +270,10 @@
         ]
       },
       "properties": {
-        "id": 11735248705,
+        "id": "11735248705",
+        "name": "Ketapang",
         "role": "stop",
         "bus": "yes",
-        "name": "Ketapang",
         "public_transport": "stop_position"
       }
     },
@@ -287,10 +287,10 @@
         ]
       },
       "properties": {
-        "id": 11735248679,
+        "id": "11735248679",
+        "name": "Pasar Kosambi",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kosambi",
         "public_transport": "stop_position"
       }
     },
@@ -304,10 +304,10 @@
         ]
       },
       "properties": {
-        "id": 11735248685,
+        "id": "11735248685",
+        "name": "Segitiga Mas",
         "role": "stop",
         "bus": "yes",
-        "name": "Segitiga Mas",
         "public_transport": "stop_position"
       }
     },
@@ -321,10 +321,10 @@
         ]
       },
       "properties": {
-        "id": 11735248686,
+        "id": "11735248686",
+        "name": "Jaya Plaza",
         "role": "stop",
         "bus": "yes",
-        "name": "Jaya Plaza",
         "public_transport": "stop_position"
       }
     },
@@ -338,10 +338,10 @@
         ]
       },
       "properties": {
-        "id": 11735248689,
+        "id": "11735248689",
+        "name": "Dinas Pendidikan Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Dinas Pendidikan Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -355,10 +355,10 @@
         ]
       },
       "properties": {
-        "id": 5391666887,
+        "id": "5391666887",
+        "name": "Jalan Mangga",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Mangga",
         "public_transport": "stop_position"
       }
     },
@@ -372,10 +372,10 @@
         ]
       },
       "properties": {
-        "id": 11735248691,
+        "id": "11735248691",
+        "name": "Sekolah Agustinus",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekolah Agustinus",
         "public_transport": "stop_position"
       }
     },
@@ -389,10 +389,10 @@
         ]
       },
       "properties": {
-        "id": 3375793690,
+        "id": "3375793690",
+        "name": "A.Yani Supratman",
         "role": "stop",
         "bus": "yes",
-        "name": "A.Yani Supratman",
         "public_transport": "stop_position"
       }
     },
@@ -406,10 +406,10 @@
         ]
       },
       "properties": {
-        "id": 11735248693,
+        "id": "11735248693",
+        "name": "Cikaso",
         "role": "stop",
         "bus": "yes",
-        "name": "Cikaso",
         "public_transport": "stop_position"
       }
     },
@@ -423,10 +423,10 @@
         ]
       },
       "properties": {
-        "id": 11735248694,
+        "id": "11735248694",
+        "name": "Awi Bitung",
         "role": "stop",
         "bus": "yes",
-        "name": "Awi Bitung",
         "public_transport": "stop_position"
       }
     },
@@ -440,10 +440,10 @@
         ]
       },
       "properties": {
-        "id": 11735248708,
+        "id": "11735248708",
+        "name": "Cimuncang",
         "role": "stop",
         "bus": "yes",
-        "name": "Cimuncang",
         "public_transport": "stop_position"
       }
     },
@@ -457,10 +457,10 @@
         ]
       },
       "properties": {
-        "id": 5832221935,
+        "id": "5832221935",
+        "name": "Seberang Terminal Cicaheum",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Terminal Cicaheum",
         "public_transport": "stop_position"
       }
     },
@@ -474,10 +474,10 @@
         ]
       },
       "properties": {
-        "id": 6460801785,
+        "id": "6460801785",
+        "name": "Terminal Cicaheum",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Cicaheum",
         "network": "Trans Metro Bandung",
         "operator": "Dinas Perhubungan Kota Bandung",
         "public_transport": "stop_position"

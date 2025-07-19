@@ -14,22 +14,7 @@
         "id": "12637510528",
         "name": "Stasiun Cikudapateuh",
         "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6254974,
-          -6.9214586
-        ]
-      },
-      "properties": {
-        "id": "v_107.625497_-6.921459",
-        "name": "Jalan Terate",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +31,7 @@
         "id": "12806717338",
         "name": "SMK Pariwisata Telkom",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +48,7 @@
         "id": "9189908949",
         "name": "Yayasan Muslimah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -70,62 +57,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6227649,
-          -6.9298044
+          107.6191727,
+          -6.9332024
         ]
       },
       "properties": {
-        "id": "v_107.622765_-6.929804",
-        "name": "Jalan Palasari",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6220445,
-          -6.9323308
-        ]
-      },
-      "properties": {
-        "id": "v_107.622045_-6.932331",
-        "name": "Jalan Palasari",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6206148,
-          -6.9342423
-        ]
-      },
-      "properties": {
-        "id": "v_107.620615_-6.934242",
-        "name": "Jalan Gajah",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6187265,
-          -6.9327149
-        ]
-      },
-      "properties": {
-        "id": "v_107.618726_-6.932715",
+        "id": "virtual_107.6192_-6.9332",
         "name": "Jalan Buah Batu",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -134,62 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6165751,
-          -6.9315064
+          107.6140869,
+          -6.9334648
         ]
       },
       "properties": {
-        "id": "v_107.616575_-6.931506",
-        "name": "Jalan Gurame",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6145008,
-          -6.933004
-        ]
-      },
-      "properties": {
-        "id": "v_107.614501_-6.933004",
+        "id": "virtual_107.6141_-6.9335",
         "name": "Jalan Mochammad Ramdhan",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6127563,
-          -6.9348062
-        ]
-      },
-      "properties": {
-        "id": "v_107.612756_-6.934806",
-        "name": "Jalan Mochammad Ramdhan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6107189,
-          -6.9365083
-        ]
-      },
-      "properties": {
-        "id": "v_107.610719_-6.936508",
-        "name": "Jalan Mochammad Ramdhan",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -206,6 +99,7 @@
         "id": "3376171471",
         "name": "Masjid An Nur PT INTI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,22 +116,7 @@
         "id": "10815723012",
         "name": "Simpang Mohamad Toha Biddokkes",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6031703,
-          -6.9373463
-        ]
-      },
-      "properties": {
-        "id": "v_107.603170_-6.937346",
-        "name": "Jalan Peta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +133,7 @@
         "id": "12806765747",
         "name": "Muara",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +150,7 @@
         "id": "11739021653",
         "name": "Rumah Sakit Immanuel B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -278,62 +159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5958242,
-          -6.9349871
+          107.59637405,
+          -6.93307405
         ]
       },
       "properties": {
-        "id": "v_107.595824_-6.934987",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
+        "id": "virtual_107.5964_-6.9331",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5964545,
-          -6.9328118
-        ]
-      },
-      "properties": {
-        "id": "v_107.596454_-6.932812",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5971942,
-          -6.9302837
-        ]
-      },
-      "properties": {
-        "id": "v_107.597194_-6.930284",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5979226,
-          -6.9278179
-        ]
-      },
-      "properties": {
-        "id": "v_107.597923_-6.927818",
-        "name": "Jalan Kopo",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -350,6 +184,7 @@
         "id": "12806765749",
         "name": "Simpang Astanaanyar Pasirkoja",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +201,7 @@
         "id": "12809227879",
         "name": "Jalan Haji Safari",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,38 +218,7 @@
         "id": "12806765750",
         "name": "Karanganyar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5967264,
-          -6.9212186
-        ]
-      },
-      "properties": {
-        "id": "v_107.596726_-6.921219",
-        "name": "Jalan Cibadak",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5943556,
-          -6.9209362
-        ]
-      },
-      "properties": {
-        "id": "v_107.594356_-6.920936",
-        "name": "Jalan Cibadak",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +235,7 @@
         "id": "11711275755",
         "name": "Mayapada Tower",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +252,7 @@
         "id": "11735248716",
         "name": "Simpang Jamika",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +269,7 @@
         "id": "11711275757",
         "name": "Toko Ambon",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +286,7 @@
         "id": "11954573588",
         "name": "SDN Raya Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,22 +303,7 @@
         "id": "11711275763",
         "name": "Kemenag Kanwil Jabar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5747901,
-          -6.9173287
-        ]
-      },
-      "properties": {
-        "id": "v_107.574790_-6.917329",
-        "name": "Jalan Jendral Sudirman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,22 +320,7 @@
         "id": "2604179157",
         "name": "Optik Krida",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5708773,
-          -6.9135594
-        ]
-      },
-      "properties": {
-        "id": "v_107.570877_-6.913559",
-        "name": "Jalan Jendral Sudirman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -558,6 +337,7 @@
         "id": "11954573590",
         "name": "Batas Kota",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,22 +354,7 @@
         "id": "11711326971",
         "name": "Rajawali Barat",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5725782,
-          -6.9118819
-        ]
-      },
-      "properties": {
-        "id": "v_107.572578_-6.911882",
-        "name": "Jalan Rajawali Barat",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +371,7 @@
         "id": "11711326972",
         "name": "Plaza Telkom Rajawali",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

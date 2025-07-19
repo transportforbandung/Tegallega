@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 3277886365,
+        "id": "3277886365",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 11739021652,
+        "id": "11739021652",
+        "name": "Rumah Sakit Immanuel A",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Immanuel A",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11739021646,
+        "id": "11739021646",
+        "name": "Taman Tegallega",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Tegallega",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 11739021654,
+        "id": "11739021654",
+        "name": "Pintu Masuk Terminal Tegallega",
         "role": "stop",
         "bus": "yes",
-        "name": "Pintu Masuk Terminal Tegallega",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 6443280171,
+        "id": "6443280171",
+        "name": "Astana Anyar RSIA Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Astana Anyar RSIA Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -96,11 +96,11 @@
         ]
       },
       "properties": {
-        "id": 1013407725,
+        "id": "1013407725",
+        "name": "Stasiun Hall",
         "role": "stop",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "name": "Stasiun Hall",
         "public_transport": "stop_position"
       }
     },
@@ -114,11 +114,11 @@
         ]
       },
       "properties": {
-        "id": 11739064594,
+        "id": "11739064594",
+        "name": "SMK Negeri 1 Bandung",
         "role": "stop",
         "alt_name": "Balai Kota",
         "bus": "yes",
-        "name": "SMK Negeri 1 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -132,10 +132,10 @@
         ]
       },
       "properties": {
-        "id": 11739021634,
+        "id": "11739021634",
+        "name": "Riau XL",
         "role": "stop",
         "bus": "yes",
-        "name": "Riau XL",
         "public_transport": "stop_position"
       }
     },
@@ -149,11 +149,11 @@
         ]
       },
       "properties": {
-        "id": 10653503633,
+        "id": "10653503633",
+        "name": "Hotel The-One-O-One A",
         "role": "stop",
         "bus": "yes",
         "departures_board": "no",
-        "name": "Hotel The-One-O-One A",
         "network": "Trans Metro Pasundan",
         "public_transport": "stop_position",
         "ramp": "no",
@@ -171,10 +171,10 @@
         ]
       },
       "properties": {
-        "id": 10778322183,
+        "id": "10778322183",
+        "name": "Taman Radio A",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Radio A",
         "public_transport": "stop_position"
       }
     },
@@ -188,10 +188,10 @@
         ]
       },
       "properties": {
-        "id": 11104718108,
+        "id": "11104718108",
+        "name": "Kartikasari A",
         "role": "stop",
         "bus": "yes",
-        "name": "Kartikasari A",
         "public_transport": "stop_position"
       }
     },
@@ -205,10 +205,10 @@
         ]
       },
       "properties": {
-        "id": 11104669204,
+        "id": "11104669204",
+        "name": "Rumah Sakit Santo Borromeus A",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Santo Borromeus A",
         "public_transport": "stop_position"
       }
     },
@@ -222,10 +222,10 @@
         ]
       },
       "properties": {
-        "id": 11739021656,
+        "id": "11739021656",
+        "name": "Masjid Baiturrahman",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Baiturrahman",
         "public_transport": "stop_position"
       }
     },
@@ -239,10 +239,10 @@
         ]
       },
       "properties": {
-        "id": 11707030824,
+        "id": "11707030824",
+        "name": "UNPAD Dipatiukur (4D)",
         "role": "stop",
         "bus": "yes",
-        "name": "UNPAD Dipatiukur (4D)",
         "public_transport": "stop_position"
       }
     }

@@ -14,6 +14,7 @@
         "id": "6609327003",
         "name": "Cipagalo",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,22 +31,7 @@
         "id": "12808943892",
         "name": "Puskesmas Kujangsari A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6385351,
-          -6.9621689
-        ]
-      },
-      "properties": {
-        "id": "v_107.638535_-6.962169",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +48,7 @@
         "id": "12626499690",
         "name": "Bluebird A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +65,7 @@
         "id": "35138340",
         "name": "Pasar Kordon A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,22 +82,7 @@
         "id": "12626499693",
         "name": "JAPNAS",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.634757,
-          -6.9494368
-        ]
-      },
-      "properties": {
-        "id": "v_107.634757_-6.949437",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,22 +99,7 @@
         "id": "12808948218",
         "name": "Guntursari Wetan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6299147,
-          -6.9445213
-        ]
-      },
-      "properties": {
-        "id": "v_107.629915_-6.944521",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +116,7 @@
         "id": "1980677053",
         "name": "ISBI Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +133,7 @@
         "id": "12986852694",
         "name": "Seberang Griya Buah Batu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +150,7 @@
         "id": "1980592202",
         "name": "Seberang Selontongan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -198,62 +159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6240828,
-          -6.9384102
+          107.62153905,
+          -6.935731499999999
         ]
       },
       "properties": {
-        "id": "v_107.624083_-6.938410",
-        "name": "Jalan Buah Batu",
+        "id": "virtual_107.6215_-6.9357",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6225387,
-          -6.9367463
-        ]
-      },
-      "properties": {
-        "id": "v_107.622539_-6.936746",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6208771,
-          -6.9350405
-        ]
-      },
-      "properties": {
-        "id": "v_107.620877_-6.935041",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6191727,
-          -6.9332024
-        ]
-      },
-      "properties": {
-        "id": "v_107.619173_-6.933202",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -270,6 +184,7 @@
         "id": "12806120217",
         "name": "Unla",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,22 +201,7 @@
         "id": "12825997237",
         "name": "Melong Karapitan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6151523,
-          -6.928135
-        ]
-      },
-      "properties": {
-        "id": "v_107.615152_-6.928135",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +218,7 @@
         "id": "3374033505",
         "name": "UNPAS Lengkong Besar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,54 +235,7 @@
         "id": "12809314942",
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6115743,
-          -6.9323207
-        ]
-      },
-      "properties": {
-        "id": "v_107.611574_-6.932321",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084036,
-          -6.9320886
-        ]
-      },
-      "properties": {
-        "id": "v_107.608404_-6.932089",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6060299,
-          -6.931773
-        ]
-      },
-      "properties": {
-        "id": "v_107.606030_-6.931773",
-        "name": "Jalan Ibu Inggit Ganarsih",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +252,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

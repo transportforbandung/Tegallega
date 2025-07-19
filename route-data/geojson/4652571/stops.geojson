@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12626529705",
         "name": "ITC Kebon Kalapa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,38 +48,7 @@
         "id": "11898859975",
         "name": "Grand Yogya Kepatihan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6084422,
-          -6.9226352
-        ]
-      },
-      "properties": {
-        "id": "v_107.608442_-6.922635",
-        "name": "Jalan Dalem Kaum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6107335,
-          -6.9229004
-        ]
-      },
-      "properties": {
-        "id": "v_107.610733_-6.922900",
-        "name": "Jalan Dalem Kaum",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,38 +65,7 @@
         "id": "1956195997",
         "name": "Jalan Jati",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6144957,
-          -6.9278316
-        ]
-      },
-      "properties": {
-        "id": "v_107.614496_-6.927832",
-        "name": "Jalan Cikawao",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6171591,
-          -6.9291037
-        ]
-      },
-      "properties": {
-        "id": "v_107.617159_-6.929104",
-        "name": "Jalan Sadakeling",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +82,7 @@
         "id": "3376282080",
         "name": "Banteng Sadakeling",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +99,7 @@
         "id": "1982390333",
         "name": "SMK Medina",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,22 +116,7 @@
         "id": "2250581874",
         "name": "GOR Lodaya",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6228829,
-          -6.9335325
-        ]
-      },
-      "properties": {
-        "id": "v_107.622883_-6.933533",
-        "name": "Jalan Kyai Haji Ahmad Dahlan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +133,7 @@
         "id": "11707031579",
         "name": "Hotel Horison B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,38 +150,7 @@
         "id": "7702036194",
         "name": "Hotel Horison A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6237206,
-          -6.9361054
-        ]
-      },
-      "properties": {
-        "id": "v_107.623721_-6.936105",
-        "name": "Jalan Pelajar Pejuang 45",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6243051,
-          -6.9385814
-        ]
-      },
-      "properties": {
-        "id": "v_107.624305_-6.938581",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +167,7 @@
         "id": "12808948214",
         "name": "Selontongan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +184,7 @@
         "id": "12986852693",
         "name": "Griya Buah Batu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,38 +201,7 @@
         "id": "12808948215",
         "name": "Kliningan Buahbatu",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.630216,
-          -6.9447298
-        ]
-      },
-      "properties": {
-        "id": "v_107.630216_-6.944730",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6320775,
-          -6.9466684
-        ]
-      },
-      "properties": {
-        "id": "v_107.632077_-6.946668",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +218,7 @@
         "id": "12626499695",
         "name": "Taman Buah Batu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +235,7 @@
         "id": "12626499694",
         "name": "Swadarma BNI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,22 +252,7 @@
         "id": "12626499692",
         "name": "Pasar Kordon B",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6393343,
-          -6.9559465
-        ]
-      },
-      "properties": {
-        "id": "v_107.639334_-6.955946",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,22 +269,7 @@
         "id": "12626499689",
         "name": "Bluebird B",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6390142,
-          -6.9607769
-        ]
-      },
-      "properties": {
-        "id": "v_107.639014_-6.960777",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +286,7 @@
         "id": "12626499688",
         "name": "Puskesmas Kujangsari B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +303,7 @@
         "id": "6609327003",
         "name": "Cipagalo",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

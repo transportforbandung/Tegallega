@@ -14,6 +14,7 @@
         "id": "3246190447",
         "name": "Terminal Tegallega",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "3383341282",
         "name": "Pasar Astana Anyar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "6443280171",
         "name": "Astana Anyar RSIA Kota Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "12806765749",
         "name": "Simpang Astanaanyar Pasirkoja",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12809227879",
         "name": "Jalan Haji Safari",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12806765750",
         "name": "Karanganyar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +116,7 @@
         "id": "12806765752",
         "name": "Cibadak Astanaanyar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +133,7 @@
         "id": "12809269114",
         "name": "Seberang SMAN 4 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +150,7 @@
         "id": "25434237",
         "name": "GKI Kebonjati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +167,7 @@
         "id": "11735248674",
         "name": "SMA Pasundan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +184,7 @@
         "id": "1013407725",
         "name": "Stasiun Hall",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,22 +201,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6068306,
-          -6.9152963
-        ]
-      },
-      "properties": {
-        "id": "v_107.606831_-6.915296",
-        "name": "Jalan Stasiun Timur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +218,7 @@
         "id": "293384756",
         "name": "Stasiun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +235,7 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +252,7 @@
         "id": "11739021629",
         "name": "SMAN 6 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +269,7 @@
         "id": "12806120202",
         "name": "SDN 013 Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +286,7 @@
         "id": "2012498684",
         "name": "Taman Adipura",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +303,7 @@
         "id": "11138593915",
         "name": "SDN Pajajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +320,7 @@
         "id": "25500626",
         "name": "GOR Padjajaran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +337,7 @@
         "id": "11739021630",
         "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +354,7 @@
         "id": "12809237525",
         "name": "Linggawastu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +371,7 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,22 +388,7 @@
         "id": "29392595",
         "name": "UNISBA",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6083923,
-          -6.9016206
-        ]
-      },
-      "properties": {
-        "id": "v_107.608392_-6.901621",
-        "name": "Jalan Taman Sari",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +405,7 @@
         "id": "1969331852",
         "name": "Balubur Town Square",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +422,7 @@
         "id": "3376871368",
         "name": "Pelesiran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +439,7 @@
         "id": "11262097538",
         "name": "Tamansari (Bonbin)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +456,7 @@
         "id": "12805921498",
         "name": "BATAN",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,22 +473,7 @@
         "id": "3530181074",
         "name": "Sabuga ITB",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6115102,
-          -6.8870871
-        ]
-      },
-      "properties": {
-        "id": "v_107.611510_-6.887087",
-        "name": "Jalan Taman Sari",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +490,7 @@
         "id": "12813184472",
         "name": "Sangkuriang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +507,7 @@
         "id": "11313188130",
         "name": "Pusdiklat Geologi Cisitu",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

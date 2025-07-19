@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12808912264,
+        "id": "12808912264",
+        "name": "Pos Banceuy",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Pos Banceuy",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12626529706,
+        "id": "12626529706",
+        "name": "Banceuy",
         "role": "stop",
         "bus": "yes",
-        "name": "Banceuy",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 11262097619,
+        "id": "11262097619",
+        "name": "Stasiun Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Timur",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 11711326974,
+        "id": "11711326974",
+        "name": "Perintis Kemerdekaan",
         "role": "stop",
         "bus": "yes",
-        "name": "Perintis Kemerdekaan",
         "public_transport": "stop_position"
       }
     },
@@ -96,11 +96,11 @@
         ]
       },
       "properties": {
-        "id": 11739064594,
+        "id": "11739064594",
+        "name": "SMK Negeri 1 Bandung",
         "role": "stop",
         "alt_name": "Balai Kota",
         "bus": "yes",
-        "name": "SMK Negeri 1 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -114,10 +114,10 @@
         ]
       },
       "properties": {
-        "id": 12809274346,
+        "id": "12809274346",
+        "name": "Masjid Al-Ukhuwwah",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Al-Ukhuwwah",
         "public_transport": "stop_position"
       }
     },
@@ -131,10 +131,10 @@
         ]
       },
       "properties": {
-        "id": 12809274348,
+        "id": "12809274348",
+        "name": "Wastukencana Purnawarman",
         "role": "stop",
         "bus": "yes",
-        "name": "Wastukencana Purnawarman",
         "public_transport": "stop_position"
       }
     },
@@ -148,10 +148,10 @@
         ]
       },
       "properties": {
-        "id": 11739021630,
+        "id": "11739021630",
+        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
         "bus": "yes",
-        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "public_transport": "stop_position"
       }
     },
@@ -165,10 +165,10 @@
         ]
       },
       "properties": {
-        "id": 3269294966,
+        "id": "3269294966",
+        "name": "Abdul Rivai",
         "role": "stop",
         "bus": "yes",
-        "name": "Abdul Rivai",
         "public_transport": "stop_position"
       }
     },
@@ -182,11 +182,11 @@
         ]
       },
       "properties": {
-        "id": 1700556149,
+        "id": "1700556149",
+        "name": "Taman Westhoff",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Taman Westhoff",
         "public_transport": "stop_position"
       }
     },
@@ -200,10 +200,10 @@
         ]
       },
       "properties": {
-        "id": 12809082539,
+        "id": "12809082539",
+        "name": "Djunjunan Paskal",
         "role": "stop",
         "bus": "yes",
-        "name": "Djunjunan Paskal",
         "public_transport": "stop_position"
       }
     },
@@ -217,10 +217,10 @@
         ]
       },
       "properties": {
-        "id": 12628813994,
+        "id": "12628813994",
+        "name": "Griya Pasteur 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Pasteur 1",
         "public_transport": "stop_position"
       }
     },
@@ -234,10 +234,10 @@
         ]
       },
       "properties": {
-        "id": 12628813991,
+        "id": "12628813991",
+        "name": "Warung Cepot",
         "role": "stop",
         "bus": "yes",
-        "name": "Warung Cepot",
         "public_transport": "stop_position"
       }
     },
@@ -251,10 +251,10 @@
         ]
       },
       "properties": {
-        "id": 12888147067,
+        "id": "12888147067",
+        "name": "Flyover KBP",
         "role": "stop",
         "bus": "yes",
-        "name": "Flyover KBP",
         "public_transport": "stop_position"
       }
     },
@@ -268,10 +268,10 @@
         ]
       },
       "properties": {
-        "id": 10680256950,
+        "id": "10680256950",
+        "name": "Bale Pare B",
         "role": "stop",
         "bus": "yes",
-        "name": "Bale Pare B",
         "public_transport": "stop_position"
       }
     },
@@ -285,10 +285,10 @@
         ]
       },
       "properties": {
-        "id": 11955383189,
+        "id": "11955383189",
+        "name": "Tatar Wangsakerta B",
         "role": "stop",
         "bus": "yes",
-        "name": "Tatar Wangsakerta B",
         "public_transport": "stop_position"
       }
     },
@@ -302,10 +302,10 @@
         ]
       },
       "properties": {
-        "id": 12143596541,
+        "id": "12143596541",
+        "name": "Parahyangan Utara B",
         "role": "stop",
         "bus": "yes",
-        "name": "Parahyangan Utara B",
         "public_transport": "stop_position"
       }
     },
@@ -319,10 +319,10 @@
         ]
       },
       "properties": {
-        "id": 11955383186,
+        "id": "11955383186",
+        "name": "Tatar Pitaloka (Parahyangan Selatan)",
         "role": "stop",
         "bus": "yes",
-        "name": "Tatar Pitaloka (Parahyangan Selatan)",
         "public_transport": "stop_position"
       }
     },
@@ -336,10 +336,10 @@
         ]
       },
       "properties": {
-        "id": 12390565460,
+        "id": "12390565460",
+        "name": "Ratnasasih",
         "role": "stop",
         "bus": "yes",
-        "name": "Ratnasasih",
         "public_transport": "stop_position"
       }
     },
@@ -353,10 +353,10 @@
         ]
       },
       "properties": {
-        "id": 12888177149,
+        "id": "12888177149",
+        "name": "BTD",
         "role": "stop",
         "bus": "yes",
-        "name": "BTD",
         "public_transport": "stop_position"
       }
     },
@@ -370,10 +370,10 @@
         ]
       },
       "properties": {
-        "id": 5509730969,
+        "id": "5509730969",
+        "name": "Tatar Subanglarang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Tatar Subanglarang",
         "public_transport": "stop_position"
       }
     }

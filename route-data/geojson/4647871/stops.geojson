@@ -14,6 +14,7 @@
         "id": "6442840898",
         "name": "Simpang Holis Soekarno Hatta",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "1911634927",
         "name": "RS Priangan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "1911634983",
         "name": "Jalan Suryani",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,22 +65,7 @@
         "id": "1911634972",
         "name": "Pasar Cangkring/Situ Aksan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5833452,
-          -6.9220672
-        ]
-      },
-      "properties": {
-        "id": "v_107.583345_-6.922067",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +82,7 @@
         "id": "2325452491",
         "name": "Unknown",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -102,14 +91,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5885587,
-          -6.9221995
+          107.59479166666667,
+          -6.9228218
         ]
       },
       "properties": {
-        "id": "v_107.588559_-6.922199",
-        "name": "Jalan Pagarsih Barat",
+        "id": "virtual_107.5948_-6.9228",
+        "name": "Jalan terdekat",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -118,142 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5911917,
-          -6.9224429
+          107.60387503333334,
+          -6.9238973999999995
         ]
       },
       "properties": {
-        "id": "v_107.591192_-6.922443",
-        "name": "Jalan Pagarsih Barat",
+        "id": "virtual_107.6039_-6.9239",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5937922,
-          -6.9227097
-        ]
-      },
-      "properties": {
-        "id": "v_107.593792_-6.922710",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5960633,
-          -6.922964
-        ]
-      },
-      "properties": {
-        "id": "v_107.596063_-6.922964",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5985311,
-          -6.9232621
-        ]
-      },
-      "properties": {
-        "id": "v_107.598531_-6.923262",
-        "name": "Jalan Pagarsih Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6012031,
-          -6.9235159
-        ]
-      },
-      "properties": {
-        "id": "v_107.601203_-6.923516",
-        "name": "Jalan Kalipah Apo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6034842,
-          -6.923785
-        ]
-      },
-      "properties": {
-        "id": "v_107.603484_-6.923785",
-        "name": "Jalan Kalipah Apo",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6035987,
-          -6.9285343
-        ]
-      },
-      "properties": {
-        "id": "v_107.603599_-6.928534",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.603397,
-          -6.9314278
-        ]
-      },
-      "properties": {
-        "id": "v_107.603397_-6.931428",
-        "name": "Jalan Otto Iskandardinata",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.605557,
-          -6.9305299
-        ]
-      },
-      "properties": {
-        "id": "v_107.605557_-6.930530",
-        "name": "Jalan Dewi Sartika",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -270,6 +133,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

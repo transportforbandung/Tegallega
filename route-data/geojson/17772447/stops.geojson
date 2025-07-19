@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 3250402136,
+        "id": "3250402136",
+        "name": "Gunung Batu",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Gunung Batu",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 2317306703,
+        "id": "2317306703",
+        "name": "Seberang Gateway Pasteur",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Gateway Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 1658426541,
+        "id": "1658426541",
+        "name": "BPJS Pasteur",
         "role": "stop",
         "bus": "yes",
-        "name": "BPJS Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 12013144935,
+        "id": "12013144935",
+        "name": "Mall d'Botanica",
         "role": "stop",
         "bus": "yes",
-        "name": "Mall d'Botanica",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 2958261155,
+        "id": "2958261155",
+        "name": "Djundjunan 3",
         "role": "stop",
         "bus": "yes",
-        "name": "Djundjunan 3",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 12628813992,
+        "id": "12628813992",
+        "name": "Griya Pasteur 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Pasteur 2",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 12809237524,
+        "id": "12809237524",
+        "name": "GKI Pasteur",
         "role": "stop",
         "bus": "yes",
-        "name": "GKI Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12809237525,
+        "id": "12809237525",
+        "name": "Linggawastu",
         "role": "stop",
         "bus": "yes",
-        "name": "Linggawastu",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 3376669071,
+        "id": "3376669071",
+        "name": "Pasar Kembang Wastukencana",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kembang Wastukencana",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12809237527,
+        "id": "12809237527",
+        "name": "Pajajaran Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Pajajaran Timur",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 3376669069,
+        "id": "3376669069",
+        "name": "Kimia Farma",
         "role": "stop",
         "bus": "yes",
-        "name": "Kimia Farma",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 293384756,
+        "id": "293384756",
+        "name": "Stasiun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 12806120204,
+        "id": "12806120204",
+        "name": "Haji Mesri",
         "role": "stop",
         "bus": "yes",
-        "name": "Haji Mesri",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 25434237,
+        "id": "25434237",
+        "name": "GKI Kebonjati",
         "role": "stop",
         "bus": "yes",
-        "name": "GKI Kebonjati",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 11735248674,
+        "id": "11735248674",
+        "name": "SMA Pasundan",
         "role": "stop",
         "bus": "yes",
-        "name": "SMA Pasundan",
         "public_transport": "stop_position"
       }
     },
@@ -266,11 +266,11 @@
         ]
       },
       "properties": {
-        "id": 1013407725,
+        "id": "1013407725",
+        "name": "Stasiun Hall",
         "role": "stop_exit_only",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "name": "Stasiun Hall",
         "public_transport": "stop_position"
       }
     }

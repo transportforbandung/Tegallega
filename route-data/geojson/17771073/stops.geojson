@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11883812981,
+        "id": "11883812981",
+        "name": "SDN Moh. Toha",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "SDN Moh. Toha",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12626529705,
+        "id": "12626529705",
+        "name": "ITC Kebon Kalapa",
         "role": "stop",
         "bus": "yes",
-        "name": "ITC Kebon Kalapa",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11898859975,
+        "id": "11898859975",
+        "name": "Grand Yogya Kepatihan",
         "role": "stop",
         "bus": "yes",
-        "name": "Grand Yogya Kepatihan",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12808912264,
+        "id": "12808912264",
+        "name": "Pos Banceuy",
         "role": "stop",
         "bus": "yes",
-        "name": "Pos Banceuy",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 1956195997,
+        "id": "1956195997",
+        "name": "Jalan Jati",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Jati",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 3376282080,
+        "id": "3376282080",
+        "name": "Banteng Sadakeling",
         "role": "stop",
         "bus": "yes",
-        "name": "Banteng Sadakeling",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 1982390333,
+        "id": "1982390333",
+        "name": "SMK Medina",
         "role": "stop",
         "bus": "yes",
-        "name": "SMK Medina",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 2250581874,
+        "id": "2250581874",
+        "name": "GOR Lodaya",
         "role": "stop",
         "bus": "yes",
-        "name": "GOR Lodaya",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 11707031579,
+        "id": "11707031579",
+        "name": "Hotel Horison B",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison B",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 7702036194,
+        "id": "7702036194",
+        "name": "Hotel Horison A",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison A",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 12808948214,
+        "id": "12808948214",
+        "name": "Selontongan",
         "role": "stop",
         "bus": "yes",
-        "name": "Selontongan",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 12808948215,
+        "id": "12808948215",
+        "name": "Kliningan Buahbatu",
         "role": "stop",
         "bus": "yes",
-        "name": "Kliningan Buahbatu",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 12806868676,
+        "id": "12806868676",
+        "name": "Griya Hemat",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Hemat",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 12806868672,
+        "id": "12806868672",
+        "name": "Sekelimus Utara",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekelimus Utara",
         "public_transport": "stop_position"
       }
     },
@@ -266,10 +266,10 @@
         ]
       },
       "properties": {
-        "id": 5825209951,
+        "id": "5825209951",
+        "name": "Simpang Samsat Kiaracondong",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Samsat Kiaracondong",
         "public_transport": "stop_position"
       }
     },
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "id": 12806851389,
+        "id": "12806851389",
+        "name": "STT Mandala",
         "role": "stop",
         "bus": "yes",
-        "name": "STT Mandala",
         "public_transport": "stop_position"
       }
     },
@@ -300,10 +300,10 @@
         ]
       },
       "properties": {
-        "id": 12806851390,
+        "id": "12806851390",
+        "name": "SMK Medika Com",
         "role": "stop",
         "bus": "yes",
-        "name": "SMK Medika Com",
         "public_transport": "stop_position"
       }
     },
@@ -317,10 +317,10 @@
         ]
       },
       "properties": {
-        "id": 12806851392,
+        "id": "12806851392",
+        "name": "Unibi",
         "role": "stop",
         "bus": "yes",
-        "name": "Unibi",
         "public_transport": "stop_position"
       }
     },
@@ -334,10 +334,10 @@
         ]
       },
       "properties": {
-        "id": 12806851396,
+        "id": "12806851396",
+        "name": "Cidurian Utara",
         "role": "stop",
         "bus": "yes",
-        "name": "Cidurian Utara",
         "public_transport": "stop_position"
       }
     },
@@ -351,10 +351,10 @@
         ]
       },
       "properties": {
-        "id": 12806851393,
+        "id": "12806851393",
+        "name": "SMKN 9 Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "SMKN 9 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -368,10 +368,10 @@
         ]
       },
       "properties": {
-        "id": 3375689664,
+        "id": "3375689664",
+        "name": "Jasa Raharja Jabar",
         "role": "stop",
         "bus": "yes",
-        "name": "Jasa Raharja Jabar",
         "public_transport": "stop_position"
       }
     },
@@ -385,10 +385,10 @@
         ]
       },
       "properties": {
-        "id": 12806851400,
+        "id": "12806851400",
+        "name": "Suparma",
         "role": "stop",
         "bus": "yes",
-        "name": "Suparma",
         "public_transport": "stop_position"
       }
     },
@@ -402,10 +402,10 @@
         ]
       },
       "properties": {
-        "id": 12806868601,
+        "id": "12806868601",
+        "name": "Kawaluyaan",
         "role": "stop",
         "bus": "yes",
-        "name": "Kawaluyaan",
         "public_transport": "stop_position"
       }
     },
@@ -419,10 +419,10 @@
         ]
       },
       "properties": {
-        "id": 12806868603,
+        "id": "12806868603",
+        "name": "Sanggar Hurip",
         "role": "stop",
         "bus": "yes",
-        "name": "Sanggar Hurip",
         "public_transport": "stop_position"
       }
     },
@@ -436,10 +436,10 @@
         ]
       },
       "properties": {
-        "id": 12806868618,
+        "id": "12806868618",
+        "name": "Cisaranten Kulon",
         "role": "stop",
         "bus": "yes",
-        "name": "Cisaranten Kulon",
         "public_transport": "stop_position"
       }
     },
@@ -453,10 +453,10 @@
         ]
       },
       "properties": {
-        "id": 12806868620,
+        "id": "12806868620",
+        "name": "KPP Pratama Cicadas",
         "role": "stop",
         "bus": "yes",
-        "name": "KPP Pratama Cicadas",
         "public_transport": "stop_position"
       }
     },
@@ -470,10 +470,10 @@
         ]
       },
       "properties": {
-        "id": 12814754658,
+        "id": "12814754658",
+        "name": "Depan Pasar Gedebage",
         "role": "stop",
         "bus": "yes",
-        "name": "Depan Pasar Gedebage",
         "public_transport": "stop_position"
       }
     },
@@ -487,10 +487,10 @@
         ]
       },
       "properties": {
-        "id": 12806516348,
+        "id": "12806516348",
+        "name": "Universitas Bhakti Kencana",
         "role": "stop",
         "bus": "yes",
-        "name": "Universitas Bhakti Kencana",
         "public_transport": "stop_position"
       }
     },
@@ -504,10 +504,10 @@
         ]
       },
       "properties": {
-        "id": 12806516353,
+        "id": "12806516353",
+        "name": "SDN 050 Cibiru",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN 050 Cibiru",
         "public_transport": "stop_position"
       }
     },
@@ -521,10 +521,10 @@
         ]
       },
       "properties": {
-        "id": 10771913963,
+        "id": "10771913963",
+        "name": "Gerbang IPDN Jatinangor",
         "role": "stop",
         "bus": "yes",
-        "name": "Gerbang IPDN Jatinangor",
         "public_transport": "stop_position"
       }
     },
@@ -538,11 +538,11 @@
         ]
       },
       "properties": {
-        "id": 1966499313,
+        "id": "1966499313",
+        "name": "IPDN A",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "IPDN A",
         "public_transport": "stop_position",
         "ref": "IPDN A"
       }
@@ -557,10 +557,10 @@
         ]
       },
       "properties": {
-        "id": 3476277701,
+        "id": "3476277701",
+        "name": "Damri Unpad Jatinangor",
         "role": "stop",
         "bus": "yes",
-        "name": "Damri Unpad Jatinangor",
         "public_transport": "stop_position"
       }
     }

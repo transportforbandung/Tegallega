@@ -14,6 +14,7 @@
         "id": "3250402136",
         "name": "Gunung Batu",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "2317306703",
         "name": "Seberang Gateway Pasteur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -38,94 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5695663,
-          -6.8896411
+          107.57491160000001,
+          -6.89288905
         ]
       },
       "properties": {
-        "id": "v_107.569566_-6.889641",
-        "name": "Jalan Gunung Batu",
+        "id": "virtual_107.5749_-6.8929",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.571799,
-          -6.8901058
-        ]
-      },
-      "properties": {
-        "id": "v_107.571799_-6.890106",
-        "name": "Jalan Gunung Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5725513,
-          -6.8929057
-        ]
-      },
-      "properties": {
-        "id": "v_107.572551_-6.892906",
-        "name": "Jalan Dakota",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5748149,
-          -6.8931333
-        ]
-      },
-      "properties": {
-        "id": "v_107.574815_-6.893133",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5759728,
-          -6.8911239
-        ]
-      },
-      "properties": {
-        "id": "v_107.575973_-6.891124",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5785226,
-          -6.8914458
-        ]
-      },
-      "properties": {
-        "id": "v_107.578523_-6.891446",
-        "name": "Jalan Sukaraja",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -142,6 +65,7 @@
         "id": "1658426541",
         "name": "BPJS Pasteur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +82,7 @@
         "id": "12013144935",
         "name": "Mall d'Botanica",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +99,7 @@
         "id": "2958261155",
         "name": "Djundjunan 3",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,38 +116,7 @@
         "id": "12628813992",
         "name": "Griya Pasteur 2",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5904656,
-          -6.8962229
-        ]
-      },
-      "properties": {
-        "id": "v_107.590466_-6.896223",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5926529,
-          -6.8974821
-        ]
-      },
-      "properties": {
-        "id": "v_107.592653_-6.897482",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -235,41 +130,10 @@
         ]
       },
       "properties": {
-        "id": "v_107.594445_-6.898974",
+        "id": "virtual_107.5944_-6.8990",
         "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5964623,
-          -6.9001732
-        ]
-      },
-      "properties": {
-        "id": "v_107.596462_-6.900173",
-        "name": "Jalan Dr. Djunjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5988449,
-          -6.9002092
-        ]
-      },
-      "properties": {
-        "id": "v_107.598845_-6.900209",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -286,6 +150,7 @@
         "id": "12809237524",
         "name": "GKI Pasteur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +167,7 @@
         "id": "12809237525",
         "name": "Linggawastu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,22 +184,7 @@
         "id": "3376669071",
         "name": "Pasar Kembang Wastukencana",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6076183,
-          -6.907233
-        ]
-      },
-      "properties": {
-        "id": "v_107.607618_-6.907233",
-        "name": "Jalan Wastukencana",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +201,7 @@
         "id": "12809237527",
         "name": "Pajajaran Timur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,22 +218,7 @@
         "id": "3376669069",
         "name": "Kimia Farma",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.60413,
-          -6.9100304
-        ]
-      },
-      "properties": {
-        "id": "v_107.604130_-6.910030",
-        "name": "Jalan Cicendo",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +235,7 @@
         "id": "293384756",
         "name": "Stasiun Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,22 +252,7 @@
         "id": "12806120204",
         "name": "Haji Mesri",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5982527,
-          -6.912368
-        ]
-      },
-      "properties": {
-        "id": "v_107.598253_-6.912368",
-        "name": "Jalan Kebon Kawung",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +269,7 @@
         "id": "25434237",
         "name": "GKI Kebonjati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +286,7 @@
         "id": "11735248674",
         "name": "SMA Pasundan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +303,7 @@
         "id": "1013407725",
         "name": "Stasiun Hall",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

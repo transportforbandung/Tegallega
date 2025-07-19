@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 10693001605,
+        "id": "10693001605",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "name:ar": "محطه باصات بندوق",
         "public_transport": "stop_position"
       }
@@ -29,10 +29,10 @@
         ]
       },
       "properties": {
-        "id": 12628901396,
+        "id": "12628901396",
+        "name": "SDN Babakan Tarogong",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Babakan Tarogong",
         "public_transport": "stop_position"
       }
     },
@@ -46,10 +46,10 @@
         ]
       },
       "properties": {
-        "id": 11739021652,
+        "id": "11739021652",
+        "name": "Rumah Sakit Immanuel A",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Immanuel A",
         "public_transport": "stop_position"
       }
     },
@@ -63,10 +63,10 @@
         ]
       },
       "properties": {
-        "id": 12628930762,
+        "id": "12628930762",
+        "name": "Muara A",
         "role": "stop",
         "bus": "yes",
-        "name": "Muara A",
         "public_transport": "stop_position"
       }
     },
@@ -80,10 +80,10 @@
         ]
       },
       "properties": {
-        "id": 12806765746,
+        "id": "12806765746",
+        "name": "Taman Tegalega/Sri Baduga",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Tegalega/Sri Baduga",
         "public_transport": "stop_position"
       }
     },
@@ -97,10 +97,10 @@
         ]
       },
       "properties": {
-        "id": 11707031601,
+        "id": "11707031601",
+        "name": "PT INTI B (BKR 5)",
         "role": "stop",
         "bus": "yes",
-        "name": "PT INTI B (BKR 5)",
         "public_transport": "stop_position"
       }
     },
@@ -114,10 +114,10 @@
         ]
       },
       "properties": {
-        "id": 3445680780,
+        "id": "3445680780",
+        "name": "Samsudin",
         "role": "stop",
         "bus": "yes",
-        "name": "Samsudin",
         "public_transport": "stop_position"
       }
     },
@@ -131,10 +131,10 @@
         ]
       },
       "properties": {
-        "id": 12808948210,
+        "id": "12808948210",
+        "name": "Patung Ikan",
         "role": "stop",
         "bus": "yes",
-        "name": "Patung Ikan",
         "public_transport": "stop_position"
       }
     },
@@ -148,10 +148,10 @@
         ]
       },
       "properties": {
-        "id": 3272575985,
+        "id": "3272575985",
+        "name": "BKR Buah Batu",
         "role": "stop",
         "bus": "yes",
-        "name": "BKR Buah Batu",
         "public_transport": "stop_position"
       }
     },
@@ -165,10 +165,10 @@
         ]
       },
       "properties": {
-        "id": 11707031579,
+        "id": "11707031579",
+        "name": "Hotel Horison B",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison B",
         "public_transport": "stop_position"
       }
     },
@@ -182,10 +182,10 @@
         ]
       },
       "properties": {
-        "id": 12809462424,
+        "id": "12809462424",
+        "name": "Kangkung Kaler",
         "role": "stop",
         "bus": "yes",
-        "name": "Kangkung Kaler",
         "public_transport": "stop_position"
       }
     },
@@ -199,10 +199,10 @@
         ]
       },
       "properties": {
-        "id": 11707030859,
+        "id": "11707030859",
+        "name": "Bandung Creative Hub B",
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Creative Hub B",
         "public_transport": "stop_position"
       }
     },
@@ -216,10 +216,10 @@
         ]
       },
       "properties": {
-        "id": 5391666887,
+        "id": "5391666887",
+        "name": "Jalan Mangga",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Mangga",
         "public_transport": "stop_position"
       }
     },
@@ -233,10 +233,10 @@
         ]
       },
       "properties": {
-        "id": 11735248691,
+        "id": "11735248691",
+        "name": "Sekolah Agustinus",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekolah Agustinus",
         "public_transport": "stop_position"
       }
     },
@@ -250,10 +250,10 @@
         ]
       },
       "properties": {
-        "id": 3375793690,
+        "id": "3375793690",
+        "name": "A.Yani Supratman",
         "role": "stop",
         "bus": "yes",
-        "name": "A.Yani Supratman",
         "public_transport": "stop_position"
       }
     },
@@ -267,10 +267,10 @@
         ]
       },
       "properties": {
-        "id": 11735248694,
+        "id": "11735248694",
+        "name": "Awi Bitung",
         "role": "stop",
         "bus": "yes",
-        "name": "Awi Bitung",
         "public_transport": "stop_position"
       }
     },
@@ -284,10 +284,10 @@
         ]
       },
       "properties": {
-        "id": 3248969440,
+        "id": "3248969440",
+        "name": "BTM",
         "role": "stop",
         "bus": "yes",
-        "name": "BTM",
         "public_transport": "stop_position"
       }
     },
@@ -301,10 +301,10 @@
         ]
       },
       "properties": {
-        "id": 11735248700,
+        "id": "11735248700",
+        "name": "Flyover Antapani",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Flyover Antapani",
         "public_transport": "stop_position"
       }
     }

@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 12014389702,
+        "id": "12014389702",
+        "name": "Pangkalan DAMRI Cibiru",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Pangkalan DAMRI Cibiru",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12806516354,
+        "id": "12806516354",
+        "name": "Seberang UIN Sunan Gunung Djati",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang UIN Sunan Gunung Djati",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12806516357,
+        "id": "12806516357",
+        "name": "Borma Cipadung",
         "role": "stop",
         "bus": "yes",
-        "name": "Borma Cipadung",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 2477149675,
+        "id": "2477149675",
+        "name": "SDN Andir Kidul",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Andir Kidul",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12806309257,
+        "id": "12806309257",
+        "name": "Seberang SMAN 24 Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang SMAN 24 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 11047579523,
+        "id": "11047579523",
+        "name": "Pusjatan",
         "role": "stop",
         "bus": "yes",
-        "name": "Pusjatan",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 3251007173,
+        "id": "3251007173",
+        "name": "Gerbang Pusjatan",
         "role": "stop",
         "bus": "yes",
-        "name": "Gerbang Pusjatan",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12806309250,
+        "id": "12806309250",
+        "name": "Seberang Borma Pasirimpun",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Borma Pasirimpun",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 35135540,
+        "id": "35135540",
+        "name": "Lapas Sukamiskin",
         "role": "stop",
         "bus": "yes",
-        "name": "Lapas Sukamiskin",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12806309247,
+        "id": "12806309247",
+        "name": "Komplek Sarimas",
         "role": "stop",
         "bus": "yes",
-        "name": "Komplek Sarimas",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 11735248707,
+        "id": "11735248707",
+        "name": "BCA Cimuncang",
         "role": "stop",
         "bus": "yes",
-        "name": "BCA Cimuncang",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 11735248706,
+        "id": "11735248706",
+        "name": "Gateway Cicadas",
         "role": "stop",
         "bus": "yes",
-        "name": "Gateway Cicadas",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 3248969440,
+        "id": "3248969440",
+        "name": "BTM",
         "role": "stop",
         "bus": "yes",
-        "name": "BTM",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 11735248700,
+        "id": "11735248700",
+        "name": "Flyover Antapani",
         "role": "stop",
         "bus": "yes",
-        "name": "Flyover Antapani",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 3375793691,
+        "id": "3375793691",
+        "name": "WUJ Jalan Banten",
         "role": "stop",
         "bus": "yes",
-        "name": "WUJ Jalan Banten",
         "public_transport": "stop_position"
       }
     },
@@ -266,10 +266,10 @@
         ]
       },
       "properties": {
-        "id": 11735248701,
+        "id": "11735248701",
+        "name": "STMIK",
         "role": "stop",
         "bus": "yes",
-        "name": "STMIK",
         "public_transport": "stop_position"
       }
     },
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "id": 11735248702,
+        "id": "11735248702",
+        "name": "GOR KONI",
         "role": "stop",
         "bus": "yes",
-        "name": "GOR KONI",
         "public_transport": "stop_position"
       }
     },
@@ -300,10 +300,10 @@
         ]
       },
       "properties": {
-        "id": 11735248692,
+        "id": "11735248692",
+        "name": "IBCC",
         "role": "stop",
         "bus": "yes",
-        "name": "IBCC",
         "public_transport": "stop_position"
       }
     },
@@ -317,10 +317,10 @@
         ]
       },
       "properties": {
-        "id": 11735248690,
+        "id": "11735248690",
+        "name": "Stadion Persib Sidolig",
         "role": "stop",
         "bus": "yes",
-        "name": "Stadion Persib Sidolig",
         "public_transport": "stop_position"
       }
     },
@@ -334,11 +334,11 @@
         ]
       },
       "properties": {
-        "id": 5391666905,
+        "id": "5391666905",
+        "name": "Cikudapateuh",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Cikudapateuh",
         "public_transport": "stop_position",
         "ref": "Cikudapateuh"
       }
@@ -353,10 +353,10 @@
         ]
       },
       "properties": {
-        "id": 11735248683,
+        "id": "11735248683",
+        "name": "Kantor Pos Kosambi",
         "role": "stop",
         "bus": "yes",
-        "name": "Kantor Pos Kosambi",
         "public_transport": "stop_position"
       }
     },
@@ -370,11 +370,11 @@
         ]
       },
       "properties": {
-        "id": 3277420346,
+        "id": "3277420346",
+        "name": "Seberang Pasar Kosambi",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Seberang Pasar Kosambi",
         "public_transport": "stop_position",
         "ref": "Kosambi"
       }
@@ -389,10 +389,10 @@
         ]
       },
       "properties": {
-        "id": 11735248705,
+        "id": "11735248705",
+        "name": "Ketapang",
         "role": "stop",
         "bus": "yes",
-        "name": "Ketapang",
         "public_transport": "stop_position"
       }
     },
@@ -406,10 +406,10 @@
         ]
       },
       "properties": {
-        "id": 11735248710,
+        "id": "11735248710",
+        "name": "Asia Afrika",
         "role": "stop",
         "bus": "yes",
-        "name": "Asia Afrika",
         "public_transport": "stop_position"
       }
     },
@@ -423,10 +423,10 @@
         ]
       },
       "properties": {
-        "id": 11735248711,
+        "id": "11735248711",
+        "name": "Gedung Keuangan Negara/KM 0",
         "role": "stop",
         "bus": "yes",
-        "name": "Gedung Keuangan Negara/KM 0",
         "public_transport": "stop_position"
       }
     },
@@ -440,10 +440,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -457,10 +457,10 @@
         ]
       },
       "properties": {
-        "id": 10778322188,
+        "id": "10778322188",
+        "name": "Dalem Kaum",
         "role": "stop",
         "bus": "yes",
-        "name": "Dalem Kaum",
         "public_transport": "stop_position"
       }
     },
@@ -474,10 +474,10 @@
         ]
       },
       "properties": {
-        "id": 11739021639,
+        "id": "11739021639",
+        "name": "Toko Mas ABC",
         "role": "stop",
         "bus": "yes",
-        "name": "Toko Mas ABC",
         "public_transport": "stop_position"
       }
     },
@@ -491,10 +491,10 @@
         ]
       },
       "properties": {
-        "id": 11739021641,
+        "id": "11739021641",
+        "name": "Simpang Ijan",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Ijan",
         "public_transport": "stop_position"
       }
     },
@@ -508,10 +508,10 @@
         ]
       },
       "properties": {
-        "id": 11739021644,
+        "id": "11739021644",
+        "name": "Taman Tegallega",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Tegallega",
         "public_transport": "stop_position"
       }
     },
@@ -525,10 +525,10 @@
         ]
       },
       "properties": {
-        "id": 12806765747,
+        "id": "12806765747",
+        "name": "Muara",
         "role": "stop",
         "bus": "yes",
-        "name": "Muara",
         "public_transport": "stop_position"
       }
     },
@@ -542,10 +542,10 @@
         ]
       },
       "properties": {
-        "id": 11739021653,
+        "id": "11739021653",
+        "name": "Rumah Sakit Immanuel B",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Immanuel B",
         "public_transport": "stop_position"
       }
     },
@@ -559,10 +559,10 @@
         ]
       },
       "properties": {
-        "id": 12809603991,
+        "id": "12809603991",
+        "name": "RSUD Bandung Kiwari",
         "role": "stop",
         "bus": "yes",
-        "name": "RSUD Bandung Kiwari",
         "public_transport": "stop_position"
       }
     },
@@ -576,10 +576,10 @@
         ]
       },
       "properties": {
-        "id": 11295303565,
+        "id": "11295303565",
+        "name": "Leuwipanjang Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Leuwipanjang Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -593,10 +593,10 @@
         ]
       },
       "properties": {
-        "id": 4608003593,
+        "id": "4608003593",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "name:ar": "محطه باصات بندوق",
         "public_transport": "stop_position"
       }

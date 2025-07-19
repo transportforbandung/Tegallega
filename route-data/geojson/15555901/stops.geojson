@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11735248700,
+        "id": "11735248700",
+        "name": "Flyover Antapani",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Flyover Antapani",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 3375793691,
+        "id": "3375793691",
+        "name": "WUJ Jalan Banten",
         "role": "stop",
         "bus": "yes",
-        "name": "WUJ Jalan Banten",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11735248701,
+        "id": "11735248701",
+        "name": "STMIK",
         "role": "stop",
         "bus": "yes",
-        "name": "STMIK",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 11735248702,
+        "id": "11735248702",
+        "name": "GOR KONI",
         "role": "stop",
         "bus": "yes",
-        "name": "GOR KONI",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 3375794694,
+        "id": "3375794694",
+        "name": "DPRD Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "DPRD Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 3476292190,
+        "id": "3476292190",
+        "name": "Dishub Jabar",
         "role": "stop",
         "bus": "yes",
-        "name": "Dishub Jabar",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 12809462425,
+        "id": "12809462425",
+        "name": "Seberang Kangkung Kaler",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Kangkung Kaler",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 7702036194,
+        "id": "7702036194",
+        "name": "Hotel Horison A",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison A",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 12808948211,
+        "id": "12808948211",
+        "name": "Simpang Buah Batu BKR",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Buah Batu BKR",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 3376171471,
+        "id": "3376171471",
+        "name": "Masjid An Nur PT INTI",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid An Nur PT INTI",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 10815723012,
+        "id": "10815723012",
+        "name": "Simpang Mohamad Toha Biddokkes",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Mohamad Toha Biddokkes",
         "public_transport": "stop_position",
         "shelter": "yes",
         "source": "POI_WRI_Survey_2023",
@@ -201,10 +201,10 @@
         ]
       },
       "properties": {
-        "id": 12806765747,
+        "id": "12806765747",
+        "name": "Muara",
         "role": "stop",
         "bus": "yes",
-        "name": "Muara",
         "public_transport": "stop_position"
       }
     },
@@ -218,10 +218,10 @@
         ]
       },
       "properties": {
-        "id": 11739021653,
+        "id": "11739021653",
+        "name": "Rumah Sakit Immanuel B",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Immanuel B",
         "public_transport": "stop_position"
       }
     },
@@ -235,10 +235,10 @@
         ]
       },
       "properties": {
-        "id": 12809603991,
+        "id": "12809603991",
+        "name": "RSUD Bandung Kiwari",
         "role": "stop",
         "bus": "yes",
-        "name": "RSUD Bandung Kiwari",
         "public_transport": "stop_position"
       }
     },
@@ -252,10 +252,10 @@
         ]
       },
       "properties": {
-        "id": 11295303565,
+        "id": "11295303565",
+        "name": "Leuwipanjang Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Leuwipanjang Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -269,10 +269,10 @@
         ]
       },
       "properties": {
-        "id": 10693001605,
+        "id": "10693001605",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "name:ar": "محطه باصات بندوق",
         "public_transport": "stop_position"
       }

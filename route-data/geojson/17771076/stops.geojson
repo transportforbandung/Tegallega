@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 12013198354,
+        "id": "12013198354",
+        "name": "Terminal Elang",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Elang",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12808867767,
+        "id": "12808867767",
+        "name": "Holis 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Holis 1",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12808867765,
+        "id": "12808867765",
+        "name": "Sumbersari 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Sumbersari 1",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 12626357398,
+        "id": "12626357398",
+        "name": "Sumber Sari Junction",
         "role": "stop",
         "bus": "yes",
-        "name": "Sumber Sari Junction",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12626357399,
+        "id": "12626357399",
+        "name": "Pasar Induk Caringin",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Induk Caringin",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 12808867764,
+        "id": "12808867764",
+        "name": "Simpang Caringin",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Caringin",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 11295303565,
+        "id": "11295303565",
+        "name": "Leuwipanjang Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Leuwipanjang Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12808867762,
+        "id": "12808867762",
+        "name": "Inhoftank",
         "role": "stop",
         "bus": "yes",
-        "name": "Inhoftank",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 12808867760,
+        "id": "12808867760",
+        "name": "Seberang Ampera Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Ampera Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12808867756,
+        "id": "12808867756",
+        "name": "Karasak Utara",
         "role": "stop",
         "bus": "yes",
-        "name": "Karasak Utara",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 11711185184,
+        "id": "11711185184",
+        "name": "SPBU Moh. Toha",
         "role": "stop",
         "bus": "yes",
-        "name": "SPBU Moh. Toha",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 11711185187,
+        "id": "11711185187",
+        "name": "Cileunyi A",
         "role": "stop",
         "bus": "yes",
-        "name": "Cileunyi A",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 6473170574,
+        "id": "6473170574",
+        "name": "Pasar Cileunyi",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Cileunyi",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 10771913963,
+        "id": "10771913963",
+        "name": "Gerbang IPDN Jatinangor",
         "role": "stop",
         "bus": "yes",
-        "name": "Gerbang IPDN Jatinangor",
         "public_transport": "stop_position"
       }
     },
@@ -249,11 +249,11 @@
         ]
       },
       "properties": {
-        "id": 1966499313,
+        "id": "1966499313",
+        "name": "IPDN A",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "IPDN A",
         "public_transport": "stop_position",
         "ref": "IPDN A"
       }
@@ -268,10 +268,10 @@
         ]
       },
       "properties": {
-        "id": 12013198353,
+        "id": "12013198353",
+        "name": "UNPAD Jatinangor",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "UNPAD Jatinangor",
         "public_transport": "stop_position"
       }
     }

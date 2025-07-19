@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11711070002,
+        "id": "11711070002",
+        "name": "Terminal Ledeng",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Ledeng",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12809046289,
+        "id": "12809046289",
+        "name": "Poltekpar NHI",
         "role": "stop",
         "bus": "yes",
-        "name": "Poltekpar NHI",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 3376673102,
+        "id": "3376673102",
+        "name": "Simpang Gegerkalong Hilir",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Gegerkalong Hilir",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 3376673100,
+        "id": "3376673100",
+        "name": "Borma Setiabudhi",
         "role": "stop",
         "bus": "yes",
-        "name": "Borma Setiabudhi",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 3376669085,
+        "id": "3376669085",
+        "name": "Masjid Besar Cipaganti",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Besar Cipaganti",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 12809082541,
+        "id": "12809082541",
+        "name": "Paskal RSHS",
         "role": "stop",
         "bus": "yes",
-        "name": "Paskal RSHS",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 12809237524,
+        "id": "12809237524",
+        "name": "GKI Pasteur",
         "role": "stop",
         "bus": "yes",
-        "name": "GKI Pasteur",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12809237525,
+        "id": "12809237525",
+        "name": "Linggawastu",
         "role": "stop",
         "bus": "yes",
-        "name": "Linggawastu",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 3376669071,
+        "id": "3376669071",
+        "name": "Pasar Kembang Wastukencana",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kembang Wastukencana",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12809237527,
+        "id": "12809237527",
+        "name": "Pajajaran Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Pajajaran Timur",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 3376669069,
+        "id": "3376669069",
+        "name": "Kimia Farma",
         "role": "stop",
         "bus": "yes",
-        "name": "Kimia Farma",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 11711326974,
+        "id": "11711326974",
+        "name": "Perintis Kemerdekaan",
         "role": "stop",
         "bus": "yes",
-        "name": "Perintis Kemerdekaan",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 11735248675,
+        "id": "11735248675",
+        "name": "Bank Indonesia",
         "role": "stop",
         "bus": "yes",
-        "name": "Bank Indonesia",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 29354702,
+        "id": "29354702",
+        "name": "Pasar Baru",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Baru",
         "public_transport": "stop_position"
       }
     },
@@ -249,10 +249,10 @@
         ]
       },
       "properties": {
-        "id": 10778322188,
+        "id": "10778322188",
+        "name": "Dalem Kaum",
         "role": "stop",
         "bus": "yes",
-        "name": "Dalem Kaum",
         "public_transport": "stop_position"
       }
     },
@@ -266,10 +266,10 @@
         ]
       },
       "properties": {
-        "id": 11739021639,
+        "id": "11739021639",
+        "name": "Toko Mas ABC",
         "role": "stop",
         "bus": "yes",
-        "name": "Toko Mas ABC",
         "public_transport": "stop_position"
       }
     },
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "id": 11739021641,
+        "id": "11739021641",
+        "name": "Simpang Ijan",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Ijan",
         "public_transport": "stop_position"
       }
     },
@@ -300,10 +300,10 @@
         ]
       },
       "properties": {
-        "id": 11739021644,
+        "id": "11739021644",
+        "name": "Taman Tegallega",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Tegallega",
         "public_transport": "stop_position"
       }
     },
@@ -317,10 +317,10 @@
         ]
       },
       "properties": {
-        "id": 12806765747,
+        "id": "12806765747",
+        "name": "Muara",
         "role": "stop",
         "bus": "yes",
-        "name": "Muara",
         "public_transport": "stop_position"
       }
     },
@@ -334,10 +334,10 @@
         ]
       },
       "properties": {
-        "id": 11739021653,
+        "id": "11739021653",
+        "name": "Rumah Sakit Immanuel B",
         "role": "stop",
         "bus": "yes",
-        "name": "Rumah Sakit Immanuel B",
         "public_transport": "stop_position"
       }
     },
@@ -351,10 +351,10 @@
         ]
       },
       "properties": {
-        "id": 12809603991,
+        "id": "12809603991",
+        "name": "RSUD Bandung Kiwari",
         "role": "stop",
         "bus": "yes",
-        "name": "RSUD Bandung Kiwari",
         "public_transport": "stop_position"
       }
     },
@@ -368,10 +368,10 @@
         ]
       },
       "properties": {
-        "id": 11295303565,
+        "id": "11295303565",
+        "name": "Leuwipanjang Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Leuwipanjang Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -385,10 +385,10 @@
         ]
       },
       "properties": {
-        "id": 4608003593,
+        "id": "4608003593",
+        "name": "Terminal Leuwipanjang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Leuwipanjang",
         "name:ar": "محطه باصات بندوق",
         "public_transport": "stop_position"
       }

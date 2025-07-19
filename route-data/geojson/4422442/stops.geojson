@@ -14,6 +14,7 @@
         "id": "3251007192",
         "name": "Pangkalan Angkot Panghegar",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12814754637",
         "name": "SMK YPF",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -38,62 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6849004,
-          -6.9185044
+          107.6847394,
+          -6.9157496
         ]
       },
       "properties": {
-        "id": "v_107.684900_-6.918504",
+        "id": "virtual_107.6847_-6.9157",
         "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6850672,
-          -6.916227
-        ]
-      },
-      "properties": {
-        "id": "v_107.685067_-6.916227",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6839636,
-          -6.9142092
-        ]
-      },
-      "properties": {
-        "id": "v_107.683964_-6.914209",
-        "name": "Jalan Cicukang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6834678,
-          -6.9115966
-        ]
-      },
-      "properties": {
-        "id": "v_107.683468_-6.911597",
-        "name": "Jalan Cicukang",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -110,6 +65,7 @@
         "id": "12814754622",
         "name": "Silver Kris",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -118,46 +74,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6853357,
-          -6.9069314
+          107.6802419,
+          -6.9051046
         ]
       },
       "properties": {
-        "id": "v_107.685336_-6.906931",
-        "name": "Jalan Cicukang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6828062,
-          -6.9058327
-        ]
-      },
-      "properties": {
-        "id": "v_107.682806_-6.905833",
+        "id": "virtual_107.6802_-6.9051",
         "name": "Jalan Abdul Haris Nasution",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6802772,
-          -6.9051106
-        ]
-      },
-      "properties": {
-        "id": "v_107.680277_-6.905111",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -174,6 +99,7 @@
         "id": "12806309250",
         "name": "Seberang Borma Pasirimpun",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +116,7 @@
         "id": "35135540",
         "name": "Lapas Sukamiskin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +133,7 @@
         "id": "12806309247",
         "name": "Komplek Sarimas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -214,78 +142,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6698686,
-          -6.90423
+          107.66535725,
+          -6.9040152
         ]
       },
       "properties": {
-        "id": "v_107.669869_-6.904230",
-        "name": "Jalan Abdul Haris Nasution",
+        "id": "virtual_107.6654_-6.9040",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6674966,
-          -6.904197
-        ]
-      },
-      "properties": {
-        "id": "v_107.667497_-6.904197",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6650321,
-          -6.9039795
-        ]
-      },
-      "properties": {
-        "id": "v_107.665032_-6.903980",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6625205,
-          -6.9037038
-        ]
-      },
-      "properties": {
-        "id": "v_107.662520_-6.903704",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6605793,
-          -6.9024754
-        ]
-      },
-      "properties": {
-        "id": "v_107.660579_-6.902475",
-        "name": "Jalan Abdul Haris Nasution",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -302,6 +167,7 @@
         "id": "5832221936",
         "name": "Depan Terminal Cicaheum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -310,30 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.654175,
-          -6.9029752
+          107.6511954,
+          -6.904524
         ]
       },
       "properties": {
-        "id": "v_107.654175_-6.902975",
-        "name": "Jalan Jenderal Ahmad Yani",
+        "id": "virtual_107.6512_-6.9045",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6512752,
-          -6.9044817
-        ]
-      },
-      "properties": {
-        "id": "v_107.651275_-6.904482",
-        "name": "Jalan Jenderal Ahmad Yani",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -350,6 +201,7 @@
         "id": "11735248707",
         "name": "BCA Cimuncang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,22 +218,7 @@
         "id": "11735248706",
         "name": "Gateway Cicadas",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6437989,
-          -6.9084471
-        ]
-      },
-      "properties": {
-        "id": "v_107.643799_-6.908447",
-        "name": "Jalan Jenderal Ahmad Yani",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +235,7 @@
         "id": "3248969440",
         "name": "BTM",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +252,7 @@
         "id": "11735248700",
         "name": "Flyover Antapani",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +269,7 @@
         "id": "3375793691",
         "name": "WUJ Jalan Banten",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +286,7 @@
         "id": "11735248701",
         "name": "STMIK",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +303,7 @@
         "id": "11735248702",
         "name": "GOR KONI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +320,7 @@
         "id": "3375794694",
         "name": "DPRD Kota Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +337,7 @@
         "id": "3476292190",
         "name": "Dishub Jabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,22 +354,7 @@
         "id": "11707030859",
         "name": "Bandung Creative Hub B",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6301434,
-          -6.916119
-        ]
-      },
-      "properties": {
-        "id": "v_107.630143_-6.916119",
-        "name": "Jalan Laswi",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,6 +371,7 @@
         "id": "12947493617",
         "name": "Seberang Hotel Grand Tebu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -558,6 +388,7 @@
         "id": "3376430783",
         "name": "Tugu Tunas Taman Pramuka",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,6 +405,7 @@
         "id": "12947493616",
         "name": "Riau Aceh",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,6 +422,7 @@
         "id": "12809507149",
         "name": "bjb Riau",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +439,7 @@
         "id": "12947493614",
         "name": "HKBP Riau",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,6 +456,7 @@
         "id": "12809507147",
         "name": "Riau Cihapit",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -638,6 +473,7 @@
         "id": "12809507143",
         "name": "Pengadilan Negeri Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -646,78 +482,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6209757,
-          -6.9042722
+          107.61660005,
+          -6.901350600000001
         ]
       },
       "properties": {
-        "id": "v_107.620976_-6.904272",
-        "name": "Jalan Cisanggarung",
+        "id": "virtual_107.6166_-6.9014",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6186813,
-          -6.9037611
-        ]
-      },
-      "properties": {
-        "id": "v_107.618681_-6.903761",
-        "name": "Jalan Cilamaya",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6169036,
-          -6.9020191
-        ]
-      },
-      "properties": {
-        "id": "v_107.616904_-6.902019",
-        "name": "Jalan Cilamaya",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6150711,
-          -6.9006334
-        ]
-      },
-      "properties": {
-        "id": "v_107.615071_-6.900633",
-        "name": "Jalan Diponegoro",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6127382,
-          -6.9003059
-        ]
-      },
-      "properties": {
-        "id": "v_107.612738_-6.900306",
-        "name": "Jalan Diponegoro",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -734,6 +507,7 @@
         "id": "1969331852",
         "name": "Balubur Town Square",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -750,6 +524,7 @@
         "id": "3376871368",
         "name": "Pelesiran",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -766,6 +541,7 @@
         "id": "12813237928",
         "name": "Lapangan Sipil",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -782,6 +558,7 @@
         "id": "2035856554",
         "name": "Gerbang Depan ITB",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -798,38 +575,7 @@
         "id": "12813237913",
         "name": "Ganesha Ciungwanara",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6131662,
-          -6.8914961
-        ]
-      },
-      "properties": {
-        "id": "v_107.613166_-6.891496",
-        "name": "Jalan Ir. H. Djuanda",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6157035,
-          -6.891705
-        ]
-      },
-      "properties": {
-        "id": "v_107.615703_-6.891705",
-        "name": "Jalan Teuku Umar",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -846,6 +592,7 @@
         "id": "3375793673",
         "name": "UNPAD Dipatiukur",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

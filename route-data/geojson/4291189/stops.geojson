@@ -14,6 +14,7 @@
         "id": "11291524413",
         "name": "Terminal Angkot Cicaheum",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "5832221932",
         "name": "Padasuka",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "5832221930",
         "name": "Cimuncang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "12814754615",
         "name": "Sukapada 2",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "12628835706",
         "name": "Cikutra",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "12814754613",
         "name": "Bekamin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +116,7 @@
         "id": "12806309240",
         "name": "YPKP Sanggabuana",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +133,7 @@
         "id": "12628835704",
         "name": "Sukasenang Raya 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +150,7 @@
         "id": "12814754611",
         "name": "SDN 151 Sukasenang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +167,7 @@
         "id": "12628835703",
         "name": "BKKBN",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +184,7 @@
         "id": "12814754609",
         "name": "Simpang Jalaprang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +201,7 @@
         "id": "5832220641",
         "name": "SMPN 63 Kota Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +218,7 @@
         "id": "12814754605",
         "name": "Taman Pusdai",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,6 +235,7 @@
         "id": "12628813999",
         "name": "Wisma BKN",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,22 +252,7 @@
         "id": "12806309233",
         "name": "PVMBG",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.618078,
-          -6.8993781
-        ]
-      },
-      "properties": {
-        "id": "v_107.618078_-6.899378",
-        "name": "Jalan Surapati",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +269,7 @@
         "id": "5832170587",
         "name": "Cikapayang Dago 2",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +286,7 @@
         "id": "11707030825",
         "name": "Panatayudha B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +303,7 @@
         "id": "12816121755",
         "name": "Simpang Dipatiukur Hasanudin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,38 +320,7 @@
         "id": "12820400848",
         "name": "Unpad Kampus Iwa Koesoemasoemantri",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.617163,
-          -6.8910925
-        ]
-      },
-      "properties": {
-        "id": "v_107.617163_-6.891093",
-        "name": "Jalan Dipatiukur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6158888,
-          -6.8891749
-        ]
-      },
-      "properties": {
-        "id": "v_107.615889_-6.889175",
-        "name": "Jalan Dipatiukur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +337,7 @@
         "id": "12816121752",
         "name": "Seberang UNIKOM",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +354,7 @@
         "id": "12813270569",
         "name": "Sumur Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,54 +371,7 @@
         "id": "3376871360",
         "name": "Babakan Siliwangi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6091599,
-          -6.8847557
-        ]
-      },
-      "properties": {
-        "id": "v_107.609160_-6.884756",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6068836,
-          -6.8846722
-        ]
-      },
-      "properties": {
-        "id": "v_107.606884_-6.884672",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6050556,
-          -6.8833278
-        ]
-      },
-      "properties": {
-        "id": "v_107.605056_-6.883328",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +388,7 @@
         "id": "12811652377",
         "name": "SDN 065 Cihampelas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -470,78 +397,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.604194,
-          -6.8899911
+          107.6036466,
+          -6.8957246
         ]
       },
       "properties": {
-        "id": "v_107.604194_-6.889991",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6042347,
-          -6.8922554
-        ]
-      },
-      "properties": {
-        "id": "v_107.604235_-6.892255",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6040642,
-          -6.8945463
-        ]
-      },
-      "properties": {
-        "id": "v_107.604064_-6.894546",
-        "name": "Jalan Cihampelas",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6021098,
-          -6.8957803
-        ]
-      },
-      "properties": {
-        "id": "v_107.602110_-6.895780",
+        "id": "virtual_107.6036_-6.8957",
         "name": "Jalan Profesor Christiaan Eijkman",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5993726,
-          -6.8961604
-        ]
-      },
-      "properties": {
-        "id": "v_107.599373_-6.896160",
-        "name": "Jalan Profesor Christiaan Eijkman",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -558,22 +422,7 @@
         "id": "12809082541",
         "name": "Paskal RSHS",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.599805,
-          -6.900195
-        ]
-      },
-      "properties": {
-        "id": "v_107.599805_-6.900195",
-        "name": "Jalan Pasteur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,6 +439,7 @@
         "id": "12809082512",
         "name": "Seberang IWU",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +456,7 @@
         "id": "12809082511",
         "name": "Seberang BPK Penabur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,6 +473,7 @@
         "id": "3377321687",
         "name": "Depan Istana Plaza",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -638,22 +490,7 @@
         "id": "11138593907",
         "name": "Padjajaran 2",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5915994,
-          -6.9071068
-        ]
-      },
-      "properties": {
-        "id": "v_107.591599_-6.907107",
-        "name": "Jalan Pajajaran",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -670,86 +507,7 @@
         "id": "3377329064",
         "name": "Husein Pajajaran",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5857779,
-          -6.9072569
-        ]
-      },
-      "properties": {
-        "id": "v_107.585778_-6.907257",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5834572,
-          -6.9076247
-        ]
-      },
-      "properties": {
-        "id": "v_107.583457_-6.907625",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5809663,
-          -6.9076194
-        ]
-      },
-      "properties": {
-        "id": "v_107.580966_-6.907619",
-        "name": "Jalan Abdul Rahman Saleh",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5815368,
-          -6.9097983
-        ]
-      },
-      "properties": {
-        "id": "v_107.581537_-6.909798",
-        "name": "Jalan Ciroyom",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5845003,
-          -6.911786
-        ]
-      },
-      "properties": {
-        "id": "v_107.584500_-6.911786",
-        "name": "Jalan Ciroyom",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -766,6 +524,7 @@
         "id": "3244745033",
         "name": "Terminal Ciroyom",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

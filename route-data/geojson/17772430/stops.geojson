@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 12013198353,
+        "id": "12013198353",
+        "name": "UNPAD Jatinangor",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "UNPAD Jatinangor",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 3476277701,
+        "id": "3476277701",
+        "name": "Damri Unpad Jatinangor",
         "role": "stop",
         "bus": "yes",
-        "name": "Damri Unpad Jatinangor",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 11711185243,
+        "id": "11711185243",
+        "name": "Jatinangor Town Square",
         "role": "stop",
         "bus": "yes",
-        "name": "Jatinangor Town Square",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 5867026762,
+        "id": "5867026762",
+        "name": "IPDN B",
         "role": "stop",
         "bus": "yes",
-        "name": "IPDN B",
         "public_transport": "stop_position",
         "ref": "IPDN B"
       }
@@ -80,10 +80,10 @@
         ]
       },
       "properties": {
-        "id": 10771913964,
+        "id": "10771913964",
+        "name": "Seberang Gerbang IPDN Jatinangor",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Gerbang IPDN Jatinangor",
         "public_transport": "stop_position"
       }
     },
@@ -97,10 +97,10 @@
         ]
       },
       "properties": {
-        "id": 11711185188,
+        "id": "11711185188",
+        "name": "Cileunyi B",
         "role": "stop",
         "bus": "yes",
-        "name": "Cileunyi B",
         "public_transport": "stop_position"
       }
     },
@@ -114,10 +114,10 @@
         ]
       },
       "properties": {
-        "id": 11711185185,
+        "id": "11711185185",
+        "name": "Jalan Haji Tatang Sumantri",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Haji Tatang Sumantri",
         "public_transport": "stop_position"
       }
     },
@@ -131,10 +131,10 @@
         ]
       },
       "properties": {
-        "id": 11707031627,
+        "id": "11707031627",
+        "name": "Simpang By Pass Soekarno Hatta B",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang By Pass Soekarno Hatta B",
         "public_transport": "stop_position"
       }
     },
@@ -148,10 +148,10 @@
         ]
       },
       "properties": {
-        "id": 12808867758,
+        "id": "12808867758",
+        "name": "Ampera Soekarno Hatta",
         "role": "stop",
         "bus": "yes",
-        "name": "Ampera Soekarno Hatta",
         "public_transport": "stop_position"
       }
     },
@@ -165,10 +165,10 @@
         ]
       },
       "properties": {
-        "id": 12808867763,
+        "id": "12808867763",
+        "name": "Karasak Lama",
         "role": "stop",
         "bus": "yes",
-        "name": "Karasak Lama",
         "public_transport": "stop_position"
       }
     },
@@ -182,11 +182,11 @@
         ]
       },
       "properties": {
-        "id": 3277891129,
+        "id": "3277891129",
+        "name": "Seberang Terminal Leuwipanjang",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Seberang Terminal Leuwipanjang",
         "public_transport": "stop_position"
       }
     },
@@ -200,10 +200,10 @@
         ]
       },
       "properties": {
-        "id": 12633822769,
+        "id": "12633822769",
+        "name": "Pasar Caringin",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Caringin",
         "public_transport": "stop_position"
       }
     },
@@ -217,10 +217,10 @@
         ]
       },
       "properties": {
-        "id": 12808867766,
+        "id": "12808867766",
+        "name": "Griya Sumbersari",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Sumbersari",
         "public_transport": "stop_position"
       }
     },
@@ -234,10 +234,10 @@
         ]
       },
       "properties": {
-        "id": 12808867768,
+        "id": "12808867768",
+        "name": "Holis 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Holis 2",
         "public_transport": "stop_position"
       }
     },
@@ -251,10 +251,10 @@
         ]
       },
       "properties": {
-        "id": 12013198354,
+        "id": "12013198354",
+        "name": "Terminal Elang",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Elang",
         "public_transport": "stop_position"
       }
     }

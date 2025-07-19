@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 11871901023,
+        "id": "11871901023",
+        "name": "Baleendah",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Baleendah",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 2477247661,
+        "id": "2477247661",
+        "name": "Masjid Al-Amanah",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Al-Amanah",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12626499677,
+        "id": "12626499677",
+        "name": "Matahari Land",
         "role": "stop",
         "bus": "yes",
-        "name": "Matahari Land",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 12626499678,
+        "id": "12626499678",
+        "name": "Masjid Jami' Baitul Huda A",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Jami' Baitul Huda A",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12626499680,
+        "id": "12626499680",
+        "name": "Bubur Ayam H. Amid",
         "role": "stop",
         "bus": "yes",
-        "name": "Bubur Ayam H. Amid",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 12626499683,
+        "id": "12626499683",
+        "name": "Borma Bojongsoang",
         "role": "stop",
         "bus": "yes",
-        "name": "Borma Bojongsoang",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 12626499685,
+        "id": "12626499685",
+        "name": "SD Negeri Lengkong",
         "role": "stop",
         "bus": "yes",
-        "name": "SD Negeri Lengkong",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12626499686,
+        "id": "12626499686",
+        "name": "Puskesmas Bojongsoang",
         "role": "stop",
         "bus": "yes",
-        "name": "Puskesmas Bojongsoang",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 12626499690,
+        "id": "12626499690",
+        "name": "Bluebird A",
         "role": "stop",
         "bus": "yes",
-        "name": "Bluebird A",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 35138340,
+        "id": "35138340",
+        "name": "Pasar Kordon A",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kordon A",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 12626499693,
+        "id": "12626499693",
+        "name": "JAPNAS",
         "role": "stop",
         "bus": "yes",
-        "name": "JAPNAS",
         "public_transport": "stop_position"
       }
     },
@@ -198,11 +198,11 @@
         ]
       },
       "properties": {
-        "id": 2614138793,
+        "id": "2614138793",
+        "name": "Medal Sekarwangi",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Medal Sekarwangi",
         "public_transport": "stop_position"
       }
     },
@@ -216,10 +216,10 @@
         ]
       },
       "properties": {
-        "id": 12626499697,
+        "id": "12626499697",
+        "name": "Bangunan Mart A",
         "role": "stop",
         "bus": "yes",
-        "name": "Bangunan Mart A",
         "public_transport": "stop_position"
       }
     },
@@ -233,10 +233,10 @@
         ]
       },
       "properties": {
-        "id": 12626499700,
+        "id": "12626499700",
+        "name": "LPKIA A",
         "role": "stop",
         "bus": "yes",
-        "name": "LPKIA A",
         "public_transport": "stop_position"
       }
     },
@@ -250,11 +250,11 @@
         ]
       },
       "properties": {
-        "id": 3384018111,
+        "id": "3384018111",
+        "name": "PT LEN Industri A",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "PT LEN Industri A",
         "public_transport": "stop_position"
       }
     },
@@ -268,10 +268,10 @@
         ]
       },
       "properties": {
-        "id": 12626529703,
+        "id": "12626529703",
+        "name": "PLN UP3 Bandung A",
         "role": "stop",
         "bus": "yes",
-        "name": "PLN UP3 Bandung A",
         "public_transport": "stop_position"
       }
     },
@@ -285,11 +285,11 @@
         ]
       },
       "properties": {
-        "id": 11739021648,
+        "id": "11739021648",
+        "name": "TK Kemala Bhayangkari",
         "role": "stop",
         "alt_name": "Mohammad Toha",
         "bus": "yes",
-        "name": "TK Kemala Bhayangkari",
         "public_transport": "stop_position"
       }
     },
@@ -303,10 +303,10 @@
         ]
       },
       "properties": {
-        "id": 11707031622,
+        "id": "11707031622",
+        "name": "Sekolah Ganesha",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekolah Ganesha",
         "public_transport": "stop_position"
       }
     },
@@ -320,10 +320,10 @@
         ]
       },
       "properties": {
-        "id": 5355897678,
+        "id": "5355897678",
+        "name": "Taman Tegalega 3",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Tegalega 3",
         "public_transport": "stop_position"
       }
     },
@@ -337,10 +337,10 @@
         ]
       },
       "properties": {
-        "id": 11883812981,
+        "id": "11883812981",
+        "name": "SDN Moh. Toha",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Moh. Toha",
         "public_transport": "stop_position"
       }
     },
@@ -354,10 +354,10 @@
         ]
       },
       "properties": {
-        "id": 12626529705,
+        "id": "12626529705",
+        "name": "ITC Kebon Kalapa",
         "role": "stop",
         "bus": "yes",
-        "name": "ITC Kebon Kalapa",
         "public_transport": "stop_position"
       }
     },
@@ -371,10 +371,10 @@
         ]
       },
       "properties": {
-        "id": 11898859975,
+        "id": "11898859975",
+        "name": "Grand Yogya Kepatihan",
         "role": "stop",
         "bus": "yes",
-        "name": "Grand Yogya Kepatihan",
         "public_transport": "stop_position"
       }
     },
@@ -388,10 +388,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -405,10 +405,10 @@
         ]
       },
       "properties": {
-        "id": 12626529706,
+        "id": "12626529706",
+        "name": "Banceuy",
         "role": "stop",
         "bus": "yes",
-        "name": "Banceuy",
         "public_transport": "stop_position"
       }
     },
@@ -422,10 +422,10 @@
         ]
       },
       "properties": {
-        "id": 11262097619,
+        "id": "11262097619",
+        "name": "Stasiun Timur",
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Timur",
         "public_transport": "stop_position"
       }
     },
@@ -439,10 +439,10 @@
         ]
       },
       "properties": {
-        "id": 293384756,
+        "id": "293384756",
+        "name": "Stasiun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Stasiun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -456,10 +456,10 @@
         ]
       },
       "properties": {
-        "id": 11739021629,
+        "id": "11739021629",
+        "name": "SMAN 6 Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "SMAN 6 Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -473,10 +473,10 @@
         ]
       },
       "properties": {
-        "id": 11138593915,
+        "id": "11138593915",
+        "name": "SDN Pajajaran",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN Pajajaran",
         "public_transport": "stop_position"
       }
     },
@@ -490,10 +490,10 @@
         ]
       },
       "properties": {
-        "id": 11739021630,
+        "id": "11739021630",
+        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "role": "stop",
         "bus": "yes",
-        "name": "STHB (Sekolah Tinggi Hukum Bandung)",
         "public_transport": "stop_position"
       }
     },
@@ -507,10 +507,10 @@
         ]
       },
       "properties": {
-        "id": 5825243776,
+        "id": "5825243776",
+        "name": "Bandung Electronic Center",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Bandung Electronic Center",
         "public_transport": "stop_position"
       }
     }

@@ -14,6 +14,7 @@
         "id": "11262097619",
         "name": "Stasiun Timur",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "11711326974",
         "name": "Perintis Kemerdekaan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11735248675",
         "name": "Bank Indonesia",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +65,7 @@
         "id": "1849525838",
         "name": "Lembong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +82,7 @@
         "id": "10801865379",
         "name": "Telkom Lembong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +99,7 @@
         "id": "11735248678",
         "name": "RSU Bungsu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +116,7 @@
         "id": "10280072517",
         "name": "Gereja Sidang Kristus",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,22 +133,7 @@
         "id": "12806120211",
         "name": "Yogya Sunda",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6184073,
-          -6.9156491
-        ]
-      },
-      "properties": {
-        "id": "v_107.618407_-6.915649",
-        "name": "Jalan Sumbawa",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +150,7 @@
         "id": "12809507134",
         "name": "Kantor Kecamatan Sumurbandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +167,7 @@
         "id": "12809507135",
         "name": "Seberang Stadion Siliwangi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -182,78 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6190026,
-          -6.9087926
+          107.6211514,
+          -6.904408800000001
         ]
       },
       "properties": {
-        "id": "v_107.619003_-6.908793",
-        "name": "Jalan Lombok",
+        "id": "virtual_107.6212_-6.9044",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6207709,
-          -6.90686
-        ]
-      },
-      "properties": {
-        "id": "v_107.620771_-6.906860",
-        "name": "Jalan Lombok",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6211004,
-          -6.9046275
-        ]
-      },
-      "properties": {
-        "id": "v_107.621100_-6.904628",
-        "name": "Jalan Taman Citarum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.623192,
-          -6.9036396
-        ]
-      },
-      "properties": {
-        "id": "v_107.623192_-6.903640",
-        "name": "Jalan Citarum",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6249088,
-          -6.9015275
-        ]
-      },
-      "properties": {
-        "id": "v_107.624909_-6.901528",
-        "name": "Jalan Citarum",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -270,6 +201,7 @@
         "id": "5842007855",
         "name": "Muararajeun",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,38 +218,7 @@
         "id": "5841989829",
         "name": "Muararajeun Baru",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6320385,
-          -6.9039297
-        ]
-      },
-      "properties": {
-        "id": "v_107.632038_-6.903930",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6338639,
-          -6.9025511
-        ]
-      },
-      "properties": {
-        "id": "v_107.633864_-6.902551",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +235,7 @@
         "id": "12819917452",
         "name": "Seberang Griya Pahlawan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -342,94 +244,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.634127,
-          -6.8979661
+          107.6324361,
+          -6.8922285500000005
         ]
       },
       "properties": {
-        "id": "v_107.634127_-6.897966",
-        "name": "Jalan Pahlawan",
+        "id": "virtual_107.6324_-6.8922",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6346567,
-          -6.8953549
-        ]
-      },
-      "properties": {
-        "id": "v_107.634657_-6.895355",
-        "name": "Jalan Pahlawan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6352304,
-          -6.8930906
-        ]
-      },
-      "properties": {
-        "id": "v_107.635230_-6.893091",
-        "name": "Jalan Pahlawan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6326048,
-          -6.8922337
-        ]
-      },
-      "properties": {
-        "id": "v_107.632605_-6.892234",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6298288,
-          -6.8919403
-        ]
-      },
-      "properties": {
-        "id": "v_107.629829_-6.891940",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6275863,
-          -6.892264
-        ]
-      },
-      "properties": {
-        "id": "v_107.627586_-6.892264",
-        "name": "Jalan Cikutra Barat",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -446,6 +269,7 @@
         "id": "3252929646",
         "name": "Terminal Sadang Serang",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

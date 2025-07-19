@@ -6,22 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.568724,
-          -6.9495311
-        ]
-      },
-      "properties": {
-        "id": "v_107.568724_-6.949531",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           107.565655,
           -6.9487566
         ]
@@ -30,6 +14,7 @@
         "id": "3115112896",
         "name": "Mesjid Jami Al Hamidah Cibolerang",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -38,14 +23,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5687568,
-          -6.9495195
+          107.5774189,
+          -6.9517132
         ]
       },
       "properties": {
-        "id": "v_107.568757_-6.949520",
+        "id": "virtual_107.5774_-6.9517",
         "name": "Jalan Cibolerang",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -54,142 +40,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5710561,
-          -6.9499703
+          107.5818003,
+          -6.9528734
         ]
       },
       "properties": {
-        "id": "v_107.571056_-6.949970",
+        "id": "virtual_107.5818_-6.9529",
         "name": "Jalan Cibolerang",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5733738,
-          -6.9505019
-        ]
-      },
-      "properties": {
-        "id": "v_107.573374_-6.950502",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5756111,
-          -6.9509085
-        ]
-      },
-      "properties": {
-        "id": "v_107.575611_-6.950908",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5776778,
-          -6.9520441
-        ]
-      },
-      "properties": {
-        "id": "v_107.577678_-6.952044",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5799647,
-          -6.9524223
-        ]
-      },
-      "properties": {
-        "id": "v_107.579965_-6.952422",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5822209,
-          -6.9529334
-        ]
-      },
-      "properties": {
-        "id": "v_107.582221_-6.952933",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.584475,
-          -6.9535253
-        ]
-      },
-      "properties": {
-        "id": "v_107.584475_-6.953525",
-        "name": "Jalan Cibolerang",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5857155,
-          -6.9515817
-        ]
-      },
-      "properties": {
-        "id": "v_107.585716_-6.951582",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5870424,
-          -6.949559
-        ]
-      },
-      "properties": {
-        "id": "v_107.587042_-6.949559",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -206,22 +65,7 @@
         "id": "7484309659",
         "name": "Barat Simpang Kopo Caringin",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5855655,
-          -6.9462201
-        ]
-      },
-      "properties": {
-        "id": "v_107.585566_-6.946220",
-        "name": "Jalan Caringin",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,6 +82,7 @@
         "id": "12808867764",
         "name": "Simpang Caringin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -246,46 +91,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5898634,
-          -6.9453375
+          107.590768,
+          -6.9439758
         ]
       },
       "properties": {
-        "id": "v_107.589863_-6.945337",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5910903,
-          -6.9434463
-        ]
-      },
-      "properties": {
-        "id": "v_107.591090_-6.943446",
+        "id": "virtual_107.5908_-6.9440",
         "name": "Jalan Kyai Haji Wahid Hasyim",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5924641,
-          -6.9412448
-        ]
-      },
-      "properties": {
-        "id": "v_107.592464_-6.941245",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -302,6 +116,7 @@
         "id": "12628901396",
         "name": "SDN Babakan Tarogong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,22 +133,7 @@
         "id": "11739021652",
         "name": "Rumah Sakit Immanuel A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5980158,
-          -6.9377065
-        ]
-      },
-      "properties": {
-        "id": "v_107.598016_-6.937706",
-        "name": "Jalan Peta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +150,7 @@
         "id": "12628930762",
         "name": "Muara A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +167,7 @@
         "id": "12806765746",
         "name": "Taman Tegalega/Sri Baduga",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +184,7 @@
         "id": "11707031601",
         "name": "PT INTI B (BKR 5)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +201,7 @@
         "id": "3445680780",
         "name": "Samsudin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +218,7 @@
         "id": "12808948210",
         "name": "Patung Ikan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -422,46 +227,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.612618,
-          -6.9377348
+          107.6194567,
+          -6.93808005
         ]
       },
       "properties": {
-        "id": "v_107.612618_-6.937735",
-        "name": "Jalan BKR",
+        "id": "virtual_107.6195_-6.9381",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6162137,
-          -6.9379
-        ]
-      },
-      "properties": {
-        "id": "v_107.616214_-6.937900",
-        "name": "Jalan BKR",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6187551,
-          -6.9380576
-        ]
-      },
-      "properties": {
-        "id": "v_107.618755_-6.938058",
-        "name": "Jalan BKR",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -478,6 +252,7 @@
         "id": "3272575985",
         "name": "BKR Buah Batu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +269,7 @@
         "id": "11707031579",
         "name": "Hotel Horison B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,22 +286,7 @@
         "id": "7702036194",
         "name": "Hotel Horison A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6243051,
-          -6.9385814
-        ]
-      },
-      "properties": {
-        "id": "v_107.624305_-6.938581",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,6 +303,7 @@
         "id": "12808948214",
         "name": "Selontongan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -558,6 +320,7 @@
         "id": "12986852693",
         "name": "Griya Buah Batu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,38 +337,7 @@
         "id": "12808948215",
         "name": "Kliningan Buahbatu",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.630216,
-          -6.9447298
-        ]
-      },
-      "properties": {
-        "id": "v_107.630216_-6.944730",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6320775,
-          -6.9466684
-        ]
-      },
-      "properties": {
-        "id": "v_107.632077_-6.946668",
-        "name": "Jalan Buah Batu",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,6 +354,7 @@
         "id": "12626499695",
         "name": "Taman Buah Batu",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -638,6 +371,7 @@
         "id": "12626499694",
         "name": "Swadarma BNI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -654,22 +388,7 @@
         "id": "12626499692",
         "name": "Pasar Kordon B",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.641017,
-          -6.9542667
-        ]
-      },
-      "properties": {
-        "id": "v_107.641017_-6.954267",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -683,41 +402,10 @@
         ]
       },
       "properties": {
-        "id": "v_107.643306_-6.954702",
+        "id": "virtual_107.6433_-6.9547",
         "name": "Jalan Marga Cinta",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6457017,
-          -6.9549042
-        ]
-      },
-      "properties": {
-        "id": "v_107.645702_-6.954904",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.647977,
-          -6.955091
-        ]
-      },
-      "properties": {
-        "id": "v_107.647977_-6.955091",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -734,6 +422,7 @@
         "id": "12813271263",
         "name": "Seberang Borma Margacinta",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -742,46 +431,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6545084,
-          -6.9557374
+          107.65727505,
+          -6.95769615
         ]
       },
       "properties": {
-        "id": "v_107.654508_-6.955737",
-        "name": "Jalan Marga Cinta",
+        "id": "virtual_107.6573_-6.9577",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6566158,
-          -6.957044
-        ]
-      },
-      "properties": {
-        "id": "v_107.656616_-6.957044",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6584505,
-          -6.95842
-        ]
-      },
-      "properties": {
-        "id": "v_107.658451_-6.958420",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -798,6 +456,7 @@
         "id": "35138488",
         "name": "Taman Lansia Margahayu Raya",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -806,14 +465,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6637713,
-          -6.9604614
+          107.6703105,
+          -6.9618026
         ]
       },
       "properties": {
-        "id": "v_107.663771_-6.960461",
+        "id": "virtual_107.6703_-6.9618",
         "name": "Jalan Marga Cinta",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -822,126 +482,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6659707,
-          -6.9610398
+          107.6778222,
+          -6.9641917
         ]
       },
       "properties": {
-        "id": "v_107.665971_-6.961040",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6684135,
-          -6.961523
-        ]
-      },
-      "properties": {
-        "id": "v_107.668413_-6.961523",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6707571,
-          -6.9618635
-        ]
-      },
-      "properties": {
-        "id": "v_107.670757_-6.961863",
-        "name": "Jalan Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6727755,
-          -6.9629492
-        ]
-      },
-      "properties": {
-        "id": "v_107.672776_-6.962949",
-        "name": "Marga Cinta",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6751648,
-          -6.9639429
-        ]
-      },
-      "properties": {
-        "id": "v_107.675165_-6.963943",
+        "id": "virtual_107.6778_-6.9642",
         "name": "Jalan Derwati",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6775249,
-          -6.9641529
-        ]
-      },
-      "properties": {
-        "id": "v_107.677525_-6.964153",
-        "name": "Jalan Derwati",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6798172,
-          -6.9644172
-        ]
-      },
-      "properties": {
-        "id": "v_107.679817_-6.964417",
-        "name": "Jalan Derwati",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6821746,
-          -6.9646581
-        ]
-      },
-      "properties": {
-        "id": "v_107.682175_-6.964658",
-        "name": "Jalan Derwati",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -958,6 +507,7 @@
         "id": "2518053983",
         "name": "Simpang Derwati",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

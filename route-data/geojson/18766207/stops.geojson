@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 5825243776,
+        "id": "5825243776",
+        "name": "Bandung Electronic Center",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Bandung Electronic Center",
         "public_transport": "stop_position"
       }
     },
@@ -28,11 +28,11 @@
         ]
       },
       "properties": {
-        "id": 3376669066,
+        "id": "3376669066",
+        "name": "Museum Kota Bandung",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Museum Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -46,11 +46,11 @@
         ]
       },
       "properties": {
-        "id": 11739021637,
+        "id": "11739021637",
+        "name": "Merdeka",
         "role": "stop",
         "alt_name": "Santa Angela",
         "bus": "yes",
-        "name": "Merdeka",
         "public_transport": "stop_position"
       }
     },
@@ -64,10 +64,10 @@
         ]
       },
       "properties": {
-        "id": 11711275743,
+        "id": "11711275743",
+        "name": "Alun-Alun Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "Alun-Alun Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -81,10 +81,10 @@
         ]
       },
       "properties": {
-        "id": 11739021639,
+        "id": "11739021639",
+        "name": "Toko Mas ABC",
         "role": "stop",
         "bus": "yes",
-        "name": "Toko Mas ABC",
         "public_transport": "stop_position"
       }
     },
@@ -98,10 +98,10 @@
         ]
       },
       "properties": {
-        "id": 11739021641,
+        "id": "11739021641",
+        "name": "Simpang Ijan",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang Ijan",
         "public_transport": "stop_position"
       }
     },
@@ -115,10 +115,10 @@
         ]
       },
       "properties": {
-        "id": 11739021644,
+        "id": "11739021644",
+        "name": "Taman Tegallega",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Tegallega",
         "public_transport": "stop_position"
       }
     },
@@ -132,10 +132,10 @@
         ]
       },
       "properties": {
-        "id": 11707031623,
+        "id": "11707031623",
+        "name": "Muhammad Toha 1 (PT INTI A)",
         "role": "stop",
         "bus": "yes",
-        "name": "Muhammad Toha 1 (PT INTI A)",
         "public_transport": "stop_position"
       }
     },
@@ -149,10 +149,10 @@
         ]
       },
       "properties": {
-        "id": 11739021649,
+        "id": "11739021649",
+        "name": "Madurasa Tengah",
         "role": "stop",
         "bus": "yes",
-        "name": "Madurasa Tengah",
         "public_transport": "stop_position"
       }
     },
@@ -166,11 +166,11 @@
         ]
       },
       "properties": {
-        "id": 3272360374,
+        "id": "3272360374",
+        "name": "PLN UP3 Bandung B",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "PLN UP3 Bandung B",
         "public_transport": "stop_position"
       }
     },
@@ -184,11 +184,11 @@
         ]
       },
       "properties": {
-        "id": 3384018110,
+        "id": "3384018110",
+        "name": "PT LEN Industri B",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "PT LEN Industri B",
         "public_transport": "stop_position"
       }
     },
@@ -202,10 +202,10 @@
         ]
       },
       "properties": {
-        "id": 12626499699,
+        "id": "12626499699",
+        "name": "LPKIA B",
         "role": "stop",
         "bus": "yes",
-        "name": "LPKIA B",
         "public_transport": "stop_position"
       }
     },
@@ -219,10 +219,10 @@
         ]
       },
       "properties": {
-        "id": 12626499698,
+        "id": "12626499698",
+        "name": "Bangunan Mart B",
         "role": "stop",
         "bus": "yes",
-        "name": "Bangunan Mart B",
         "public_transport": "stop_position"
       }
     },
@@ -236,10 +236,10 @@
         ]
       },
       "properties": {
-        "id": 12626499695,
+        "id": "12626499695",
+        "name": "Taman Buah Batu",
         "role": "stop",
         "bus": "yes",
-        "name": "Taman Buah Batu",
         "public_transport": "stop_position"
       }
     },
@@ -253,10 +253,10 @@
         ]
       },
       "properties": {
-        "id": 12626499694,
+        "id": "12626499694",
+        "name": "Swadarma BNI",
         "role": "stop",
         "bus": "yes",
-        "name": "Swadarma BNI",
         "public_transport": "stop_position"
       }
     },
@@ -270,10 +270,10 @@
         ]
       },
       "properties": {
-        "id": 12626499692,
+        "id": "12626499692",
+        "name": "Pasar Kordon B",
         "role": "stop",
         "bus": "yes",
-        "name": "Pasar Kordon B",
         "public_transport": "stop_position"
       }
     },
@@ -287,10 +287,10 @@
         ]
       },
       "properties": {
-        "id": 12626499689,
+        "id": "12626499689",
+        "name": "Bluebird B",
         "role": "stop",
         "bus": "yes",
-        "name": "Bluebird B",
         "public_transport": "stop_position"
       }
     },
@@ -304,10 +304,10 @@
         ]
       },
       "properties": {
-        "id": 12626499688,
+        "id": "12626499688",
+        "name": "Puskesmas Kujangsari B",
         "role": "stop",
         "bus": "yes",
-        "name": "Puskesmas Kujangsari B",
         "public_transport": "stop_position"
       }
     },
@@ -321,10 +321,10 @@
         ]
       },
       "properties": {
-        "id": 12626499687,
+        "id": "12626499687",
+        "name": "Transmart Buahbatu",
         "role": "stop",
         "bus": "yes",
-        "name": "Transmart Buahbatu",
         "public_transport": "stop_position"
       }
     },
@@ -338,11 +338,11 @@
         ]
       },
       "properties": {
-        "id": 549740249,
+        "id": "549740249",
+        "name": "Permata Buah Batu",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Permata Buah Batu",
         "public_transport": "stop_position"
       }
     },
@@ -356,10 +356,10 @@
         ]
       },
       "properties": {
-        "id": 11950910945,
+        "id": "11950910945",
+        "name": "Podomoro",
         "role": "stop",
         "bus": "yes",
-        "name": "Podomoro",
         "public_transport": "stop_position"
       }
     },
@@ -373,10 +373,10 @@
         ]
       },
       "properties": {
-        "id": 12626499684,
+        "id": "12626499684",
+        "name": "AHASS",
         "role": "stop",
         "bus": "yes",
-        "name": "AHASS",
         "public_transport": "stop_position"
       }
     },
@@ -390,10 +390,10 @@
         ]
       },
       "properties": {
-        "id": 12626499682,
+        "id": "12626499682",
+        "name": "Griya Bandung Asri",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Bandung Asri",
         "public_transport": "stop_position"
       }
     },
@@ -407,10 +407,10 @@
         ]
       },
       "properties": {
-        "id": 12626499681,
+        "id": "12626499681",
+        "name": "Alfamart SPBU Bojongsoang",
         "role": "stop",
         "bus": "yes",
-        "name": "Alfamart SPBU Bojongsoang",
         "public_transport": "stop_position"
       }
     },
@@ -424,10 +424,10 @@
         ]
       },
       "properties": {
-        "id": 12626499679,
+        "id": "12626499679",
+        "name": "Masjid Jami' Baitul Huda B",
         "role": "stop",
         "bus": "yes",
-        "name": "Masjid Jami' Baitul Huda B",
         "public_transport": "stop_position"
       }
     },
@@ -441,10 +441,10 @@
         ]
       },
       "properties": {
-        "id": 2477247659,
+        "id": "2477247659",
+        "name": "Apotek K24",
         "role": "stop",
         "bus": "yes",
-        "name": "Apotek K24",
         "public_transport": "stop_position"
       }
     },
@@ -458,10 +458,10 @@
         ]
       },
       "properties": {
-        "id": 12626499675,
+        "id": "12626499675",
+        "name": "KEJARI Bale Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "KEJARI Bale Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -475,10 +475,10 @@
         ]
       },
       "properties": {
-        "id": 12626499676,
+        "id": "12626499676",
+        "name": "RS Al-Ihsan",
         "role": "stop",
         "bus": "yes",
-        "name": "RS Al-Ihsan",
         "public_transport": "stop_position"
       }
     },
@@ -492,10 +492,10 @@
         ]
       },
       "properties": {
-        "id": 11871901023,
+        "id": "11871901023",
+        "name": "Baleendah",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Baleendah",
         "public_transport": "stop_position"
       }
     }

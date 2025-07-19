@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 12628813986,
+        "id": "12628813986",
+        "name": "Sarijadi",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Sarijadi",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 12628813990,
+        "id": "12628813990",
+        "name": "Setrasari",
         "role": "stop",
         "bus": "yes",
-        "name": "Setrasari",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 12013144935,
+        "id": "12013144935",
+        "name": "Mall d'Botanica",
         "role": "stop",
         "bus": "yes",
-        "name": "Mall d'Botanica",
         "public_transport": "stop_position"
       }
     },
@@ -62,10 +62,10 @@
         ]
       },
       "properties": {
-        "id": 12628813992,
+        "id": "12628813992",
+        "name": "Griya Pasteur 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Pasteur 2",
         "public_transport": "stop_position"
       }
     },
@@ -79,10 +79,10 @@
         ]
       },
       "properties": {
-        "id": 12628813995,
+        "id": "12628813995",
+        "name": "Tamansari Cikapayang",
         "role": "stop",
         "bus": "yes",
-        "name": "Tamansari Cikapayang",
         "public_transport": "stop_position"
       }
     },
@@ -96,10 +96,10 @@
         ]
       },
       "properties": {
-        "id": 5832170587,
+        "id": "5832170587",
+        "name": "Cikapayang Dago 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Cikapayang Dago 2",
         "public_transport": "stop_position"
       }
     },
@@ -113,10 +113,10 @@
         ]
       },
       "properties": {
-        "id": 1660289593,
+        "id": "1660289593",
+        "name": "Gasibu",
         "role": "stop",
         "bus": "yes",
-        "name": "Gasibu",
         "public_transport": "stop_position"
       }
     },
@@ -130,10 +130,10 @@
         ]
       },
       "properties": {
-        "id": 12628813998,
+        "id": "12628813998",
+        "name": "Distan Jabar",
         "role": "stop",
         "bus": "yes",
-        "name": "Distan Jabar",
         "public_transport": "stop_position"
       }
     },
@@ -147,10 +147,10 @@
         ]
       },
       "properties": {
-        "id": 12628814000,
+        "id": "12628814000",
+        "name": "Dapen Telkom",
         "role": "stop",
         "bus": "yes",
-        "name": "Dapen Telkom",
         "public_transport": "stop_position"
       }
     },
@@ -164,10 +164,10 @@
         ]
       },
       "properties": {
-        "id": 12628835702,
+        "id": "12628835702",
+        "name": "Jalaprang",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalaprang",
         "public_transport": "stop_position"
       }
     },
@@ -181,10 +181,10 @@
         ]
       },
       "properties": {
-        "id": 12013144934,
+        "id": "12013144934",
+        "name": "ITENAS",
         "role": "stop",
         "bus": "yes",
-        "name": "ITENAS",
         "public_transport": "stop_position"
       }
     },
@@ -198,10 +198,10 @@
         ]
       },
       "properties": {
-        "id": 5832220656,
+        "id": "5832220656",
+        "name": "Sukasenang Raya 2",
         "role": "stop",
         "bus": "yes",
-        "name": "Sukasenang Raya 2",
         "public_transport": "stop_position"
       }
     },
@@ -215,10 +215,10 @@
         ]
       },
       "properties": {
-        "id": 12628835705,
+        "id": "12628835705",
+        "name": "Sekolah Pribadi",
         "role": "stop",
         "bus": "yes",
-        "name": "Sekolah Pribadi",
         "public_transport": "stop_position"
       }
     },
@@ -232,10 +232,10 @@
         ]
       },
       "properties": {
-        "id": 5832221887,
+        "id": "5832221887",
+        "name": "Sukapada",
         "role": "stop",
         "bus": "yes",
-        "name": "Sukapada",
         "public_transport": "stop_position",
         "ref": "Cikutra"
       }
@@ -250,10 +250,10 @@
         ]
       },
       "properties": {
-        "id": 12628835709,
+        "id": "12628835709",
+        "name": "Surapati Core",
         "role": "stop",
         "bus": "yes",
-        "name": "Surapati Core",
         "public_transport": "stop_position"
       }
     },
@@ -267,10 +267,10 @@
         ]
       },
       "properties": {
-        "id": 5832221935,
+        "id": "5832221935",
+        "name": "Seberang Terminal Cicaheum",
         "role": "stop",
         "bus": "yes",
-        "name": "Seberang Terminal Cicaheum",
         "public_transport": "stop_position"
       }
     },
@@ -284,10 +284,10 @@
         ]
       },
       "properties": {
-        "id": 6460801785,
+        "id": "6460801785",
+        "name": "Terminal Cicaheum",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Terminal Cicaheum",
         "network": "Trans Metro Bandung",
         "operator": "Dinas Perhubungan Kota Bandung",
         "public_transport": "stop_position"

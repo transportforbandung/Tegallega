@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 10697346845,
+        "id": "10697346845",
+        "name": "UNPAD Jatinangor",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "UNPAD Jatinangor",
         "public_transport": "stop_position"
       }
     },
@@ -28,10 +28,10 @@
         ]
       },
       "properties": {
-        "id": 11711185243,
+        "id": "11711185243",
+        "name": "Jatinangor Town Square",
         "role": "stop",
         "bus": "yes",
-        "name": "Jatinangor Town Square",
         "public_transport": "stop_position"
       }
     },
@@ -45,10 +45,10 @@
         ]
       },
       "properties": {
-        "id": 5867026762,
+        "id": "5867026762",
+        "name": "IPDN B",
         "role": "stop",
         "bus": "yes",
-        "name": "IPDN B",
         "public_transport": "stop_position",
         "ref": "IPDN B"
       }
@@ -63,10 +63,10 @@
         ]
       },
       "properties": {
-        "id": 11711185188,
+        "id": "11711185188",
+        "name": "Cileunyi B",
         "role": "stop",
         "bus": "yes",
-        "name": "Cileunyi B",
         "public_transport": "stop_position"
       }
     },
@@ -80,10 +80,10 @@
         ]
       },
       "properties": {
-        "id": 11711185185,
+        "id": "11711185185",
+        "name": "Jalan Haji Tatang Sumantri",
         "role": "stop",
         "bus": "yes",
-        "name": "Jalan Haji Tatang Sumantri",
         "public_transport": "stop_position"
       }
     },
@@ -97,10 +97,10 @@
         ]
       },
       "properties": {
-        "id": 11707031627,
+        "id": "11707031627",
+        "name": "Simpang By Pass Soekarno Hatta B",
         "role": "stop",
         "bus": "yes",
-        "name": "Simpang By Pass Soekarno Hatta B",
         "public_transport": "stop_position"
       }
     },
@@ -114,10 +114,10 @@
         ]
       },
       "properties": {
-        "id": 11707031601,
+        "id": "11707031601",
+        "name": "PT INTI B (BKR 5)",
         "role": "stop",
         "bus": "yes",
-        "name": "PT INTI B (BKR 5)",
         "public_transport": "stop_position"
       }
     },
@@ -131,10 +131,10 @@
         ]
       },
       "properties": {
-        "id": 11707031579,
+        "id": "11707031579",
+        "name": "Hotel Horison B",
         "role": "stop",
         "bus": "yes",
-        "name": "Hotel Horison B",
         "public_transport": "stop_position"
       }
     },
@@ -148,10 +148,10 @@
         ]
       },
       "properties": {
-        "id": 11707030859,
+        "id": "11707030859",
+        "name": "Bandung Creative Hub B",
         "role": "stop",
         "bus": "yes",
-        "name": "Bandung Creative Hub B",
         "public_transport": "stop_position"
       }
     },
@@ -165,10 +165,10 @@
         ]
       },
       "properties": {
-        "id": 11955476811,
+        "id": "11955476811",
+        "name": "SPBU Ahmad Yani",
         "role": "stop",
         "bus": "yes",
-        "name": "SPBU Ahmad Yani",
         "public_transport": "stop_position"
       }
     },
@@ -182,10 +182,10 @@
         ]
       },
       "properties": {
-        "id": 11707030833,
+        "id": "11707030833",
+        "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
         "role": "stop",
         "bus": "yes",
-        "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
         "public_transport": "stop_position"
       }
     },
@@ -199,10 +199,10 @@
         ]
       },
       "properties": {
-        "id": 11707030828,
+        "id": "11707030828",
+        "name": "PUSDAI B",
         "role": "stop",
         "bus": "yes",
-        "name": "PUSDAI B",
         "public_transport": "stop_position"
       }
     },
@@ -216,10 +216,10 @@
         ]
       },
       "properties": {
-        "id": 11707030827,
+        "id": "11707030827",
+        "name": "Lapangan Gasibu B",
         "role": "stop",
         "bus": "yes",
-        "name": "Lapangan Gasibu B",
         "public_transport": "stop_position"
       }
     },
@@ -233,10 +233,10 @@
         ]
       },
       "properties": {
-        "id": 11707030825,
+        "id": "11707030825",
+        "name": "Panatayudha B",
         "role": "stop",
         "bus": "yes",
-        "name": "Panatayudha B",
         "public_transport": "stop_position"
       }
     },
@@ -250,10 +250,10 @@
         ]
       },
       "properties": {
-        "id": 3375793673,
+        "id": "3375793673",
+        "name": "UNPAD Dipatiukur",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "UNPAD Dipatiukur",
         "public_transport": "stop_position"
       }
     }

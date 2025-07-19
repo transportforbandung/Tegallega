@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "id": 6460801785,
+        "id": "6460801785",
+        "name": "Terminal Cicaheum",
         "role": "stop_entry_only",
         "bus": "yes",
-        "name": "Terminal Cicaheum",
         "network": "Trans Metro Bandung",
         "operator": "Dinas Perhubungan Kota Bandung",
         "public_transport": "stop_position"
@@ -30,10 +30,10 @@
         ]
       },
       "properties": {
-        "id": 5832221930,
+        "id": "5832221930",
+        "name": "Cimuncang",
         "role": "stop",
         "bus": "yes",
-        "name": "Cimuncang",
         "public_transport": "stop_position"
       }
     },
@@ -47,10 +47,10 @@
         ]
       },
       "properties": {
-        "id": 12628835706,
+        "id": "12628835706",
+        "name": "Cikutra",
         "role": "stop",
         "bus": "yes",
-        "name": "Cikutra",
         "public_transport": "stop_position"
       }
     },
@@ -64,10 +64,10 @@
         ]
       },
       "properties": {
-        "id": 12628835704,
+        "id": "12628835704",
+        "name": "Sukasenang Raya 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Sukasenang Raya 1",
         "public_transport": "stop_position"
       }
     },
@@ -81,10 +81,10 @@
         ]
       },
       "properties": {
-        "id": 12628835703,
+        "id": "12628835703",
+        "name": "BKKBN",
         "role": "stop",
         "bus": "yes",
-        "name": "BKKBN",
         "public_transport": "stop_position"
       }
     },
@@ -98,10 +98,10 @@
         ]
       },
       "properties": {
-        "id": 5832220641,
+        "id": "5832220641",
+        "name": "SMPN 63 Kota Bandung",
         "role": "stop",
         "bus": "yes",
-        "name": "SMPN 63 Kota Bandung",
         "public_transport": "stop_position"
       }
     },
@@ -115,10 +115,10 @@
         ]
       },
       "properties": {
-        "id": 12628813999,
+        "id": "12628813999",
+        "name": "Wisma BKN",
         "role": "stop",
         "bus": "yes",
-        "name": "Wisma BKN",
         "public_transport": "stop_position"
       }
     },
@@ -132,10 +132,10 @@
         ]
       },
       "properties": {
-        "id": 12628813996,
+        "id": "12628813996",
+        "name": "Cikapayang Dago 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Cikapayang Dago 1",
         "public_transport": "stop_position"
       }
     },
@@ -149,10 +149,10 @@
         ]
       },
       "properties": {
-        "id": 12628813994,
+        "id": "12628813994",
+        "name": "Griya Pasteur 1",
         "role": "stop",
         "bus": "yes",
-        "name": "Griya Pasteur 1",
         "public_transport": "stop_position"
       }
     },
@@ -166,10 +166,10 @@
         ]
       },
       "properties": {
-        "id": 12628813991,
+        "id": "12628813991",
+        "name": "Warung Cepot",
         "role": "stop",
         "bus": "yes",
-        "name": "Warung Cepot",
         "public_transport": "stop_position"
       }
     },
@@ -183,11 +183,11 @@
         ]
       },
       "properties": {
-        "id": 3384993309,
+        "id": "3384993309",
+        "name": "Maranatha",
         "role": "stop",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Maranatha",
         "public_transport": "stop_position"
       }
     },
@@ -201,10 +201,10 @@
         ]
       },
       "properties": {
-        "id": 12628813987,
+        "id": "12628813987",
+        "name": "Lemahneundeut",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Lemahneundeut",
         "public_transport": "stop_position"
       }
     },
@@ -218,10 +218,10 @@
         ]
       },
       "properties": {
-        "id": 12628813989,
+        "id": "12628813989",
+        "name": "Sarimanah",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Sarimanah",
         "public_transport": "stop_position"
       }
     },
@@ -235,10 +235,10 @@
         ]
       },
       "properties": {
-        "id": 12628813986,
+        "id": "12628813986",
+        "name": "Sarijadi",
         "role": "stop_exit_only",
         "bus": "yes",
-        "name": "Sarijadi",
         "public_transport": "stop_position"
       }
     }

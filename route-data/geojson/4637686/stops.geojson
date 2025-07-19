@@ -14,38 +14,7 @@
         "id": "3244745033",
         "name": "Terminal Ciroyom",
         "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5863129,
-          -6.9130382
-        ]
-      },
-      "properties": {
-        "id": "v_107.586313_-6.913038",
-        "name": "Jalan Ciroyom",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5893946,
-          -6.9115203
-        ]
-      },
-      "properties": {
-        "id": "v_107.589395_-6.911520",
-        "name": "Jalan Arjuna",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,6 +31,7 @@
         "id": "3377321681",
         "name": "Pintu Masuk Bandara Husein Sastranegara",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -78,6 +48,7 @@
         "id": "7547053355",
         "name": "Pajajaran 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,6 +65,7 @@
         "id": "3377321682",
         "name": "Istana Plaza (IP)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +82,7 @@
         "id": "12809082509",
         "name": "BPK Penabur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +99,7 @@
         "id": "12809082507",
         "name": "IWU",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +116,7 @@
         "id": "5639376088",
         "name": "Garunggang Kulon",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,22 +133,7 @@
         "id": "12825997250",
         "name": "SPBU Paskal",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5984316,
-          -6.8951102
-        ]
-      },
-      "properties": {
-        "id": "v_107.598432_-6.895110",
-        "name": "Jalan Sederhana",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,38 +150,7 @@
         "id": "3249461526",
         "name": "Pasar Sederhana",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5975019,
-          -6.8885472
-        ]
-      },
-      "properties": {
-        "id": "v_107.597502_-6.888547",
-        "name": "Jalan Sukamaju",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5964324,
-          -6.88604
-        ]
-      },
-      "properties": {
-        "id": "v_107.596432_-6.886040",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -238,38 +167,7 @@
         "id": "3380200149",
         "name": "Mandiri Sukajadi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5964257,
-          -6.8813836
-        ]
-      },
-      "properties": {
-        "id": "v_107.596426_-6.881384",
-        "name": "Jalan Sukajadi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5986782,
-          -6.8811214
-        ]
-      },
-      "properties": {
-        "id": "v_107.598678_-6.881121",
-        "name": "Jalan Karang Sari",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +184,7 @@
         "id": "6165179774",
         "name": "Setiabudi Hegarmanah",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,6 +201,7 @@
         "id": "1660116948",
         "name": "Gandok",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -310,46 +210,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6077048,
-          -6.8845833
+          107.61150215,
+          -6.88487945
         ]
       },
       "properties": {
-        "id": "v_107.607705_-6.884583",
-        "name": "Jalan Siliwangi",
+        "id": "virtual_107.6115_-6.8849",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6102659,
-          -6.8844619
-        ]
-      },
-      "properties": {
-        "id": "v_107.610266_-6.884462",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6125035,
-          -6.8850711
-        ]
-      },
-      "properties": {
-        "id": "v_107.612504_-6.885071",
-        "name": "Jalan Siliwangi",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -366,6 +235,7 @@
         "id": "11739021656",
         "name": "Masjid Baiturrahman",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,6 +252,7 @@
         "id": "3375793672",
         "name": "Sekeloa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -398,6 +269,7 @@
         "id": "11707030824",
         "name": "UNPAD Dipatiukur (4D)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -414,6 +286,7 @@
         "id": "3375793673",
         "name": "UNPAD Dipatiukur",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,6 +303,7 @@
         "id": "12816121756",
         "name": "Magister Manajemen UNPAD",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +320,7 @@
         "id": "12806309232",
         "name": "Jalan Merak",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +337,7 @@
         "id": "12628813998",
         "name": "Distan Jabar",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +354,7 @@
         "id": "12814453796",
         "name": "Jalan Gagak",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +371,7 @@
         "id": "5832220640",
         "name": "PUSDAI",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +388,7 @@
         "id": "12628814000",
         "name": "Dapen Telkom",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +405,7 @@
         "id": "12814754607",
         "name": "Seberang Imigrasi Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,6 +422,7 @@
         "id": "12628835702",
         "name": "Jalaprang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -558,6 +439,7 @@
         "id": "12013144934",
         "name": "ITENAS",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,6 +456,7 @@
         "id": "5832220656",
         "name": "Sukasenang Raya 2",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,6 +473,7 @@
         "id": "12806309238",
         "name": "STIE Ekuitas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +490,7 @@
         "id": "12628835705",
         "name": "Sekolah Pribadi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,38 +507,7 @@
         "id": "5832221887",
         "name": "Sukapada",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6461092,
-          -6.9008033
-        ]
-      },
-      "properties": {
-        "id": "v_107.646109_-6.900803",
-        "name": "Jalan PH. H. Mustofa",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6484583,
-          -6.9016362
-        ]
-      },
-      "properties": {
-        "id": "v_107.648458_-6.901636",
-        "name": "Jalan PH. H. Mustofa",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -670,6 +524,7 @@
         "id": "12628835709",
         "name": "Surapati Core",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -686,6 +541,7 @@
         "id": "5832221935",
         "name": "Seberang Terminal Cicaheum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -702,6 +558,7 @@
         "id": "11291524413",
         "name": "Terminal Angkot Cicaheum",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

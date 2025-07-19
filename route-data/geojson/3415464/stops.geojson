@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12626529705",
         "name": "ITC Kebon Kalapa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "12808948222",
         "name": "SMPN 43 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,38 +65,7 @@
         "id": "12808948220",
         "name": "Pasundan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6105504,
-          -6.9295269
-        ]
-      },
-      "properties": {
-        "id": "v_107.610550_-6.929527",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6124017,
-          -6.9313355
-        ]
-      },
-      "properties": {
-        "id": "v_107.612402_-6.931336",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +82,7 @@
         "id": "12806120217",
         "name": "Unla",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +99,7 @@
         "id": "3375103664",
         "name": "Lauk Emas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +116,7 @@
         "id": "3376282080",
         "name": "Banteng Sadakeling",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +133,7 @@
         "id": "1982390333",
         "name": "SMK Medina",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,6 +150,7 @@
         "id": "2250581874",
         "name": "GOR Lodaya",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -190,6 +167,7 @@
         "id": "12806537958",
         "name": "Yayasan Kemala Bhayangkari",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -198,46 +176,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6244842,
-          -6.9318518
+          107.6258197,
+          -6.9325851
         ]
       },
       "properties": {
-        "id": "v_107.624484_-6.931852",
-        "name": "Jalan Lodaya",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6267581,
-          -6.9329183
-        ]
-      },
-      "properties": {
-        "id": "v_107.626758_-6.932918",
+        "id": "virtual_107.6258_-6.9326",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6290573,
-          -6.933508
-        ]
-      },
-      "properties": {
-        "id": "v_107.629057_-6.933508",
-        "name": "Jalan Raden Adipati Aria Martanegara",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -254,6 +201,7 @@
         "id": "11042827767",
         "name": "Riau Martanegara",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +218,7 @@
         "id": "12981961718",
         "name": "Seberang STIE Pasundan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,22 +235,7 @@
         "id": "12981961719",
         "name": "SD Kartika X-1",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6334031,
-          -6.9262659
-        ]
-      },
-      "properties": {
-        "id": "v_107.633403_-6.926266",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +252,7 @@
         "id": "11365366019",
         "name": "Trans Studio Mall",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -326,94 +261,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6389116,
-          -6.9295348
+          107.6439317,
+          -6.9298097
         ]
       },
       "properties": {
-        "id": "v_107.638912_-6.929535",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6410724,
-          -6.9309989
-        ]
-      },
-      "properties": {
-        "id": "v_107.641072_-6.930999",
-        "name": "Jalan Jenderal Gatot Subroto",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6435367,
-          -6.9312959
-        ]
-      },
-      "properties": {
-        "id": "v_107.643537_-6.931296",
+        "id": "virtual_107.6439_-6.9298",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6440965,
-          -6.9289532
-        ]
-      },
-      "properties": {
-        "id": "v_107.644097_-6.928953",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6444641,
-          -6.9267038
-        ]
-      },
-      "properties": {
-        "id": "v_107.644464_-6.926704",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6443956,
-          -6.9244413
-        ]
-      },
-      "properties": {
-        "id": "v_107.644396_-6.924441",
-        "name": "Jalan H. Ibrahim Adjie",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -430,6 +286,7 @@
         "id": "12806853451",
         "name": "Seberang Griya Kiaracondong",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +303,7 @@
         "id": "12806853452",
         "name": "Daese Garmin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +320,7 @@
         "id": "12806853456",
         "name": "Gerbang Timur Kiara Artha Park",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +337,7 @@
         "id": "11735248700",
         "name": "Flyover Antapani",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +354,7 @@
         "id": "3375793691",
         "name": "WUJ Jalan Banten",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +371,7 @@
         "id": "11735248701",
         "name": "STMIK",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,22 +388,7 @@
         "id": "11735248702",
         "name": "GOR KONI",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6340779,
-          -6.9129877
-        ]
-      },
-      "properties": {
-        "id": "v_107.634078_-6.912988",
-        "name": "Jalan Layang Ahmad Yani - Supratman",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -558,6 +405,7 @@
         "id": "12811695428",
         "name": "Supratman 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,6 +422,7 @@
         "id": "2519917307",
         "name": "Pussenif",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,6 +439,7 @@
         "id": "11707030832",
         "name": "SMPN 14 Bandung (Lapangan Supratman A)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +456,7 @@
         "id": "11707030833",
         "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,38 +473,7 @@
         "id": "5841989829",
         "name": "Muararajeun Baru",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6320385,
-          -6.9039297
-        ]
-      },
-      "properties": {
-        "id": "v_107.632038_-6.903930",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6338639,
-          -6.9025511
-        ]
-      },
-      "properties": {
-        "id": "v_107.633864_-6.902551",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -670,6 +490,7 @@
         "id": "12819917452",
         "name": "Seberang Griya Pahlawan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -686,6 +507,7 @@
         "id": "12013144934",
         "name": "ITENAS",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -702,6 +524,7 @@
         "id": "5832220656",
         "name": "Sukasenang Raya 2",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -718,6 +541,7 @@
         "id": "12806309238",
         "name": "STIE Ekuitas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -734,6 +558,7 @@
         "id": "12628835705",
         "name": "Sekolah Pribadi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -750,38 +575,7 @@
         "id": "5832221887",
         "name": "Sukapada",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6461092,
-          -6.9008033
-        ]
-      },
-      "properties": {
-        "id": "v_107.646109_-6.900803",
-        "name": "Jalan PH. H. Mustofa",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6484583,
-          -6.9016362
-        ]
-      },
-      "properties": {
-        "id": "v_107.648458_-6.901636",
-        "name": "Jalan PH. H. Mustofa",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -798,6 +592,7 @@
         "id": "12628835709",
         "name": "Surapati Core",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -814,6 +609,7 @@
         "id": "5832221935",
         "name": "Seberang Terminal Cicaheum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -830,6 +626,7 @@
         "id": "11291524413",
         "name": "Terminal Angkot Cicaheum",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

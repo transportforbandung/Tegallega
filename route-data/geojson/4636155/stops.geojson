@@ -14,6 +14,7 @@
         "id": "3374033509",
         "name": "Terminal Abdul Muis/Kebon Kalapa",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "12626529705",
         "name": "ITC Kebon Kalapa",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "12808948222",
         "name": "SMPN 43 Bandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,38 +65,7 @@
         "id": "12808948220",
         "name": "Pasundan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6105504,
-          -6.9295269
-        ]
-      },
-      "properties": {
-        "id": "v_107.610550_-6.929527",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6124017,
-          -6.9313355
-        ]
-      },
-      "properties": {
-        "id": "v_107.612402_-6.931336",
-        "name": "Jalan Pungkur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -110,6 +82,7 @@
         "id": "12806120217",
         "name": "Unla",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +99,7 @@
         "id": "12825997237",
         "name": "Melong Karapitan",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -142,6 +116,7 @@
         "id": "12825997239",
         "name": "Karapitan Cikawao",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -158,6 +133,7 @@
         "id": "12825997243",
         "name": "Karapitan Emung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -174,22 +150,7 @@
         "id": "12825997241",
         "name": "Karapitan Paledang",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6175959,
-          -6.9224232
-        ]
-      },
-      "properties": {
-        "id": "v_107.617596_-6.922423",
-        "name": "Jalan Sunda",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -206,6 +167,7 @@
         "id": "10280072517",
         "name": "Gereja Sidang Kristus",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -222,22 +184,7 @@
         "id": "12806120211",
         "name": "Yogya Sunda",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6184073,
-          -6.9156491
-        ]
-      },
-      "properties": {
-        "id": "v_107.618407_-6.915649",
-        "name": "Jalan Sumbawa",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -254,6 +201,7 @@
         "id": "12806120207",
         "name": "Balai Bahasa Jawa Barat",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -270,6 +218,7 @@
         "id": "12809507134",
         "name": "Kantor Kecamatan Sumurbandung",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,6 +235,7 @@
         "id": "12809507135",
         "name": "Seberang Stadion Siliwangi",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -302,22 +252,7 @@
         "id": "12809507136",
         "name": "PMI Kota Bandung",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6217828,
-          -6.9093582
-        ]
-      },
-      "properties": {
-        "id": "v_107.621783_-6.909358",
-        "name": "Jalan Aceh",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +269,7 @@
         "id": "3376430782",
         "name": "SMA Kartika",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +286,7 @@
         "id": "12887217205",
         "name": "Jalan Suren",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +303,7 @@
         "id": "11707030833",
         "name": "SDN 062 Ciujung Bandung (Lapangan Supratman B)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -382,38 +320,7 @@
         "id": "5841989829",
         "name": "Muararajeun Baru",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6320385,
-          -6.9039297
-        ]
-      },
-      "properties": {
-        "id": "v_107.632038_-6.903930",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6338639,
-          -6.9025511
-        ]
-      },
-      "properties": {
-        "id": "v_107.633864_-6.902551",
-        "name": "Jalan Brigjend. Katamso",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -430,22 +337,7 @@
         "id": "12819917452",
         "name": "Seberang Griya Pahlawan",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.634127,
-          -6.8979661
-        ]
-      },
-      "properties": {
-        "id": "v_107.634127_-6.897966",
-        "name": "Jalan Pahlawan",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +354,7 @@
         "id": "12819917455",
         "name": "Taman Makam Pahlawan Cikutra",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -470,62 +363,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6379264,
-          -6.8936719
+          107.64192305,
+          -6.8946074500000005
         ]
       },
       "properties": {
-        "id": "v_107.637926_-6.893672",
-        "name": "Jalan Cikutra",
+        "id": "virtual_107.6419_-6.8946",
+        "name": "Jalan terdekat",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6403262,
-          -6.8939387
-        ]
-      },
-      "properties": {
-        "id": "v_107.640326_-6.893939",
-        "name": "Jalan Cikutra",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6424044,
-          -6.8949233
-        ]
-      },
-      "properties": {
-        "id": "v_107.642404_-6.894923",
-        "name": "Jalan Cikutra",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6436921,
-          -6.8969266
-        ]
-      },
-      "properties": {
-        "id": "v_107.643692_-6.896927",
-        "name": "Jalan Cikutra",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -542,38 +388,7 @@
         "id": "5832221887",
         "name": "Sukapada",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6461092,
-          -6.9008033
-        ]
-      },
-      "properties": {
-        "id": "v_107.646109_-6.900803",
-        "name": "Jalan PH. H. Mustofa",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6484583,
-          -6.9016362
-        ]
-      },
-      "properties": {
-        "id": "v_107.648458_-6.901636",
-        "name": "Jalan PH. H. Mustofa",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,6 +405,7 @@
         "id": "12628835709",
         "name": "Surapati Core",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -606,6 +422,7 @@
         "id": "5832221935",
         "name": "Seberang Terminal Cicaheum",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,6 +439,7 @@
         "id": "11291524413",
         "name": "Terminal Angkot Cicaheum",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }

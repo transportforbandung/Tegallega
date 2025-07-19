@@ -14,6 +14,7 @@
         "id": "11711326972",
         "name": "Plaza Telkom Rajawali",
         "role": "stop_entry_only",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -30,6 +31,7 @@
         "id": "11735239264",
         "name": "Rajawali 1",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -46,6 +48,7 @@
         "id": "11735239266",
         "name": "Dunguscariang",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -62,22 +65,7 @@
         "id": "1911635044",
         "name": "Yayasan LPPN",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5875979,
-          -6.9161866
-        ]
-      },
-      "properties": {
-        "id": "v_107.587598_-6.916187",
-        "name": "Jalan Rajawali Timur",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -94,22 +82,7 @@
         "id": "11735239268",
         "name": "SMA Trinitas",
         "role": "stop_entry_only",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5942457,
-          -6.9164499
-        ]
-      },
-      "properties": {
-        "id": "v_107.594246_-6.916450",
-        "name": "Jalan Kebon Jati",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -126,6 +99,7 @@
         "id": "11735248671",
         "name": "Rumah Sakit Kebon Jati",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -134,30 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5982915,
-          -6.9178883
+          107.598583,
+          -6.9226401
         ]
       },
       "properties": {
-        "id": "v_107.598292_-6.917888",
-        "name": "Jalan Gardujati",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5983508,
-          -6.9202439
-        ]
-      },
-      "properties": {
-        "id": "v_107.598351_-6.920244",
+        "id": "virtual_107.5986_-6.9226",
         "name": "Jalan Astana Anyar",
         "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -166,94 +125,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5985679,
-          -6.9225334
+          107.6007351,
+          -6.9295707
         ]
       },
       "properties": {
-        "id": "v_107.598568_-6.922533",
+        "id": "virtual_107.6007_-6.9296",
         "name": "Jalan Astana Anyar",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5991575,
-          -6.9247939
-        ]
-      },
-      "properties": {
-        "id": "v_107.599158_-6.924794",
-        "name": "Jalan Astana Anyar",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5999523,
-          -6.9269769
-        ]
-      },
-      "properties": {
-        "id": "v_107.599952_-6.926977",
-        "name": "Jalan Astana Anyar",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6006985,
-          -6.9292319
-        ]
-      },
-      "properties": {
-        "id": "v_107.600698_-6.929232",
-        "name": "Jalan Astana Anyar",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5973451,
-          -6.9298621
-        ]
-      },
-      "properties": {
-        "id": "v_107.597345_-6.929862",
-        "name": "Jalan Panjunan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5965357,
-          -6.9324963
-        ]
-      },
-      "properties": {
-        "id": "v_107.596536_-6.932496",
-        "name": "Jalan Kyai Haji Wahid Hasyim",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -270,6 +150,7 @@
         "id": "12806717333",
         "name": "RS Imanuel Pintu Kopo",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -286,22 +167,7 @@
         "id": "11739021652",
         "name": "Rumah Sakit Immanuel A",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5980158,
-          -6.9377065
-        ]
-      },
-      "properties": {
-        "id": "v_107.598016_-6.937706",
-        "name": "Jalan Peta",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -318,6 +184,7 @@
         "id": "12628930762",
         "name": "Muara A",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -334,6 +201,7 @@
         "id": "12806765746",
         "name": "Taman Tegalega/Sri Baduga",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -350,6 +218,7 @@
         "id": "11707031601",
         "name": "PT INTI B (BKR 5)",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -366,6 +235,7 @@
         "id": "3445680780",
         "name": "Samsudin",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -374,46 +244,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6105128,
-          -6.9366557
+          107.6115373,
+          -6.9358756
         ]
       },
       "properties": {
-        "id": "v_107.610513_-6.936656",
+        "id": "virtual_107.6115_-6.9359",
         "name": "Jalan Mochammad Ramdhan",
         "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6123682,
-          -6.9351648
-        ]
-      },
-      "properties": {
-        "id": "v_107.612368_-6.935165",
-        "name": "Jalan Mochammad Ramdhan",
-        "role": "virtual",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6140869,
-          -6.9334648
-        ]
-      },
-      "properties": {
-        "id": "v_107.614087_-6.933465",
-        "name": "Jalan Mochammad Ramdhan",
-        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -430,6 +269,7 @@
         "id": "12806120217",
         "name": "Unla",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -446,6 +286,7 @@
         "id": "3375103664",
         "name": "Lauk Emas",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -462,6 +303,7 @@
         "id": "3376282080",
         "name": "Banteng Sadakeling",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -478,6 +320,7 @@
         "id": "1982390333",
         "name": "SMK Medina",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -494,6 +337,7 @@
         "id": "2250581874",
         "name": "GOR Lodaya",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -510,6 +354,7 @@
         "id": "12806537958",
         "name": "Yayasan Kemala Bhayangkari",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -526,6 +371,7 @@
         "id": "2607816747",
         "name": "Simpang Pasar Palasari",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -542,22 +388,7 @@
         "id": "12986852698",
         "name": "Universitas Aisyiyah",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.623714,
-          -6.925252
-        ]
-      },
-      "properties": {
-        "id": "v_107.623714_-6.925252",
-        "name": "Jalan Malabar",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -574,6 +405,7 @@
         "id": "12806717340",
         "name": "Aneka Jeans",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -590,22 +422,7 @@
         "id": "12806717344",
         "name": "SPBU Laswi",
         "role": "stop",
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6301346,
-          -6.9222498
-        ]
-      },
-      "properties": {
-        "id": "v_107.630135_-6.922250",
-        "name": "Jalan Laswi",
-        "role": "virtual",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -622,6 +439,7 @@
         "id": "11707030859",
         "name": "Bandung Creative Hub B",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -638,6 +456,7 @@
         "id": "11735248690",
         "name": "Stadion Persib Sidolig",
         "role": "stop",
+        "isReal": true,
         "mode": "bus"
       }
     },
@@ -654,6 +473,7 @@
         "id": "12637510528",
         "name": "Stasiun Cikudapateuh",
         "role": "stop_exit_only",
+        "isReal": true,
         "mode": "bus"
       }
     }
