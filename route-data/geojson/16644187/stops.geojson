@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5811424,
+          -6.9144359
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5811_-6.9144",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5828928,
           -6.9149105
         ]
@@ -66,6 +83,40 @@
         "name": "Yayasan LPPN",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5871346,
+          -6.9161385
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5871_-6.9161",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5895623,
+          -6.9164063
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5896_-6.9164",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -108,13 +159,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.598583,
-          -6.9226401
+          107.59827767142858,
+          -6.918621900000001
         ]
       },
       "properties": {
-        "id": "virtual_107.5986_-6.9226",
-        "name": "Jalan Astana Anyar",
+        "id": "virtual_107.5983_-6.9186",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -125,13 +176,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6007351,
-          -6.9295707
+          107.59846878571429,
+          -6.921389057142857
         ]
       },
       "properties": {
-        "id": "virtual_107.6007_-6.9296",
-        "name": "Jalan Astana Anyar",
+        "id": "virtual_107.5985_-6.9214",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59892381428571,
+          -6.924151885714285
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5989_-6.9242",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60029074285714,
+          -6.927993385714285
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6003_-6.9280",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60075538571428,
+          -6.930037514285714
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6008_-6.9300",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59687947142857,
+          -6.931265657142857
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5969_-6.9313",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -168,6 +287,40 @@
         "name": "Rumah Sakit Immanuel A",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59711073333332,
+          -6.9376882
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5971_-6.9377",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59945733333333,
+          -6.937470766666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5995_-6.9375",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -251,6 +404,23 @@
       "properties": {
         "id": "virtual_107.6115_-6.9359",
         "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614706,
+          -6.93277105
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6147_-6.9328",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,6 +567,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6238233,
+          -6.9251111
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6238_-6.9251",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6268157,
           -6.924329
         ]
@@ -431,6 +618,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.62902983333333,
+          -6.9227911
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6290_-6.9228",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63070956666667,
+          -6.9210559
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6307_-6.9211",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6312506,
           -6.9184177
         ]
@@ -457,6 +678,23 @@
         "name": "Stadion Persib Sidolig",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62645775,
+          -6.91767435
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6265_-6.9177",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

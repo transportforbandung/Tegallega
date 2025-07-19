@@ -57,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6075532,
+          -6.9224801
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6076_-6.9225",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6071455,
           -6.9211653
         ]
@@ -108,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6065461,
+          -6.9155971
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9156",
+        "name": "Jalan Banceuy",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.604546,
           -6.9153572
         ]
@@ -117,6 +151,23 @@
         "name": "Stasiun Timur",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60708600000001,
+          -6.9144570000000005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6071_-6.9145",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -176,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5977774,
+          -6.9094546
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5978_-6.9095",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5976849,
           -6.9081059
         ]
@@ -185,6 +253,23 @@
         "name": "SDN 013 Pajajaran",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5965099,
+          -6.90653265
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5965_-6.9065",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -210,6 +295,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5921264,
+          -6.907141666666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5921_-6.9071",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59041073333334,
+          -6.907062566666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5904_-6.9071",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588209,
           -6.9068423
         ]
@@ -227,6 +346,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5866215,
+          -6.9071283
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5866_-6.9071",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5821405,
+          -6.9077081
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5821_-6.9077",
+        "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5791651,
           -6.907794
         ]
@@ -234,6 +387,40 @@
       "properties": {
         "id": "virtual_107.5792_-6.9078",
         "name": "Jalan Abdul Rahman Saleh",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5780214,
+          -6.9117553
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5780_-6.9118",
+        "name": "Jalan Garuda",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5733582,
+          -6.9109366
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5734_-6.9109",
+        "name": "Jalan Kasuari",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

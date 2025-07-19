@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6201882,
+          -6.8705599
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6202_-6.8706",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6198876,
           -6.8725481
         ]
@@ -49,6 +66,23 @@
         "name": "Seberang Poltekesos",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61869540000001,
+          -6.875466266666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6187_-6.8755",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -74,12 +108,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.61613862499999,
+          -6.880883525
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6161_-6.8809",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6147746,
           -6.88318575
         ]
       },
       "properties": {
         "id": "virtual_107.6148_-6.8832",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6140649,
+          -6.885295275000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6141_-6.8853",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -100,6 +168,23 @@
         "name": "Masjid Baiturrahman",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6162113,
+          -6.889728933333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6162_-6.8897",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -134,6 +219,23 @@
         "name": "UNPAD Dipatiukur",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.615903,
+          -6.894864
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6159_-6.8949",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -244,6 +346,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6107043,
+          -6.9047122
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6107_-6.9047",
+        "name": "Jalan Ir. H. Djuanda",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6106208,
           -6.9065902
         ]
@@ -270,6 +389,23 @@
         "name": "Bandung Indah Plaza",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6122595,
+          -6.9097764
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6123_-6.9098",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -312,6 +448,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6132116,
+          -6.9178221
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6132_-6.9178",
+        "name": "Jalan Sumatra",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6123364,
           -6.9189576
         ]
@@ -321,6 +474,40 @@
         "name": "Tamblong",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6120_-6.9217",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116853,
+          -6.9248556
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6117_-6.9249",
+        "name": "Jalan Lengkong Besar",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -372,6 +559,40 @@
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60989223333334,
+          -6.932286966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6099_-6.9323",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60547683333333,
+          -6.9313215
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9313",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

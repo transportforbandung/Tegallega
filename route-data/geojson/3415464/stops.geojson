@@ -74,6 +74,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.61179006666666,
+          -6.930737966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6118_-6.9307",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61451456666667,
+          -6.932398333333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6145_-6.9324",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6158192,
           -6.9311439
         ]
@@ -176,12 +210,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6244842,
+          -6.9318518
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6245_-6.9319",
+        "name": "Jalan Lodaya",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6258197,
           -6.9325851
         ]
       },
       "properties": {
         "id": "virtual_107.6258_-6.9326",
+        "name": "Jalan Raden Adipati Aria Martanegara",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6282092,
+          -6.9333101
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6282_-6.9333",
         "name": "Jalan Raden Adipati Aria Martanegara",
         "role": "virtual",
         "isReal": false,
@@ -210,6 +278,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6340607,
+          -6.9339893
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6341_-6.9340",
+        "name": "Jalan Turangga",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6348134,
           -6.9321597
         ]
@@ -219,6 +304,23 @@
         "name": "Seberang STIE Pasundan",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6353994,
+          -6.9298477
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6354_-6.9298",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -261,6 +363,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.64054915,
+          -6.93078835
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6405_-6.9308",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6439317,
           -6.9298097
         ]
@@ -268,6 +387,23 @@
       "properties": {
         "id": "virtual_107.6439_-6.9298",
         "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6444438,
+          -6.9269618
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6444_-6.9270",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,6 +533,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6340779,
+          -6.9129877
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6341_-6.9130",
+        "name": "Jalan Layang Ahmad Yani - Supratman",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6321776,
           -6.9101794
         ]
@@ -482,6 +635,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6329526,
+          -6.9030314
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6330_-6.9030",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6346604,
+          -6.9021409
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6347_-6.9021",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.634226,
           -6.9002535
         ]
@@ -491,6 +678,23 @@
         "name": "Seberang Griya Pahlawan",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63403505,
+          -6.8983766
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6340_-6.8984",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -567,6 +771,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6421976,
+          -6.8996594
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6422_-6.8997",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6439328,
           -6.9000256
         ]
@@ -576,6 +797,57 @@
         "name": "Sukapada",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64542695,
+          -6.9004686
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6454_-6.9005",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64718984999999,
+          -6.9013424
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6472_-6.9013",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64997142499999,
+          -6.90174955
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6500_-6.9017",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

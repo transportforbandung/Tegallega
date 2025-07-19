@@ -57,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5808999,
+          -6.8800589
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5809_-6.8801",
+        "name": "Jalan Terusan Profesor Dokter Sutami",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5814944,
           -6.8821984
         ]
@@ -74,6 +91,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5814407,
+          -6.885752350000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5814_-6.8858",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5814622,
           -6.8889233
         ]
@@ -81,6 +115,23 @@
       "properties": {
         "id": "virtual_107.5815_-6.8889",
         "name": "Jalan Surya Sumantri",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58147075,
+          -6.8911853
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5815_-6.8912",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -159,13 +210,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5931176,
-          -6.89783865
+          107.5901962,
+          -6.8960883
         ]
       },
       "properties": {
-        "id": "virtual_107.5931_-6.8978",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5902_-6.8961",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5921671,
+          -6.8971698
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5922_-6.8972",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5944451,
+          -6.8989736
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5944_-6.8990",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963399,
+          -6.9001472
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5963_-6.9001",
+        "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -295,6 +397,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60408495,
+          -6.91053895
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9105",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -321,6 +440,23 @@
         "name": "Haji Mesri",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980575,
+          -6.9134521
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5981_-6.9135",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

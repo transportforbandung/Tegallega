@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60203455,
+          -6.9320079
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6020_-6.9320",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.601334,
           -6.9306827
         ]
@@ -210,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60708600000001,
+          -6.9144570000000005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6071_-6.9145",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -253,6 +287,23 @@
         "name": "SMAN 6 Bandung",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5977774,
+          -6.9094546
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5978_-6.9095",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -397,6 +448,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60829203333334,
+          -6.9017783
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6083_-6.9018",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6093403,
           -6.8987437
         ]
@@ -448,6 +516,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6080235,
+          -6.8916304
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6080_-6.8916",
+        "name": "Jalan Taman Sari",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6080995,
           -6.8888308
         ]
@@ -491,6 +576,23 @@
         "name": "Sangkuriang",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117077,
+          -6.8828184
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6117_-6.8828",
+        "name": "Jalan Cisitu Lama",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

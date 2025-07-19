@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60343155000001,
+          -6.93093235
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6034_-6.9309",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.601334,
           -6.9306827
         ]
@@ -159,6 +176,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59821554999999,
+          -6.91734825
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5982_-6.9173",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5981241,
           -6.9155623
         ]
@@ -176,6 +210,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.598048,
+          -6.9133911
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5980_-6.9134",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5979188,
           -6.9114098
         ]
@@ -185,6 +236,23 @@
         "name": "SMAN 6 Bandung",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5977774,
+          -6.9094546
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5978_-6.9095",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -312,6 +380,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5970769,
+          -6.893622
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5971_-6.8936",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596952,
           -6.8913554
         ]
@@ -329,6 +414,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.596901,
+          -6.8897159
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5969_-6.8897",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5967776,
           -6.8878725
         ]
@@ -338,6 +440,23 @@
         "name": "Polsek Sukajadi",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59642185,
+          -6.8859897
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.8860",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

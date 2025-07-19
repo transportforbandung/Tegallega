@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.64419296666667,
+          -6.918090733333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6442_-6.9181",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6442909,
           -6.9196178
         ]
@@ -57,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6444992,
+          -6.9243614
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6445_-6.9244",
+        "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6444424,
           -6.9274017
         ]
@@ -74,6 +108,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.64426993333333,
+          -6.928887666666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6443_-6.9289",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64388196666667,
+          -6.930985533333334
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6439_-6.9310",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.642917,
           -6.9333993
         ]
@@ -83,6 +151,23 @@
         "name": "SDN 38 Kiaracondong",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.642604,
+          -6.9355201
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6426_-6.9355",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -117,6 +202,23 @@
         "name": "Den Jasa Ang",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6422079,
+          -6.9415102
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6422_-6.9415",
+        "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +295,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.64797635,
+          -6.9433506000000005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6480_-6.9434",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6505153,
           -6.9425403
         ]
@@ -219,6 +338,23 @@
         "name": "Cidurian Utara",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65494724999999,
+          -6.9411421
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6549_-6.9411",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -295,6 +431,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6659038,
+          -6.9388221
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6659_-6.9388",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6672726,
           -6.938728
         ]
@@ -312,12 +465,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6696795,
+          -6.9385517
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6697_-6.9386",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6725046,
           -6.9383493
         ]
       },
       "properties": {
         "id": "virtual_107.6725_-6.9383",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6744202,
+          -6.9382178
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6744_-6.9382",
         "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "isReal": false,
@@ -363,12 +550,80 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.68987005,
-          -6.9371065
+          107.68350054285715,
+          -6.937579371428572
         ]
       },
       "properties": {
-        "id": "virtual_107.6899_-6.9371",
+        "id": "virtual_107.6835_-6.9376",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.68605475714286,
+          -6.937393542857143
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6861_-6.9374",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.68852662857144,
+          -6.937208285714286
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6885_-6.9372",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6908917,
+          -6.937029228571428
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6909_-6.9370",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.69229224285715,
+          -6.936961628571429
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6923_-6.9370",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -397,12 +652,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7021352,
-          -6.9361992
+          107.69957002,
+          -6.93639562
         ]
       },
       "properties": {
-        "id": "virtual_107.7021_-6.9362",
+        "id": "virtual_107.6996_-6.9364",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.70143226,
+          -6.9362536
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.7014_-6.9363",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.70281143999999,
+          -6.93614962
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.7028_-6.9361",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.70468956,
+          -6.9360079
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.7047_-6.9360",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -448,13 +754,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.7149853,
-          -6.9396957
+          107.7124705,
+          -6.9359251
         ]
       },
       "properties": {
-        "id": "virtual_107.7150_-6.9397",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.7125_-6.9359",
+        "name": "Jalan Raya Panyileukan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7136482,
+          -6.9386251
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.7136_-6.9386",
+        "name": "Jalan Raya Bumi Panyileukan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7143446,
+          -6.9410757
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.7143_-6.9411",
+        "name": "Jalan Raya Bumi Panyileukan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7138976,
+          -6.944671
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.7139_-6.9447",
+        "name": "Jalan Raya Bumi Panyileukan",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

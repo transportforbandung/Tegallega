@@ -57,6 +57,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6076954,
+          -6.922547633333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6077_-6.9225",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117618,
+          -6.924058733333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6118_-6.9241",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -66,6 +100,40 @@
         "name": "Jalan Jati",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6138049,
+          -6.9275287
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6138_-6.9275",
+        "name": "Jalan Cikawao",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61707,
+          -6.9301863
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6171_-6.9302",
+        "name": "Jalan Sadakeling",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -125,6 +193,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6232995,
+          -6.933839833333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6233_-6.9338",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6251981,
           -6.9343038
         ]
@@ -151,6 +236,23 @@
         "name": "Hotel Horison A",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6235824,
+          -6.9362369
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6236_-6.9362",
+        "name": "Jalan Pelajar Pejuang 45",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -210,6 +312,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6318652,
+          -6.946449375
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6319_-6.9464",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6339239,
           -6.9484693
         ]
@@ -244,6 +363,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6377482,
+          -6.9523402
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6377_-6.9523",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6387006,
           -6.9534876
         ]
@@ -261,6 +397,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.639393,
+          -6.95627625
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6394_-6.9563",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6394982,
           -6.9584038
         ]
@@ -270,6 +423,40 @@
         "name": "Bluebird B",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6391199,
+          -6.9602867
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6391_-6.9603",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6386966,
+          -6.9619483
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6387_-6.9619",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

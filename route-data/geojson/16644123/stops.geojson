@@ -23,6 +23,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5871781,
+          -6.91341
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5872_-6.9134",
+        "name": "Jalan Layang Ciroyom",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5893783,
+          -6.9112937
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5894_-6.9113",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588219,
           -6.9067739
         ]
@@ -40,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59065595,
+          -6.907015100000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5907_-6.9070",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5925401,
           -6.9070991
         ]
@@ -49,6 +100,23 @@
         "name": "Pajajaran 1",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5955915,
+          -6.9066251
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5956_-6.9066",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -159,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5970769,
+          -6.893622
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5971_-6.8936",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.596952,
           -6.8913554
         ]
@@ -168,6 +253,23 @@
         "name": "Sukagalih PVJ",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596901,
+          -6.8897159
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5969_-6.8897",
+        "name": "Jalan Sukajadi",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +295,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59642185,
+          -6.8859897
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.8860",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5965088,
           -6.8836453
         ]
@@ -210,13 +329,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5942903,
-          -6.8792515
+          107.5962832,
+          -6.8787501
         ]
       },
       "properties": {
-        "id": "virtual_107.5943_-6.8793",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5963_-6.8788",
+        "name": "Jalan Sukajadi",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -227,13 +346,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5905586,
-          -6.873160433333333
+          107.5937671,
+          -6.8778795
         ]
       },
       "properties": {
-        "id": "virtual_107.5906_-6.8732",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5938_-6.8779",
+        "name": "Jalan Sindang Sirna",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5922854,
+          -6.8779914
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5923_-6.8780",
+        "name": "Jalan Sindang Sirna",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5909265,
+          -6.8741471
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5909_-6.8741",
+        "name": "Jalan Cipedes Atas",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5902147,
+          -6.872419
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5902_-6.8724",
+        "name": "Jalan Cipedes Atas",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590559,
+          -6.8703531
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5906_-6.8704",
+        "name": "Jalan Cipedes Atas",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -261,13 +448,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.58087545000001,
-          -6.87090205
+          107.5841634,
+          -6.8682206
         ]
       },
       "properties": {
-        "id": "virtual_107.5809_-6.8709",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5842_-6.8682",
+        "name": "Jalan Geger Kalong Hilir",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5825654,
+          -6.869724
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5826_-6.8697",
+        "name": "Jalan Sari Endah Baru",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581003,
+          -6.8702619
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5810_-6.8703",
+        "name": "Jalan Sarijadi Raya",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5804919,
+          -6.8728564
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5805_-6.8729",
+        "name": "Jalan Sarijadi Raya",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5800064,
+          -6.8747561
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5800_-6.8748",
+        "name": "Jalan Sarijadi Raya",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5777637,
+          -6.8773821
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5778_-6.8774",
+        "name": "Jalan Sarimanah",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

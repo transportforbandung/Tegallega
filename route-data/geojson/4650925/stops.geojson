@@ -23,12 +23,97 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.55864555,
-          -6.930403549999999
+          107.55174424285714,
+          -6.9280501
         ]
       },
       "properties": {
-        "id": "virtual_107.5586_-6.9304",
+        "id": "virtual_107.5517_-6.9281",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5554198,
+          -6.928317171428572
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5554_-6.9283",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.55771297142857,
+          -6.929666428571428
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5577_-6.9297",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5603347,
+          -6.9313696
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5603_-6.9314",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.56411667142858,
+          -6.932862157142858
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5641_-6.9329",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.56497314285714,
+          -6.930555242857142
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5650_-6.9306",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,13 +142,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5749282,
-          -6.9247449
+          107.56981585714286,
+          -6.9277444571428575
         ]
       },
       "properties": {
-        "id": "virtual_107.5749_-6.9247",
-        "name": "Jalan Holis",
+        "id": "virtual_107.5698_-6.9277",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57343261428572,
+          -6.927734500000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5734_-6.9277",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57479804285715,
+          -6.925589428571429
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5748_-6.9256",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57483491428572,
+          -6.923095314285715
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5748_-6.9231",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57430147142857,
+          -6.918172242857143
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5743_-6.9182",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -100,6 +253,23 @@
         "name": "Rajawali 1",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5811424,
+          -6.9144359
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5811_-6.9144",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

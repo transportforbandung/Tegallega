@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59065595,
+          -6.907015100000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5907_-6.9070",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5925401,
           -6.9070991
         ]
@@ -32,6 +49,40 @@
         "name": "Pajajaran 1",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59518353333334,
+          -6.906672033333334
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5952_-6.9067",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59733603333333,
+          -6.9063665
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5973_-6.9064",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -142,6 +193,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6077784,
+          -6.906285
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6078_-6.9063",
+        "name": "Jalan Wastukencana",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6093744,
           -6.9081456
         ]
@@ -176,13 +244,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6144635,
-          -6.9121644
+          107.611499425,
+          -6.909770825
         ]
       },
       "properties": {
-        "id": "virtual_107.6145_-6.9122",
-        "name": "Jalan Kalimantan",
+        "id": "virtual_107.6115_-6.9098",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -193,13 +261,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.618959,
-          -6.9151242
+          107.61342785,
+          -6.9102096
         ]
       },
       "properties": {
-        "id": "virtual_107.6190_-6.9151",
-        "name": "Jalan Gudang Utara",
+        "id": "virtual_107.6134_-6.9102",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61539300000001,
+          -6.9118341
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6154_-6.9118",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6177335,
+          -6.9114927
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6177_-6.9115",
+        "name": "Jalan Belitung",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618776825,
+          -6.912982325
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6188_-6.9130",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62110855,
+          -6.9156441
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6211_-6.9156",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624719575,
+          -6.91651755
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6247_-6.9165",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -312,6 +465,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.64310435,
+          -6.90883665
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6431_-6.9088",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6434825,
           -6.911388
         ]
@@ -329,6 +499,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6437754,
+          -6.9135366
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6438_-6.9135",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6455398,
           -6.9134024
         ]
@@ -338,6 +525,23 @@
         "name": "RSIA Grha Bunda",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6476334,
+          -6.91313795
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6476_-6.9131",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -397,13 +601,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6607151,
-          -6.9174748
+          107.6545673,
+          -6.91638004
         ]
       },
       "properties": {
-        "id": "virtual_107.6607_-6.9175",
-        "name": "Jalan Purwakarta",
+        "id": "virtual_107.6546_-6.9164",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65917282000001,
+          -6.91740182
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6592_-6.9174",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66157158,
+          -6.91725556
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6616_-6.9173",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66417064,
+          -6.91682598
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6642_-6.9168",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

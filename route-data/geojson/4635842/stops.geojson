@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.65224524999999,
+          -6.90187375
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6522_-6.9019",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6490533,
           -6.9016812
         ]
@@ -49,6 +66,40 @@
         "name": "Cimuncang",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64602016666666,
+          -6.900759866666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6460_-6.9008",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64406313333333,
+          -6.9000403
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6441_-6.9000",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -108,6 +159,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6389496,
+          -6.8988893
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6389_-6.8989",
+        "name": "Jalan PH. H. Mustofa",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6371799,
           -6.8984698
         ]
@@ -142,6 +210,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.63398445,
+          -6.89890325
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6340_-6.8989",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.634244,
           -6.9003045
         ]
@@ -151,6 +236,57 @@
         "name": "Griya Pahlawan",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63435372500001,
+          -6.90229885
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6344_-6.9023",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6327042,
+          -6.90324225
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6327_-6.9032",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63047655,
+          -6.9060950750000005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6305_-6.9061",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -227,6 +363,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.62285373333333,
+          -6.909623933333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6229_-6.9096",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6211485,
+          -6.909310466666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6211_-6.9093",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6195837,
           -6.9090101
         ]
@@ -253,6 +423,23 @@
         "name": "Stadion Siliwangi",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6168804,
+          -6.9115735
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6169_-6.9116",
+        "name": "Jalan Belitung",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -312,6 +499,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6132116,
+          -6.9178221
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6132_-6.9178",
+        "name": "Jalan Sumatra",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6123364,
           -6.9189576
         ]
@@ -321,6 +525,40 @@
         "name": "Tamblong",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6120_-6.9217",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116853,
+          -6.9248556
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6117_-6.9249",
+        "name": "Jalan Lengkong Besar",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -372,6 +610,40 @@
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60989223333334,
+          -6.932286966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6099_-6.9323",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60547683333333,
+          -6.9313215
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9313",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

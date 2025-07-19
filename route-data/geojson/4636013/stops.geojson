@@ -23,6 +23,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59484690000001,
+          -6.8611536
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5948_-6.8612",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59575023333333,
+          -6.863143666666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5958_-6.8631",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5939201,
           -6.8664168
         ]
@@ -74,6 +108,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59386073333333,
+          -6.871428
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.8714",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5962411,
           -6.8746244
         ]
@@ -91,12 +142,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5975398,
+          -6.8764616
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5975_-6.8765",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5981885,
           -6.8791416
         ]
       },
       "properties": {
         "id": "virtual_107.5982_-6.8791",
+        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5994716,
+          -6.8814891
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5995_-6.8815",
         "name": "Jalan Dokter Danudirja Setiabudhi",
         "role": "virtual",
         "isReal": false,
@@ -125,6 +210,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6040202,
+          -6.8839936
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6040_-6.8840",
+        "name": "Jalan Dokter Setiabudi",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6040408,
           -6.8869867
         ]
@@ -142,6 +244,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6040404,
+          -6.8887331
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6040_-6.8887",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60420135000001,
+          -6.8927239
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6042_-6.8927",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6039451,
           -6.8959031
         ]
@@ -151,6 +287,40 @@
         "name": "Cihampelas Eyckman",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60408435,
+          -6.898684299999999
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.8987",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604264,
+          -6.9008715
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6043_-6.9009",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +363,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6077784,
+          -6.906285
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6078_-6.9063",
+        "name": "Jalan Wastukencana",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6093744,
           -6.9081456
         ]
@@ -219,6 +406,23 @@
         "name": "Museum Kota Bandung",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6122595,
+          -6.9097764
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6123_-6.9098",
+        "name": "Jalan Aceh",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -261,6 +465,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6132116,
+          -6.9178221
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6132_-6.9178",
+        "name": "Jalan Sumatra",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6123364,
           -6.9189576
         ]
@@ -270,6 +491,40 @@
         "name": "Tamblong",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6120_-6.9217",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116853,
+          -6.9248556
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6117_-6.9249",
+        "name": "Jalan Lengkong Besar",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -321,6 +576,40 @@
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60989223333334,
+          -6.932286966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6099_-6.9323",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60547683333333,
+          -6.9313215
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9313",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

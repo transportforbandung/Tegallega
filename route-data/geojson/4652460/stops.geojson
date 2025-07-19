@@ -23,13 +23,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6004343,
-          -6.8842009
+          107.5983897,
+          -6.88380912
         ]
       },
       "properties": {
-        "id": "virtual_107.6004_-6.8842",
-        "name": "Jalan Cemara",
+        "id": "virtual_107.5984_-6.8838",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5999044,
+          -6.88416568
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5999_-6.8842",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60167136,
+          -6.884945940000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6017_-6.8849",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60246908,
+          -6.89026862
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6025_-6.8903",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -57,6 +108,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.600196,
+          -6.8962647666666665
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6002_-6.8963",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597992,
+          -6.896169866666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5980_-6.8962",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5973829,
           -6.8982378
         ]
@@ -74,6 +159,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5975127,
+          -6.9000574
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5975_-6.9001",
+        "name": "Jalan Pasir Kaliki",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5988968,
+          -6.9002096
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5989_-6.9002",
+        "name": "Jalan Pasteur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6027269,
           -6.9002045
         ]
@@ -83,6 +202,23 @@
         "name": "GKI Pasteur",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60432449999999,
+          -6.90253125
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6043_-6.9025",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -125,6 +261,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60755639999999,
+          -6.90758495
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6076_-6.9076",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6047535,
           -6.9071527
         ]
@@ -151,6 +304,40 @@
         "name": "Kimia Farma",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6040617,
+          -6.910893933333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9109",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60460646666667,
+          -6.914458833333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6046_-6.9145",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -244,6 +431,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6120118,
+          -6.9217387
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6120_-6.9217",
+        "name": "Jalan Tamblong",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116853,
+          -6.9248556
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6117_-6.9249",
+        "name": "Jalan Lengkong Besar",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -287,6 +508,40 @@
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60989223333334,
+          -6.932286966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6099_-6.9323",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60547683333333,
+          -6.9313215
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9313",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

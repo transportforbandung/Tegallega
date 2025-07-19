@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60708600000001,
+          -6.9144570000000005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6071_-6.9145",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -83,6 +100,23 @@
         "name": "SMAN 6 Bandung",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5977774,
+          -6.9094546
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5978_-6.9095",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.590315825,
+          -6.8962717
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5903_-6.8963",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5884432,
           -6.8950796
         ]
@@ -202,6 +253,40 @@
         "name": "Griya Pasteur 1",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58660423333333,
+          -6.893737933333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5866_-6.8937",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58479903333333,
+          -6.8926222
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5848_-6.8926",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -227,6 +312,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.58112440000001,
+          -6.892070833333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5811_-6.8921",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5814192,
+          -6.889089366666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5814_-6.8891",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5813607,
           -6.8859263
         ]
@@ -236,6 +355,23 @@
         "name": "Maranatha",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58105783333333,
+          -6.882431066666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5811_-6.8824",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

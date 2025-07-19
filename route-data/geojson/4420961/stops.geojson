@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.606909,
+          -6.9153005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6069_-6.9153",
+        "name": "Jalan Stasiun Timur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.607935,
           -6.9140241
         ]
@@ -108,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6065225,
+          -6.9072053
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9072",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6044125,
           -6.9064803
         ]
@@ -134,6 +168,40 @@
         "name": "Abdul Rivai",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60218573333334,
+          -6.904831533333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6022_-6.9048",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6009419,
+          -6.903750733333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6009_-6.9038",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +261,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.590315825,
+          -6.8962717
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5903_-6.8963",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5884432,
           -6.8950796
         ]
@@ -202,6 +287,40 @@
         "name": "Griya Pasteur 1",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58660423333333,
+          -6.893737933333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5866_-6.8937",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58479903333333,
+          -6.8926222
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5848_-6.8926",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -227,6 +346,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.580577,
+          -6.8923312
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5806_-6.8923",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5786575,
           -6.8914927
         ]
@@ -236,6 +372,40 @@
         "name": "SDN Sukaraja",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5759728,
+          -6.8911239
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5760_-6.8911",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5744352,
+          -6.8937597
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5744_-6.8938",
+        "name": "Jalan Sukaraja",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -287,6 +457,23 @@
         "name": "Mentor",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.56739590000001,
+          -6.889401100000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5674_-6.8894",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

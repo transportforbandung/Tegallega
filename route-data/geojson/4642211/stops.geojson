@@ -23,12 +23,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62818,
-          -6.89227055
+          107.629388325,
+          -6.89192655
         ]
       },
       "properties": {
-        "id": "virtual_107.6282_-6.8923",
+        "id": "virtual_107.6294_-6.8919",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.631697925,
+          -6.892226924999999
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6317_-6.8922",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.63458296666667,
+          -6.896721633333334
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6346_-6.8967",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.634244,
           -6.9003045
         ]
@@ -66,6 +100,40 @@
         "name": "Griya Pahlawan",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63382483333334,
+          -6.9025712
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6338_-6.9026",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63187243333333,
+          -6.904155766666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6319_-6.9042",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -142,6 +210,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.62081736666667,
+          -6.9068396666666665
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6208_-6.9068",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6184317,
           -6.9111664
         ]
@@ -151,6 +236,23 @@
         "name": "Stadion Siliwangi",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6168804,
+          -6.9115735
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6169_-6.9116",
+        "name": "Jalan Belitung",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -185,6 +287,23 @@
         "name": "Taman Lalu Lintas",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61243719999999,
+          -6.91005865
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6124_-6.9101",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -253,6 +372,23 @@
         "name": "Bank Indonesia",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6081984,
+          -6.9162248
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6082_-6.9162",
+        "name": "Jalan Suniaraja",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

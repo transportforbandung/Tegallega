@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.624719,
+          -6.922191433333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6247_-6.9222",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.623843,
           -6.9255559
         ]
@@ -57,13 +74,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6191727,
-          -6.9332024
+          107.62238754285714,
+          -6.931142657142858
         ]
       },
       "properties": {
-        "id": "virtual_107.6192_-6.9332",
-        "name": "Jalan Buah Batu",
+        "id": "virtual_107.6224_-6.9311",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -74,13 +91,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6140869,
-          -6.9334648
+          107.62045608571428,
+          -6.934387157142857
         ]
       },
       "properties": {
-        "id": "virtual_107.6141_-6.9335",
-        "name": "Jalan Mochammad Ramdhan",
+        "id": "virtual_107.6205_-6.9344",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61764932857143,
+          -6.931628214285714
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6176_-6.9316",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6152014,
+          -6.932232642857143
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6152_-6.9322",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61264541428572,
+          -6.934908657142857
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6126_-6.9349",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -125,6 +193,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60321326666667,
+          -6.9373502
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6032_-6.9374",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5999005,
           -6.9374746
         ]
@@ -134,6 +219,23 @@
         "name": "Muara",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5974107,
+          -6.93781845
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5974_-6.9378",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -159,12 +261,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59637405,
-          -6.93307405
+          107.59594638,
+          -6.934543000000001
         ]
       },
       "properties": {
-        "id": "virtual_107.5964_-6.9331",
+        "id": "virtual_107.5959_-6.9345",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59689274,
+          -6.93122866
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5969_-6.9312",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59811338,
+          -6.92716118
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5981_-6.9272",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -227,6 +363,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59677789999999,
+          -6.921225566666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5968_-6.9212",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59389623333333,
+          -6.920881366666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5939_-6.9209",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.591747,
           -6.9193345
         ]
@@ -236,6 +406,23 @@
         "name": "Mayapada Tower",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5888501,
+          -6.9189911
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5889_-6.9190",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -278,6 +465,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5840062,
+          -6.9184165
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5840_-6.9184",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5819763,
           -6.9181852
         ]
@@ -287,6 +491,23 @@
         "name": "SDN Raya Barat",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57905685,
+          -6.9178194
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5791_-6.9178",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -312,6 +533,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5747047,
+          -6.9173134
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5747_-6.9173",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5720549,
           -6.9155598
         ]
@@ -321,6 +559,23 @@
         "name": "Optik Krida",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5708773,
+          -6.9135594
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5709_-6.9136",
+        "name": "Jalan Jendral Sudirman",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -355,6 +610,40 @@
         "name": "Rajawali Barat",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57181813333334,
+          -6.911584666666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5718_-6.9116",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5736941,
+          -6.912318399999999
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5737_-6.9123",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

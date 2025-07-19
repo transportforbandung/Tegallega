@@ -23,13 +23,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040358,
-          -6.8813221
+          107.6039425,
+          -6.87761334
         ]
       },
       "properties": {
-        "id": "virtual_107.6040_-6.8813",
-        "name": "Jalan Ciumbuleuit",
+        "id": "virtual_107.6039_-6.8776",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60381665999999,
+          -6.88065532
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6038_-6.8807",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60435108,
+          -6.88215864
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6044_-6.8822",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60483599999999,
+          -6.88366862
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6048_-6.8837",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -57,6 +108,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6040404,
+          -6.8887331
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6040_-6.8887",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60420135000001,
+          -6.8927239
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6042_-6.8927",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6039451,
           -6.8959031
         ]
@@ -66,6 +151,40 @@
         "name": "Cihampelas Eyckman",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60417645,
+          -6.90009835
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6042_-6.9001",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6018744,
+          -6.9003583
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6019_-6.9004",
+        "name": "Jalan Pasteur",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +312,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60408495,
+          -6.91053895
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9105",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -219,6 +355,23 @@
         "name": "Haji Mesri",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980575,
+          -6.9134521
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5981_-6.9135",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

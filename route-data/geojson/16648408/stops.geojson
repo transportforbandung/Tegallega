@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5811424,
+          -6.9144359
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5811_-6.9144",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5828928,
           -6.9149105
         ]
@@ -66,6 +83,40 @@
         "name": "Yayasan LPPN",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5871346,
+          -6.9161385
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5871_-6.9161",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5895623,
+          -6.9164063
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5896_-6.9164",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -176,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6042559,
+          -6.9187767
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6043_-6.9188",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6040142,
           -6.9219758
         ]
@@ -210,6 +278,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6038504,
+          -6.9245193
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6039_-6.9245",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6036329,
           -6.9280445
         ]
@@ -236,6 +321,23 @@
         "name": "Jalan Ibu Inggit Garnasih",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055683,
+          -6.9303697
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9304",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

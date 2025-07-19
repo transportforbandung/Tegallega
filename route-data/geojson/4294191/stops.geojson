@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60343155000001,
+          -6.93093235
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6034_-6.9309",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.601334,
           -6.9306827
         ]
@@ -108,12 +125,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59384115,
-          -6.922715
+          107.59810896,
+          -6.92321908
         ]
       },
       "properties": {
-        "id": "virtual_107.5938_-6.9227",
+        "id": "virtual_107.5981_-6.9232",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59496834,
+          -6.92284266
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5950_-6.9228",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59175134,
+          -6.92249682
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5918_-6.9225",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58830394,
+          -6.92217184
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5883_-6.9222",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -134,6 +202,23 @@
         "name": "Unknown",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5836903,
+          -6.92191775
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5837_-6.9219",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -168,6 +253,23 @@
         "name": "Jalan Suryani",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57734085,
+          -6.92068795
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5773_-6.9207",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

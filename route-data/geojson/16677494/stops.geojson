@@ -23,13 +23,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5952184,
-          -6.9469031
+          107.59492557142858,
+          -6.948045457142857
         ]
       },
       "properties": {
-        "id": "virtual_107.5952_-6.9469",
-        "name": "Jalan Leuwi Panjang",
+        "id": "virtual_107.5949_-6.9480",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59527435714286,
+          -6.946129185714286
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5953_-6.9461",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -49,6 +66,40 @@
         "name": "Terminal Leuwipanjang",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59103803333333,
+          -6.9435297
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5910_-6.9435",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5921834,
+          -6.9416747999999995
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5922_-6.9417",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -108,6 +159,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59159075,
+          -6.9347525
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5916_-6.9348",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5905268,
           -6.933574
         ]
@@ -117,6 +185,23 @@
         "name": "Bumi Kopo Kencana",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5886347,
+          -6.9311348
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5886_-6.9311",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -142,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5885186,
+          -6.9308281
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5885_-6.9308",
+        "name": "Jalan Peta",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5956524,
           -6.9372267
         ]
@@ -151,6 +253,40 @@
         "name": "Rumah Sakit Immanuel A",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59711073333332,
+          -6.9376882
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5971_-6.9377",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59945733333333,
+          -6.937470766666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5995_-6.9375",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -202,6 +338,57 @@
         "name": "Taman Tegalega 3",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60647639999999,
+          -6.933989925
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6065_-6.9340",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60601159999999,
+          -6.93177035
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6060_-6.9318",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605580775,
+          -6.93017995
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9302",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

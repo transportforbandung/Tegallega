@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.61161223333333,
+          -6.8832582
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6116_-6.8833",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6127217,
           -6.8856909
         ]
@@ -57,6 +74,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60792833333333,
+          -6.884591033333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6079_-6.8846",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6053905,
+          -6.8833706
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6054_-6.8834",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6040408,
           -6.8869867
         ]
@@ -74,6 +125,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6040404,
+          -6.8887331
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6040_-6.8887",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60420135000001,
+          -6.8927239
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6042_-6.8927",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6039451,
           -6.8959031
         ]
@@ -83,6 +168,40 @@
         "name": "Cihampelas Eyckman",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60408435,
+          -6.898684299999999
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.8987",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604264,
+          -6.9008715
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6043_-6.9009",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -125,6 +244,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60755639999999,
+          -6.90758495
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6076_-6.9076",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6047535,
           -6.9071527
         ]
@@ -151,6 +287,23 @@
         "name": "Kimia Farma",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60408495,
+          -6.91053895
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9105",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -193,6 +346,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5980575,
+          -6.9134521
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5981_-6.9135",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5988546,
           -6.916282
         ]
@@ -227,6 +397,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6022556,
+          -6.9173444
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6023_-6.9173",
+        "name": "Jalan Dulatip",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6020569,
           -6.9205571
         ]
@@ -244,6 +431,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59844043333334,
+          -6.9211097666666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5984_-6.9211",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6005516,
+          -6.923442133333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6006_-6.9234",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6036329,
           -6.9280445
         ]
@@ -253,6 +474,23 @@
         "name": "Simpang Ijan",
         "role": "stop_exit_only",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6034743,
+          -6.9303412
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6035_-6.9303",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

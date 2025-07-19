@@ -40,6 +40,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6385997,
+          -6.961924
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6386_-6.9619",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6392259,
+          -6.9591283
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6392_-6.9591",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.639482,
           -6.9576866
         ]
@@ -49,6 +83,23 @@
         "name": "Bluebird A",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6392458,
+          -6.956081
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6392_-6.9561",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -74,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.63824635,
+          -6.95301745
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6382_-6.9530",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6364761,
           -6.9512022
         ]
@@ -91,6 +159,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.63492933333333,
+          -6.9496138
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6349_-6.9496",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63326616666666,
+          -6.947959666666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6333_-6.9480",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6318869,
           -6.9465686
         ]
@@ -100,6 +202,23 @@
         "name": "Guntursari Wetan",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6299147,
+          -6.9445213
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6299_-6.9445",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -159,12 +278,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62153905,
-          -6.935731499999999
+          107.62306718,
+          -6.93734156
         ]
       },
       "properties": {
-        "id": "virtual_107.6215_-6.9357",
+        "id": "virtual_107.6231_-6.9373",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61923721999999,
+          -6.93327288
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6192_-6.9333",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61745757999999,
+          -6.93151148
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6175_-6.9315",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -210,6 +363,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6138049,
+          -6.9275287
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6138_-6.9275",
+        "name": "Jalan Cikawao",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6129922,
           -6.9290293
         ]
@@ -236,6 +406,40 @@
         "name": "SDN 020 Lengkong Besar",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60989223333334,
+          -6.932286966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6099_-6.9323",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60547683333333,
+          -6.9313215
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6055_-6.9313",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

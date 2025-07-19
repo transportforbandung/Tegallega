@@ -23,12 +23,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.596621525,
+          -6.8809182
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5966_-6.8809",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5998936,
           -6.88201125
         ]
       },
       "properties": {
         "id": "virtual_107.5999_-6.8820",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601093075,
+          -6.88490975
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6011_-6.8849",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,6 +91,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5998262,
+          -6.890232366666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5998_-6.8902",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5989838,
           -6.8941794
         ]
@@ -74,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.59873235,
+          -6.896038000000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5987_-6.8960",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5973829,
           -6.8982378
         ]
@@ -83,6 +151,23 @@
         "name": "Paskal RSHS",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60106505,
+          -6.900271099999999
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6011_-6.9003",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -210,6 +295,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.60408495,
+          -6.91053895
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6041_-6.9105",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6029303,
           -6.9125954
         ]
@@ -236,6 +338,23 @@
         "name": "Haji Mesri",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980575,
+          -6.9134521
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5981_-6.9135",
+        "name": "Jalan HOS. Cokroaminoto",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -278,6 +397,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6022556,
+          -6.9173444
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6023_-6.9173",
+        "name": "Jalan Dulatip",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6020569,
           -6.9205571
         ]
@@ -287,6 +423,40 @@
         "name": "KEB Hana Bank",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5984649,
+          -6.921348333333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5985_-6.9213",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59943923333334,
+          -6.925579566666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5994_-6.9256",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -321,6 +491,23 @@
         "name": "Jalan Ibu Inggit Garnasih",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055683,
+          -6.9303697
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9304",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

@@ -40,12 +40,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59870765,
-          -6.9002081
+          107.5979368,
+          -6.89621976
         ]
       },
       "properties": {
-        "id": "virtual_107.5987_-6.9002",
+        "id": "virtual_107.5979_-6.8962",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59750197999999,
+          -6.9000446
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5975_-6.9000",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60103620000001,
+          -6.90035656
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6010_-6.9004",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59750474,
+          -6.900555
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5975_-6.9006",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -66,6 +117,23 @@
         "name": "Depan Istana Plaza",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59671855,
+          -6.9065054
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5967_-6.9065",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -108,6 +176,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5906383,
+          -6.9070791
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5906_-6.9071",
+        "name": "Jalan Pajajaran",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.588209,
           -6.9068423
         ]
@@ -125,13 +210,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5798772,
-          -6.9073964
+          107.58631487142857,
+          -6.907181042857142
         ]
       },
       "properties": {
-        "id": "virtual_107.5799_-6.9074",
-        "name": "Jalan Abdul Rahman Saleh",
+        "id": "virtual_107.5863_-6.9072",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -142,13 +227,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5768707,
-          -6.91682
+          107.58084544285714,
+          -6.907601942857142
         ]
       },
       "properties": {
-        "id": "virtual_107.5769_-6.9168",
-        "name": "Jalan Garuda",
+        "id": "virtual_107.5808_-6.9076",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5791724,
+          -6.907949057142857
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5792_-6.9079",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57785798571429,
+          -6.912553328571429
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5779_-6.9126",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5763611142857,
+          -6.917525785714286
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5764_-6.9175",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57420488571428,
+          -6.917300600000001
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5742_-6.9173",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -176,12 +329,80 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.5708764,
+          -6.9169174
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5709_-6.9169",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.570031,
+          -6.9197761
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5700_-6.9198",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.56881645,
           -6.9217823
         ]
       },
       "properties": {
         "id": "virtual_107.5688_-6.9218",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5676737,
+          -6.9242925
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5677_-6.9243",
+        "name": "Jalan Raya Cijerah",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.56603195,
+          -6.92595775
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5660_-6.9260",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -202,6 +423,23 @@
         "name": "Cijerah",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5639271,
+          -6.9257207
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5639_-6.9257",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

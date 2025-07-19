@@ -23,12 +23,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60591819999999,
-          -6.866872600000001
+          107.60614905999999,
+          -6.865887
         ]
       },
       "properties": {
-        "id": "virtual_107.6059_-6.8669",
+        "id": "virtual_107.6061_-6.8659",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60589021999999,
+          -6.86864682
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6059_-6.8686",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60503272,
+          -6.8727098799999995
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6050_-6.8727",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,13 +91,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040358,
-          -6.8813221
+          107.6039425,
+          -6.87761334
         ]
       },
       "properties": {
-        "id": "virtual_107.6040_-6.8813",
-        "name": "Jalan Ciumbuleuit",
+        "id": "virtual_107.6039_-6.8776",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60381665999999,
+          -6.88065532
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6038_-6.8807",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60435108,
+          -6.88215864
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6044_-6.8822",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60483599999999,
+          -6.88366862
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6048_-6.8837",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -91,6 +176,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6040387,
+          -6.8887215
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6040_-6.8887",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6038612,
           -6.8916075
         ]
@@ -100,6 +202,40 @@
         "name": "RS Advent",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6018009,
+          -6.8913648
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6018_-6.8914",
+        "name": "Jalan Sampurna",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5991519,
+          -6.8925236
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5992_-6.8925",
+        "name": "Jalan Sederhana",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

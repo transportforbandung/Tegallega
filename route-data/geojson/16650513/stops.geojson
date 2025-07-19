@@ -57,6 +57,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6076954,
+          -6.922547633333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6077_-6.9225",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117618,
+          -6.924058733333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6118_-6.9241",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6125973,
           -6.9262285
         ]
@@ -74,6 +108,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6158546,
+          -6.9284142
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6159_-6.9284",
+        "name": "Jalan Cikawao",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6194635,
+          -6.9275323
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6195_-6.9275",
+        "name": "Jalan Burangrang",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6199018,
           -6.9234243
         ]
@@ -83,6 +151,23 @@
         "name": "Sekolah BPI",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6236716,
+          -6.923571533333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6237_-6.9236",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -125,6 +210,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.63493335,
+          -6.927017675
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6349_-6.9270",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6367954,
           -6.9280668
         ]
@@ -142,6 +244,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.64054915,
+          -6.93078835
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6405_-6.9308",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6439317,
           -6.9298097
         ]
@@ -149,6 +268,23 @@
       "properties": {
         "id": "virtual_107.6439_-6.9298",
         "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6444438,
+          -6.9269618
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6444_-6.9270",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -278,6 +414,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.63444025,
+          -6.91349065
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6344_-6.9135",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.637255,
           -6.9119025
         ]
@@ -304,6 +457,23 @@
         "name": "Awi Bitung",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64310435,
+          -6.90883665
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6431_-6.9088",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
