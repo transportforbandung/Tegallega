@@ -516,13 +516,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6080235,
-          -6.8916304
+          107.60805613333333,
+          -6.8903052
         ]
       },
       "properties": {
-        "id": "virtual_107.6080_-6.8916",
-        "name": "Jalan Taman Sari",
+        "id": "virtual_107.6081_-6.8903",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -584,13 +584,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6117077,
-          -6.8828184
+          107.6112809,
+          -6.8829312
         ]
       },
       "properties": {
-        "id": "virtual_107.6117_-6.8828",
-        "name": "Jalan Cisitu Lama",
+        "id": "virtual_107.6113_-6.8829",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61182406666667,
+          -6.881326966666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6118_-6.8813",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

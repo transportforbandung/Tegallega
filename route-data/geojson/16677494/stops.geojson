@@ -23,12 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59492557142858,
-          -6.948045457142857
+          107.59500245,
+          -6.94800025
         ]
       },
       "properties": {
-        "id": "virtual_107.5949_-6.9480",
+        "id": "virtual_107.5950_-6.9480",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -40,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59527435714286,
-          -6.946129185714286
+          107.59529045,
+          -6.9459357
         ]
       },
       "properties": {
-        "id": "virtual_107.5953_-6.9461",
+        "id": "virtual_107.5953_-6.9459",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -227,12 +227,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5885186,
-          -6.9308281
+          107.5880867,
+          -6.9302251
         ]
       },
       "properties": {
-        "id": "virtual_107.5885_-6.9308",
+        "id": "virtual_107.5881_-6.9302",
         "name": "Jalan Peta",
         "role": "virtual",
         "isReal": false,

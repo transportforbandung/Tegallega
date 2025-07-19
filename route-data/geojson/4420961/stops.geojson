@@ -244,13 +244,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5928001,
-          -6.897744899999999
+          107.5945616,
+          -6.8994829
         ]
       },
       "properties": {
-        "id": "virtual_107.5928_-6.8977",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5946_-6.8995",
+        "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -261,13 +261,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.590315825,
-          -6.8962717
+          107.591886,
+          -6.8971203
         ]
       },
       "properties": {
-        "id": "virtual_107.5903_-6.8963",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5919_-6.8971",
+        "name": "Jalan Dr. Djunjunan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5896528,
+          -6.8959191
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5897_-6.8959",
+        "name": "Jalan Dr. Djunjunan",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -346,12 +363,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.580577,
-          -6.8923312
+          107.5809344,
+          -6.8924376
         ]
       },
       "properties": {
-        "id": "virtual_107.5806_-6.8923",
+        "id": "virtual_107.5809_-6.8924",
         "name": "Jalan Sukaraja",
         "role": "virtual",
         "isReal": false,

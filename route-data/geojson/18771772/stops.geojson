@@ -23,12 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62309362,
-          -6.95932134
+          107.6228782,
+          -6.9582233
         ]
       },
       "properties": {
-        "id": "virtual_107.6231_-6.9593",
+        "id": "virtual_107.6229_-6.9582",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -40,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62241827999999,
-          -6.95561172
+          107.62242,
+          -6.9551305
         ]
       },
       "properties": {
-        "id": "virtual_107.6224_-6.9556",
+        "id": "virtual_107.6224_-6.9551",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,12 +57,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62161474,
-          -6.95108004
+          107.6215962,
+          -6.9523569
         ]
       },
       "properties": {
-        "id": "virtual_107.6216_-6.9511",
+        "id": "virtual_107.6216_-6.9524",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -74,13 +74,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62598818,
-          -6.94954786
+          107.6257226,
+          -6.9494585
         ]
       },
       "properties": {
-        "id": "virtual_107.6260_-6.9495",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6257_-6.9495",
+        "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

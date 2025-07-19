@@ -108,12 +108,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61613862499999,
-          -6.880883525
+          107.61638126,
+          -6.87995534
         ]
       },
       "properties": {
-        "id": "virtual_107.6161_-6.8809",
+        "id": "virtual_107.6164_-6.8800",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -125,12 +125,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6147746,
-          -6.88318575
+          107.61566932000001,
+          -6.88206586
         ]
       },
       "properties": {
-        "id": "virtual_107.6148_-6.8832",
+        "id": "virtual_107.6157_-6.8821",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -142,12 +142,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6140649,
-          -6.885295275000001
+          107.61396334,
+          -6.8845355999999995
         ]
       },
       "properties": {
-        "id": "virtual_107.6141_-6.8853",
+        "id": "virtual_107.6140_-6.8845",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -227,13 +227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.615903,
-          -6.894864
+          107.6149218,
+          -6.8948399
         ]
       },
       "properties": {
-        "id": "virtual_107.6159_-6.8949",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6149_-6.8948",
+        "name": "Jalan Hasanudin",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,13 +397,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6122595,
-          -6.9097764
+          107.61308113333334,
+          -6.9100329333333335
         ]
       },
       "properties": {
-        "id": "virtual_107.6123_-6.9098",
-        "name": "Jalan Aceh",
+        "id": "virtual_107.6131_-6.9100",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -448,13 +448,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6132116,
-          -6.9178221
+          107.6135396,
+          -6.9173301333333335
         ]
       },
       "properties": {
-        "id": "virtual_107.6132_-6.9178",
-        "name": "Jalan Sumatra",
+        "id": "virtual_107.6135_-6.9173",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -482,13 +482,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6120118,
-          -6.9217387
+          107.612108475,
+          -6.92095475
         ]
       },
       "properties": {
-        "id": "virtual_107.6120_-6.9217",
-        "name": "Jalan Tamblong",
+        "id": "virtual_107.6121_-6.9210",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -499,13 +499,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6116853,
-          -6.9248556
+          107.61183754999999,
+          -6.9232493999999996
         ]
       },
       "properties": {
-        "id": "virtual_107.6117_-6.9249",
-        "name": "Jalan Lengkong Besar",
+        "id": "virtual_107.6118_-6.9232",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117207,
+          -6.925047675
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6117_-6.9250",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -567,13 +584,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60989223333334,
-          -6.932286966666666
+          107.6113455,
+          -6.9324444
         ]
       },
       "properties": {
-        "id": "virtual_107.6099_-6.9323",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6113_-6.9324",
+        "name": "Jalan Ibu Inggit Ganarsih",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -584,13 +601,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60547683333333,
-          -6.9313215
+          107.6071921,
+          -6.9319271
         ]
       },
       "properties": {
-        "id": "virtual_107.6055_-6.9313",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6072_-6.9319",
+        "name": "Jalan Ibu Inggit Ganarsih",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605557,
+          -6.9305299
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9305",
+        "name": "Jalan Dewi Sartika",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

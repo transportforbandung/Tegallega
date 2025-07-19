@@ -74,12 +74,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.68863454,
-          -6.9374358
+          107.6897021,
+          -6.937360066666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6886_-6.9374",
+        "id": "virtual_107.6897_-6.9374",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -91,12 +91,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6858581,
-          -6.93764194
+          107.6871235,
+          -6.937537
         ]
       },
       "properties": {
-        "id": "virtual_107.6859_-6.9376",
+        "id": "virtual_107.6871_-6.9375",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.68492703333334,
+          -6.937711833333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6849_-6.9377",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -108,12 +125,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.68328732,
-          -6.93782362
+          107.6821254,
+          -6.9379024
         ]
       },
       "properties": {
-        "id": "virtual_107.6833_-6.9378",
+        "id": "virtual_107.6821_-6.9379",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -754,12 +771,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6237945,
-          -6.9251162
+          107.6237276,
+          -6.925169
         ]
       },
       "properties": {
-        "id": "virtual_107.6238_-6.9251",
+        "id": "virtual_107.6237_-6.9252",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -771,12 +788,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.624678,
-          -6.9223936
+          107.6242404,
+          -6.9237756
         ]
       },
       "properties": {
-        "id": "virtual_107.6247_-6.9224",
+        "id": "virtual_107.6242_-6.9238",
+        "name": "Jalan Malabar",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6247519,
+          -6.9219702
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6248_-6.9220",
         "name": "Jalan Malabar",
         "role": "virtual",
         "isReal": false,
@@ -848,6 +882,23 @@
         "name": "Ketapang",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61772465,
+          -6.922114499999999
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6177_-6.9221",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

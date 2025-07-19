@@ -431,13 +431,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5977466,
-          -6.896398633333334
+          107.5984316,
+          -6.8951102
         ]
       },
       "properties": {
-        "id": "virtual_107.5977_-6.8964",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5984_-6.8951",
+        "name": "Jalan Sederhana",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -448,13 +448,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.598921,
-          -6.893417366666667
+          107.5990518,
+          -6.8929922
         ]
       },
       "properties": {
-        "id": "virtual_107.5989_-6.8934",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5991_-6.8930",
+        "name": "Jalan Sederhana",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -482,13 +482,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5982945,
-          -6.8892233
+          107.59882920000001,
+          -6.88958765
         ]
       },
       "properties": {
-        "id": "virtual_107.5983_-6.8892",
-        "name": "Jalan Sukamaju",
+        "id": "virtual_107.5988_-6.8896",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -499,13 +499,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5967016,
-          -6.8867916
+          107.5969067,
+          -6.88784845
         ]
       },
       "properties": {
-        "id": "virtual_107.5967_-6.8868",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5969_-6.8878",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5964082,
+          -6.885914975
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.8859",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

@@ -125,6 +125,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6157093,
+          -6.9194533
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6157_-6.9195",
+        "name": "Jalan Veteran",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6179265,
           -6.9194254
         ]
@@ -159,13 +176,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6184073,
-          -6.9156491
+          107.61824986666667,
+          -6.9164802666666665
         ]
       },
       "properties": {
-        "id": "virtual_107.6184_-6.9156",
-        "name": "Jalan Sumbawa",
+        "id": "virtual_107.6182_-6.9165",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -210,12 +227,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62065292,
-          -6.9069116
+          107.61988488333333,
+          -6.907265266666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6207_-6.9069",
+        "id": "virtual_107.6199_-6.9073",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -227,12 +244,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62131296,
-          -6.905098
+          107.62126466666666,
+          -6.905663833333334
         ]
       },
       "properties": {
-        "id": "virtual_107.6213_-6.9051",
+        "id": "virtual_107.6213_-6.9057",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -244,12 +261,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62501494,
-          -6.90138844
+          107.6224157,
+          -6.904507133333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6250_-6.9014",
+        "id": "virtual_107.6224_-6.9045",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62529138333333,
+          -6.901036366666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6253_-6.9010",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -312,12 +346,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6329526,
-          -6.9030314
+          107.6321582,
+          -6.903793
         ]
       },
       "properties": {
-        "id": "virtual_107.6330_-6.9030",
+        "id": "virtual_107.6322_-6.9038",
         "name": "Jalan Brigjend. Katamso",
         "role": "virtual",
         "isReal": false,
@@ -329,12 +363,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6346604,
-          -6.9021409
+          107.6334718,
+          -6.902753
         ]
       },
       "properties": {
-        "id": "virtual_107.6347_-6.9021",
+        "id": "virtual_107.6335_-6.9028",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6350549,
+          -6.9019378
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6351_-6.9019",
         "name": "Jalan Brigjend. Katamso",
         "role": "virtual",
         "isReal": false,
@@ -363,12 +414,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6342002,
-          -6.89720774
+          107.63416988333334,
+          -6.897756283333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6342_-6.8972",
+        "id": "virtual_107.6342_-6.8978",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -380,12 +431,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.63522358,
-          -6.8926102
+          107.63499796666666,
+          -6.8940043
         ]
       },
       "properties": {
-        "id": "virtual_107.6352_-6.8926",
+        "id": "virtual_107.6350_-6.8940",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -397,12 +448,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6297925,
-          -6.891933219999999
+          107.6324361,
+          -6.8922285500000005
         ]
       },
       "properties": {
-        "id": "virtual_107.6298_-6.8919",
+        "id": "virtual_107.6324_-6.8922",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -414,12 +465,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62770244,
-          -6.89227014
+          107.6290078,
+          -6.891960066666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6277_-6.8923",
+        "id": "virtual_107.6290_-6.8920",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62747105,
+          -6.892189883333334
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6275_-6.8922",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,

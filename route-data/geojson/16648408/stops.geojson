@@ -40,12 +40,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5811424,
-          -6.9144359
+          107.57975,
+          -6.9141241
         ]
       },
       "properties": {
-        "id": "virtual_107.5811_-6.9144",
+        "id": "virtual_107.5798_-6.9141",
+        "name": "Jalan Rajawali Timur",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5813503,
+          -6.9144835
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5814_-6.9145",
         "name": "Jalan Rajawali Timur",
         "role": "virtual",
         "isReal": false,
@@ -134,6 +151,23 @@
         "name": "SMA Trinitas",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59315386666667,
+          -6.916511266666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5932_-6.9165",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },
@@ -278,13 +312,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6038504,
-          -6.9245193
+          107.60378223333333,
+          -6.925579933333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6039_-6.9245",
-        "name": "Jalan Otto Iskandardinata",
+        "id": "virtual_107.6038_-6.9256",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

@@ -74,12 +74,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61179006666666,
-          -6.930737966666666
+          107.6111474,
+          -6.9301081
         ]
       },
       "properties": {
-        "id": "virtual_107.6118_-6.9307",
+        "id": "virtual_107.6111_-6.9301",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -91,13 +91,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61451456666667,
-          -6.932398333333333
+          107.6131833,
+          -6.9319686
         ]
       },
       "properties": {
-        "id": "virtual_107.6145_-6.9324",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6132_-6.9320",
+        "name": "Jalan Pungkur",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -635,13 +635,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5970769,
-          -6.893622
+          107.59712816666666,
+          -6.894386366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.5971_-6.8936",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5971_-6.8944",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -873,12 +873,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59618315,
-          -6.8621896
+          107.59581736666667,
+          -6.863087533333333
         ]
       },
       "properties": {
-        "id": "virtual_107.5962_-6.8622",
+        "id": "virtual_107.5958_-6.8631",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595062,
+          -6.8613992
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5951_-6.8614",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,

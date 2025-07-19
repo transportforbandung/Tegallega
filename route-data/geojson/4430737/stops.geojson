@@ -23,12 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60614905999999,
-          -6.865887
+          107.60551405000001,
+          -6.864904016666666
         ]
       },
       "properties": {
-        "id": "virtual_107.6061_-6.8659",
+        "id": "virtual_107.6055_-6.8649",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -40,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60589021999999,
-          -6.86864682
+          107.60591819999999,
+          -6.866872600000001
         ]
       },
       "properties": {
-        "id": "virtual_107.6059_-6.8686",
+        "id": "virtual_107.6059_-6.8669",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,12 +57,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60503272,
-          -6.8727098799999995
+          107.60555643333333,
+          -6.870317033333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6050_-6.8727",
+        "id": "virtual_107.6056_-6.8703",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60497798333334,
+          -6.872928833333334
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6050_-6.8729",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -91,12 +108,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6039425,
-          -6.87761334
+          107.60401726666666,
+          -6.877296633333334
         ]
       },
       "properties": {
-        "id": "virtual_107.6039_-6.8776",
+        "id": "virtual_107.6040_-6.8773",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -108,12 +125,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60381665999999,
-          -6.88065532
+          107.6035366,
+          -6.879783033333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6038_-6.8807",
+        "id": "virtual_107.6035_-6.8798",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -125,12 +142,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60435108,
-          -6.88215864
+          107.6040358,
+          -6.8813221
         ]
       },
       "properties": {
-        "id": "virtual_107.6044_-6.8822",
+        "id": "virtual_107.6040_-6.8813",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60468326666667,
+          -6.882776866666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6047_-6.8828",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -142,12 +176,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60483599999999,
-          -6.88366862
+          107.60466806666666,
+          -6.8843885333333334
         ]
       },
       "properties": {
-        "id": "virtual_107.6048_-6.8837",
+        "id": "virtual_107.6047_-6.8844",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -176,12 +210,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6040387,
-          -6.8887215
+          107.6040179,
+          -6.8885512
         ]
       },
       "properties": {
-        "id": "virtual_107.6040_-6.8887",
+        "id": "virtual_107.6040_-6.8886",
+        "name": "Jalan Cihampelas",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6041992,
+          -6.8900884
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6042_-6.8901",
         "name": "Jalan Cihampelas",
         "role": "virtual",
         "isReal": false,

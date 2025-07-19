@@ -23,13 +23,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5871781,
-          -6.91341
+          107.586606,
+          -6.9130812
         ]
       },
       "properties": {
-        "id": "virtual_107.5872_-6.9134",
-        "name": "Jalan Layang Ciroyom",
+        "id": "virtual_107.5866_-6.9131",
+        "name": "Jalan Ciroyom",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -40,13 +40,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5893783,
-          -6.9112937
+          107.5885406,
+          -6.9088993
         ]
       },
       "properties": {
-        "id": "virtual_107.5894_-6.9113",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5885_-6.9089",
+        "name": "Jalan Aruna",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -227,13 +227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5970769,
-          -6.893622
+          107.59712816666666,
+          -6.894386366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.5971_-6.8936",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5971_-6.8944",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -329,13 +329,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5962832,
-          -6.8787501
+          107.59636157777777,
+          -6.8801595777777775
         ]
       },
       "properties": {
-        "id": "virtual_107.5963_-6.8788",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5964_-6.8802",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -346,13 +346,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5937671,
-          -6.8778795
+          107.59477004444445,
+          -6.877198922222223
         ]
       },
       "properties": {
-        "id": "virtual_107.5938_-6.8779",
-        "name": "Jalan Sindang Sirna",
+        "id": "virtual_107.5948_-6.8772",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -363,13 +363,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5922854,
-          -6.8779914
+          107.5942903,
+          -6.8792515
         ]
       },
       "properties": {
-        "id": "virtual_107.5923_-6.8780",
-        "name": "Jalan Sindang Sirna",
+        "id": "virtual_107.5943_-6.8793",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -380,13 +380,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5909265,
-          -6.8741471
+          107.59168392222222,
+          -6.877916755555556
         ]
       },
       "properties": {
-        "id": "virtual_107.5909_-6.8741",
-        "name": "Jalan Cipedes Atas",
+        "id": "virtual_107.5917_-6.8779",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,13 +397,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5902147,
-          -6.872419
+          107.59096857777779,
+          -6.874211
         ]
       },
       "properties": {
-        "id": "virtual_107.5902_-6.8724",
-        "name": "Jalan Cipedes Atas",
+        "id": "virtual_107.5910_-6.8742",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -414,13 +414,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.590559,
-          -6.8703531
+          107.59049621111112,
+          -6.8712894222222225
         ]
       },
       "properties": {
-        "id": "virtual_107.5906_-6.8704",
-        "name": "Jalan Cipedes Atas",
+        "id": "virtual_107.5905_-6.8713",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59031755555556,
+          -6.869916322222222
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5903_-6.8699",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -448,13 +465,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5841634,
-          -6.8682206
+          107.58279455,
+          -6.868860325
         ]
       },
       "properties": {
-        "id": "virtual_107.5842_-6.8682",
-        "name": "Jalan Geger Kalong Hilir",
+        "id": "virtual_107.5828_-6.8689",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -465,13 +482,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5825654,
-          -6.869724
+          107.5813802625,
+          -6.8698503375
         ]
       },
       "properties": {
-        "id": "virtual_107.5826_-6.8697",
-        "name": "Jalan Sari Endah Baru",
+        "id": "virtual_107.5814_-6.8699",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -482,13 +499,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.581003,
-          -6.8702619
+          107.5802755625,
+          -6.8738636875
         ]
       },
       "properties": {
-        "id": "virtual_107.5810_-6.8703",
-        "name": "Jalan Sarijadi Raya",
+        "id": "virtual_107.5803_-6.8739",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -499,13 +516,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5804919,
-          -6.8728564
+          107.579786125,
+          -6.87524355
         ]
       },
       "properties": {
-        "id": "virtual_107.5805_-6.8729",
-        "name": "Jalan Sarijadi Raya",
+        "id": "virtual_107.5798_-6.8752",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -516,30 +533,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5800064,
-          -6.8747561
+          107.577426,
+          -6.8781174625
         ]
       },
       "properties": {
-        "id": "virtual_107.5800_-6.8748",
-        "name": "Jalan Sarijadi Raya",
-        "role": "virtual",
-        "isReal": false,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5777637,
-          -6.8773821
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.5778_-6.8774",
-        "name": "Jalan Sarimanah",
+        "id": "virtual_107.5774_-6.8781",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

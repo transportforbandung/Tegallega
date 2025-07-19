@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.57734085,
+          -6.92068795
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5773_-6.9207",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.5769466,
           -6.9223077
         ]
@@ -91,12 +108,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5836903,
-          -6.92191775
+          107.5832324,
+          -6.922125266666667
         ]
       },
       "properties": {
-        "id": "virtual_107.5837_-6.9219",
+        "id": "virtual_107.5832_-6.9221",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -125,29 +142,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5886836,
-          -6.922211
+          107.5880351,
+          -6.9221426
         ]
       },
       "properties": {
-        "id": "virtual_107.5887_-6.9222",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "isReal": false,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5927501,
-          -6.922594
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.5928_-6.9226",
+        "id": "virtual_107.5880_-6.9221",
         "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "isReal": false,
@@ -159,13 +159,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59591449999999,
-          -6.9229480500000005
+          107.5911917,
+          -6.9224429
         ]
       },
       "properties": {
-        "id": "virtual_107.5959_-6.9229",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5912_-6.9224",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5939519,
+          -6.922727
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5940_-6.9227",
+        "name": "Jalan Pagarsih Barat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5967869,
+          -6.9230414
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5968_-6.9230",
+        "name": "Jalan Pagarsih Barat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -193,13 +227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6026014,
-          -6.92368365
+          107.6019153,
+          -6.9235975
         ]
       },
       "properties": {
-        "id": "virtual_107.6026_-6.9237",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6019_-6.9236",
+        "name": "Jalan Kalipah Apo",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -210,12 +244,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6035279,
-          -6.9295503
+          107.6037807,
+          -6.9256072
         ]
       },
       "properties": {
-        "id": "virtual_107.6035_-6.9296",
+        "id": "virtual_107.6038_-6.9256",
         "name": "Jalan Otto Iskandardinata",
         "role": "virtual",
         "isReal": false,
@@ -227,13 +261,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6055104,
-          -6.9310481
+          107.6034661,
+          -6.9304369
         ]
       },
       "properties": {
-        "id": "virtual_107.6055_-6.9310",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6035_-6.9304",
+        "name": "Jalan Otto Iskandardinata",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605557,
+          -6.9305299
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.9305",
+        "name": "Jalan Dewi Sartika",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

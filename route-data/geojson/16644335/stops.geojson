@@ -23,13 +23,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.624719,
-          -6.922191433333333
+          107.6247519,
+          -6.921899
         ]
       },
       "properties": {
-        "id": "virtual_107.6247_-6.9222",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6248_-6.9219",
+        "name": "Jalan Malabar",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6243769,
+          -6.9235522
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6244_-6.9236",
+        "name": "Jalan Malabar",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -74,12 +91,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62238754285714,
-          -6.931142657142858
+          107.62256706666666,
+          -6.930495466666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6224_-6.9311",
+        "id": "virtual_107.6226_-6.9305",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -91,12 +108,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62045608571428,
-          -6.934387157142857
+          107.621966,
+          -6.932941433333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6205_-6.9344",
+        "id": "virtual_107.6220_-6.9329",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -108,12 +125,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61764932857143,
-          -6.931628214285714
+          107.6191727,
+          -6.9332024
         ]
       },
       "properties": {
-        "id": "virtual_107.6176_-6.9316",
+        "id": "virtual_107.6192_-6.9332",
+        "name": "Jalan Buah Batu",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61751273333333,
+          -6.931525166666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6175_-6.9315",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -125,12 +159,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6152014,
-          -6.932232642857143
+          107.6153874,
+          -6.931991666666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6152_-6.9322",
+        "id": "virtual_107.6154_-6.9320",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -142,12 +176,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61264541428572,
-          -6.934908657142857
+          107.6140869,
+          -6.9334648
         ]
       },
       "properties": {
-        "id": "virtual_107.6126_-6.9349",
+        "id": "virtual_107.6141_-6.9335",
+        "name": "Jalan Mochammad Ramdhan",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61094793333334,
+          -6.936333066666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6109_-6.9363",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -261,12 +312,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59594638,
-          -6.934543000000001
+          107.59579946666666,
+          -6.935079966666667
         ]
       },
       "properties": {
-        "id": "virtual_107.5959_-6.9345",
+        "id": "virtual_107.5958_-6.9351",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -278,12 +329,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59689274,
-          -6.93122866
+          107.59637405,
+          -6.93307405
         ]
       },
       "properties": {
-        "id": "virtual_107.5969_-6.9312",
+        "id": "virtual_107.5964_-6.9331",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -295,12 +346,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59811338,
-          -6.92716118
+          107.5972848,
+          -6.9300367666666665
         ]
       },
       "properties": {
-        "id": "virtual_107.5981_-6.9272",
+        "id": "virtual_107.5973_-6.9300",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59831566666666,
+          -6.926735833333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5983_-6.9267",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -363,13 +431,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59677789999999,
-          -6.921225566666667
+          107.5971845,
+          -6.9212738
         ]
       },
       "properties": {
-        "id": "virtual_107.5968_-6.9212",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5972_-6.9213",
+        "name": "Jalan Cibadak",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -380,13 +448,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59389623333333,
-          -6.920881366666667
+          107.5951881,
+          -6.9210346
         ]
       },
       "properties": {
-        "id": "virtual_107.5939_-6.9209",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5952_-6.9210",
+        "name": "Jalan Cibadak",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5927936,
+          -6.9207512
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5928_-6.9208",
+        "name": "Jalan Cibadak",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -499,12 +584,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.57905685,
-          -6.9178194
+          107.5794844,
+          -6.917875366666666
         ]
       },
       "properties": {
-        "id": "virtual_107.5791_-6.9178",
+        "id": "virtual_107.5795_-6.9179",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -567,13 +652,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5708773,
-          -6.9135594
+          107.57027113333334,
+          -6.912568733333333
         ]
       },
       "properties": {
-        "id": "virtual_107.5709_-6.9136",
-        "name": "Jalan Jendral Sudirman",
+        "id": "virtual_107.5703_-6.9126",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

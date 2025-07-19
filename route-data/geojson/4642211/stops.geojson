@@ -23,29 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.629388325,
-          -6.89192655
+          107.62975433999999,
+          -6.89192544
         ]
       },
       "properties": {
-        "id": "virtual_107.6294_-6.8919",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "isReal": false,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.631697925,
-          -6.892226924999999
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6317_-6.8922",
+        "id": "virtual_107.6298_-6.8919",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -74,12 +57,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.63458296666667,
-          -6.896721633333334
+          107.6348474,
+          -6.895743675
         ]
       },
       "properties": {
-        "id": "virtual_107.6346_-6.8967",
+        "id": "virtual_107.6348_-6.8957",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6340946,
+          -6.89808425
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6341_-6.8981",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -108,13 +108,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.63382483333334,
-          -6.9025712
+          107.6346604,
+          -6.9021409
         ]
       },
       "properties": {
-        "id": "virtual_107.6338_-6.9026",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6347_-6.9021",
+        "name": "Jalan Brigjend. Katamso",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -125,13 +125,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.63187243333333,
-          -6.904155766666666
+          107.6331455,
+          -6.9029229
         ]
       },
       "properties": {
-        "id": "virtual_107.6319_-6.9042",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6331_-6.9029",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6312587,
+          -6.905028
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6313_-6.9050",
+        "name": "Jalan Brigjend. Katamso",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -210,13 +227,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62081736666667,
-          -6.9068396666666665
+          107.6213811,
+          -6.9060399
         ]
       },
       "properties": {
-        "id": "virtual_107.6208_-6.9068",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6214_-6.9060",
+        "name": "Jalan Citarum",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6195763,
+          -6.9074244
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6196_-6.9074",
+        "name": "Jalan Lombok",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

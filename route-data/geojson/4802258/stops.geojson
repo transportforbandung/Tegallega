@@ -261,13 +261,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5970769,
-          -6.893622
+          107.59712816666666,
+          -6.894386366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.5971_-6.8936",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5971_-6.8944",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -414,13 +414,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60434495,
-          -6.8845569625
+          107.6042247,
+          -6.8844139
         ]
       },
       "properties": {
-        "id": "virtual_107.6043_-6.8846",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6042_-6.8844",
+        "name": "Jalan Dokter Setiabudi",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -431,13 +431,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.604521025,
-          -6.8824952249999996
+          107.6046532,
+          -6.8828161
         ]
       },
       "properties": {
-        "id": "virtual_107.6045_-6.8825",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6047_-6.8828",
+        "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -448,13 +448,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6036426,
-          -6.88012355
+          107.6038795,
+          -6.880847
         ]
       },
       "properties": {
-        "id": "virtual_107.6036_-6.8801",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6039_-6.8808",
+        "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -465,13 +465,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60416875,
-          -6.8765996000000005
+          107.6038662,
+          -6.877964
         ]
       },
       "properties": {
-        "id": "virtual_107.6042_-6.8766",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6039_-6.8780",
+        "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -482,13 +482,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60494051250001,
-          -6.87308835
+          107.6044647,
+          -6.8753147
         ]
       },
       "properties": {
-        "id": "virtual_107.6049_-6.8731",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6045_-6.8753",
+        "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -499,13 +499,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6059104,
-          -6.8682243
+          107.6051692,
+          -6.8721462
         ]
       },
       "properties": {
-        "id": "virtual_107.6059_-6.8682",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6052_-6.8721",
+        "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -516,13 +516,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60565505,
-          -6.865574125
+          107.6058819,
+          -6.8671331
         ]
       },
       "properties": {
-        "id": "virtual_107.6057_-6.8656",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6059_-6.8671",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6056136,
+          -6.8654712
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6056_-6.8655",
+        "name": "Jalan Ciumbuleuit",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

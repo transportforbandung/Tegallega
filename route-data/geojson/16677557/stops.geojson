@@ -23,12 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.596621525,
-          -6.8809182
+          107.59595922,
+          -6.88094458
         ]
       },
       "properties": {
-        "id": "virtual_107.5966_-6.8809",
+        "id": "virtual_107.5960_-6.8809",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -40,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5998936,
-          -6.88201125
+          107.59932296,
+          -6.88129042
         ]
       },
       "properties": {
-        "id": "virtual_107.5999_-6.8820",
+        "id": "virtual_107.5993_-6.8813",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,12 +57,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.601093075,
-          -6.88490975
+          107.6006937,
+          -6.88278858
         ]
       },
       "properties": {
-        "id": "virtual_107.6011_-6.8849",
+        "id": "virtual_107.6007_-6.8828",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6007725,
+          -6.88559592
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6008_-6.8856",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -91,12 +108,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5998262,
-          -6.890232366666667
+          107.600420525,
+          -6.8886826249999995
         ]
       },
       "properties": {
-        "id": "virtual_107.5998_-6.8902",
+        "id": "virtual_107.6004_-6.8887",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59939299999999,
+          -6.8915498500000005
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5994_-6.8915",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -295,12 +329,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60408495,
-          -6.91053895
+          107.6042332,
+          -6.909645366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6041_-6.9105",
+        "id": "virtual_107.6042_-6.9096",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -397,13 +431,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6022556,
-          -6.9173444
+          107.60203993333334,
+          -6.9161812
         ]
       },
       "properties": {
-        "id": "virtual_107.6023_-6.9173",
-        "name": "Jalan Dulatip",
+        "id": "virtual_107.6020_-6.9162",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60224956666667,
+          -6.918297333333333
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6022_-6.9183",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -431,13 +482,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5984649,
-          -6.921348333333333
+          107.5983525,
+          -6.9202632
         ]
       },
       "properties": {
-        "id": "virtual_107.5985_-6.9213",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5984_-6.9203",
+        "name": "Jalan Astana Anyar",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -448,13 +499,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59943923333334,
-          -6.925579566666666
+          107.598693,
+          -6.9233336
         ]
       },
       "properties": {
-        "id": "virtual_107.5994_-6.9256",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5987_-6.9233",
+        "name": "Jalan Astana Anyar",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599866,
+          -6.9267377
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5999_-6.9267",
+        "name": "Jalan Astana Anyar",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

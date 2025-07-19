@@ -159,12 +159,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6156472,
-          -6.948741233333333
+          107.6139137,
+          -6.9486193
         ]
       },
       "properties": {
-        "id": "virtual_107.6156_-6.9487",
+        "id": "virtual_107.6139_-6.9486",
+        "name": "Jalan Soekarno-Hatta",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61738955000001,
+          -6.9488638
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6174_-6.9489",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -244,13 +261,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.62992413333333,
-          -6.9490273333333334
+          107.6315445,
+          -6.948554
         ]
       },
       "properties": {
-        "id": "virtual_107.6299_-6.9490",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6315_-6.9486",
+        "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -261,13 +278,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6331689,
-          -6.948032133333333
+          107.6333973,
+          -6.9479551
         ]
       },
       "properties": {
-        "id": "virtual_107.6332_-6.9480",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6334_-6.9480",
+        "name": "Jalan Soekarno-Hatta",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,12 +414,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6424892,
-          -6.935199757142858
+          107.642472975,
+          -6.9354164375
         ]
       },
       "properties": {
-        "id": "virtual_107.6425_-6.9352",
+        "id": "virtual_107.6425_-6.9354",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -414,12 +431,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.64295355714286,
-          -6.932629328571428
+          107.642795,
+          -6.933424725
         ]
       },
       "properties": {
-        "id": "virtual_107.6430_-6.9326",
+        "id": "virtual_107.6428_-6.9334",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -431,12 +448,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.64393434285715,
-          -6.9297037
+          107.6438515125,
+          -6.9308589125
         ]
       },
       "properties": {
-        "id": "virtual_107.6439_-6.9297",
+        "id": "virtual_107.6439_-6.9309",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -448,12 +465,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.64423982857143,
-          -6.928210242857142
+          107.644121,
+          -6.928891
         ]
       },
       "properties": {
-        "id": "virtual_107.6442_-6.9282",
+        "id": "virtual_107.6441_-6.9289",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -465,8 +482,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.64438874285713,
-          -6.924303585714286
+          107.644323575,
+          -6.9273872
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6443_-6.9274",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64438576250001,
+          -6.92425125
         ]
       },
       "properties": {
@@ -508,6 +542,23 @@
         "name": "Daese Garmin",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6438819,
+          -6.9165842
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6439_-6.9166",
+        "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

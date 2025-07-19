@@ -91,12 +91,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6444992,
-          -6.9243614
+          107.644489,
+          -6.9241129
         ]
       },
       "properties": {
-        "id": "virtual_107.6445_-6.9244",
+        "id": "virtual_107.6445_-6.9241",
         "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "isReal": false,
@@ -176,13 +176,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.642604,
-          -6.9355201
+          107.642669,
+          -6.9347772
         ]
       },
       "properties": {
-        "id": "virtual_107.6426_-6.9355",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.6427_-6.9348",
+        "name": "Jalan H. Ibrahim Adjie",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6425277,
+          -6.9366887
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6425_-6.9367",
+        "name": "Jalan H. Ibrahim Adjie",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -227,12 +244,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.64047038,
-          -6.930752419999999
+          107.64250136666666,
+          -6.9350576833333335
         ]
       },
       "properties": {
-        "id": "virtual_107.6405_-6.9308",
+        "id": "virtual_107.6425_-6.9351",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -244,12 +261,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.63830478,
-          -6.92895882
+          107.6414056,
+          -6.9311364
         ]
       },
       "properties": {
-        "id": "virtual_107.6383_-6.9290",
+        "id": "virtual_107.6414_-6.9311",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6398635,
+          -6.9304011
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6399_-6.9304",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63779493333334,
+          -6.928606666666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6378_-6.9286",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -312,12 +363,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6230093,
-          -6.92328815
+          107.62346234285714,
+          -6.923510685714286
         ]
       },
       "properties": {
-        "id": "virtual_107.6230_-6.9233",
+        "id": "virtual_107.6235_-6.9235",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -329,29 +380,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6198642,
-          -6.923022
+          107.62000697142857,
+          -6.9228198857142855
         ]
       },
       "properties": {
-        "id": "virtual_107.6199_-6.9230",
-        "name": "Jalan Burangrang",
-        "role": "virtual",
-        "isReal": false,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.6196664,
-          -6.9258058
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6197_-6.9258",
+        "id": "virtual_107.6200_-6.9228",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -363,13 +397,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6185666,
-          -6.9282149
+          107.6194709,
+          -6.927555157142857
         ]
       },
       "properties": {
-        "id": "virtual_107.6186_-6.9282",
-        "name": "Jalan Sadakeling",
+        "id": "virtual_107.6195_-6.9276",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -380,12 +414,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61487765000001,
-          -6.92800795
+          107.61740785714287,
+          -6.928749328571429
         ]
       },
       "properties": {
-        "id": "virtual_107.6149_-6.9280",
+        "id": "virtual_107.6174_-6.9287",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61419964285714,
+          -6.9277017857142855
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6142_-6.9277",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,

@@ -346,13 +346,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5866215,
-          -6.9071283
+          107.5837868,
+          -6.907559714285714
         ]
       },
       "properties": {
-        "id": "virtual_107.5866_-6.9071",
-        "name": "Jalan Abdul Rahman Saleh",
+        "id": "virtual_107.5838_-6.9076",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -363,13 +363,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5821405,
-          -6.9077081
+          107.57981542857144,
+          -6.907404271428571
         ]
       },
       "properties": {
-        "id": "virtual_107.5821_-6.9077",
-        "name": "Jalan Abdul Rahman Saleh",
+        "id": "virtual_107.5798_-6.9074",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -380,13 +380,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5791651,
-          -6.907794
+          107.5776142,
+          -6.911655671428571
         ]
       },
       "properties": {
-        "id": "virtual_107.5792_-6.9078",
-        "name": "Jalan Abdul Rahman Saleh",
+        "id": "virtual_107.5776_-6.9117",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,30 +397,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5780214,
-          -6.9117553
+          107.57313177142858,
+          -6.911517471428572
         ]
       },
       "properties": {
-        "id": "virtual_107.5780_-6.9118",
-        "name": "Jalan Garuda",
-        "role": "virtual",
-        "isReal": false,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.5733582,
-          -6.9109366
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.5734_-6.9109",
-        "name": "Jalan Kasuari",
+        "id": "virtual_107.5731_-6.9115",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

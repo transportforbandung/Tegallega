@@ -23,12 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59484690000001,
-          -6.8611536
+          107.59468425,
+          -6.8607299500000005
         ]
       },
       "properties": {
-        "id": "virtual_107.5948_-6.8612",
+        "id": "virtual_107.5947_-6.8607",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -40,12 +40,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59575023333333,
-          -6.863143666666667
+          107.5960769,
+          -6.8621091
         ]
       },
       "properties": {
-        "id": "virtual_107.5958_-6.8631",
+        "id": "virtual_107.5961_-6.8621",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59457635000001,
+          -6.8635158999999994
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5946_-6.8635",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -142,13 +159,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5975398,
-          -6.8764616
+          107.59744309999999,
+          -6.876199740000001
         ]
       },
       "properties": {
-        "id": "virtual_107.5975_-6.8765",
-        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "id": "virtual_107.5974_-6.8762",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -159,13 +176,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5981885,
-          -6.8791416
+          107.5975866,
+          -6.87768318
         ]
       },
       "properties": {
-        "id": "virtual_107.5982_-6.8791",
-        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "id": "virtual_107.5976_-6.8777",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -176,13 +193,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5994716,
-          -6.8814891
+          107.59864854,
+          -6.88009224
         ]
       },
       "properties": {
-        "id": "virtual_107.5995_-6.8815",
-        "name": "Jalan Dokter Danudirja Setiabudhi",
+        "id": "virtual_107.5986_-6.8801",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60010634,
+          -6.88224272
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6001_-6.8822",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -244,12 +278,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6079766,
-          -6.8846017
+          107.6073923,
+          -6.8846118
         ]
       },
       "properties": {
-        "id": "virtual_107.6080_-6.8846",
+        "id": "virtual_107.6074_-6.8846",
         "name": "Jalan Siliwangi",
         "role": "virtual",
         "isReal": false,
@@ -261,12 +295,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6113446,
-          -6.8848052
+          107.608953,
+          -6.8848337
         ]
       },
       "properties": {
-        "id": "virtual_107.6113_-6.8848",
+        "id": "virtual_107.6090_-6.8848",
         "name": "Jalan Siliwangi",
         "role": "virtual",
         "isReal": false,
@@ -431,12 +465,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.613028925,
-          -6.9003983
+          107.612681,
+          -6.90027958
         ]
       },
       "properties": {
-        "id": "virtual_107.6130_-6.9004",
+        "id": "virtual_107.6127_-6.9003",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -448,29 +482,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61524019999999,
-          -6.9007777
+          107.6164184,
+          -6.90135508
         ]
       },
       "properties": {
-        "id": "virtual_107.6152_-6.9008",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "isReal": false,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.61808015,
-          -6.9012913
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6181_-6.9013",
+        "id": "virtual_107.6164_-6.9014",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -533,13 +550,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6261054,
-          -6.901032
+          107.6263592,
+          -6.9011544
         ]
       },
       "properties": {
-        "id": "virtual_107.6261_-6.9010",
-        "name": "Jalan Diponegoro",
+        "id": "virtual_107.6264_-6.9012",
+        "name": "Jalan Supratman",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -601,12 +618,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6329526,
-          -6.9030314
+          107.6321582,
+          -6.903793
         ]
       },
       "properties": {
-        "id": "virtual_107.6330_-6.9030",
+        "id": "virtual_107.6322_-6.9038",
         "name": "Jalan Brigjend. Katamso",
         "role": "virtual",
         "isReal": false,
@@ -618,12 +635,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6346604,
-          -6.9021409
+          107.6334718,
+          -6.902753
         ]
       },
       "properties": {
-        "id": "virtual_107.6347_-6.9021",
+        "id": "virtual_107.6335_-6.9028",
+        "name": "Jalan Brigjend. Katamso",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6350549,
+          -6.9019378
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6351_-6.9019",
         "name": "Jalan Brigjend. Katamso",
         "role": "virtual",
         "isReal": false,

@@ -108,13 +108,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6138049,
-          -6.9275287
+          107.6162558,
+          -6.9286137
         ]
       },
       "properties": {
-        "id": "virtual_107.6138_-6.9275",
-        "name": "Jalan Cikawao",
+        "id": "virtual_107.6163_-6.9286",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -125,13 +125,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61707,
-          -6.9301863
+          107.617250025,
+          -6.930826
         ]
       },
       "properties": {
-        "id": "virtual_107.6171_-6.9302",
-        "name": "Jalan Sadakeling",
+        "id": "virtual_107.6173_-6.9308",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -389,23 +389,6 @@
         "name": "Pasar Kordon B",
         "role": "stop",
         "isReal": true,
-        "mode": "bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.639393,
-          -6.95627625
-        ]
-      },
-      "properties": {
-        "id": "virtual_107.6394_-6.9563",
-        "name": "Jalan terdekat",
-        "role": "virtual",
-        "isReal": false,
         "mode": "bus"
       }
     },

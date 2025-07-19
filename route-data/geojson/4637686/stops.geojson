@@ -23,13 +23,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5871781,
-          -6.91341
+          107.586606,
+          -6.9130812
         ]
       },
       "properties": {
-        "id": "virtual_107.5872_-6.9134",
-        "name": "Jalan Layang Ciroyom",
+        "id": "virtual_107.5866_-6.9131",
+        "name": "Jalan Ciroyom",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -40,13 +40,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5893783,
-          -6.9112937
+          107.5885406,
+          -6.9088993
         ]
       },
       "properties": {
-        "id": "virtual_107.5894_-6.9113",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5885_-6.9089",
+        "name": "Jalan Aruna",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -210,13 +210,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5977466,
-          -6.896398633333334
+          107.5984316,
+          -6.8951102
         ]
       },
       "properties": {
-        "id": "virtual_107.5977_-6.8964",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5984_-6.8951",
+        "name": "Jalan Sederhana",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -227,13 +227,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.598921,
-          -6.893417366666667
+          107.5990518,
+          -6.8929922
         ]
       },
       "properties": {
-        "id": "virtual_107.5989_-6.8934",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5991_-6.8930",
+        "name": "Jalan Sederhana",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -261,13 +261,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5982945,
-          -6.8892233
+          107.59882920000001,
+          -6.88958765
         ]
       },
       "properties": {
-        "id": "virtual_107.5983_-6.8892",
-        "name": "Jalan Sukamaju",
+        "id": "virtual_107.5988_-6.8896",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -278,13 +278,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5967016,
-          -6.8867916
+          107.5969067,
+          -6.88784845
         ]
       },
       "properties": {
-        "id": "virtual_107.5967_-6.8868",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5969_-6.8878",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5964082,
+          -6.885914975
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.8859",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -397,12 +414,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.608025125,
-          -6.8846326
+          107.60775268,
+          -6.8845801
         ]
       },
       "properties": {
-        "id": "virtual_107.6080_-6.8846",
+        "id": "virtual_107.6078_-6.8846",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -414,12 +431,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.61150215,
-          -6.88487945
+          107.609888,
+          -6.88452
         ]
       },
       "properties": {
-        "id": "virtual_107.6115_-6.8849",
+        "id": "virtual_107.6099_-6.8845",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -431,12 +448,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.613616,
-          -6.88520215
+          107.6126288,
+          -6.8850902199999995
         ]
       },
       "properties": {
-        "id": "virtual_107.6136_-6.8852",
+        "id": "virtual_107.6126_-6.8851",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -550,13 +567,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6189625,
-          -6.8992907
+          107.6183907,
+          -6.8983823
         ]
       },
       "properties": {
-        "id": "virtual_107.6190_-6.8993",
-        "name": "Jalan Surapati",
+        "id": "virtual_107.6184_-6.8984",
+        "name": "Jalan Wirayuda Barat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"

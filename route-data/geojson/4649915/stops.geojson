@@ -91,12 +91,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.57205463333334,
-          -6.890264416666667
+          107.57180927499999,
+          -6.8901089125
         ]
       },
       "properties": {
-        "id": "virtual_107.5721_-6.8903",
+        "id": "virtual_107.5718_-6.8901",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -108,12 +108,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.57260293333334,
-          -6.8933738
+          107.57230035,
+          -6.891381900000001
         ]
       },
       "properties": {
-        "id": "virtual_107.5726_-6.8934",
+        "id": "virtual_107.5723_-6.8914",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5726608875,
+          -6.8936118625
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5727_-6.8936",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -142,12 +159,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5765446,
-          -6.8911574
+          107.57606495,
+          -6.8910942
         ]
       },
       "properties": {
-        "id": "virtual_107.5765_-6.8912",
+        "id": "virtual_107.5761_-6.8911",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -159,12 +176,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.58050991666667,
-          -6.892304866666667
+          107.5789569,
+          -6.89159665
         ]
       },
       "properties": {
-        "id": "virtual_107.5805_-6.8923",
+        "id": "virtual_107.5790_-6.8916",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58090910000001,
+          -6.8923710375
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5809_-6.8924",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -227,12 +261,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.58859066000001,
-          -6.89319622
+          107.5881679,
+          -6.89319105
         ]
       },
       "properties": {
-        "id": "virtual_107.5886_-6.8932",
+        "id": "virtual_107.5882_-6.8932",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -244,12 +278,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59035852,
-          -6.89267942
+          107.5900039,
+          -6.8932226
         ]
       },
       "properties": {
-        "id": "virtual_107.5904_-6.8927",
+        "id": "virtual_107.5900_-6.8932",
+        "name": "Jalan Sukagalih",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5917709,
+          -6.8923188
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5918_-6.8923",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -261,13 +312,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.59368334,
-          -6.8925452
+          107.5940877,
+          -6.8924489
         ]
       },
       "properties": {
-        "id": "virtual_107.5937_-6.8925",
-        "name": "Jalan terdekat",
+        "id": "virtual_107.5941_-6.8924",
+        "name": "Jalan Sukagalih",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -363,12 +414,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5998938,
-          -6.8841712
+          107.5988236,
+          -6.8843926
         ]
       },
       "properties": {
-        "id": "virtual_107.5999_-6.8842",
+        "id": "virtual_107.5988_-6.8844",
+        "name": "Jalan Cemara",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600903,
+          -6.8844414
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6009_-6.8844",
         "name": "Jalan Cemara",
         "role": "virtual",
         "isReal": false,

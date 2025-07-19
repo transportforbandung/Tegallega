@@ -380,13 +380,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5970769,
-          -6.893622
+          107.59712816666666,
+          -6.894386366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.5971_-6.8936",
-        "name": "Jalan Sukajadi",
+        "id": "virtual_107.5971_-6.8944",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -474,6 +474,23 @@
         "name": "Mandiri Sukajadi",
         "role": "stop",
         "isReal": true,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59641566666666,
+          -6.881218766666667
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5964_-6.8812",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
         "mode": "bus"
       }
     },

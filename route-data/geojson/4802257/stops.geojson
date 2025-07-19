@@ -23,12 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6039425,
-          -6.87761334
+          107.60401726666666,
+          -6.877296633333334
         ]
       },
       "properties": {
-        "id": "virtual_107.6039_-6.8776",
+        "id": "virtual_107.6040_-6.8773",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -40,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60381665999999,
-          -6.88065532
+          107.6035366,
+          -6.879783033333333
         ]
       },
       "properties": {
-        "id": "virtual_107.6038_-6.8807",
+        "id": "virtual_107.6035_-6.8798",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -57,12 +57,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60435108,
-          -6.88215864
+          107.6040358,
+          -6.8813221
         ]
       },
       "properties": {
-        "id": "virtual_107.6044_-6.8822",
+        "id": "virtual_107.6040_-6.8813",
+        "name": "Jalan Ciumbuleuit",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60468326666667,
+          -6.882776866666666
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.6047_-6.8828",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -74,12 +91,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60483599999999,
-          -6.88366862
+          107.60466806666666,
+          -6.8843885333333334
         ]
       },
       "properties": {
-        "id": "virtual_107.6048_-6.8837",
+        "id": "virtual_107.6047_-6.8844",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -312,12 +329,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60408495,
-          -6.91053895
+          107.6042332,
+          -6.909645366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6041_-6.9105",
+        "id": "virtual_107.6042_-6.9096",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,

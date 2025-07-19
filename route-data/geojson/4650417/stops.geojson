@@ -91,12 +91,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5814407,
-          -6.885752350000001
+          107.5814508,
+          -6.88537202
         ]
       },
       "properties": {
-        "id": "virtual_107.5814_-6.8858",
+        "id": "virtual_107.5815_-6.8854",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -108,13 +108,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5814622,
-          -6.8889233
+          107.58138266,
+          -6.88776284
         ]
       },
       "properties": {
-        "id": "virtual_107.5815_-6.8889",
-        "name": "Jalan Surya Sumantri",
+        "id": "virtual_107.5814_-6.8878",
+        "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
         "mode": "bus"
@@ -125,12 +125,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.58147075,
-          -6.8911853
+          107.58149894,
+          -6.88934824
         ]
       },
       "properties": {
-        "id": "virtual_107.5815_-6.8912",
+        "id": "virtual_107.5815_-6.8893",
+        "name": "Jalan terdekat",
+        "role": "virtual",
+        "isReal": false,
+        "mode": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58143606,
+          -6.8917218
+        ]
+      },
+      "properties": {
+        "id": "virtual_107.5814_-6.8917",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
@@ -397,12 +414,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.60408495,
-          -6.91053895
+          107.6042332,
+          -6.909645366666667
         ]
       },
       "properties": {
-        "id": "virtual_107.6041_-6.9105",
+        "id": "virtual_107.6042_-6.9096",
         "name": "Jalan terdekat",
         "role": "virtual",
         "isReal": false,
