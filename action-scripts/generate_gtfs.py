@@ -185,19 +185,26 @@ def process_shapes(routes):
     
     return shapes
 
-def seconds_to_time_str(total_seconds):
-    """Convert seconds to HH:MM:SS format, allowing HH>=24 for next day"""
-    # Round to nearest second before conversion
-    total_seconds = round(total_seconds)
-    hours = total_seconds // 3600
-    minutes = (total_seconds % 3600) // 60
-    seconds = total_seconds % 60
-    return f"{int(hours):02d}:{int(minutes):02d}:{int(seconds):02d}"
-
-def generate_trips(routes):
+def generate_trips(routes, shapes):
     """Generate trips and stop times with block_id support"""
     trips = []
     stop_times = []
+    
+    # Precompute shape dictionary for quick lookup
+    shapes_dict = {}
+    for shape in shapes:
+        shape_id = shape['shape_id']
+        if shape_id not in shapes_dict:
+            shapes_dict[shape_id] = []
+        shapes_dict[shape_id].append({
+            'lon': shape['shape_pt_lon'],
+            'lat': shape['shape_pt_lat'],
+            'dist': shape['shape_dist_traveled']
+        })
+    
+    # Sort each shape's points by distance
+    for shape_id in shapes_dict:
+        shapes_dict[shape_id].sort(key=lambda pt: pt['dist'])
     
     # Track trip counts per direction per group (for bus only)
     group_direction_counts = defaultdict(lambda: defaultdict(int))
@@ -338,6 +345,24 @@ def generate_trips(routes):
                     'lat': coords[1]
                 })
             
+            # Project stops onto the route shape and sort
+            shape_id = route.get('shape_id')
+            if shape_id and shape_id in shapes_dict:
+                shape_points = shapes_dict[shape_id]
+                for stop in stops:
+                    min_dist = float('inf')
+                    closest_dist = 0
+                    # Find closest point on shape
+                    for pt in shape_points:
+                        d = haversine(stop['lon'], stop['lat'], pt['lon'], pt['lat'])
+                        if d < min_dist:
+                            min_dist = d
+                            closest_dist = pt['dist']
+                    stop['shape_dist'] = closest_dist  # Temporary storage
+                
+                # Sort stops by distance along shape
+                stops.sort(key=lambda s: s['shape_dist'])
+            
             # Precompute segment times between stops
             segment_times = [0]  # Start with 0 for first stop
             for i in range(1, len(stops)):
@@ -451,7 +476,7 @@ def main():
     agencies, route_groups, routes = process_routes()
     stops = process_stops(routes)
     shapes = process_shapes(routes)
-    trips, stop_times = generate_trips(routes)
+    trips, stop_times = generate_trips(routes, shapes)  # Pass shapes to generate_trips
     
     # Generate GTFS files
     write_gtfs(agencies, 'agency.txt', 
@@ -490,4 +515,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
