@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6044529,
-          -6.9075468
+          107.6044661,
+          -6.9077123
         ]
       },
       "properties": {
@@ -261,8 +261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024135,
-          -6.9161558
+          107.6024001,
+          -6.9161478
         ]
       },
       "properties": {
@@ -270,10 +270,8 @@
         "role": "stop_exit_only",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "highway": "bus_stop",
         "name": "Stasiun Hall",
-        "public_transport": "stop_position",
-        "ref": "Stasiun Hall/Kebon Jati"
+        "public_transport": "stop_position"
       }
     }
   ]

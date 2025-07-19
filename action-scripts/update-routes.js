@@ -4,6 +4,7 @@ const path = require('path');
 const axios = require('axios');
 const { mkdirp } = require('mkdirp');
 
+// Load route data from routes.json
 function loadRouteData() {
   const routesPath = path.join(__dirname, '..', 'routes.json');
 
@@ -17,7 +18,7 @@ function loadRouteData() {
           relationId: route.relationId.toString(),
           name: route.name,
           directionId: route.directionId,
-          mode: category.mode // Capture mode here
+          mode: category.mode
         }))
       )
     );
@@ -43,6 +44,7 @@ function loadRouteData() {
 const uniqueRoutes = loadRouteData();
 console.log(`Loaded ${uniqueRoutes.length} valid routes`);
 
+// Query Overpass API
 async function overpassQuery(query, retries = 3, delay = 2000) {
   const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
 
@@ -63,6 +65,7 @@ async function overpassQuery(query, retries = 3, delay = 2000) {
   }
 }
 
+// Get relation details from Overpass
 async function getRelationDetails(relationId) {
   const query = `[out:json];relation(${relationId});out body;`;
   const elements = await overpassQuery(query);
@@ -73,6 +76,7 @@ async function getRelationDetails(relationId) {
   return relation;
 }
 
+// Get ordered ways for a relation
 async function getOrderedWays(relation) {
   const wayMembers = relation.members
     .filter(member => member.type === 'way')
@@ -98,10 +102,12 @@ async function getOrderedWays(relation) {
   }).filter(Boolean);
 }
 
+// Check if coordinates are equal within tolerance
 function areCoordsEqual(a, b, tolerance = 1e-6) {
   return Math.abs(a[0] - b[0]) < tolerance && Math.abs(a[1] - b[1]) < tolerance;
 }
 
+// Stitch ways together into continuous linestring
 function stitchWays(ways) {
   const stitched = [];
   let lastCoord = null;
@@ -134,6 +140,7 @@ function stitchWays(ways) {
   return stitched;
 }
 
+// Process ordered ways into GeoJSON feature
 function processOrderedWays(ways) {
   const coordinates = stitchWays(ways);
   return {
@@ -148,6 +155,7 @@ function processOrderedWays(ways) {
   };
 }
 
+// Get ordered stops from relation
 async function getOrderedStops(relation) {
   const stopMembers = relation.members
     .filter(member =>
@@ -176,6 +184,169 @@ async function getOrderedStops(relation) {
   }).filter(Boolean);
 }
 
+// Calculate distance between coordinates using Haversine formula
+function haversineDistance(coord1, coord2) {
+  const [lon1, lat1] = coord1;
+  const [lon2, lat2] = coord2;
+  const R = 6371e3; // Earth radius in meters
+  const φ1 = lat1 * Math.PI / 180;
+  const φ2 = lat2 * Math.PI / 180;
+  const Δφ = (lat2 - lat1) * Math.PI / 180;
+  const Δλ = (lon2 - lon1) * Math.PI / 180;
+
+  const a = Math.sin(Δφ / 2) * Math.sin(Δφ / 2) +
+            Math.cos(φ1) * Math.cos(φ2) *
+            Math.sin(Δλ / 2) * Math.sin(Δλ / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+  return R * c;
+}
+
+// Project point onto linestring to get fractional index
+function projectPointToLineString(point, line) {
+  let minDist = Infinity;
+  let minIndex = -1;
+  let minT = 0;
+
+  for (let i = 0; i < line.length - 1; i++) {
+    const p1 = line[i];
+    const p2 = line[i + 1];
+    
+    const dx = p2[0] - p1[0];
+    const dy = p2[1] - p1[1];
+    const lenSq = dx * dx + dy * dy;
+
+    if (lenSq === 0) {
+      const dist = haversineDistance(point, p1);
+      if (dist < minDist) {
+        minDist = dist;
+        minIndex = i;
+        minT = 0;
+      }
+      continue;
+    }
+
+    let t = ((point[0] - p1[0]) * dx + (point[1] - p1[1]) * dy) / lenSq;
+    t = Math.max(0, Math.min(1, t));
+
+    const proj = [p1[0] + t * dx, p1[1] + t * dy];
+    const dist = haversineDistance(point, proj);
+
+    if (dist < minDist) {
+      minDist = dist;
+      minIndex = i;
+      minT = t;
+    }
+  }
+
+  return {
+    fractionalIndex: minIndex + minT,
+    distance: minDist
+  };
+}
+
+// Process angkot stops with real and virtual stops
+async function processAngkotStops(relation, fullCoords) {
+  // Precompute coordinate-to-name mapping
+  const coordToName = new Map();
+  const ways = await getOrderedWays(relation);
+  for (const way of ways) {
+    const name = way.tags?.name || 'Jalan terdekat';
+    for (const coord of way.geometry) {
+      const key = `${coord.lon},${coord.lat}`;
+      if (!coordToName.has(key)) {
+        coordToName.set(key, name);
+      }
+    }
+  }
+
+  // 1. Get real stops
+  const realStopNodes = await getOrderedStops(relation);
+  const realStops = realStopNodes.map(node => ({
+    type: 'real',
+    coordinate: [node.lon, node.lat],
+    name: node.tags?.name || 'Unknown',
+    id: node.id,
+    role: node.role,
+    isReal: true
+  }));
+
+  // 2. Generate virtual stops (without odd coordinate filter)
+  const virtualStops = [];
+  for (let i = 0; i < fullCoords.length; i++) {
+    const [lon, lat] = fullCoords[i];
+    const key = `${lon},${lat}`;
+    virtualStops.push({
+      type: 'virtual',
+      coordinate: fullCoords[i],
+      name: coordToName.get(key) || 'Jalan terdekat',
+      fractionalIndex: i,
+      isReal: false
+    });
+  }
+
+  // 3. Project real stops onto the linestring
+  const projectedRealStops = realStops.map(stop => {
+    const projection = projectPointToLineString(stop.coordinate, fullCoords);
+    return {
+      ...stop,
+      fractionalIndex: projection.fractionalIndex,
+      distance: projection.distance
+    };
+  });
+
+  // 4. Combine and sort all stops
+  const allStops = [
+    ...projectedRealStops,
+    ...virtualStops
+  ].sort((a, b) => a.fractionalIndex - b.fractionalIndex);
+
+  // 5a. Remove virtual stops within 250m of real stops
+  const bufferDistance = 250; // meters
+  const stopsAfterRealBuffer = [];
+  const realStopCoords = new Set(
+    projectedRealStops.map(s => s.coordinate.join(','))
+  );
+
+  for (const stop of allStops) {
+    if (stop.type === 'virtual') {
+      let nearRealStop = false;
+      
+      for (const realStop of projectedRealStops) {
+        if (haversineDistance(stop.coordinate, realStop.coordinate) < bufferDistance) {
+          nearRealStop = true;
+          break;
+        }
+      }
+      
+      if (!nearRealStop) {
+        stopsAfterRealBuffer.push(stop);
+      }
+    } else {
+      stopsAfterRealBuffer.push(stop);
+    }
+  }
+
+  // 5b. Ensure minimum 250m spacing between virtual stops
+  const finalStops = [];
+  let lastStop = null;
+
+  for (const stop of stopsAfterRealBuffer) {
+    if (stop.isReal) {
+      finalStops.push(stop);
+      lastStop = stop;
+    } else {
+      if (!lastStop || haversineDistance(lastStop.coordinate, stop.coordinate) >= bufferDistance) {
+        finalStops.push(stop);
+        lastStop = stop;
+      }
+    }
+  }
+
+  return finalStops;
+}
+
+// Main route processing function
 async function processRoute(route) {
   const { relationId, mode } = route;
   const dir = path.join(__dirname, '..', 'route-data', 'geojson', relationId);
@@ -186,7 +357,19 @@ async function processRoute(route) {
 
     const relation = await getRelationDetails(relationId);
     const ways = await getOrderedWays(relation);
-    const wayFeature = processOrderedWays(ways);
+    const fullCoords = stitchWays(ways);
+    
+    const wayFeature = {
+      type: 'Feature',
+      geometry: {
+        type: 'LineString',
+        coordinates: fullCoords
+      },
+      properties: {
+        id: ways[0]?.id
+      }
+    };
+
     const waysGeoJSON = {
       type: 'FeatureCollection',
       features: [wayFeature]
@@ -200,53 +383,29 @@ async function processRoute(route) {
     let stopsGeoJSON;
 
     if (mode === 'angkot') {
-      console.log(`Generating virtual stops for angkot route ${relationId}`);
-
-      const coordSet = new Set();
-      const coordToName = new Map();
-
-      // Build coordinate list with road names from ways
-      for (const way of ways) {
-        const coords = way.geometry.map(c => [c.lon, c.lat]);
-        const name = way.tags?.name || 'Jalan terdekat';
-
-        for (const coord of coords) {
-          const key = coord.join(',');
-          if (!coordSet.has(key)) {
-            coordSet.add(key);
-            coordToName.set(key, name);
-          }
-        }
-      }
-
-      const virtualStops = Array.from(coordSet).map((key, index) => {
-        const [lon, lat] = key.split(',').map(Number);
-        const roundedLon = lon.toFixed(4);
-        const roundedLat = lat.toFixed(4);
-
-        return {
+      console.log(`Processing angkot route ${relationId} with real + virtual stops`);
+      
+      const finalStops = await processAngkotStops(relation, fullCoords);
+      
+      stopsGeoJSON = {
+        type: 'FeatureCollection',
+        features: finalStops.map(stop => ({
           type: 'Feature',
           geometry: {
             type: 'Point',
-            coordinates: [lon, lat]
+            coordinates: stop.coordinate
           },
           properties: {
-            id: `virtual_${roundedLon}_${roundedLat}`,
-            name: coordToName.get(key),
-            role: 'virtual',
+            id: stop.isReal 
+                 ? stop.id.toString() 
+                 : `v_${stop.coordinate[0].toFixed(6)}_${stop.coordinate[1].toFixed(6)}`,
+            name: stop.name,
+            role: stop.isReal ? stop.role : 'virtual',
             mode: 'bus'
           }
-        };
-      });
-
-      stopsGeoJSON = {
-        type: 'FeatureCollection',
-        features: virtualStops
+        }))
       };
-    }
-
-    else {
-      // Fetch regular stop nodes
+    } else {
       const stopNodes = await getOrderedStops(relation);
       stopsGeoJSON = {
         type: 'FeatureCollection',
@@ -277,6 +436,7 @@ async function processRoute(route) {
   }
 }
 
+// Main execution
 (async () => {
   try {
     for (const route of uniqueRoutes) {

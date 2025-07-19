@@ -159,6 +159,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6290686,
+          -6.9133503
+        ]
+      },
+      "properties": {
+        "id": 12947493617,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Seberang Hotel Grand Tebu",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6265596,
           -6.9105422
         ]
@@ -176,6 +193,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          107.6256861,
+          -6.9097089
+        ]
+      },
+      "properties": {
+        "id": 12947493616,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Riau Aceh",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           107.6252606,
           -6.9092859
         ]
@@ -185,6 +219,23 @@
         "role": "stop",
         "bus": "yes",
         "name": "bjb Riau",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624592,
+          -6.9086974
+        ]
+      },
+      "properties": {
+        "id": 12947493614,
+        "role": "stop",
+        "bus": "yes",
+        "name": "HKBP Riau",
         "public_transport": "stop_position"
       }
     },
@@ -219,6 +270,40 @@
         "role": "stop",
         "bus": "yes",
         "name": "Pengadilan Negeri Bandung",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6207244,
+          -6.9058792
+        ]
+      },
+      "properties": {
+        "id": 12947493613,
+        "role": "stop",
+        "bus": "yes",
+        "name": "De Pavilijoen",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6183784,
+          -6.9060981
+        ]
+      },
+      "properties": {
+        "id": 12947493612,
+        "role": "stop",
+        "bus": "yes",
+        "name": "Sekolah Taruna Bakti",
         "public_transport": "stop_position"
       }
     },
@@ -434,8 +519,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.5983081,
-          -6.9194322
+          107.5983096,
+          -6.9194582
         ]
       },
       "properties": {
@@ -485,8 +570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.6024135,
-          -6.9161558
+          107.6024001,
+          -6.9161478
         ]
       },
       "properties": {
@@ -494,10 +579,8 @@
         "role": "stop_exit_only",
         "alt_name": "Stasiun Bandung Pintu Selatan",
         "bus": "yes",
-        "highway": "bus_stop",
         "name": "Stasiun Hall",
-        "public_transport": "stop_position",
-        "ref": "Stasiun Hall/Kebon Jati"
+        "public_transport": "stop_position"
       }
     }
   ]
