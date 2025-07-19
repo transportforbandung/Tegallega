@@ -279,8 +279,8 @@ async function processAngkotStops(relation, fullCoords) {
 
   // 2. Generate virtual stops only between real stops
   const virtualStops = [];
-  const MAX_DISTANCE = 1.0; // Maximum distance between stops in km
-  const MIN_DISTANCE = 0.25; // Minimum distance between stops in km
+  const MAX_DISTANCE = 0.3; // Maximum distance between stops in km
+  const MIN_DISTANCE = 0.15; // Minimum distance between stops in km
   
   // Function to generate virtual stops between two real stops
   const generateBetweenStops = (start, end) => {
